@@ -1,0 +1,99 @@
+---
+layout: post
+    
+title: betonēšanas tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311239
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  betonēšanas tehniķis veic betona un dzelzsbetona (turpmāk – betona) konstrukciju izgatavošanu (t.sk. izveido pamatni, izgatavo veidņu konstrukcijas un stiegrojumu, ievieto būvizstrādājumus un detaļas, veic konstrukciju betonēšanu, betona virsmas apstrādi, betona kopšanu cietēšanas laikā, konstrukciju atveidņošanu) ēku, autoceļu, dzelzceļu un hidrotehnisko būvju būvniecības darbos vai izgatavo betona būvizstrādājumus uzņēmuma ražotnē; būvdarbu vadītāja vai uzņēmuma struktūrvienības vadītāja vadībā plāno, organizē un uzrauga betonētāju darbu.     Betonēšanas tehniķis strādā būvuzņēmumos, būvizstrādājumu ražošanas uzņēmumos vai citos uzņēmumos, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja izprast un piemērot normatīvo aktu prasības būvniecībā un betonēšanas darbu izpildē.
+* Spēja lasīt un izprast būvprojektus un konstrukciju elementu rasējumus.
+* Spēja pārzināt būvdarbu un betonēšanas darbu tehnoloģiju atbilstoši ilgtspējīgas būvniecības principiem.
+* Spēja pārzināt darbu organizēšanas kalendāra plānu un tīkla grafiku, sastādīt operatīvo darbu izpildes grafiku.
+* Spēja noteikt nepieciešamo darbaspēka patēriņu un kvalifikāciju.
+* Spēja noteikt betonēšanas darbiem nepieciešamo būvizstrādājumu daudzumu, izvēlēties atbilstošu aprīkojumu un darba instrumentus.
+* Spēja iekārtot parocīgu un drošu darba vietu un lietot betonēšanas darbiem nepieciešamo aprīkojumu.
+* Spēja organizēt, vadīt un veikt betonēšanas darbiem nepieciešamo būvizstrādājumu pārvietošanu.
+* Spēja izprast būvkonstrukciju savstarpējo mijiedarbību un savienot dažādas būvkonstrukcijas.
+* Spēja novērtēt betonēšanas darbos izmantojamo būvizstrādājumu kvalitāti un atbilstību būvprojekta specifikācijas parametriem.
+* Spēja organizēt, vadīt un veikt betonēšanas darbus (pamatnes izveidošanu, veidņu konstrukciju izgatavošanu, stiegrojuma izgatavošanu, būvizstrādājumu un detaļu ievietošanu, konstrukciju betonēšanu, betona virsmas apstrādi, betona kopšanu cietēšanas laikā, konstrukciju atveidņošanu).
+* Spēja izprast citu būvdarbu veidu tehnoloģiju un specifiku.
+* Spēja lasīt veidņu detalizācijas rasējumus un lietot slodžu tabulas.
+* Spēja lietot drošus darba paņēmienus betonēšanas darbu izpildē.
+* Spēja uzmērīt izpildītos betonēšanas darbus.
+* Spēja lietot ģeodēziskās un citas mērīšanas ierīces un instrumentus betonēšanas darbu kvalitātes novērtēšanai.
+* Spēja lietot segto betonēšanas darbu dokumentēšanas principus.
+* Spēja novērtēt izpildīto betonēšanas darbu kvalitāti, novērtēt pieļauto neatbilstību sekas izpildītajos betonēšanas darbos un panākt izpildīto betonēšanas darbu neatbilstību novēršanu.
+* Spēja identificēt bīstamos būvniecības atkritumus būvlaukumā un ražotnē, kā arī spēja organizēt to savākšanu.
+* Spēja pārvaldīt vides aizsardzības paņēmienus būvlaukumā un ražotnē.
+* Spēja izprast darba aizsardzības principus un pārvaldīt vides aizsardzības paņēmienus, realizēt darba aizsardzības normatīvo aktu prasības atbilstoši darba aizsardzības plānam.
+* Spēja novērtēt negadījumu bīstamību un iespējamās sekas, rīkoties nestandarta situācijās, spēja sniegt pirmo palīdzību.
+* Spēja lietot individuālos un kolektīvos darba aizsardzības līdzekļus.
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus saskarsmē ar betonētājiem un būvdarbu vadītāju vai ražotnes struktūrvienības vadītāju.
+* Spēja ievērot darba tiesisko attiecību normas, komunicēt ar betonēšanas darbu veicējiem un izskaidrot tiem darba uzdevumus.
+* Spēja izskaidrot betonēšanas darbu veicējiem motivācijas sistēmu, darbinieka pienākumus, tiesības un atbildību uzņēmumā.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Spēja lietot datoru, biroja lietojumprogrammas, internetu, normatīvo aktu datubāzes, noformēt nepieciešamo dokumentāciju.
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava un pakļauto darbinieku darba rezultātu.
+
+### Prasmes 
+* Pārzināt normatīvo aktu kopumu un piemērot normatīvo aktu prasības būvniecībā un betonēšanas darbu izpildē.
+* Rasēt betonējamās konstrukcijas un lietot rasējumos izmantotos apzīmējumus un terminoloģiju.
+* Izprast būvdarbu tehnoloģiju un atšķirt būvkonstrukciju un betonējamo konstrukciju funkcionālo nozīmi.
+* Pārvaldīt betonējamo konstrukciju izveidošanas un iestrādāšanas metodes, lietot betonēšanas darbos izmantojamās tehnoloģiskās iekārtas un betonējamo konstrukciju sastāvdaļu specifikācijas.
+* Noteikt betonējamo konstrukciju sastāvdaļu raksturojumu un daudzumu, betonēšanai nepieciešamā darbaspēka kvalifikāciju un patēriņu laika vienībā.
+* Noteikt betonēšanas darbos nepieciešamo materiālu un būvizstrādājumu daudzumu.
+* Izvēlēties betonēšanas darbiem atbilstošo nepieciešamo aprīkojumu un darba instrumentus.
+* Uzskaitīt izpildīto betonēšanas darbu apjomu.
+* Sastādīt kalendāra plānam vai tīkla grafikam atbilstošu operatīvo darbu izpildes grafiku.
+* Izprast būvkonstrukciju savstarpējo mijiedarbību un savienošanas veidus.
+* Lietot betonēšanas darbiem nepieciešamo aprīkojumu.
+* Organizēt, vadīt un veikt būvizstrādājumu pārvietošanu uz darba vietu.
+* Izveidot betonējamo konstrukciju pamatni atbilstoši būvprojektam.
+* Ierīkot un nostiprināt betonējamās konstrukcijas veidņus atbilstoši būvprojektam, izmantot betonējamo konstrukciju veidņu slodžu tabulas.
+* Lasīt betonējamo konstrukciju veidņu detalizācijas rasējumus.
+* Lietot drošus betonēšanas darbu paņēmienus.
+* Izmantot atbilstošus celšanas mehānismus.
+* Izveidot būvkonstrukciju stiegrojumu atbilstoši būvprojektam.
+* Iestrādāt būvkonstrukcijā betonu atbilstoši būvprojektam, iestrādāt betonējamā konstrukcijā būvizstrādājumus un ieliekamās detaļas.
+* Apstrādāt būvkonstrukcijas betona virsmu atbilstoši būvprojektam.
+* Lietot betona apstrādes tehnoloģijas un betona kopšanas metodes.
+* Lasīt betonēšanas darbu veikšanas projektu.
+* Lietot būvkonstrukciju atveidņošanas metodes atbilstoši veidņu veidiem un sistēmām.
+* Pārzināt izpildāmo betonēšanas darbu kvalitātes prasības un pamatojumu.
+* Novērtēt izpildīto betonēšanas darbu kvalitāti katram posmam pirms nākamā posma uzsākšanas.
+* Sagatavot segto darbu izpilddokumentāciju katram betonēšanas darbu posmam pirms nākamā posma uzsākšanas.
+* Novērtēt pieļauto neatbilstību sekas izpildītajos betonēšanas darbos un panākt izpildīto betonēšanas darbu neatbilstību novēršanu.
+* Pieņemt izlabotos betonēšanas darbu posmus.
+* Pārzināt būvniecības dalībnieku pienākumus, tiesības un atbildību būvniecības procesā.
+* Lietot datoru un biroja lietojumprogrammas, izmantot projektēšanas datorprogrammas.
+* Iekārtot ergonomiski parocīgas un drošas darba vietas betonētājiem.
+* Atpazīt bīstamās darba vietas un operācijas būvlaukumā un ražotnē.
+* Ievērot darba aizsardzības normatīvo aktu prasības, lietot betonēšanas darbu veicējiem nepieciešamos individuālos un kolektīvos darba aizsardzības līdzekļus.
+* Nepieļaut nelaimes gadījumus būvlaukumā un ražotnē, kā arī atbilstoši rīkoties ārkārtas situācijās.
+* Sniegt pirmo palīdzību.
+* Identificēt videi bīstamus būvniecības atkritumus būvlaukumā un ražotnē, kā arī prast organizēt to savākšanu.
+* Patstāvīgi organizēt savu un padoto darbinieku darbu, analizēt darba gaitu, uzņemties atbildību par darba rezultātu.
+* Ievērot darba tiesisko attiecību normas un vides aizsardzības normatīvo aktu prasības būvlaukumā un ražotnē.
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus saskarsmē ar betonētājiem un būvdarbu vadītāju vai ražotnes struktūrvienības vadītāju.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī.

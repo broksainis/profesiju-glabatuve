@@ -1,0 +1,77 @@
+---
+layout: post
+    
+title: vides inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214301
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* vides inženieris organizē un izpilda vidi aizsargājošu, videi draudzīgu un dabas resursus taupošu tehnoloģiju un būvju projektēšanas, iekārtu konstruēšanas, montāžas un to darbības nodrošināšanas, vides monitoringa un kontroles uzdevumus; darbojas un uzrauga procesus saistībā ar ķīmisko vielu un maisījumu izmantošanu un apsaimniekošanu; piedalās tehnoloģisko procesu inženiertehniskā pilnveidošanā saskaņā ar vides normatīvo aktu un vides standartu prasībām; izstrādā inovatīvas vides aizsardzības metodes; iegūst un analizē informāciju un sagatavo priekšlikumus stratēģisko mērķu definēšanai ražošanā vai pārvaldībā vides kvalitātes saglabāšanas, dabas resursu racionālas un pilnvērtīgas izmantošanas un ilgtspējīgas attīstības jomā; piedalās politikas plānošanas dokumentu, projektu, atzinumu vai citu vides aizsardzības jomas dokumentu sagatavošanā, vadībā, uzraudzībā; vada zemāka līmeņa speciālistus; veic pedagoģisko un zinātnisko darbību vides inženiertehniskās aizsardzības jomā. 
+* Vides inženieris strādā valsts, pašvaldības vai starptautiskajās institūcijās, pētniecības un izglītības iestādēs, citos uzņēmumos vai kā pašnodarbināta persona vai individuālais komersants. 
+
+
+### Kompetences
+
+* Spēja analizēt un novērtēt informāciju par vides kvalitāti, tās izmaiņām un ilgtspēju
+* Spēja plānot un organizēt inženiertehniskos pasākumus vides aizsardzības jomā
+* Spēja izvēlēties un pamatot nepieciešamo inženiertehnisko metožu izmantošanu vides aizsardzībā
+* Spēja izvērtēt vides aizsardzības inženiertehnisko pasākumu apjomu, to ekonomisko efektivitāti, izvēlēties un pamatot optimālo variantu
+* Spēja izstrādāt vides inženiertehniskās aizsardzības un vides tehnoloģiju projektus, kontrolēt un vadīt to īstenošanas gaitu, rezultātus un kvalitāti, organizēt vides aizsardzības objektu pārbaudes
+* Spēja veikt vides projektu tehniskos aprēķinus (parametrus, režīmus un darbības efektivitātes rādītājus), izvēlēties nepieciešamo aparatūru, tehnoloģiskās iekārtas, papildaprīkojumu, kā arī sniegt netehniskus risinājumus
+* Spēja izstrādāt un īstenot ūdenssaimniecības inženiertehniskos pasākumus pilsētvidē un lauku vidē
+* Spēja nodrošināt vides tehnoloģisko iekārtu ekspluatāciju, kontrolēt, optimizēt un regulēt to darbības procesu
+* Spēja izstrādāt un pilnveidot dabas materiālo un enerģētisko resursu ieguves un videi draudzīgas pārstrādes tehnoloģijas
+* Spēja izvērtēt ražošanas procesā izmantojamo un ražošanas procesā radušos ķīmisko vielu, produktu un materiālu iespējamo risku dabai un cilvēkam
+* Spēja izstrādāt rekomendācijas tehnoloģisko režīmu optimizācijai un vidi ietekmējošo parametru minimizācijai, piesārņojumu novēršanai un to izplatīšanās norobežošanai
+* Spēja izstrādāt un īstenot degradēto teritoriju atjaunošanas pasākumu plānus (apzināt piesārņotās un potenciāli piesārņotās teritorijas, izvērtēt teritorijas atjaunošanas metodes, veikt rekultivācijas inženiertehniskos aprēķinus)
+* Spēja izstrādāt un īstenot atkritumu apsaimniekošanas inženiertehniskos pasākumus (izanalizēt un novērtēt atkritumu daudzumu, sastāvu, struktūru, parametrus, īpašības, to izmaiņas, noteikt atkritumu savākšanas un tālākās apstrādes alternatīvas)
+* Spēja veikt ūdens, gaisa un augsnes piesārņojuma uzskaiti un novērtēt piesārņotības pakāpes kvalitatīvos un kvantitatīvos parametrus, izvēlēties un pamatot ūdens sagatavošanas, notekūdeņu, gaisa, augsnes attīrīšanas metodes, tehniku un tehnoloģiju
+* Spēja plānot darba grupas (kolektīva) uzdevumus un organizēt to izpildi
+* Spēja kontrolēt un optimizēt vides aizsardzības tehnoloģiju darbības procesu, izvērtēt radušos traucējumus un dot rekomendācijas to novēršanai, apkopot un dot rekomendācijas darba pilnveidošanai un kvalitātes uzlabošanai
+* Spēja veikt pētījumus vides inženiertehniskās aizsardzības jomā
+* Spēja pastāvīgi pilnveidot iemaņas darbā ar jaunākajām informācijas tehnoloģijām
+* Spēja veikt riska novērtēšanu un notikumu analīzi, adekvāti rīkoties problēmsituācijās un savlaicīgi pieņemt nepieciešamos lēmumus
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja ievērot un nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību izpildi
+
+### Prasmes 
+* Izmantot ilgtspējīgās attīstības koncepcijas principus vides inženiertehnisko pasākumu analīzē un pilnveidošanā
+* Novērtēt stāvokli vides kvalitātes un piesārņojuma jomā, kontrolēt tā izmaiņas
+* Darboties ar vides kvalitāti raksturojošo indikatoru datubāzēm
+* Veikt vides kvalitātes izmaiņu matemātisko analīzi un prognozi
+* Veikt vides degradācijas un vides atjaunošanas procesu ekonomisko novērtējumu
+* Piemērot nacionālos un Eiropas Savienības likumdošanas normatīvos aktus vides un darba aizsardzības jomā, konkrēto procesu un situāciju izvērtēšanā
+* Izmantot starptautiskos vides standartus ISO  un Eiropas Savienības Vides pārvaldības un audita sistēmu EMAS _(Eco-Management and Audit Scheme)_ vides pārvaldības sistēmas vadībai uzņēmumā, plānot un veikt vides aizsardzības pasākumus uzņēmumos
+* Piedalīties ar vides aizsardzību saistīto projektu izstrādē un īstenošanā
+* Lietot informācijas tehnoloģijas un datorprogrammas vides procesu analīzē
+* Veikt ekoloģiskā riska analīzi, novērtēt vides avāriju bīstamības pakāpi un sniegt attiecīgās rekomendācijas to novēršanai un seku likvidācijai
+* Noteikt vides piesārņojumu avotus un novērtēt to bīstamības pakāpi, izstrādāt vides aizsardzības pasākumu plānus
+* Veikt vides aizsardzības būvju un iekārtu, tehnoloģiju, vides kontroles un monitoringa sistēmu inženiertehniskos un ekonomiskos aprēķinus, pamatot optimālos variantus
+* Izstrādāt, projektēt un ieviest ekoloģiski drošas, vidi saudzējošas tehnoloģijas, būves, tehniku, agregātus
+* Projektēt atkritumu apsaimniekošanas, t.skreģenerācijas, tehnoloģijas
+* Prast strādāt komandā (grupā) un vadīt padotos darbiniekus, plānot izpildāmos darbus un noteikt to prioritāti
+* Veikt darbu patstāvīgi
+* Lietot informācijas meklēšanas un atlases līdzekļus
+* Sistemātiski paaugstināt savu kvalifikāciju, pilnveidot zināšanas un prasmes, t.skpar vides projektu izstrādi, ieviešanu, projektu ciklu, vides projektu īstenošanai pieejamo finansējumu, šo procesu normatīvo aktu kopumu, ietekmes uz vidi novērtēšanas procedūru
+* Sagatavot prezentācijas materiālus sabiedrībai, organizēt un vadīt seminārus un citus pasākumus
+* Pārliecināt citus un argumentēti izteikt savu viedokli
+* Noformēt lietišķo dokumentāciju
+* Ievērot profesionālās ētikas un morāles principus
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas un profesionālās terminoloģijas līmenī
+* Ievērot darba tiesisko attiecību normas

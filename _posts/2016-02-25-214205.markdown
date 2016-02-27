@@ -1,0 +1,86 @@
+---
+layout: post
+    
+title: ēku būvinženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214205
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* ēku būvinženieris ir speciālists, kas ieguvis otrā līmeņa profesionālo augstāko izglītību būvniecībā, kurš projektē ēkas, ēku rekonstrukciju un renovāciju un vada būvprojektus; veic konstrukciju aprēķinus, pārzina universālā dizaina principus, pārzina celtniecības materiālu tehnoloģiju un pārzina būvdarbu vadīšanu; organizē un vada būvlaukuma resursus profesionālā un no izmaksu viedokļa efektīvā veidā – veic būvniecības procesa plānošanu un uzraudzību; pārbauda projekta dokumentāciju; plāno visu būvobjekta realizācijā iesaistīto dalībnieku sadarbību un būvdarbu veikšanas kārtību; dod nepieciešamos rīkojumus padotajiem un būves realizācijas dalībniekiem un pārbauda šo rīkojumu izpildi; seko, lai būvdarbi tiktu veikti atbilstoši būvprojekta, būvnormatīvu un standartu prasībām noteiktos termiņos un to izmaksas iekļautos apstiprinātās tāmes ietvaros; plāno nepieciešamos pasākumus kvalitātes nodrošināšanai un darba drošībai objektā; sastāda un kontrolē būves izpilddokumentāciju; kontrolē un analizē darbu izpildi un izstrādā darbu organizēšanas un veikšanas projektus būvnormatīviem atbilstošā tehnoloģiskajā līmenī, efektīvi un lietderīgi izmantojot resursus; pārzina būvju ekspluatāciju; veic zinātniskās pētniecības darbus un izstrādā jaunas celtniecības inženierzinātņu teorijas un metodes. 
+* Ēku būvinženieris strādā būvuzņēmumos vai kā pašnodarbināta persona, vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja atbildīgi un patstāvīgi veikt ēku būvinženiera pienākumus un noformēt dokumentus atbilstoši lietvedības un būvniecības jomas normatīvo aktu prasībām un Eiropas Savienības tiesību normām
+* Spēja apkopot, analizēt un sagatavot būvprojektēšanas izejmateriālus
+* Spēja pārstāvēt pasūtītāju, projektētāju un būvuzņēmēju līgumdarbos vai līgumu sastādīšanā
+* Spēja vadīt būvprojektus ievērojot universālā dizaina principus, izstrādāt ēku projektu arhitektūras, būvkonstrukciju un ekonomiskās daļas, projektēt būvkonstrukcijas
+* Spēja ievērot ēku inženiertehnisko iekārtu projektēšanas pamatnoteikumus un veikt būvprojektu izvērtēšanu, ekspertīzi vai saskaņošanu
+* Spēja izstrādāt būvniecības procesa plānošanas un vadīšanas darbu veikšanas projektu
+* Spēja ievērot būvnormatīviem atbilstošu darbu veikšanas tehnoloģiju, sagatavot un pildīt izpilddokumentāciju, kā arī noteikt darba aizsardzības pasākumus
+* Spēja kontrolēt būvdarbu veikšanu un to kvalitāti, sekot darbu izpildes termiņiem un veikt darbu izmaksu aprēķinus
+* Spēja vadīt būvniecības dalībnieku regulārās apspriedes un veikt nepieciešamās būvniecības grafiku izmaiņas
+* Spēja ievērot vides aizsardzības pasākumus
+* Spēja organizēt un vadīt darījumus
+* Spēja izvērtēt būvuzņēmuma iespējas un konkurētspēju, sekot būvdarbu cenu aptaujām, konkursiem un izvērtēt līdzdalību, izvērtēt sadarbības priekšlikumus, izvēlēties sadarbības partnerus un slēgt līgumus
+* Spēja pārzināt materiāli tehnisko resursu piedāvājumus, komunicēt un koordinēt aktivitātes starp uzņēmuma struktūrvienībām, veikt aktivitātes vertikālajā darba plūsmā
+* Spēja nodrošināt būvniecības procesu ar darbaspēka resursiem, noteikt optimālo speciālistu sastāvu un būvdarbu izpildītāju struktūrvienību racionālu sastāvu, kā arī apzināt iespējamās darbaspēka rezerves (darbaspēka datu bāzes)
+* Spēja uzraudzīt būvniecības procesu, veikt izpildītā darba tehnisko un kvalitātes kontroli, veikt izpildīto darbu uzskaiti, pārbaudīt segtos darbus, kontrolēt izpilddokumentāciju, darba aizsardzības pasākumu izpildi un būvniecības grafiku izpildi
+* Spēja izsekot būvprocesa attīstībai, salīdzināt faktisko un paredzēto rezultātu un veikt analīzi, veikt nepieciešamās izmaiņas darbu organizēšanā un ieteikt veiksmīgākos tehnoloģiskos risinājumus
+* Spēja analizēt ekonomiskos faktorus, salīdzināt faktiskās un plānotās izmaksas, izvēlēties racionālus materiāli tehniskos resursus, izvērtēt vai materiāli tehniskie resursi tiek izmantoti efektīvi un lietderīgi
+* Spēja salīdzināt faktisko un plānoto darbu izpildes tempu un termiņus, izvērtēt, veikt nepieciešamās korekcijas un izvērtēt būvprocesa tehniski ekonomisko efektivitāti
+* Spēja izpētīt un optimizēt projekta dokumentāciju, apzināt un izstrādāt vai organizēt nepieciešamās izmaiņas, organizēt projekta izmaiņu akceptu, izvērtējot nepieciešamo izmaiņu efektivitāti
+* Spēja organizēt būvobjekta nodrošinājumu, veidot būvobjekta infrastruktūru, nodrošināt sadzīves apstākļus, nodrošināt energoresursus, organizēt un nodrošināt būvlaukuma materiālo apgādi, organizēt būvniecības tehnisko nodrošinājumu (transportu, mehānismus, instrumentus)
+* Spēja orientēties valsts stratēģijā un politikā būvniecībā, veikt pētījumus ar zinātnisku vērtību ēku būvinženierijas jomā, izvēlēties pētāmās problēmas analīzes metodes, izvēlēties pētījumu paņēmienus un tehniskos līdzekļus, pētīt materiālus, izstrādājumus un tehnoloģiskos paņēmienus
+* Spēja sazināties valsts valodā un divās svešvalodās
+* Spēja pārzināt un pielietot universālā dizaina principus
+
+### Prasmes 
+* Ievērot būvniecību reglamentējošos dokumentus
+* Izstrādāt būvniecības rasējumus
+* Pielietot būvniecības terminoloģiju
+* Veidot datu bāzes
+* Nodrošināt ugunsdrošības normas un prasības
+* Pielietot normatīvos aktus darba tiesisko attiecību jomā
+* Pielietot vadīšanas un sadarbības psiholoģiju
+* Izstrādāt atbilstošu projekta dokumentāciju skiču vai tehniskā projekta sastāvā
+* Pārzināt būvniecības tehnoloģiju, darba paņēmienus un operācijas, būvdarbu tehnoloģiskos procesus, būvdarbu klasifikāciju un speciālos būvdarbus, tehnoloģisko aprīkojumu
+* Orientēties būvmateriālu piedāvājumā, piemērotībā un izmaksās
+* Zināt būvmateriālu īpašības
+* Pārzināt būtiskās prasības būvēm (mehānisko stiprību un stabilitāti (noturību), ugunsdrošību, higiēniskumu, nekaitīgumu cilvēka veselībai un videi, lietošanas drošību (atbilstību pielietojumam), aizsardzību pret troksni (vai nodrošināt akustiku), enerģijas ekonomiju un siltuma izolāciju, būvju pieejamību, dabas resursu racionālu izmantošanu)
+* Pārzināt būvju konstruktīvos risinājumus (nesošo un norobežojošo konstrukciju projektēšanu, inženierkomunikāciju risinājumus un izbūves pamatprincipus, speciālo būvju risinājumus un izbūves pamatprincipus)
+* Izvēlēties būvdarbu speciālistus, atbilstoši veicamā darba saturam
+* Pārzināt būvmašīnas, mehānismus, instrumentus un tehnoloģisko aprīkojumu
+* Optimāli plānot un taupīgi izlietot finansējumu un materiālos resursus
+* Pārzināt darba samaksas sistēmas, darba normēšanu un prast to pielietot
+* Zināt būvdarbu izmaksas, to veidošanos
+* Sastādīt būvdarbu tāmes, izvērtēt ekonomiskos faktorus un izvēlēties izdevīgāko variantu, izprast tehnisko faktoru mijiedarbību ar ekonomiskajiem
+* Realizēt būvdarbu kvalitātes kontroles vadību
+* Pārzināt būvlaukuma infrastruktūru
+* Pārzināt ģeodēziskos un metroloģiskos darbus
+* Pārzināt darba aizsardzības un vides aizsardzības prasības un nodrošināt to realizāciju būvobjektā, veidojot optimālu būvlaukuma infrastruktūru, organizējot būvmašīnu un mehānismu drošu ekspluatāciju un drošu darbu veikšanu
+* Pielietot būvnormatīvus un atbilstošos standartus
+* Orientēties normatīvajos aktos civiltiesību un administratīvo tiesību jomā
+* Izstrādāt būvdarbu organizēšanas (veikšanas) projektu (būvdarbu kalendāro plānu, būvdarbu ģenerālplānu, būvdarbu tehnoloģisko shēmu un kvalitātes nodrošināšanas plānu)
+* Organizēt materiālu, būvizstrādājumu un tehnisko līdzekļu uzskaiti atbilstoši normatīvo aktu un būvdarbu līguma prasībām
+* Novērtēt veikto darbu apjomu
+* Noformēt izpilddokumentus, aizpildīt būvdarbu žurnālu un speciālos žurnālus
+* Sazināties gan rakstveidā gan verbāli, veidot lietišķas attiecības ar pasūtītāju, darba devēju un padotajiem, vadīt darba grupu, prast analizēt un risināt problēmu situācijas
+* Plānot savu un padoto darbu, organizēt informāciju un projektus, pārzināt kvalitātes sistēmas un pielietot piemērotas kontroles sistēmas principus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārzināt un pielietot universālā dizaina principus

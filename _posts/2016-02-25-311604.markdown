@@ -1,0 +1,78 @@
+---
+layout: post
+    
+title: ķīmisko procesu tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311604
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* ķīmisko procesu tehniķis patstāvīgi veic tehnoloģisko procesu vai tā daļu atbilstoši ražošanas un kvalitātes kontroles dokumentācijai tam paredzētajās iekārtās, lai iegūtu kvalitātes prasībām atbilstošu ķīmisko un bioķīmisko produktu, aktīvo farmaceitisko vielu vai kosmētikas un parfimērijas produktu, ievērojot darba drošības un vides aizsardzības, kā arī labas ražošanas prakses prasības; darba procesā sadarbojas ar citiem speciālistiem. 
+* Ķīmisko procesu tehniķis strādā ķīmijas, bioķīmijas, farmācijas, kosmētikas un parfimērijas nozares uzņēmumā. 	 
+
+### Kompetences
+
+* Spēja novērtēt darba vietas gatavību tehnoloģiskā procesa veikšanai
+* Spēja novērtēt mērīšanas līdzekļu derīgumu darbam
+* Spēja būt gatavam veikt atbilstošu tehnoloģisko procesu, nekaitējot savai un kolēģu veselībai un rūpējoties par veselīgu darba vidi
+* Spēja novērtēt izejvielu un materiālu atbilstību tehnoloģiskajam procesam un darba uzdevumam, nodrošināt stingrai uzskaitei pakļauto izejvielu uzskaiti, ievērojot vielu un materiālu glabāšanas noteikumus
+* Spēja patstāvīgi un precīzi veikt tehnoloģisko procesu, pildīt darba uzdevumu atbilstoši uzņēmuma plāniem un reglamentējošo dokumentāciju prasībām
+* Spēja patstāvīgi un precīzi kontrolēt un uzturēt tehnoloģisko procesu parametrus atbilstoši uzņēmuma reglamentējošo dokumentāciju prasībām
+* Spēja pareizi lietot mērīšanas un procesa kontroles līdzekļus un novērtēt kontroles rezultātus
+* Spēja uzturēt tehnoloģiskās iekārtas tīrībā un kārtībā, nodrošinot produkta kvalitāti un novēršot produkta piesārņojuma iespēju
+* Spēja novērtēt iegūto informāciju par tehnoloģiskā procesa rezultātiem un atbilstoši rīkoties
+* Spēja lasīt un saprast tehnoloģisko dokumentāciju, kā arī lietot iegūto informāciju darbā
+* Spēja precīzi un savlaicīgi dokumentēt tehnoloģiskā procesa norisi un veikt pierakstus par procesa laikā novērotām novirzēm
+* Spēja saprast un ievērot labas ražošanas prakses un citu kvalitātes sistēmu pamatprasības, kā arī citu normatīvo aktu prasības, kas attiecas uz konkrēta darba uzdevuma izpildi
+* Spēja lietot tehnoloģiskās iekārtas, darba rīkus, izejvielas un materiālus, darba apģērbu, individuālos un kolektīvos aizsardzības līdzekļus atbilstoši darba aizsardzības prasībām
+* Spēja izprast un ievērot darba aizsardzības prasības un veikt darba pienākumus, nekaitējot savai un kolēģu veselībai
+* Spēja ievērot sprādziendrošības, ugunsdrošības un elektrodrošības noteikumu prasības, ja nepieciešams, atbilstoši rīkoties un sniegt pirmo palīdzību
+* Spēja atpazīt drošības signālus un zīmes un atbilstoši rīkoties
+* Spēja saprast un ievērot personīgās un ražošanas higiēnas prasības, t.skdarba specifiku klasificētajās telpās
+* Spēja izprast un ievērot vides aizsardzības prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja strādāt komandā, neradot konfliktus un psiholoģisku diskomfortu darbā un ievērojot ētikas normas
+* Spēja atbildēt par darba rezultātiem, racionālu darba laika un resursu izmantošanu
+* Spēja saskaņot savu darbību ar dažādu līmeņu speciālistiem
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Novērtēt iekārtu, mērlīdzekļu un komunikāciju stāvokli
+* Novērtēt izejvielu un materiālu atbilstību tehnoloģiskā procesa prasībām
+* Lasīt tehnoloģisko dokumentāciju
+* Dokumentēt tehnoloģisko procesu
+* Veikt un kontrolēt tehnoloģisko procesu
+* Izvērtēt kvalitātes kontroles rezultātus un atbilstoši rīkoties
+* Apkalpot iekārtas
+* Novērtēt automatizēto un datorizēto sistēmu darbību
+* Tīrīt un sagatavot tehnoloģiskās iekārtas nākamajam ciklam vai remontam
+* Veikt iekrāvumu aprēķinus, novērtēt procesa materiālo bilanci un produktu iznākumu
+* Veikt darba pienākumus atbilstoši darba aizsardzības prasībām
+* Lietot ugunsdzēsības līdzekļus un rīkoties ugunsgrēka gadījumā
+* Rīkoties pirmsavārijas un avārijas gadījumos
+* Sniegt pirmo palīdzību
+* Lietot individuālos un kolektīvos aizsardzības līdzekļus
+* Strādāt ar ķīmiskajām vielām
+* Lietot darbam paredzēto apģērbu un apavus
+* Lietot elektroiekārtas
+* Lietot drošības zīmes un signālus
+* Veikt darba pienākumus, nekaitējot videi
+* Strādāt komandā
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Uzņemties atbildību
+* Lietot ķīmijas nozares normatīvos aktus savā darbā
+* Strādāt klasificētajās telpās
+* Lietot mazgāšanas un dezinfekcijas līdzekļus telpu un inventāra kopšanai

@@ -1,0 +1,88 @@
+---
+layout: post
+    
+title: farmaceita asistents
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 321301
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* farmaceita asistents ir veselības aprūpes speciālists, kurš strādā farmaceita uzraudzībā; veic zāļu, veselības aprūpei un ķermeņa kopšanai lietojamo preču izsniegšanu, gatavo zāles pēc individuālām ārsta receptēm un ārstniecības iestāžu rakstveida pieprasījumiem; informē pacientus par zāļu lietošanu saskaņā ar ārsta norādījumiem; veicina savas profesijas un farmaceitiskās aprūpes attīstību, nepārtraukti pilnveido savas zināšanas un prasmes. 
+* Farmaceita asistents strādā aptiekās, zāļu lieltirgotavās, zāļu ražošanā. 
+
+### Kompetences
+
+* Spēja nodrošināt recepšu pieņemšanu
+* Spēja izsniegt recepšu zāles farmaceita uzraudzībā
+* Spēja novērtēt receptes atbilstību normatīvajos aktos noteiktajām prasībām
+* Spēja izskaidrot klientam zāļu lietošanu saskaņā ar ārsta norādījumiem
+* Spēja informēt klientu par iespējamām blakusparādībām zāļu lietošanas laikā
+* Spēja izskaidrot klientam zāļu glabāšanas noteikumus mājas apstākļos
+* Spēja, ievērojot normatīvos aktus farmācijas jomā, farmaceitisko informāciju, farmakopejas, fiziskās personas datu aizsardzību, darboties saskaņā ar farmaceitu deontoloģijas principiem un Farmaceita ētikas kodeksu
+* Spēja izsniegt veselības aprūpei un ķermeņa kopšanai lietojamās preces un profesionāli izskaidrot to lietošanu un uzglabāšanu mājas apstākļos
+* Spēja nodrošināt zāļu pagatavošanu pēc individuālām ārsta receptēm vai ārstniecības iestāžu rakstveida pieprasījumiem
+* Spēja novērtēt receptē vai pieprasījumā izrakstīto zāļu sastāvu
+* Spēja pārbaudīt zāļu vielu devas un saderību, informēt ārstu, kurš izrakstījis recepti, par nepilnībām receptes noformējumā, zāļu saderībā, ja tādas pastāv
+* Spēja sagatavot iekārtas un aparatūru zāļu pagatavošanai
+* Spēja gatavot zāles atbilstoši priekšrakstiem
+* Spēja dokumentēt zāļu gatavošanu un izsniegšanu, noformēt zāles izsniegšanai
+* Spēja veikt nepieciešamās darbības zāļu aprites nodrošināšanai aptiekā vai lieltirgotavā
+* Spēja informēt uzņēmuma vadību par nepieciešamo zāļu pasūtīšanu (defektūru)
+* Spēja regulāri sekot informācijai par jaunumiem zāļu tirgū.
+*  Spēja piedalīties preču pasūtīšanā, saņemšanā, pārbaudē un izvietošanā, ievērojot normatīvos aktus par zāļu un veselības aprūpei vai ķermeņa kopšanai lietojamo preču apriti, par narkotisko un psihotropo zāļu uzskaiti, par medicīniskā spirta uzskaiti, par kompensējamo zāļu pareizu izsniegšanu
+* Spēja sekot zāļu un citu preču derīguma termiņiem
+* Spēja strādāt ar kases aparātu vai kases sistēmu un datoru, veicot aptiekas vai zāļu lieltirgotavas tirdzniecības operācijas
+* Spēja nodrošināt nederīgo zāļu un dzīvsudraba termometru savākšanu no klientiem
+* Spēja informēt un skaidrot klientiem par zāļu bīstamību apkārtējai videi un iespējām tos utilizēt
+* Spēja veikt zāļu un medicīnisko ierīču atpakaļpieņemšanu
+* Spēja veikt deleģētos uzdevumus zāļu ražošanā vai aptiekā
+* Spēja ievērot darba aizsardzības noteikumus
+* Spēja ievērot zāļu labas izplatīšanas un ražošanas prakses prasības
+* Spēja ievērot uzņēmuma higiēnas prasības
+* Spēja iesaistīties teorētiskajās un praktiskajās mācībās tehnoloģiskā procesa apgūšanai
+* Spēja sekmēt farmaceitiskā uzņēmuma darbību
+* Spēja informēt klientus par jaunumiem bezrecepšu zāļu un veselības aprūpei vai ķermeņa kopšanai lietojamo preču sortimentā
+* Spēja ievērot zāļu reklamēšanas noteikumus un izvietot preces atbilstoši tirgzinības principiem
+* Spēja veikt veselīga dzīves veida popularizēšanu, pamatojoties uz jaunākajiem zinātnes sasniegumiem un ievērojot patērētāju intereses
+* Spēja izskaidrot veselības problēmu rašanās riska faktorus, propagandēt slimību profilaksi un ar to saistītos pasākumus
+* Spēja izskaidrot nepareizas zāļu lietošanas sekas
+* Spēja informēt par dzīves kvalitātes uzlabošanas iespējām hronisku slimību gadījumā, veikt ekspresdiagnostiku
+* Spēja veicināt savas profesijas un farmaceitiskās aprūpes darba attīstību
+* Spēja apzināties personīgo līdzatbildību par farmaceitiskās aprūpes kvalitāti
+* Spēja nepārtraukti pilnveidot savas profesionālās zināšanas un prasmes, analizēt farmaceitisko aprūpi raksturojošos skaitliskos datus, izmantojot informācijas tehnoloģijas, pielietot saskarsmes iemaņas komandas darbā
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+
+### Prasmes 
+* Ievērot normatīvos aktus farmācijas jomā
+* Izmantot informācijas tehnoloģijas profesionālai darbībai
+* Gatavot zāles, šķīdumus, ziedes, mikstūras, suspensijas, pulverus, supozitorijus, pilienus, emulsijas, injekciju šķīdumus, acu pilienus, acu ziedes pēc individuālās ārsta receptes vai ārstniecības iestādes rakstveida pieprasījuma
+* Veikt zāļu kvantitatīvo un kvalitatīvo pārbaudi
+* Noteikt attīrītā ūdens kvalitāti
+* Izsniegt zāles farmaceita uzraudzībā
+* Izsniegt veselības aprūpei un ķermeņa kopšanai lietojamās preces, pareizi, skaidri un nepārprotami izskaidrot to lietošanu
+* Pazīt ārstniecības augus, to drogas, korekti, pareizi, skaidri un nepārprotami izskaidrot to sagatavošanu un lietošanu
+* Sniegt profesionālu, skaidru, pareizu, nepārprotamu informāciju aptiekas klientiem, ārstiem u.cveselības aprūpes speciālistiem par jautājumiem, kas saistīti ar veselības aprūpei un ķermeņa kopšanai lietojamām precēm
+* Izmantot tirgzinības pamatprincipus uzņēmuma darbā
+* Veikt veselīga dzīvesveida un slimību profilakses propagandēšanu
+* Veikt ekspresdiagnostiku
+* Sniegt pirmo medicīnisko palīdzību nepieciešamības gadījumā
+* Reģistrēt informāciju par konstatētām zāļu blakusparādībām (farmakovigilance)
+* Lietot un skaidrot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Sadarboties ar citiem veselības aprūpes speciālistiem, strādājot komandā un atbilstoši noteiktajai kompetencei, nodrošināt kvalitatīvu farmaceitisko aprūpi
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Strādāt ar profesionālo informāciju
+* Izmantot saziņas prasmes
+* Respektēt un aizsargāt fiziskas personas datus un konfidenciālu informāciju

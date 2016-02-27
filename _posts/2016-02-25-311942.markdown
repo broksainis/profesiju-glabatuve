@@ -1,0 +1,75 @@
+---
+layout: post
+    
+title: pārtikas kvalitātes speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311942
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* pārtikas kvalitātes speciālists organizē un veic izejvielu, starpproduktu un gatavās produkcijas paraugu atlasi un reģistrāciju kvalitātes kontrolei laboratorijās, organizē un veic fizikālās, ķīmiskās, mikrobioloģiskās analīzes un produktu degustāciju atbilstoši uzņēmumā izstrādātās kvalitātes sistēmas standartiem un tehnisko noteikumu prasībām; veic pārtikas izejvielu, produktu un iekštelpu vides temperatūras mērījumus; veic ražošanas vides (piemēram, gaisa), virsmas nomazgājumu un citu paraugu noņemšanu laboratoriskai testēšanai; pārzina pārtikas produktu ražošanas tehnoloģiju un visus pārtikas aprites posmus ražošanā; izveido un uztur kvalitātes sistēmas dokumentāciju uzņēmumā. 
+* Pārtikas kvalitātes speciālists var strādāt pārtikas ražošanas uzņēmumos un pārtikas kvalitātes kontroles laboratorijās. 
+
+### Kompetences
+
+* Spēja organizēt izejvielu, pārtikas paraugu un iekštelpu vides paraugu atlasi kvalitātes kontrolei laboratorijās, kā arī iekštelpu temperatūras mērījumus
+* Spēja organizēt un veikt fizikālās, ķīmiskās vai mikrobioloģiskās analīzes
+* Spēja organizēt un vadīt pārtikas produktu degustācijas uzņēmumā
+* Spēja novērtēt testēšanai nepieciešamā aprīkojuma, iekārtu, reaģentu, barotņu un citu materiālu atbilstību darba uzdevumam un kvalitātes prasībām, kā arī organizēt to izmantošanu un glabāšanu
+* Spēja aprēķināt, noformēt un izvērtēt analīžu rezultātus, pielietojot informācijas tehnoloģijas
+* Spēja novērtēt laboratorijas aparatūras un iekārtu derīgumu darbam
+* Spēja patstāvīgi un precīzi strādāt ar analītisko aparatūru
+* Spēja apkopot un statistiski apstrādāt iegūtos analīžu rezultātus
+* Spēja organizēt un nodrošināt svaru un citu mēriekārtu verifikāciju
+* Spēja organizēt un nodrošināt mērtrauku kalibrēšanu
+* Spēja lietot mērīšanas iekārtas, instrumentus, reaģentus un materiālus, darba apģērbu, individuālos un kolektīvos aizsardzības līdzekļus
+* Spēja nodrošināt darba un vides aizsardzības prasību ievērošanu
+* Spēja sekot pārtikas produktu kvalitātes izmaiņām ražošanas procesā un veikt korektīvās darbības
+* Spēja kontrolēt pārtikas produktu kvalitātes atbilstību normatīvi tehniskajai dokumentācijai
+* Spēja izveidot un uzturēt kvalitātes sistēmas dokumentāciju uzņēmumā, analizēt pārtikas riskus un plānot nepieciešamos laboratoriskos izmeklējumus
+* Spēja plānot un organizēt higiēnas pārbaudes uzņēmumā
+* Spēja saskaņot savu darbību ar dažādu līmeņu speciālistiem
+* Spēja strādāt komandā un ievērot profesionālās ētikas normas
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja ikdienas darbā lietot normatīvos aktus, kas reglamentē pārtikas kvalitātes un nekaitīguma prasības
+* Spēja orientēties pārtikas apriti reglamentējošos normatīvajos dokumentos
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+
+### Prasmes 
+* Organizēt izejvielu, pārtikas produktu un iekštelpu vides paraugu atlasi kvalitātes kontrolei laboratorijās
+* Organizēt un vadīt pārtikas produktu degustācijas uzņēmumā.
+*  Veikt pārtikas produktu ķīmisko rādītāju analīzes atbilstoši standartu prasībām
+* Veikt pārtikas produktu mikrobioloģisko testēšanu atbilstoši standartu prasībām
+* Nolasīt mērījumus, aprēķināt, noformēt un izvērtēt testēšanas rezultātus
+* Pielietot datortehniku un citu biroja tehniku
+* Prast rīkoties ar pārtikas produktu kontroles laboratorijās lietojamām iekārtām un aparātiem
+* Organizēt un nodrošināt svaru un citu mēriekārtu verifikāciju
+* Organizēt un nodrošināt mērtrauku kalibrēšanu
+* Lietot individuālos un kolektīvos aizsardzības līdzekļus laboratorijās
+* Ievērot darba aizsardzības prasības, strādājot ar ķīmiskām vielām un mikroorganismu kultūrām
+* Ievērot ugunsdrošības un elektrodrošības noteikumus
+* Organizēt pirmās palīdzības sniegšanu
+* Ieviest testēšanas dokumentāciju laboratorijās
+* Plānot higiēnas pārbaudes uzņēmumā
+* Organizēt un koordinēt paškontroles sistēmu uzņēmumā atbilstoši kvalitātes nodrošināšanas sistēmas prasībām
+* Organizēt savu un laboratorijas personāla darbu
+* Saskaņot savu darbību ar citu uzņēmuma struktūrvienību speciālistiem
+* Organizēt savu darbu laboratorijā
+* Pārvaldīt valsts valodu
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Ievērot darba tiesisko attiecību noteikumus
+* Ievērot vides aizsardzības noteikumus

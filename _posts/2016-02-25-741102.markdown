@@ -1,0 +1,87 @@
+---
+layout: post
+    
+title: elektromontieris
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 741102
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  elektromontieris veic elektroietaišu un elektroiekārtu montāžas, remonta un ekspluatācijas darbus, vadoties pēc atbilstošās dokumentācijas vai augstākas kvalifikācijas speciālista vadībā.     Elektromontieris strādā uzņēmumos, kuros ir elektroietaises vai elektroiekārtas, vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja izprast un izvērtēt elektroiekārtu montāžas darba uzdevumu, izmantojot veicamo darbu tehnisko dokumentāciju
+* Spēja lasīt un izprast principiālās un montāžas elektriskās shēmas, tehniskās shēmas, tehniskos projektus
+* Spēja novērtēt montējamās elektroiekārtas atbilstību tehniskajai dokumentācijai un tehniskā projekta mērķim
+* Spēja noteikt elektroiekārtas montāžas darbiem nepieciešamos materiālus, to apjomu, izvēlēties un izmantot atbilstošus instrumentus, iekārtas un palīgierīces saskaņā ar veicamā darba tehnisko dokumentāciju
+* Spēja veikt elektroiekārtu montāžas darbus atbilstoši tehniskajai dokumentācijai
+* Spēja veikt atslēdznieka darbus
+* Spēja veikt elektroiekārtu montāžas palīgdarbus
+* Spēja izvēlēties tehniskajām prasībām atbilstošus mēraparātus, pārbaudes iekārtas un instrumentus, veikt un precīzi fiksēt elektrisko un neelektrisko lielumu un vērtību mērījumus
+* Spēja konstatēt un novērtēt neparedzētus bojājumus vai neatbilstības, novērst tās atbilstoši savai kompetencei, izmantojot nepieciešamās tehnoloģijas
+* Spēja precīzi veikt elektroietaišu, elektroiekārtu ekspluatācijas un remonta darbus (plānveida, neplāna) saskaņā ar tehnisko dokumentāciju, izmantojot atbilstošas tehnoloģijas
+* Spēja izveidot un uzturēt elektroietaišu, elektroiekārtu tehnisko dokumentāciju, digitāli un manuāli skicēt, rasēt, lietojot speciālas datora lietojumprogrammas
+* Spēja ievērot darba aizsardzības un ugunsdrošības normatīvo aktu prasības, vajadzības gadījumā atbilstoši rīkoties, veicot elektromontiera darba pienākumus
+* Spēja sniegt pirmo palīdzību
+* Spēja lietot atbilstošus individuālos un kolektīvos aizsardzības līdzekļus un saskaņā ar darba aizsardzības normatīvo aktu prasībām sagatavot darba vietu drošai darba veikšanai
+* Spēja atpazīt un izvēlēties konkrētai situācijai piemērotus ugunsdzēsības līdzekļus
+* Spēja veikt elektromontiera darba pienākumus, ievērojot vides aizsardzības normatīvo aktu prasības, izmantot ķīmiskās vielas un tehnoloģijas, nekaitējot sev un apkārtējai videi
+* Spēja nodrošināt darba procesā radušos atkritumu šķirošanu
+* Spēja atrast, izvērtēt, radoši izmantot jauniegūtās zināšanas elektromontiera darba pienākumu veikšanā un sniegt priekšlikumus darba procesa pilnveidei
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot profesionālās un vispārējās ētikas principus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Izprast elektromontiera darba uzdevumu
+* Sazināties un lietot tehniskos saziņas līdzekļus
+* Lasīt un izprast principiālās un montāžas elektriskās shēmas
+* Lasīt un izprast tehniskās shēmas, skices un tehniskos projektus
+* Pārbaudīt un novērtēt elektroiekārtas atbilstību montāžas dokumentācijai un tehniskā projekta mērķim
+* Izvēlēties montāžas materiālus atbilstoši tehniskajai dokumentācijai
+* Izvēlēties un lietot atbilstošus instrumentus, iekārtas un palīgierīces elektromontāžas darbu veikšanai
+* Lasīt elektromontāžas dokumentāciju
+* Veikt elektromontāžas darbus (guldīt un apdarināt kabeļus, marķēt dzīslas un kabeļus, montēt paneļus, spaiļu skapjus, elektrosadalnes un to vadojumus, montēt zibensaizsardzības sistēmas, montēt zemējuma kontūrus, montēt dzīvojamo, ražošanas un sabiedrisko ēku elektroinstalāciju) atbilstoši dokumentācijai
+* Veikt atslēdznieka darbus (montēt izjaucamus un neizjaucamus savienojumus, taisnot, cirst, liekt, zāģēt, urbt, slīpēt, nostiprināt, griezt montāžas materiālus, griezt vītnes, lodēt)
+* Veikt elektromontāžas palīgdarbus (sagatavot un ierīkot ligzdas, caurumus, renes, ierīkot tapas jeb dībeļus, stiprināt skavas, aizdarināt vadu un zemējuma kopņu caurvada vietas sienās un pārsegumos, rakt, nostiprināt un aizbērt tranšejas, krāsot konstrukciju elementus)
+* Novērtēt savu paveikto darbu, pārliecināties par tā atbilstību tehniskajai dokumentācijai
+* Novērtēt mēraparātu, pārbaudes iekārtu un instrumentu atbilstību izpildāmajam darbam, uzturēt tos darba kārtībā
+* Rīkoties ar atbilstošiem mērinstrumentiem, indikatoriem un pārbaudes iekārtām, veikt un saglabāt elektrisko un neelektrisko lielumu un vērtību mērījumus
+* Veikt elektroietaišu un elektroiekārtu apskati, konstatēt to bojājumus
+* Novērtēt elektroietaišu, elektroiekārtu bojājumus un defektus, novērst tos atbilstoši savai kompetencei
+* Veikt elektroietaišu, elektroiekārtu ekspluatācijas un remonta darbus atbilstoši tehnoloģiskajai dokumentācijai
+* Digitāli un manuāli skicēt, rasēt, veikt korekcijas elektriskajās un montāžas shēmās
+* Izveidot, aizpildīt un uzturēt elektroietaišu, elektroiekārtu tehnisko dokumentāciju (elektriskās shēmas, ekspluatācijas instrukcijas, pārslēgumu kartes, uzliktņu/pārslēdžu kartes, pārbaužu protokolus)
+* Pārzināt elektromontiera darba aizsardzības reglamentējošo dokumentāciju, veikt darbu saskaņā ar darba aizsardzības normatīvo aktu prasībām
+* Izvērtēt iespējamos riskus
+* Sniegt pirmo palīdzību
+* Ievērot ugunsdrošības normatīvo aktu prasības, izmantot ugunsdzēsības līdzekļus
+* Izvēlēties un lietot atbilstošus individuālos un kolektīvos darba aizsardzības līdzekļus
+* Patstāvīgi organizēt savu darbu, analizēt darba gaitu, uzņemties atbildību par sava darba rezultātu
+* Sagatavot darba vietu drošai darba veikšanai
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Ievērot ķīmisko vielu glabāšanas un lietošanas noteikumus, izmantot ķīmisko vielu absorbentus
+* Šķirot elektromontiera darba procesā radušos atkritumus
+* Veikt elektromontiera darbu, lietojot videi draudzīgas tehnoloģijas un materiālus
+* Iegūt informāciju un nepārtraukti sekot līdzi ar elektromontiera darbu saistītām novitātēm, kā arī lietot šīs zināšanas elektromontiera darba veikšanā
+* Pamatot savu viedokli un sadarboties ar citiem speciālistiem
+* Izvēlēties atbilstošas informācijas tehnoloģiju lietojumprogrammas un pilnveidot zināšanas
+* Ievērot darba tiesisko attiecību normas
+* Ievērot profesionālās un vispārējās ētikas principus
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī

@@ -1,0 +1,67 @@
+---
+layout: post
+    
+title: bibliotekārs
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 343301
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* bibliotekārs sniedz bibliotēkas un informācijas pakalpojumus uz vietas, tiešsaistē un attālināti; popularizē bibliotēku un tās piedāvājumus; komplektē un kataloģizē iespiestos un elektroniskos dokumentus; pārzina bibliotēku informācijas sistēmas un resursus.
+* Bibliotekārs strādā akadēmiskajās, speciālajās, publiskajās, izglītības iestāžu bibliotēkās un informācijas centros.
+
+### Kompetences
+
+* Spēja orientēties Latvijas bibliotēku sistēmas uzbūvē, bibliotēku tipoloģijā un bibliotēku nozares darbībā.
+* Spēja organizēt bibliotēkas vai tās struktūrvienības sadarbību ar citām bibliotēkas struktūrvienībām, bibliotēkām un institūcijām.
+* Spēja motivēt sabiedrību bibliotēkas resursu un pakalpojumu izmantošanai.
+* Spēja iekļauties vietējās kopienas un tās institūciju darbības stratēģijās un to īstenošanā.
+* Spēja organizēt un sniegt bibliotēkas un informācijas pakalpojumus.
+* Spēja veidot radošai un informatīvai darbībai labvēlīgu vidi darbā ar bibliotēkas lietotājiem.
+* Spēja pārvaldīt bibliotēkas krājumus.
+* Spēja izmantot citu bibliotēku un institūciju krājumus un informācijas resursus pakalpojumu sniegšanā.
+* Spēja izmantot informācijas un komunikācijas tehnoloģijas un biroja tehniku darba uzdevumu veikšanai.
+* Spēja sazināties ar bibliotēkas lietotājiem mutvārdos, lietišķajā sarakstē, pa telefonu un elektroniski, noformēt dokumentus atbilstoši darba uzdevumam.
+* Spēja veidot prezentācijas, iesaistīties projektos.
+* Spēja sagatavot racionālus priekšlikumus bibliotēkas attīstības plānošanai.
+* Spēja komunicēt un sadarboties ar kolēģiem, bibliotēkas lietotājiem un saistīto profesiju speciālistiem, uzklausīt citus un argumentēti skaidrot savu viedokli.
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu.
+* Spēja sazināties valsts valodā un vienā svešvalodā un lietot tās informācijas resursu meklēšanā un izmantošanā.
+* Spēja ievērot profesionālās ētikas principus un darba tiesisko attiecību normas.
+* Spēja regulāri un patstāvīgi sekot bibliotēku nozares aktualitātēm un iepazīties ar tām.
+* Spēja izvērtēt iegūtās zināšanas un prasmes un pastāvīgi pilnveidot profesionālo kvalifikāciju.
+* Spēja adekvāti rīkoties nestandarta situācijās.
+* Spēja ievērot darba un vides aizsardzības normatīvo aktu prasības, elektrodrošības un ugunsdrošības noteikumus un sniegt pirmo palīdzību.
+
+### Prasmes 
+* Pārzināt un pielietot bibliotēku nozares normatīvos dokumentus.
+* Plānot bibliotēkas vai bibliotēkas struktūrvienības darbu, sagatavot un īstenot darba plānošanas un organizēšanas dokumentus.
+* Pārzināt un lietot bibliotēkas informācijas sistēmu un informācijas un komunikācijas tehnoloģijas.
+* Meklēt, iegūt, analizēt, vērtēt informāciju un informācijas resursus.
+* Nodrošināt bibliotēkas krājuma veidošanu, papildināšanu, uzskaiti, uzturēšanu un informācijas dokumentu glabāšanu, pieejamību un izmantošanu bibliotēkas lietotājiem.
+* Sistematizēt, klasificēt un kataloģizēt iespieddarbus un citus informācijas dokumentus, kā arī prezentēt iegūtos rezultātus.
+* Ievērot datu aizsardzību un lietotāju tiesības.
+* Veidot profesionālu saskarsmi ar dažādām bibliotēkas lietotāju grupām, ievērojot profesionālās un vispārējās ētikas pamatprincipus.
+* Popularizēt bibliotēku un bibliotēkas pakalpojumus.
+* Veicināt bibliotēkas lietotāju informācijpratību un lasītprasmi.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu saziņas līmenī.
+* Lietot bibliotēku nozares terminoloģiju valsts valodā un vienā svešvalodā.
+* Strādāt individuāli un grupā.
+* Sniegt tiešos un attālinātos pakalpojumus.
+* Sadarboties ar bibliotēkas dibinātāju, valsts pārvaldes un nevalstiskajām institūcijām, kā arī citām bibliotēkām.
+* Pilnveidot profesionālo kvalifikāciju.
+* Ievērot darba aizsardzības, ugunsdrošības un elektrodrošības normatīvo aktu prasības.
+* Sniegt pirmo palīdzību.
+* Ievērot vides aizsardzības normatīvo aktu prasības.
+* Ievērot darba tiesisko attiecību normas.

@@ -1,0 +1,84 @@
+---
+layout: post
+    
+title: mašīnbūves tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311535
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* mašīnbūves tehniķis ir mašīnbūves un metālapstrādes ražošanas nozares speciālists, kurš sadarbībā ar dažāda līmeņa metālapstrādes speciālistiem piedalās metālapstrādes tehnoloģiskā procesa sagatavošanā un realizēšanā; izstrādā apstrādes un montāžas tehnoloģiskos procesus, konstruē vienkāršus mezglus, veic aprēķinus, tehniski sagatavo iekārtas darbam atbilstoši tehnoloģiskajam procesam; strādā ar tehnisko dokumentāciju un veic tajā nepieciešamās izmaiņas; strādā ar mašīnbūvē pielietojamiem materiāliem atbilstoši ražošanas, remontdarbu un palīgprocesu prasībām. 
+* Mašīnbūves tehniķis strādā mašīnbūves un metālapstrādes uzņēmumos vai kā pašnodarbināta persona, vai individuālais komersants. 	 
+
+### Kompetences
+
+* Spēja noteikt nepieciešamo resursu apjomu un racionāli saplānot metālapstrādes procesu
+* Spēja uzņemties atbildību par sava darba norisi un rezultātiem
+* Spēja novērtēt tehnoloģisko iekārtu tehnisko stāvokli
+* Spēja novērtēt instrumentu un palīgierīču atbilstību tehnoloģiskajam procesam
+* Spēja novērtēt izejvielu un palīgmateriālu atbilstību kvalitātes prasībām
+* Spēja novērtēt ražošanas līdzekļu atbilstību darba drošības prasībām
+* Spēja lasīt rasējumus, tehnoloģiskās kartes un izprast vadības programmas
+* Spēja izstrādāt tehnoloģiskā procesa secību un tehnoloģisko dokumentāciju ražošanas procesa nodrošināšanai
+* Spēja pielietot tehnoloģiskās iekārtas atbilstoši to funkcijām ražošanas procesā
+* Spēja kontrolēt tehnoloģiskā procesa ievērošanu
+* Spēja laikus un operatīvi koriģēt ražošanas procesu un veikt korekcijas tehnoloģiskajā dokumentācijā
+* Spēja veikt uzskaiti ražošanas procesa nodrošināšanai ar rezerves detaļām, instrumentiem un materiāliem, izmantojot informāciju tehnoloģijas
+* Spēja strādāt komandā un sadarboties ar citiem speciālistiem ražošanas procesa nodrošināšanai
+* Spēja nodrošināt iekārtu darbību, pielietojot atbilstošus materiālus, instrumentus un palīgierīces, atbilstoši iekārtu ekspluatācijas un apkopes noteikumiem
+* Spēja praktiski pielietot elektrodrošības un ugunsdrošības noteikumu prasības darba vidē
+* Spēja veikt darba pienākumus tehnoloģiskā procesa sagatavošanā un realizēšanā, ievērojot vides aizsardzības prasības
+* Spēja patstāvīgi pilnveidot savas profesionālās zināšanas un prasmes
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Izstrādāt metālapstrādes tehnoloģiskā procesa secību
+* Noformēt tehnoloģisko dokumentāciju
+* Lasīt mehāniskās, pneimatiskās, hidrauliskās un elektriskās shēmas
+* Lasīt kopsalikuma rasējumus un tehnoloģiskās kartes
+* Veikt tehnoloģisko iekārtu tehniski ekonomisko analīzi
+* Veikt izmaiņas tehnoloģiskajā dokumentācijā atbilstoši izmaiņām ražošanas procesā
+* Sagatavot nepieciešamo materiālu un iekārtu specifikācijas
+* Pārraudzīt tehnoloģiskā procesa ievērošanu un iekārtu ekspluatācijas noteikumus
+* Lietot vadības programmas operatīvo pulti un ārējo programmas nesēju
+* Aprēķināt griešanas režīmus
+* Izmainīt instrumentu un detaļu stāvokli darbagaldā
+* Pielietot metālapstrādes darbagaldus un griezējinstrumentus
+* Izvēlēties un sagatavot darbam mērinstrumentus, ierīces un sagataves
+* Pārbaudīt materiālu kvalitāti un atbilstību ražošanas procesam
+* Atpazīt un pielietot metāliskos materiālus: tēraudu, čugunu un krāsainos metālus
+* Atpazīt un izmantot lietojamos materiālus remontdarbos, palīgražošanā un pamatražošanā
+* Pamatot izejmateriālu, instrumentu un enerģijas patēriņu atbilstoši ražošanas procesam
+* Sagatavot iekārtu un mezglu remonta un apkopes dokumentāciju
+* Sagatavot pasūtījumu sagatavju izgatavošanai, norādot pamatizmērus un materiālu
+* Izstrādāt detaļu un mezglu skices
+* Veikt materiālu uzskaiti
+* Sagatavot pārskatus par izmantotajiem ražošanas resursiem
+* Aprēķināt nepieciešamo rezerves detaļu daudzumu un noformēt pasūtījumu
+* Sagatavot materiālu norakstīšanas dokumentus
+* Ievērot drošības instrukciju prasības darba vietā un lietot individuālos aizsardzības līdzekļus
+* Ievērot darba aizsardzības, elektrodrošības un ugunsdrošības noteikumus
+* Sniegt pirmo palīdzību
+* Veikt darba pienākumus atbilstoši vides aizsardzības prasībām
+* Orientēties darba vides riska izvērtēšanā
+* Izmantot informāciju tehnoloģiju iespējas un tehniskos katalogus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Izvērtēt izstrādes normu ekonomiskumu
+* Sadarboties komandā
+* Sadarboties ar citu struktūrvienību speciālistiem
+* Izprast struktūrvienības plānojuma dokumentāciju
+* Aizpildīt darba laika uzskaites lapas

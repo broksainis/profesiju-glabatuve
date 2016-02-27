@@ -1,0 +1,87 @@
+---
+layout: post
+    
+title: ķīmisko un biotehnoloģisko iekārtu mehāniķis
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 723326
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* rūpniecisko iekārtu mehāniķis plāno, organizē un veic rūpniecības (ķīmisko, biotehnoloģisko, farmaceitisko, poligrāfijas, kokapstrādes, metālapstrādes, tekstilražošanas) tehnoloģisko iekārtu, iekārtu mezglu un ierīču (turpmāk – iekārtas, iekārtu mezgli un ierīces) montāžu un demontāžu, nodošanu ekspluatācijā, ekspluatāciju, apkalpošanu un remontu; nodrošina darba aizsardzības prasību ievērošanu iekārtu, iekārtu mezglu un ierīču montāžas, ekspluatācijas, apkalpošanas un remonta laikā.
+* Rūpniecisko iekārtu mehāniķis strādā rūpniecības uzņēmumos.
+
+### Kompetences
+
+* Spēja plānot, organizēt un patstāvīgi veikt iekārtu, ierīču montāžu un demontāžu, iekārtu un to mezglu remonta darbus.
+* Spēja novērtēt iekārtu, iekārtu mezglu un ierīču bojājumus un to cēloņus, veikt bojātu detaļu defektāciju.
+* Spēja novērtēt un veikt priekšdarbus iekārtu, iekārtu mezglu un ierīču sagatavošanai remonta darbiem.
+* Spēja veikt dažādus iekārtu, iekārtu mezglu un ierīču remonta darbus.
+* Spēja precīzi izgatavot un apstrādāt vienkāršas iekārtu detaļas.
+* Spēja lasīt un saprast rasējumus, tehnisko un remonta dokumentāciju, kā arī lietot iegūto informāciju darbā.
+* Spēja uzturēt iekārtas darba kārtībā atbilstoši reglamentējošās dokumentācijas prasībām.
+* Spēja izpildīt iekārtu plānotās un ārkārtas tehniskās apskates, apkopes un remontus.
+* Spēja lietot mērinstrumentus un novērtēt kontroles rezultātus.
+* Spēja izvēlēties un lietot iekārtu mezglu salikšanas un izjaukšanas instrumentus un ierīces.
+* Spēja veikt darba pienākumus (tajā skaitā lietot atbilstošas iekārtas un ierīces, darba instrumentus, materiālus, darba apģērbu, individuālos un kolektīvos aizsardzības līdzekļus) atbilstoši darba aizsardzības normatīvo aktu prasībām.
+* Spēja ievērot sprādziendrošības, ugunsdrošības un elektrodrošības noteikumu prasības, ja nepieciešams, atbilstoši rīkoties un sniegt pirmo palīdzību.
+* Spēja izprast un ievērot vides aizsardzības normatīvo aktu prasības, kā arī veikt darba pienākumus, nekaitējot videi.
+* Spēja atpazīt drošības signālus un zīmes un atbilstoši rīkoties.
+* Spēja ievērot higiēnas prasības.
+* Spēja plānot un organizēt savu darbu.
+* Spēja saskaņot savu darbību ar dažādu līmeņu speciālistiem.
+* Spēja ievērot profesionālās saskarsmes principus.
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Spēja risināt darba procesā radušās problēmas savas kompetences ietvaros.
+* Spēja atbildēt par savu rīcību, darba rezultātiem, racionālu darba laika un resursu izmantošanu.
+* Spēja dažādos informācijas avotos atrast, atlasīt un izmantot darbam nepieciešamo tehnisko informāciju.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja pašizglītoties un pilnveidot profesionālās kompetences.
+
+### Prasmes 
+* Plānot iekārtu, iekārtu mezglu un ierīču montāžas, demontāžas, remonta un apkalpošanas darbus.
+* Organizēt iekārtu, iekārtu mezglu un ierīču montāžas, demontāžas, remonta un apkalpošanas darbus.
+* Veikt iekārtu, iekārtu mezglu un ierīču montāžas, demontāžas, remonta un apkalpošanas darbus.
+* Pārbaudīt iekārtu tehnisko stāvokli pirms nodošanas ekspluatācijā.
+* Veikt vienkāršus metālapstrādes darbus.
+* Noteikt iekārtu, detaļu defektus un noteikt remonta veidus to labošanai.
+* Veikt vai organizēt nolietojušos detaļu atjaunošanas darbus un iekārtu mezglu nomaiņu.
+* Ievērot un kontrolēt iekārtu ekspluatācijas režīmu saskaņā ar iekārtas ekspluatācijas instrukciju.
+* Veikt iekārtu, iekārtu mezglu un ierīču tehniskā stāvokļa monitoringu un diagnostiku.
+* Noteikt iekārtu avāriju un bojājumu cēloņus un rīkoties atbilstoši instrukcijām.
+* Lietot mērinstrumentus.
+* Lasīt kontrolmērinstrumentu rādījumus.
+* Novērtēt kontroles rezultātus.
+* Lasīt kopsalikuma un detaļu rasējumus un iekārtu sistēmu principiālās shēmas, tajā skaitā tehnoloģiskās, hidrauliskās, pneimatiskās un kinemātiskās.
+* Izstrādāt detaļu darba rasējumus un skices.
+* Aizpildīt iekārtu montāžas, demontāžas, ekspluatācijas, apkalpošanas un remonta dokumentus.
+* Lietot informācijas tehnoloģijas un biroja tehniku.
+* Pielietot labas ražošanas prakses un citu kvalitātes sistēmu standartus.
+* Ievērot darba aizsardzības, ugunsdrošības un elektrodrošības normatīvo aktu prasības.
+* Sniegt pirmo palīdzību.
+* Ievērot vides aizsardzības normatīvo aktu prasības.
+* Lietot drošības zīmes un signālus.
+* Strādāt patstāvīgi un komandā.
+* Saskaņot savu darbību ar dažādu līmeņu speciālistiem.
+* Plānot un organizēt savu darbu.
+* Uzņemties atbildību par sava darba rezultātiem.
+* Risināt darba procesā radušās problēmas savas kompetences ietvaros.
+* Ievērot higiēnas prasības.
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Ievērot profesionālās saskarsmes principus.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās.
+* Lietot ar profesionālo darbību saistītos normatīvos aktus.
+* Ievērot darba tiesisko attiecību normas.
+* Pilnveidot savas profesionālās kompetences, iegūt un izvērtēt jaunu darbam nepieciešamu informāciju.

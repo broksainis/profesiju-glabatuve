@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: motorzāģa operators
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 621020
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  motorzāģa operators gatavo kokmateriālus cirsmā ar ķēdes motorzāģi atbilstoši noteiktajam sortimentam; kopj jaunaudzes un meža kultūras ar krūmgriezi; spēj veikt ķēdes motorzāģa un krūmgrieža (turpmāk – motorzāģis) apkopes.     Motorzāģa operators strādā mežizstrādes uzņēmumā vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja noteikt cirsmas atrašanās vietu atbilstoši meža topogrāfiskajai kartei un sagatavot cirsmu darbam
+* Spēja izpildīt cirsmas izstrādes darbus atbilstoši norādēm cirsmas izstrādes tehnoloģiskajā kartē
+* Spēja izpildīt meža izstrādes darbus, izmantojot ergonomiskus un efektīvus darba paņēmienus un instrumentus
+* Spēja, izmantojot motorzāģi, mežā nogāzt koku, to atzarot un sagarumot kokmateriālus atbilstoši noteiktajam sortimentam
+* Spēja krautnēt zarus atbilstoši mežizstrādes tehnoloģiskajām prasībām
+* Spēja uzmērīt sagatavotos kokmateriālus atbilstoši kokmateriālu uzmērīšanas standartam
+* Spēja kvalitatīvi veikt kopšanas cirti vai meža kultūru kopšanu, izvēloties konkrētam uzdevumam atbilstošu motorzāģa griezējinstrumentu
+* Spēja sagatavot motorzāģi darbam, veikt tā apkopi un nelielu remontu darba vietā
+* Spēja noteikt riskus darba vietā, izmantot drošus darba paņēmienus, kā arī individuālos un kolektīvos darba aizsardzības līdzekļus, izpildot darba uzdevumus
+* Spēja sniegt pirmo palīdzību
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja izprast un ievērot darba aizsardzības un vides aizsardzības normatīvo aktu prasības
+* Spēja noteikt saglabājamus bioloģiski nozīmīgus meža struktūras elementus un ievērot dabas aizsardzības normatīvo aktu prasības
+* Spēja ievērot ugunsdrošības normatīvo aktu prasības, vajadzības gadījumā atbilstoši reaģēt
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Lasīt mežaudžu karti, plānu un cirsmas izstrādes tehnoloģisko karti
+* Cirst pamežu
+* Gāzt kokus un novākt bīstamos kokus
+* Iezīmēt tehnoloģiskos koridorus
+* Atzarot stumbru un izvērtēt stumbra kvalitāti
+* Sazāģēt stumbrus sortimentos
+* Šķirot atsevišķi kraujamos kokmateriālus atbilstoši noteiktajam sortimentam
+* Izvērtēt augsnes nestspēju (augsnes spēja pretoties tehnikas spiedienam)
+* Krautnēt zarus kaudzēs un izvietot zarus uz pievešanas ceļa
+* Uzmērīt un noteikt kokmateriāla sortimentu apjomu
+* Izvēlēties atbilstošu griezējinstrumentu konkrētā uzdevuma veikšanai
+* Pļaut krūmus un zāli
+* Izmantot atslēdznieka un mežizstrādes instrumentus
+* Izmantot asināšanas piederumus, asināt motorzāģa griezējinstrumentus
+* Izvēlēties degvielas veidu un pareizās degvielas sajaukšanas proporcijas ar eļļu un iepildīt to motorzāģos
+* Lietot eļļas un degvielas absorbējošus materiālus
+* Veikt motorzāģu ikdienas un periodiskās apkopes
+* Ievērot darba aizsardzības, elektrodrošības un ugunsdrošības normatīvo aktu prasības
+* Lietot individuālos un kolektīvos darba aizsardzības līdzekļus
+* Plānot sava darba režīmu
+* Sniegt pirmo palīdzību
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Saglabāt bioloģiski nozīmīgus meža struktūras elementus cirsmā un ievērot dabas aizsardzības prasības
+* Veikt darba pienākumus saskaņā ar Mežu uzraudzības padomes (FSC – _Forest Stewardship Council_) un Meža sertifikācijas shēmu novērtēšanas programmas (PEFC – _Programme for Endorsement of Forest Certification_) mežsaimniecības sertificēšanas standartiem.
+*  Izmantot ergonomiskus paņēmienus darbā ar motorzāģi kokmateriālu pārvietošanā un kraušanā
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Prast rīkoties ugunsgrēka, elektrotraumu un citu avāriju gadījumos
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību normas

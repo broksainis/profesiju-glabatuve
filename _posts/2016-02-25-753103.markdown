@@ -1,0 +1,77 @@
+---
+layout: post
+    
+title: drēbnieks
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 753103
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  drēbnieks konstruē pamatpiegrieztnes, modelē, piegriež un izgatavo šūto izstrādājumu (turpmāk – izstrādājums) saskaņā ar klienta vēlmēm, izmantojot atbilstošas iekārtas, instrumentus, materiālus un tehnoloģiskos paņēmienus, strādājot komandā vai individuāli.     Drēbnieks var strādāt tekstilrūpniecības nozares uzņēmumos, kas ražo izstrādājumus vai izpilda individuālus pasūtījumus, vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja veidot pozitīvu saskarsmi ar klientu
+* Spēja sadarboties ar klientu šūtā izstrādājuma izgatavošanā, ievērojot viņa vēlmes un auguma individuālās īpatnības
+* Spēja veikt aprēķinus un konstruēt dažādu izstrādājumu pamatpiegrieztnes, lietojot atbilstošas konstruēšanas metodes un atbilstošus instrumentus
+* Spēja modelēt piegrieztnes, izmantojot nepieciešamos instrumentus
+* Spēja piegriezt izstrādājumu, ievērojot materiāla virzienu un rakstu
+* Spēja sagatavot darba vietu atbilstoši dotajam uzdevumam, izvēloties attiecīgus palīgmateriālus, instrumentus, šūšanas iekārtas un to palīgierīces
+* Spēja sagatavot izstrādājumus pielaikošanai, pielaikot tos un veikt nepieciešamās korekcijas
+* Spēja patstāvīgi izvēlēties izstrādājumu izgatavošanas secību, tehnoloģiju un kvalitatīvi sašūt izstrādājumus, izmantojot atbilstošās iekārtas un instrumentus
+* Spēja novērst sīku defektu šūšanas un higrotermisko iekārtu darbībā, ievērojot iekārtu tehniskās dokumentācijas prasības
+* Spēja veikt izstrādājumu izgatavošanas starpoperācijas un beigu higrotermisko apstrādi, izmantojot atbilstošas palīgierīces.
+*  Spēja veikt šūšanas iekārtu tehnisko apkopi
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot savai un citu personu veselībai.
+*  Spēja pieņemt pasūtījumus un noformēt dokumentus atbilstoši šīs darbības reglamentējošai dokumentācijai
+* Spēja sadarboties ar citu profesiju pārstāvjiem un uzņēmumiem aktuālu jautājumu risināšanā
+* Spēja lietot informācijas meklēšanas un atlases līdzekļus
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot profesionālās un vispārējās ētikas principus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Konstruēt pamatpiegrieztni
+* Modelēt piegrieztni atbilstoši izvēlētajam modelim
+* veidot piegrieztņu vai lekālu izklājumus
+* veikt auguma mērījumus, izmantojot atbilstošus mērinstrumentus
+* Piegriezt izstrādājumu atbilstoši tehnoloģiskajiem noteikumiem
+* laikot un veikt izmaiņas pēc laikošanas
+* Lietot atbilstošus materiālus un iekārtas izstrādājuma higrotermiskai apstrādei
+* izvēlēties veicamajam darbam atbilstošas šūšanas iekārtas un palīgierīces
+* kvalitatīvi sašūt izstrādājumu atbilstoši tehnoloģiskai secībai
+* veikt starpoperāciju un gatavā izstrādājuma higrotermisko apstrādi
+* kontrolēt un novērtēt sava darba kvalitāti
+* veikt iekārtu tehnoloģiskās regulēšanas atbilstoši paredzētajiem šūšanas un higrotermiskās apstrādes parametriem
+* Novērst sīku defektu šūšanas un higrotermisko iekārtu darbībā
+* noteikt materiāla īpašības un atbilstību izvēlētajam izstrādājumam
+* Lietot auduma dekorēšanas tehnikas
+* sadarboties ar vadītāju un kolēģiem, veidot pozitīvu saskarsmi ar klientu
+* elastīgi risināt problēmsituācijas
+* Ievērot profesionālās un vispārējās ētikas principus
+* Lietot informācijas tehnoloģijas savas profesionālās darbības veikšanai
+* Atbildēt par darba rezultātiem, racionāla darba laika un resursu izmantošanu
+* iekārtot darba vietu atbilstoši veicamajam uzdevumam
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* ievērot vides aizsardzības normatīvo aktu prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Sniegt pirmo palīdzību
+* Ievērot darba tiesisko attiecību normas

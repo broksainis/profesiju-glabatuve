@@ -1,0 +1,71 @@
+---
+layout: post
+    
+title: ugunsdzēsības sistēmu montētājs
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 711913
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* inženierkomunikāciju montētājs atbilstoši tehniskajam uzdevumam veic konkrētu iekšējo un ārējo inženierkomunikāciju montāžas, ekspluatācijas un remonta darbus, tai skaitā siltumapgādes, apkures, vēdināšanas, gaisa kondicionēšanas, dzesēšanas, ūdensapgādes, ugunsdzēsības, kanalizācijas, gāzes apgādes un citās inženierkomunikāciju tehnoloģiskās sistēmās (turpmāk - inženierkomunikācijas), izmantojot atbilstošas iekārtas, instrumentus un tehnoloģiskos paņēmienus, strādājot komandā vai individuāli un ievērojot darba aizsardzības, ugunsdrošības un vides noteikumus.
+* Inženierkomunikāciju montētājs strādā uzņēmumos, kas nodarbojas ar inženierkomunikāciju izbūves, ekspluatācijas, uzturēšanas un remonta darbiem, vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja ievērot darba aizsardzības, elektrodrošības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības, lietot individuālos aizsardzības līdzekļus.
+* Spēja lasīt tehniskā būvprojekta dokumentāciju un sagatavoties darbam atbilstoši darba uzdevumiem.
+* Spēja efektīvi veikt savu darbu, izmantojot pieejamos resursus, atbilstoši inženierkomunikāciju montāžas darbu tehnoloģijai un darbības principiem.
+* Spēja veikt sanitārtehnikas, inženierkomunikāciju un to iekārtu montāžu, pārbaudi, ieregulēšanu un palaišanu ekspluatācijā, izmantojot atbilstošas iekārtas un instrumentus, tehnoloģiskos paņēmienus un darba materiālus.
+* Spēja nodrošināt inženierkomunikāciju darbu saskaņā ar ekspluatācijas instrukcijām, apkalpošanas un kvalitātes prasībām.
+* Spēja veikt nepieciešamos remonta darbus.
+* Spēja lietot un kopt inženierkomunikāciju montāžas profesionālos un specifiskos instrumentus, sekojot līdzi to tehniskajam stāvoklim.
+* Spēja veikt sanitārtehnikas, inženierkomunikāciju un to iekārtu ekspluatācijas apkalpošanu, remontu un inženierkomunikāciju sistēmu darba stāvokļa atjaunošanu, izmantojot atbilstošas iekārtas un instrumentus, tehnoloģiskos paņēmienus un darba materiālus.
+* Spēja izprast un lietot inženierkomunikāciju izpilddokumentāciju, ekspluatācijas instrukcijas, armatūru numerāciju un marķējumu.
+* Spēja izprast un ievērot ražotāja noteiktās materiālu specifiskās uzglabāšanas un montāžas noteikumus.
+* Spēja izvēlēties atbilstošu inženierkomunikāciju armatūras montāžas vietu atbilstoši ekspluatācijas nosacījumiem.
+* Spēja kontrolēt izpildītā darba kvalitāti.
+* Spēja noteikt inženierkomunikāciju sistēmu bojājumus, novērst avārijas situācijas un veikt nepieciešamos remonta darbus.
+* Spēja ievērot profesionālās un vispārējās ētikas principus.
+* Spēja sniegt pirmo palīdzību.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu.
+
+### Prasmes 
+* Veikt darba pienākumus atbilstoši darba aizsardzības, elektrodrošības, ugunsdrošības un vides aizsardzības normatīvo aktu prasībām.
+* Lietot individuālos aizsardzības līdzekļus.
+* Lasīt būvprojekta dokumentāciju.
+* Izprast individuāli veicamo darbu specifiku atbilstoši darba uzdevumam un izvēlēties atbilstošus darba materiālus un instrumentus, t.sk. sagatavot montāžai nepieciešamo materiālu sarakstu.
+* Savienot dažādu veidu materiālu cauruļvadus un gaisa vadus.
+* Veikt cauruļvadu un gaisa vadu stiprinājumu montāžu atbilstoši tehniskā projekta prasībām un cauruļvadu ražotāja prasībām.
+* Izvēlēties iekārtas, cauruļvadus, gaisa vadus, noslēdzošo, regulēšanas armatūru un to montāžas vietu.
+* Izprast inženierkomunikāciju sistēmas ekspluatācijas īpatnības.
+* Veikt sanitārtehnisko un inženiertehnisko iekārtu un sistēmu montāžu.
+* Strādāt ar dažādu materiālu cauruļvadu un gaisa vadu izolāciju.
+* Strādāt ar inženierkomunikāciju armatūru.
+* Vizuāli noteikt inženierkomunikāciju montāžas darbos izmantojamā materiāla bojājumus un tā neatbilstību.
+* Veikt atbilstošu materiāla uzglabāšanu darba vietā.
+* Noteikt instrumentu atbilstību veicamajiem inženierkomunikāciju montāžas darbiem.
+* Izmantot darbā inženierkomunikāciju montāžas profesionālos un specifiskos instrumentus, uzturot tos tehniskā kārtībā.
+* Veikt samontēto sistēmu pārbaudi.
+* Lietot darba izpilddokumentāciju, ekspluatācijas instrukcijas un atbilstoši tām marķēt inženierkomunikācijas un numurēt armatūru.
+* Veikt inženierkomunikāciju apkalpošanu un paveikto darbu kvalitātes kontroli.
+* Identificēt remontējamos inženierkomunikāciju elementus.
+* Veikt inženierkomunikāciju remontu un paveikto darbu kvalitātes kontroli.
+* Atjaunot inženierkomunikāciju sistēmu darba stāvoklī pēc remonta darbiem.
+* Patstāvīgi organizēt savu darbu, analizēt darba gaitu, uzņemties atbildību par sava darba rezultātu.
+* Sniegt pirmo palīdzību.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Ievērot darba tiesisko attiecību normas.

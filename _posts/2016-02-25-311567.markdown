@@ -1,0 +1,70 @@
+---
+layout: post
+    
+title: aukstumtehnikas speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311567
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* aukstumtehnikas speciālists nodarbojas ar aukstuma iekārtu un sistēmu projektēšanu, ražošanu, uzstādīšanu, regulēšanu, apkalpošanu un komplektāciju, ievērojot jaunākos aukstumtehnikas attīstības sasniegumus; prot strādāt atbilstoši Eiropas standartu prasībām; nodrošina normatīvo aktu ievērošanu aukstuma nozarē; organizē un kontrolē cilvēkiem un videi drošu aukstumiekārtu ekspluatāciju; veic kvalitātes vadību un kontroli. 
+* Aukstumtehnikas speciālists strādā uzņēmumos un projektēšanas organizācijās. 
+
+### Kompetences
+
+* Spēja kontrolēt aukstumiekārtu tehnisko stāvokli un to ekspluatācijas noteikumu izpildīšanu
+* Spēja kontrolēt saldēšanas iekārtu izmantošanas drošības tehnikas ievērošanu
+* Spēja plānot un organizēt saldēšanas pamatiekārtu un palīgiekārtu remontu
+* Spēja organizēt un veikt aukstumiekārtu montāžu, tehnisko apkalpošanu un remontu
+* Spēja kontrolēt aukstumiekārtu tehnisko stāvokli, veicamo montāžas un remonta darbu kvalitāti
+* Spēja operatīvi pieņemt pareizus lēmumus konkrētajās ražošanas situācijās
+* Spēja analizēt ražošanas vājās vietas un novērtēt paredzamās, notiekošās vai jau pabeigtās atsevišķu posmu vai uzņēmuma struktūrvienību rekonstrukcijas jautājumus
+* Spēja sadarboties ar padoto personālu, uzņēmuma speciālistiem un vadību
+* Spēja noteikt aukstumkameru un saldēšanas kameru būvizolācijas īpatnības
+* Spēja sniegt raksturojumu siltumizolācijas materiāliem
+* Spēja piemērot darba tiesiskās attiecības reglamentējošos normatīvos aktus
+* Spēja konsultēt darbiniekus par kompetencē esošiem jautājumiem
+* Spēja izvērtēt uzņēmuma aukstumiekārtu struktūrvienības ēku būvkonstrukcijas un sastādīt pamatiekārtu un palīgiekārtu izvietošanas plānu struktūrvienībā
+* Spēja aprēķināt aukstumiekārtu struktūrvienības pašizmaksas par aukstuma vienību
+* Spēja ievērot prasības, veicot darbības ar aukstuma aģentiem, lai novērstu iespējamās aukstuma aģenta noplūdes
+* Spēja veikt pasākumus, lai novērstu konstatētās aukstuma aģenta noplūdes
+* Spēja nodrošināt vides un darba aizsardzības normatīvo aktu prasību izpildi
+* Spēja sazināties valsts valodā augstākajā līmenī un divās svešvalodās
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+
+### Prasmes 
+* Prast sastādīt aukstumiekārtu plānojumu uzņēmumā
+* Veikt aukstumiekārtu montāžu un demontāžu
+* Lasīt un izprast aukstumiekārtu un telpu rasējumus
+* Lasīt elektriskās shēmas
+* Lasīt tehnisko dokumentāciju un novērtēt iekārtu specifikācijas
+* Veikt aparatūras hidraulisko, pneimatisko un izturības pārbaudi
+* Prast ekspluatēt aukstumiekārtas, kompresoru agregātus, kondensatorus, resiverus, iztvaikotājus, palīgierīces, amonjaka un ūdens sūkņus
+* Prast regulēt aukstumiekārtu darbību
+* Veikt aukstumiekārtu tehnisko apkopi
+* Prast plānot un organizēt savu darbu
+* Prast kontrolēt aukstumiekārtas izmantošanas drošības tehnikas ievērošanu
+* Prast sastādīt novērtējumu par saldēšanas iekārtu kvantitatīvo un kvalitatīvo darbību
+* Prast strādāt komandā
+* Prast risināt problēmsituācijas
+* Sistemātiski pilnveidot savu profesionālo kvalifikāciju
+* Pārvaldīt valsts valodu augstākajā līmenī
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Prast strādāt ar biroja tehniku un datorprogrammām
+* Argumentēt savu viedokli, pārliecināt citus un risināt konfliktsituācijas
+* Ievērot profesionālos un vispārīgos ētikas principus
+* Ievērot darba aizsardzības, ugunsdrošības un higiēnas prasības
+* Ievērot darba tiesisko attiecību noteikumus

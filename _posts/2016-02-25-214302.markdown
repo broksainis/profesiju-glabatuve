@@ -1,0 +1,75 @@
+---
+layout: post
+    
+title: vides tehnologs
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214302
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* vides tehnologs veic vides tehnoloģiju un vides kvalitāti nodrošinošu tehnoloģisko risinājumu izstrādi, projektēšanu un ieviešanu; piedalās vides pārvaldības darbā; risina vides aizsardzības, vides tehnoloģiju, resursu apsaimniekošanas, ar atkritumu apsaimniekošanu saistītus uzdevumus; vada projektus, kā arī uzņēmuma patstāvīgu struktūrvienību darbu. 
+* Vides tehnologs strādā valsts un pašvaldību iestādēs, kā arī uzņēmumos, kur nepieciešami risinājumi, lai mazinātu procesa kaitīgo ietekmi uz vidi. 
+
+### Kompetences
+
+* Spēja analizēt, novērtēt un kontrolēt vides stāvokli, t.skpiesārņojuma līmeni
+* Spēja veikt ūdens, augsnes, gaisa, fizikālās un ķīmiskās analīzes
+* Spēja aprēķināt, izvērtēt ūdens, augsnes, gaisa u.cvides piesārņojuma fizikālo un ķīmisko analīžu rezultātus
+* Spēja plānot vides aizsardzības pasākumus
+* Spēja organizēt ietekmes uz vidi novērtējumu, analizēt ietekmju būtiskumu
+* Spēja izstrādāt un lietot videi draudzīgas tehnoloģijas notekūdeņu attīrīšanā, atkritumu apsaimniekošanā, dzeramā un tehniskā ūdens sagatavošanā, augsnes un gaisa attīrīšanā ilgtspējīgas attīstības kontekstā
+* Spēja diagnosticēt tehnoloģiskā aprīkojuma ekspluatācijas gaitā radušos traucējumu cēloņus
+* Spēja sagatavot nepieciešamo dokumentāciju vides aizsardzības projektu izstrādei, t.skveikt tehniski ekonomiskos aprēķinus
+* Spēja aprēķināt vides degradācijas ekonomiskos zaudējumus, kā arī degradācijas novēršanas ekonomisko efektivitāti
+* Spēja lietot matemātiskas metodes vides novērtējuma analīzē, izpētē un vides aizsardzības priekšlikumu izstrādē
+* Spēja izstrādāt piesārņotu teritoriju rekultivācijas projektus
+* Spēja organizēt un vadīt vides pārvaldības sistēmas
+* Spēja lietot biroja tehniku, informācijas tehnoloģijas un nepieciešamo programmatūru
+* Spēja veikt vides auditu
+* Spēja ievērot normatīvo aktu prasības vides aizsardzības jomā
+* Spēja organizēt savu un padoto darbinieku pienākumu veikšanu, nodrošināt komandas darbu uzdevumu izpildē
+* Spēja saskaņot savus darba pienākumus ar citu saistīto speciālistu darba pienākumiem
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja ievērot un nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Spēja ievērot profesionālās ētikas principus
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+
+### Prasmes 
+* Novērtēt, analizēt, kontrolēt vides stāvokli, identificēt vides piesārņojuma avotus
+* Veikt ūdens, augsnes, gaisa u.cvides piesārņojuma fizikālās un ķīmiskās analīzes
+* Veikt vides risku analīzi
+* Plānot vides aizsardzības pasākumus
+* Nodrošināt vides monitoringa datu vākšanu, apstrādi, analīzi
+* Organizēt ietekmes uz vidi novērtējumu
+* Izstrādāt un ekspluatēt videi draudzīgas tehnoloģijas notekūdeņu attīrīšanas, atkritumu apsaimniekošanas, dzeramā un tehniskā ūdens sagatavošanas, augsnes, zemes dzīļu ieguves un izmantošanas, gaisa attīrīšanas ilgtspējīgas attīstības kontekstā
+* Sagatavot nepieciešamo dokumentāciju vides aizsardzības projektu izstrādei, veikt ar dabas resursu izmantošanu vai ar piesārņojumu saistītos ekonomiskos aprēķinus
+* Diagnosticēt tehnoloģiskā aprīkojuma ekspluatācijas gaitā radušos traucējumu cēloņus
+* Aprēķināt vides degradācijas ekonomiskos zaudējumus un degradācijas novēršanas ekonomiskos ieguvumus
+* Lietot matemātiskās metodes vides novērtējuma analīzē, izpētē, vides aizsardzības priekšlikumu izstrādē
+* Izstrādāt piesārņotu teritoriju rekultivācijas projektus
+* Sagatavot informatīva rakstura materiālus populārzinātniskā valodā
+* Lietot biroja tehniku, informācijas tehnoloģijas un datorprogrammas
+* Ievērot un nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Pārzināt iekšējā vides audita veikšanas principus
+* Prast ieviest vides pārvaldības sistēmu vai tās elementus uzņēmumā
+* Organizēt un nodrošināt savu un padoto darbinieku pienākumu veikšanu
+* Sadarboties ar citiem speciālistiem
+* Ievērot profesionālās ētikas principus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Ievērot darba tiesisko attiecību normas
+* Atbildēt par savas profesionālās darbības rezultātiem

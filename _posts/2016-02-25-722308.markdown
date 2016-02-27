@@ -1,0 +1,70 @@
+---
+layout: post
+    
+title: datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu iestatītājs
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 722308
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu iestatītājs veic darbgaldu iestatīšanu atbilstoši tehnoloģiskajam procesam; operatīvi veic nepieciešamās tehnoloģiskā procesa korekcijas un sniedz tehnisku atbalstu datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu operatoram.     Datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu iestatītājs strādā metālapstrādes un mašīnbūves nozares uzņēmumos un citos uzņēmumos, kuros ražošanas procesā izmanto datorizētos ciparu vadības (CNC) darbgaldus.
+
+### Kompetences
+
+* Spēja analizēt darba uzdevuma izpildei nepieciešamo informāciju un izpildīt darbu saskaņā ar tehnisko dokumentāciju
+* Spēja izveidot datorizētās ciparu vadības (CNC) apstrādes procesa programmu
+* Spēja izvēlēties un uzstādīt instrumentus un palīgierīces uz darbgalda atbilstoši tehnoloģiskajam procesam
+* Spēja ievadīt datorizētās ciparu vadības (CNC) apstrādes procesa programmu un koriģēt apstrādes režīmu, piesaistīt instrumentus un izgatavot kontroldetaļu
+* Spēja pārbaudīt kontroldetaļas izmērus, analizēt iegūtos mērījumu rezultātus un, ja nepieciešams, veikt izmaiņas datorizētās ciparu vadības (CNC) apstrādes procesa programmās
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, tai skaitā lietot darba apģērbu, individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus atbilstoši darba aizsardzības prasībām, lietot darbgalda aizsardzības aprīkojumu
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja profesionāli pilnveidoties un sekot līdzi jaunākajām tehnoloģijām datorizētās ciparu vadības (CNC) jomā
+* Spēja strādāt komandā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja plānot un organizēt savu darbu un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja sazināties valsts valodā
+* Spēja sazināties vienā svešvalodā
+
+### Prasmes 
+* Lietot darba pienākumu izpildei nepieciešamo informāciju, izpildīt darbu, pamatojoties uz tehnisko dokumentāciju un sazinoties ar darba vadītāju
+* Lasīt rasējumus
+* Lasīt datorizētās ciparu vadības (CNC) apstrādes procesa programmu
+* Izvēlēties atbilstošu tehnoloģisko aprīkojumu
+* Izvēlēties darbgaldu iestatīšanai nepieciešamos instrumentus.
+*  Izvēlēties un sagatavot palīgmateriālus atbilstoši tehnoloģiskajam procesam
+* Izveidot apstrādes programmu, analizējot darbgalda un instrumentu veiktspēju
+* Ievadīt datorizētās ciparu vadības (CNC) apstrādes procesa programmu un koriģēt apstrādes režīmus
+* Iestatīt un piesaistīt instrumentus
+* Izvēlēties mērinstrumentus
+* Pārbaudīt izmēru un virsmas kvalitātes atbilstību tehniskās dokumentācijas prasībām
+* Instruēt datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu operatoru par darbgalda specifiku, tehnoloģisko procesu un tā izmaiņām
+* Veikt darbgalda apkopi atbilstoši lietošanas instrukcijām
+* Veikt darbgalda vizuālo un tehnisko pārbaudi pirms darba uzsākšanas
+* Uzturēt kārtībā darba vietu
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Ievērot elektrodrošības un ugunsdrošības noteikumus
+* Ievērot darba aizsardzības normatīvo aktu prasības, lietot iekārtu un darbgaldu aizsardzības aprīkojumu, pārbaudīt instrumentu un aprīkojuma atbilstību darba aizsardzības prasībām, lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus
+* Sniegt pirmo palīdzību
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Apgūt profesionālās kvalifikācijas pilnveidei nepieciešamās zināšanas, sekot informācijai par jaunākajām tendencēm datorizētās ciparu vadības (CNC) darbgaldu jomā
+* Darba uzdevuma ietvaros sadarboties ar citiem darbiniekiem, strādāt komandā un ievērot profesionālās un vispārējās ētikas pamatprincipus un darba kārtības noteikumus
+* Veikt darba pienākumus, nekaitējot savai un citu personu veselībai
+* Atpazīt darba vides riskus un veikt visus nepieciešamos pasākumus, lai mazinātu to ietekmi
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Ievērot darba tiesisko attiecību normas

@@ -1,0 +1,90 @@
+---
+layout: post
+    
+title: ciltslietu zootehniķis
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 213209
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* ciltslietu zootehniķis ir speciālists, kas plāno zootehniskos pasākumus ciltsdarbā, organizē un nodrošina ganāmpulka atražošanas un izmantošanas procesu izpildi, izvēlas tirgus prasībām un uzņēmuma darbības nodrošināšanai atbilstošas dzīvnieku sugas un šķirnes, izvēlas racionālas dzīvnieku audzēšanas tehnoloģijas, organizē produkcijas pirmapstrādi, tās uzglabāšanu, veic produkcijas un darba patēriņa uzskaiti; seko labturības prasību ievērošanai dzīvnieku novietnēs; seko lopkopības produktu ieguves noteikumu ievērošanai; reģistrē un apseko ganāmpulkus, novērtē ganāmpulkā esošos dzīvniekus pēc eksterjera un produktivitātes rādītājiem; izdara ierakstus zootehniskās uzskaites dokumentos un veic dzīvnieku ierakstīšanu ciltsgrāmatā; konsultē lopkopjus un dzīvnieku īpašniekus par aktualitātēm dzīvnieku audzēšanā, ēdināšanā, turēšanā un ar lopkopību saistītos normatīvajos aktos; organizē informatīvās dienas, iniciatīvas un interešu grupu tikšanās; vada padotībā esošos darbiniekus; nodrošina vides aizsardzību, ugunsdrošības un darba aizsardzības prasību ievērošanu, gatavo atbalsta maksājumu un investīciju projektu iesniegumus, veic pētniecisko darbu ar zinātnisku vērtību lopkopības nozarēs. 
+* Ciltslietu zootehniķis strādā lopkopības produktu ražošanas uzņēmumos, ar lopkopību saistītās valsts pārvaldes, izglītības, konsultatīvajās, pakalpojumu un zinātnes institūcijās. 
+
+### Kompetences
+
+* Spēja organizēt lauksaimniecības dzīvnieku labturības noteikumu ievērošanu dzīvnieku novietnēs
+* Spēja orientēties lauksaimniecības nozari reglamentējošajos normatīvajos aktos
+* Spēja izvēlēties ražošanas virzienam piemērotākās dzīvnieku šķirnes un atražošanas sistēmu
+* Spēja realizēt ciltsdarba (individuālās ražības kontroles) un zootehnisko uzskaiti
+* Spēja organizēt un veikt dzīvnieku ciltsvērtēšanu un uz to balstītu efektīvu selekciju
+* Spēja organizēt un veikt dzīvnieku ierakstīšanu ciltsgrāmatā
+* Spēja izvēlēties dažādu sugu un grupu dzīvniekiem piemērotākos barības līdzekļus, to sagatavošanas tehnoloģiju
+* Spēja novērtēt sagatavotās lopbarības kvalitāti
+* Spēja, izmantojot datorprogrammas, veikt barības devu optimizāciju
+* Spēja sastādīt lopbarības bilanci
+* Spēja izvēlēties dzīvnieku turēšanas tehnoloģijai un ražošanas virzienam atbilstošu dzīvnieku ēdināšanas tehnoloģiju
+* Spēja izvēlēties konkrētiem ražošanas apstākļiem piemērotāko dzīvnieku turēšanas tehnoloģiju
+* Spēja plānot lopkopības produkcijas ieguves apjomu un veikt tās uzskaiti
+* Spēja kontrolēt un analizēt iegūtās produkcijas kvalitāti
+* Spēja izvēlēties lopkopības produkcijas pirmapstrādei piemērotas tehnoloģijas un iekārtas
+* Spēja izvēlēties iegūtās produkcijas uzglabāšanas tehnoloģiju un iekārtas
+* Spēja kontrolēt produkcijas kvalitātes izmaiņas
+* Spēja veikt padarītā darba un nostrādātā laika uzskaiti
+* Spēja veikt izlietoto materiālu uzskaiti
+* Spēja aizpildīt ar ciltslietu zootehniķa darba izpildi saistīto dokumentāciju
+* Spēja novērtēt lopkopības nozares riska faktorus un konkurētspēju
+* Spēja ievērot darba aizsardzības noteikumus un sistemātiski organizēt attiecīgās apmācības vai pārbaudes pakļautajam personālam
+* Spēja ievērot ugunsdrošības un elektrodrošības noteikumus, un prasīt to ievērošanu padotajam personālam
+* Spēja izvēlēties un pielietot individuālos darba aizsardzības līdzekļus
+* Spēja ievērot medikamentu un dezinfekcijas līdzekļu lietošanu saskaņā ar instrukcijām, nekaitējot apkārtējai videi un dzīviem organismiem
+* Spēja nodrošināt pirmās palīdzības sniegšanu
+* Spēja novērtēt lopkopības produkcijas ražošanas ietekmi uz vidi
+* Spēja sadarboties ar pārstrādes uzņēmumiem un veidot kooperatīvus
+* Spēja izstrādāt lopkopības nozares ilgtspējīgas attīstības stratēģiju
+* Spēja orientēties Eiropas Savienības Kopējās lauksaimniecības politikā un atbalsta iespējās
+* Spēja izstrādāt iesniegumus Eiropas Savienības un valsts atbalsta maksājumu saņemšanai un projektu iesniegumus investīciju piesaistei uzņēmumā
+* Spēja sazināties valsts valodā un divās svešvalodās
+* Spēja veikt pētījumus ar zinātnisku nozīmi lopkopības nozarē
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+
+### Prasmes 
+* Lietot nozares vispārējās pamatzināšanas un profesijas pamatzināšanas
+* Risināt problēmas un pieņemt lēmumus atbilstoši kompetencei, paredzēt un novērtēt lēmumu iespējamo ietekmi uz lopkopības produkcijas ražošanu
+* Strādāt radoši, patstāvīgi un komandā
+* Strādāt rūpīgi, atbildīgi un precīzi
+* Strādāt sarežģītās situācijās
+* Sadarboties ar klientiem
+* Ievērot profesionālo ētiku
+* Spēt pašizglītoties, sistemātiski pilnveidot savu kvalifikāciju, papildināt savas zināšanas un prasmes
+* Izmantot savas zināšanas un citu uzņēmumu darba pieredzi praksē
+* Analizēt informāciju un izdarīt secinājumus
+* Plānot un organizēt savu un pakļautā personāla darbu
+* Atbilstoši kompetencei piemērot Eiropas Savienības un Latvijas Republikas normatīvos aktus
+* Ievērot Labas lauksaimniecības prakses un dzīvnieku labturības nosacījumus
+* Noformēt dokumentus atbilstoši dokumentu pārvaldības prasībām
+* Prast orientēties Latvijas dzīvnieku šķirņu katalogos
+* Pazīt izplatītākās dzīvnieku slimības
+* Pielietot konkrētiem apstākļiem atbilstošu dzīvnieku ēdināšanas un turēšanas tehnoloģiju
+* Prast novērtēt lopbarības kvalitāti
+* Prast izmantot modernas dzīvnieku audzēšanas metodes
+* Pielietot ar lopkopības ražošanu un ciltsdarbu saistītas datorprogrammas
+* Apzināt un izmantot speciālo literatūru, sekot jaunākajai informācijai zinātniskajās publikācijās, nozares žurnālos un presē
+* Izstrādāt normatīvos aktus un projektus lopkopībā un pieteikumus Eiropas Savienības un valsts atbalsta maksājumu saņemšanai
+* Apkopot, sistematizēt un analizēt datus
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās
+* Ievērot darba tiesisko attiecību noteikumus
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības noteikumus

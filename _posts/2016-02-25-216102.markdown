@@ -1,0 +1,49 @@
+---
+layout: post
+    
+title: arhitekta palīgs
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 216102
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* arhitekta palīgs ir speciālists, kurš ir ieguvis pirmā līmeņa profesionālo augstāko izglītību arhitektūrā, apguvis projektēšanas pamatprincipus, apguvis universālā dizaina principus, orientējas arhitektūras, pilsētbūvniecības un mākslas vēsturē, tradicionālajos un jaunākajos būvmateriālos un tehnoloģijās, kā arī citās ar telpiskās vides veidošanu saistītajās jomās, un ir ieguvis patstāvīgas darba iemaņas objektu uzmērīšanā un uzmērījumu rasējumu izgatavošanā, ēku arhitektūras konstruktīvo mezglu izstrādāšanā, ieskaitot materiālu un detaļu specifikācijas, tāmju dokumentācijas sastādīšanā, informācijas grafiskajā apkopošanā un būvprojektu dokumentācijas noformēšanā, izmantojot automatizētās projektēšanas programmas un citas tehnoloģiskās iespējas, kā arī prezentācijas materiālu veidošanā. 
+* Arhitekta palīgs var strādāt arhitekta birojā, valsts vai pašvaldību būvniecības procesa uzraudzības un kontroles iestādē, nekustamā īpašuma novērtēšanas, būvmateriālu un ēku aprīkojuma un iekārtu ražošanas un tirdzniecības komercsabiedrībās. 
+
+### Kompetences
+
+* Spēja arhitekta vadībā veikt konkrēta objekta projektēšanas darbus atbilstoši Latvijas Republikas būvniecību reglamentējošiem normatīvajiem aktiem un Eiropas Savienības tiesību normām būvniecības jomā, kā arī universālā dizaina principiem
+* Spēja izstrādāt, grafiski noformēt un normatīvajos aktos noteiktajā apjomā un kārtībā nokomplektēt būvprojekta dokumentāciju
+* Spēja pārzināt dažādu būvprojektēšanas jomu speciālistu sadarbības principus un viņu risinājumus izstrādājamā būvprojekta dokumentācijā atbilstoši objekta arhitektoniski telpiskajam risinājumam, kā arī risināt projektēšanas gaitā izveidojošās problēmu situācijas un pieņemt savas atbildības jomai adekvātus lēmumus
+* Spēja pārzināt būvprojektēšanas sagatavošanas darbu un izejmateriālus, tai skaitā ģeodēzisko, ģeoloģisko, topogrāfisko darbu un metroloģijas pamatprincipus
+* Spēja strādāt komandā un patstāvīgi
+* Spēja veikt objekta uzmērīšanu un izgatavot uzmērījuma rasējumus
+* Spēja novērtēt un analizēt projekta energoefektivitātes un ekonomiskos faktorus, kā arī nodrošināt projekta risinājumu atbilstību vides aizsardzības, vides pieejamības, ugunsdrošības un darba aizsardzības noteikumu prasībām
+* Spēja orientēties Latvijas Republikas tiesību sistēmā
+* Spēja mērķtiecīgi lietot informācijas un komunikācijas tehnoloģijas projektēšanas procesā
+* Spēja sazināties profesionālā līmenī valsts valodā un vismaz divās svešvalodās
+
+### Prasmes 
+* Lasīt un izprast, kā arī arhitekta vadībā izstrādāt un nokomplektēt būvprojekta dokumentāciju un izgatavot ar to saistītos uzskates materiālus, mērķtiecīgi lietojot profesionālās datorprogrammas un citus tehniskos līdzekļus
+* Vākt, analizēt un izmantot projektēšanai nepieciešamo informāciju
+* Piemērot atbilstoši projektējamā objekta specifikai Latvijas būvnormatīvu prasības, kā arī mērķtiecīgi izvēlēties piemērotākos būvmateriālus un ēku aprīkojuma un apdares sistēmas
+* Ievērtēt būvkonstrukcijas un inženierkomunikācijas izstrādājamā objekta arhitektoniski telpiskajā risinājumā
+* Veikt būvdarbu izmaksu aprēķinu, ekonomisko faktoru izvērtējumu, variantu salīdzinošo analīzi un optimālākā varianta izvēli
+* Izmantot standartizācijas pamatprincipus būvprojekta risinājumu optimizēšanai
+* Novērtēt kritiski savu profesionālo darbu un kvalifikāciju un pilnveidot to
+* Pārvaldīt valsts valodu
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Pārzināt un pielietot universālā dizaina principus

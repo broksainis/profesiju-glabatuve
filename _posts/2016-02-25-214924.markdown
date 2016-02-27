@@ -1,0 +1,90 @@
+---
+layout: post
+    
+title: mežsaimniecības inženieris
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214924
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* mežsaimniecības inženieris plāno mežsaimniecības uzņēmumu tehnoloģisko procesu un pieņem lēmumus par šo procesu izpildi; vada meža atjaunošanas, kopšanas, izstrādes, infrastruktūras būvniecības un uzturēšanas, koksnes produktu pārdošanas un piegādes procesus; veic meža inventarizāciju, novērtē meža resursus un meža apsaimniekošanas darbību ietekmi uz meža resursu stāvokli, vidi un sociālo jomu, sagatavo meža apsaimniekošanas plānus; novērtē meža bojājumu riskus un bojājumu apmēru, organizē medības un meža aizsardzības pasākumus.
+* Mežsaimniecības inženieris strādā mežsaimniecības uzņēmumos, valsts un pašvaldību institūcijās meža nozarē un citās institūcijās, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja vadīt meža atjaunošanas, kopšanas un audzēšanas procesus.
+* Spēja vadīt meža aizsardzības un meža ugunsdrošības pasākumus.
+* Spēja novērtēt meža resursus un produktus.
+* Spēja vadīt cirsmu izstrādes tehnoloģisko procesu.
+* Spēja vadīt koksnes piegāžu procesu.
+* Spēja organizēt meža reproduktīvā materiāla ražošanas procesu.
+* Spēja organizēt meža infrastruktūras būvniecības un uzturēšanas procesu.
+* Spēja vadīt meža produktu un pakalpojumu iepirkumu un pārdošanas procesu.
+* Spēja sagatavot meža apsaimniekošanas plānu.
+* Spēja novērtēt uzņēmuma finanšu stāvokli un investīcijas.
+* Spēja novērtēt mežsaimnieciskajos darbos izmantotās mašīnas, to darbību un pielietojumu.
+* Spēja risināt problēmas, sadarboties komandā, komunicēt un prezentēt.
+* Spēja veikt darba pienākumus atbilstoši darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasībām, darba tiesisko attiecību normām, profesionālās un vispārējās ētikas pamatprincipiem.
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+
+### Prasmes 
+* Plānot meža atjaunošanas veidu, augsnes apstrādi, sēšanu vai stādīšanu.
+* Plānot jaunaudžu kopšanu dabiskas un mākslīgas izcelsmes jaunaudzēs.
+* Organizēt un kontrolēt augsnes apstrādes, meža atjaunošanas un jaunaudžu kopšanas darbus.
+* Noteikt mežaudzes mēslošanas nepieciešamību, izvēlēties mēslošanas materiālu un tehnoloģiju, organizēt meža mēslošanas darbus.
+* Noteikt meža bojājumu riskus.
+* Izvēlēties meža aizsardzības un ugunsdrošības metodes un līdzekļus.
+* Novērtēt meža bojājumu apmēru.
+* Organizēt medības un meža aizsardzības pasākumus.
+* Noteikt mežaudzes inventarizācijas rādītājus un sagatavot taksācijas aprakstu.
+* Iegūt un analizēt meža inventarizācijas datus, izmantojot jaunākās tehnoloģijas.
+* Novērtēt koku stumbru kvalitāti un atbilstoši tai noteikt koksnes produktu iznākumu.
+* Noteikt meža vērtību.
+* Atlasīt izstrādei paredzētās mežaudzes, izmantojot taksācijas aprakstu un ģeogrāfiskās informācijas sistēmas.
+* Noteikt mežsaimnieciskajiem mērķiem piemērotāko cirtes veidu un veikt cirsmu plānošanu dabā.
+* Novērtēt cirsmu izstrādes apstākļus, noteikt izstrādei piemērotāko laiku un sagatavot izstrādes plānu.
+* Organizēt cirsmas izstrādes darbus un veikt cirsmas izstrādes tehnoloģisko plānošanu.
+* Novērtēt un kontrolēt cirsmu darbu izpildes kvalitāti.
+* Sagatavot koksnes produktu piegāžu plānu.
+* Organizēt un kontrolēt koksnes uzskaites procesu.
+* Organizēt un kontrolēt koksnes produktu piegādes.
+* Izvēlēties selekcionētu materiālu sēklu un stādu ražošanai.
+* Izstrādāt un organizēt sēklu un stādu ražošanas tehnoloģisko un piegāžu procesu.
+* Organizēt un kontrolēt darbu kokaudzētavā.
+* Novērtēt esošo meža ceļu un grāvju tehnisko stāvokli, plānot un organizēt to uzturēšanas darbus.
+* Sagatavot meža ceļu un grāvju projektēšanas uzdevumus.
+* Izprast meža ceļu un grāvju tehnisko dokumentāciju.
+* Novērtēt un kontrolēt meža infrastruktūras būvniecības un uzturēšanas darbu kvalitāti.
+* Novērtēt meža produktu un pakalpojumu tirgu, piedāvājumu, pieprasījumu un klientu vajadzības.
+* Izstrādāt meža produktu piedāvājumus.
+* Organizēt meža produktu un mežsaimniecības pakalpojumu pārdošanu un iepirkšanu un klientu apkalpošanu.
+* Noteikt meža apsaimniekošanas mērķus.
+* Novērtēt meža resursus.
+* Plānot meža apsaimniekošanas pasākumus, to apjoma izvietojumu.
+* Novērtēt meža apsaimniekošanas darbību ietekmi uz meža resursu stāvokli, vidi un sociālo jomu.
+* Aprēķināt un izprast uzņēmuma finanšu stāvokli raksturojošos rādītājus.
+* Aprēķināt un novērtēt uzņēmuma darbībai nepieciešamās investīcijas.
+* Izstrādāt biznesa plānu un uzņēmuma budžetu.
+* Izvēlēties mežsaimnieciskajam darbam piemērotu tehniku un aprīkojumu.
+* Noteikt mežsaimnieciskajam darbam nepieciešamos resursus un tehnoloģijas, aprēķināt izmaksas.
+* Organizēt meža tehnikas apkopju un uzturēšanas darbus.
+* Izskaidrot un argumentēti diskutēt par profesionālām un sabiedrības aktualitātēm meža apsaimniekošanas jomā.
+* Analizēt ar meža apsaimniekošanu saistītu informāciju, to strukturēt un prezentēt.
+* Veikt pētījumus meža apsaimniekošanas jomā.
+* Strādāt komandā, ievērojot profesionālās un vispārējās ētikas pamatprincipus.
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu.
+* Sniegt pirmo palīdzību.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās.
+* Ievērot darba tiesisko attiecību normas, darba aizsardzības, ugunsdrošības, vides aizsardzības un meža apsaimniekošanas jomas normatīvo aktu prasības un nodrošināt to izpildi.

@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: rūpnīcas /katlu kurinātājs
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 818201
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  rūpnīcas/katlu kurinātājs veic tvaika katlu un ūdenssildāmo katlu, kas kvalificējami kā karsējami spiedieniekārtu kompleksi, katliekārtu apkalpošanu un ekspluatāciju.     Rūpnīcas/katlu kurinātājs strādā uzņēmumos, kas nodrošina siltumenerģijas ražošanu un siltumapgādi.
+
+### Kompetences
+
+* Spēja organizēt darba vietu un veikt darba pienākumus, lai neradītu draudus cilvēku dzīvībai, veselībai, īpašumam un videi.
+* Spēja saskaņā ar darba instrukcijām un atbildīgā speciālista rīkojumiem un norādījumiem ievērot darba aizsardzības, ugunsdrošības, elektrodrošības un vides aizsardzības prasības darbā ar katliekārtām.
+* Spēja lasīt un izprast tehnisko dokumentāciju, rasējumus, shēmas un aizpildīt katliekārtu ekspluatācijas dokumentāciju.
+* Spēja sagatavot kurināmo, katlu agregātus un katlu mājas palīgiekārtas darbam.
+* Spēja iedarbināt un ieslēgt darba režīmā katlus un nepieciešamās palīgiekārtas.
+* Spēja apkalpot un uzraudzīt darbojošos katlus un katlu palīgiekārtas, regulēt kurināmā degšanas procesu maksimālā lietderības koeficienta iegūšanai.
+* Spēja apturēt katliekārtu darbību normālā režīmā.
+* Spēja apturēt katliekārtu darbību un ziņot atbildīgajam speciālistam, konstatējot nepieļaujamus defektus un instrukcijas pārkāpumus.
+* Spēja veikt atslēdznieka pamatdarbus, lai nodrošinātu nepārtrauktu katliekārtu ekspluatāciju un veiktu vienkāršus remonta darbus.
+* Spēja strādāt patstāvīgi un komandā.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+
+### Prasmes 
+* Organizēt un sagatavot darba vietu.
+* Ievērot darba aizsardzības, ugunsdrošības un elektrodrošības noteikumus un vides aizsardzības prasības.
+* Sniegt pirmo palīdzību.
+* Lasīt tehnoloģiskās shēmas un rasējumus.
+* Iepazīties ar ierakstiem operatīvajos maiņas žurnālos.
+* Aizpildīt ekspluatācijas dokumentāciju.
+* Veikt katla agregātu un katlu mājas iekārtas apskati.
+* Pieņemt un nodot maiņu.
+* Iedarbināt nepieciešamās katlu mājas palīgiekārtas (piemēram, sūkņus, ventilatorus, dūmsūkņus).
+* Iedarbināt nepieciešamās tehnoloģiskās shēmas (barošanas, kurināmā padeves, gaisa padeves un vilkmes).
+* Noregulēt tehnoloģisko shēmu tehniskos parametrus.
+* Iekurināt un uzraudzīt katlu saskaņā ar ražotāja montāžas un lietošanas instrukcijām un apkalpojošā personāla darba instrukcijām.
+* Strādāt ar dažādiem kurināmā veidiem, ievērojot to fizikālās un ķīmiskās īpašības.
+* Nodrošināt efektīvu degšanas procesu.
+* Ekspluatēt katlu ar maksimālo lietderības koeficientu.
+* Strādāt ar dažādiem katlu veidiem un dažādas uzbūves kurtuvēm.
+* Apkalpot barošanas, kurināmā padeves, velkmes un ventilācijas iekārtas.
+* Apkalpot pelnu un izdedžu savākšanas sistēmas.
+* Sekot katliekārtu un to aprīkojuma tehniskajam stāvoklim.
+* Sekot mēraparatūras rādījumiem un automātiskām regulēšanas sistēmām.
+* Apstādināt katliekārtu darbību un ziņot atbildīgajam speciālistam, konstatējot katliekārtu bojājumus.
+* Veikt atslēdznieku pamatdarbus.
+* Strādāt ar mehāniskajiem un rokas elektriskajiem instrumentiem.
+* Apkalpot cauruļvadus saskaņā ar katliekārtu apkalpošanas noteikumiem un darba instrukcijām.
+* Veikt darbus saistībā ar kurināmā pieņemšanu, izvietošanu un glabāšanu.
+* Strādāt patstāvīgi un komandā.
+* Lietot racionālas darba metodes darba uzdevumu izpildē.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.

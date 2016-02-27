@@ -1,0 +1,97 @@
+---
+layout: post
+    
+title: biotehnoloģisko procesu operators
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 813119
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  biotehnoloģisko procesu operators patstāvīgi veic biotehnoloģiskos ražošanas procesus vai to daļu, izmantojot tam paredzētās iekārtas atbilstoši ražošanas dokumentācijai.     Biotehnoloģisko procesu operators strādā ķīmijas, bioķīmijas, farmācijas, kosmētikas vai parfimērijas nozares uzņēmumā.
+
+### Kompetences
+
+* Spēja veikt biotehnoloģisko ražošanas iekārtu, palīgiekārtu, tehnoloģisko komunikāciju vizuālo un tehnisko novērtējumu atbilstoši ekspluatācijas dokumentācijai un marķējumam, izmantojot atbilstošus mērinstrumentus un mēriekārtas
+* Spēja nodrošināt biotehnoloģisko ražošanas iekārtu un tehnoloģisko komunikāciju savienošanu atbilstoši tehnoloģiskajai shēmai
+* Spēja nodrošināt biotehnoloģisko ražošanas procesu, izmantojot mehāniskās un automātiskās procesa vadības iekārtas atbilstoši reglamentējošai dokumentācijai
+* Spēja svērt un mērīt fermentācijas izejmateriālus, izmantojot atbilstošas svēršanas un mērīšanas palīgiekārtas
+* Spēja sagatavot barotni, lietot sterilizācijas iekārtas
+* Spēja sagatavot reaģentus un izvēlēties piemērotākos materiālus biotehnoloģiskajam ražošanas procesam
+* Spēja veikt biotehnoloģisko ražošanas procesu atbilstoši darba uzdevumam un saskaņā ar tehnoloģisko dokumentāciju, noteikt novirzes iekārtu darbībā un tehnoloģiskajā procesā
+* Spēja veikt barotnes iekraušanu, sējmateriāla ievadīšanu reaktorā un materiālu ievadi tehnoloģiskā procesa laikā, lietojot aseptiskos darba paņēmienus
+* Spēja aseptiski noņemt paraugus produkta un biotehnoloģiskā ražošanas procesa kontrolei
+* Spēja veikt biotehnoloģiskā ražošanas procesa gala produktu uzglabāšanu reaktorā, izkraušanu vai aizvadīšanu uz tālāko apstrādi, izmantojot biotehnoloģiskās ražošanas iekārtas
+* Spēja veikt biomasas atdalīšanu ar atbilstošiem paņēmieniem, izmantojot nepieciešamās iekārtas, gatavā produkta izdalīšanas un attīrīšanas procesus
+* Spēja veikt biotehnoloģiskā ražošanas procesa gala produkta apstrādi, izmantojot biotehnoloģiskās ražošanas iekārtas
+* Spēja veikt biotehnoloģiskā ražošanas procesa gala produkta fasēšanu, iepakošanu un marķēšanu, izmantojot atbilstošās iekārtas un ierīces
+* Spēja veikt iekārtu, palīgiekārtu un tehnoloģisko komunikāciju atvienošanu, tīrīšanu, sterilizāciju un dekontamināciju, izmantojot rūpnieciskas mazgāšanas un sterilizācijas iekārtas, dezinficējošos līdzekļus
+* Spēja piemērot bioloģiskās izcelsmes atkritumu (t.skbīstamo) apstrādes un nodošanas principus, veikt biotehnoloģiskā ražošanas procesa atlikumu sagatavošanu tālākai pārstrādei un utilizācijai
+* Spēja aizpildīt biotehnoloģiskā ražošanas procesa dokumentāciju
+* Spēja strādāt, ievērojot normatīvo aktu prasības un saskaņā ar reglamentējošo dokumentāciju, tai skaitā piemērojot labas ražošanas prakses principus
+* Spēja ievērot personāla, telpu un iekārtu higiēnas prasības, lietojot kolektīvos un individuālos higiēnas līdzekļus, atbilstošus tīrīšanas un dezinfekcijas līdzekļus un iekārtas
+* Spēja izprast un ievērot darba aizsardzības normatīvo aktu prasības, strādājot ar iekārtām, mikroorganismu kultūrām un ķīmiskajām vielām, veikt darba pienākumus, nekaitējot savai un citu personu veselībai, izmantojot atbilstošus kolektīvos un individuālos aizsardzības līdzekļus
+* Spēja izprast un ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja sniegt pirmo palīdzību
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja organizēt savu darbu atbilstoši pieejamajiem resursiem, ievērojot noteiktos termiņus un kvalitātes prasības, kā arī izrādīt ieinteresētību resursu taupīšanā
+* Spēja sadarboties ar darba vadītāju un kolēģiem, lietojot pozitīvas saskarsmes prasmes un ievērojot profesionālās un vispārējās ētikas principus
+* Spēja pašizglītoties un pilnveidot profesionālās kompetences
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja lietot informācijas tehnoloģijas
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Novērtēt biotehnoloģisko ražošanas iekārtu, palīgiekārtu un tehnoloģisko komunikāciju tehnisko stāvokli
+* Lasīt tehnoloģisko shēmu
+* Veikt biotehnoloģisko ražošanas iekārtu un tehnoloģisko komunikāciju savienošanu un atvienošanu
+* Lietot mehāniskās, automātiskās un attālinātās procesa vadības iekārtas un datorizētās reģistrācijas sistēmas
+* Strādāt ar dozēšanas iekārtām, spiedieniekārtām un elektroiekārtām
+* Veikt mērīšanas sensoru kalibrēšanu
+* Svērt un mērīt fermentācijas izejmateriālus
+* Sagatavot barotni un veikt tās sterilizāciju
+* Sagatavot sējmateriālu un citus biotehnoloģiskajam ražošanas procesam nepieciešamos reaģentus un materiālus
+* Lietot biotehnoloģijas paņēmienus un veikt biotehnoloģisko ražošanas procesu atbilstoši reglamentējošajai dokumentācijai
+* Nodrošināt biotehnoloģisko režīmu saskaņā ar tehnoloģisko dokumentāciju
+* Konstatēt neatbilstības biotehnoloģisko ražošanas iekārtu darbībā un tehnoloģiskajos savienojumos
+* Reģistrēt novirzes no tehnoloģiskā režīma un ziņot par tām
+* Aseptiski noņemt paraugus kvalitātes kontrolei un marķēt tos.
+*  Veikt biomasas atdalīšanas procesu, izmantojot atbilstošas iekārtas
+* Veikt gatavā produkta izdalīšanas un attīrīšanas procesus
+* Veikt biotehnoloģiskā ražošanas procesa gala produkta apstrādi (koncentrēšanu, žāvēšanu, granulēšanu)
+* Fasēt, iepakot un marķēt biotehnoloģiskā ražošanas procesa gala produktu
+* Piemērot bioloģiskas izcelsmes atkritumu (t.skbīstamo) apstrādes un nodošanas principus
+* Aizpildīt biotehnoloģiskā ražošanas procesa dokumentāciju
+* Piemērot labas ražošanas prakses principus
+* Lasīt un izprast nozares normatīvos aktus, standartus un citu reglamentējošo dokumentāciju
+* Racionāli izmantot uzņēmuma resursus
+* Veikt biotehnoloģisko ražošanas iekārtu, palīgiekārtu un tehnoloģisko komunikāciju tīrīšanu, dekontamināciju un sterilizāciju atbilstoši darba uzdevumam
+* Sagatavot mazgāšanas un dezinfekcijas līdzekļus
+* Ievērot aseptiskus darba paņēmienus un higiēnas prasības
+* Ievērot uzņēmuma darba kārtības noteikumus
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* Rīkoties pirmsavārijas un avārijas situācijās
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Sniegt pirmo palīdzību
+* Veikt darbu noteiktajā laikā un termiņā, ievērojot kvalitātes prasības
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Strādāt individuāli un komandā, izvairīties no konfliktsituācijām
+* Ievērot profesionālās un vispārējās ētikas principus
+* Pašizglītoties un pilnveidot profesionālās kompetences
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Lietot informācijas tehnoloģijas
+* Ievērot darba tiesisko attiecību normas

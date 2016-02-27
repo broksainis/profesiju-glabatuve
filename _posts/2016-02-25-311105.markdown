@@ -1,0 +1,85 @@
+---
+layout: post
+    
+title: ķīmijas tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311105
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  ķīmijas tehniķis patstāvīgi veic ķīmisko sintēzi vai tās daļu, ķīmiskās un fizikāli ķīmiskās analīzes, izmantojot klasiskās un instrumentālās analīzes metodes atbilstoši nozares reglamentējošai dokumentācijai vai vadošā speciālista norādēm; vecākā speciālista vadībā var veikt pētījumus.     Ķīmijas tehniķis strādā ķīmijas, pārtikas, farmācijas, kosmētikas un parfimērijas nozares uzņēmumu un zinātniski pētniecisko institūciju, vides kontroles un citās laboratorijās.
+
+### Kompetences
+
+* Spēja patstāvīgi sagatavot telpas, iekārtas, ierīces, inženiertehniskās komunikācijas, materiālus darba procesam un novērtēt to tehnisko stāvokli un gatavību darbam
+* Spēja strādāt ar laboratorijas iekārtām, aprīkojumu un mērinstrumentiem atbilstoši nozares reglamentējošai dokumentācijai, labas ražošanas prakses un labas laboratorijas prakses principiem
+* Spēja strādāt ar ķīmiskajām vielām, to maisījumiem un citiem materiāliem atbilstoši nozares reglamentējošai dokumentācijai, tai skaitā novērtēt ķīmisko vielu, to maisījumu un materiālu atbilstību kvalitātes prasībām un darba uzdevumam
+* Spēja lasīt un lietot nozares reglamentējošo dokumentāciju, dokumentēt darba procesu
+* Spēja veikt ķīmisko sintēzi, sagatavot paraugus analīzēm
+* Spēja veikt ķīmiskās un fizikāli ķīmiskās analīzes
+* Spēja veikt ķīmisko un fizikāli ķīmisko analīžu un sintēžu rezultātu aprēķinus, tajā skaitā lietojot rezultātu statistiskas apstrādes programmas, izvērtēt iegūtos rezultātus un rīkoties atbilstoši nozares reglamentējošai dokumentācijai
+* Spēja izprast un ievērot personīgās un ražošanas higiēnas prasības, darba specifiku klasificētajās telpās
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, veikt darba pienākumus, nekaitējot savai veselībai, izmantojot atbilstošus kolektīvos darba aizsardzības līdzekļus un individuālos aizsardzības līdzekļus
+* Spēja izprast un ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja ievērot sprādziendrošības, ugunsdrošības un elektrodrošības noteikumu prasības un atbilstoši rīkoties
+* Spēja rīkoties pirmsavārijas un avārijas situācijās
+* Spēja sniegt pirmo palīdzību
+* Spēja atbildēt par sava darba rezultātiem, racionālu darba laika un resursu izmantošanu, saskaņot savu darbību ar dažādu līmeņu speciālistiem
+* Spēja strādāt komandā, neradot konfliktus un psiholoģisku diskomfortu darbā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja pašizglītoties un pilnveidot profesionālās kompetences
+* Spēja lietot informācijas tehnoloģijas savā profesionālajā darbībā
+* Spēja ievērot darba tiesisko attiecību normas
+* 
+
+### Prasmes 
+* Sagatavot telpas, iekārtas, ierīces, inženiertehniskās komunikācijas un materiālus darba procesam
+* Novērtēt iekārtu, ierīču, mērinstrumentu un inženiertehnisko komunikāciju tehnisko stāvokli un gatavību darbam
+* Strādāt ar laboratorijas iekārtām, aprīkojumu un mērinstrumentiem
+* Strādāt ar ķīmiskajām, tai skaitā ar īpaši bīstamām vielām, ķīmisko vielu maisījumiem un citiem materiāliem atbilstoši nozares reglamentējošās dokumentācijas prasībām
+* Veikt stingrai uzskaitei pakļauto ķīmisko vielu reģistrāciju.
+*  Lasīt un lietot nozares reglamentējošo dokumentāciju
+* Veikt ķīmisko sintēzi
+* Sagatavot paraugus analīzēm
+* Veikt ķīmiskās un fizikāli ķīmiskās analīzes
+* Dokumentēt darba procesu
+* Veikt ķīmisko un fizikāli ķīmisko analīžu un sintēžu rezultātu aprēķinus, tai skaitā lietot rezultātu statistiskas apstrādes programmas
+* Izvērtēt iegūtos rezultātus un rīkoties atbilstoši nozares reglamentējošai dokumentācijai
+* Lasīt ķīmisko vielu/maisījumu/materiālu drošības datu lapas
+* Piemērot ķīmijas nozares normatīvos aktus savā darbā
+* Strādāt klasificētajās (pēc gaisa tīrības prasībām, pēc telpu aprīkojuma atbilstoši darbam ar dažādas bīstamības vielām u.c.) telpās
+* Lietot labas laboratorijas prakses un labas ražošanas prakses principus
+* Ievērot telpu, iekārtu un personīgās higiēnas prasības
+* Uzkopt darba vietu, uzturēt tīru un sakoptu darba vidi
+* Veikt darba pienākumus atbilstoši darba aizsardzības normatīvo aktu prasībām, lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus, darbam paredzēto apģērbu un apavus un ievērot drošības zīmes un signālus
+* Lietot ugunsdzēsības līdzekļus un rīkoties ugunsgrēka gadījumā
+* Rīkoties pirmsavārijas un avārijas situācijās
+* Sniegt pirmo palīdzību
+* Lietot elektroiekārtas
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Strādāt individuāli un komandā
+* Saskaņot savu darbību ar citiem uzņēmuma speciālistiem
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  Racionāli izmantot resursus
+* Veikt darbu noteiktajā laikā un termiņā
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Pilnveidot savas profesionālās prasmes, iegūt un analizēt jaunu profesionālo informāciju
+* Lietot informācijas tehnoloģijas un biroja tehniku savā profesionālajā darbībā
+* Ievērot darba tiesisko attiecību normas
+* 

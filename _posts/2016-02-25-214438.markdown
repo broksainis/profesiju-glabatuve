@@ -1,0 +1,72 @@
+---
+layout: post
+    
+title: mehatronikas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214438
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* mehatronikas inženieris izstrādā tehnoloģiskā procesa automatizācijas algoritmus; vada mehatronikas sistēmu projektēšanu; veic mehatronikas iekārtu darbības uzraudzību un to komplektēšanas uzdevumus; izmanto speciālās zināšanas un prasmes dažādu praktisku tehnisko problēmu vai uzdevumu risinājumiem; projektē un izstrādā iespējamos automatizācijas variantus; konsultē par automatizācijas procesa efektivitāti, par jaunākajiem mehatronikas nozares sasniegumiem, to ieviešanas iespējām. 
+* Mehatronikas inženieris strādā uzņēmumos, kuros tiek veikta elektromehānisku iekārtu vadība ar integrētu elektronikas un datortehnikas pielietošanu. 
+
+### Kompetences
+
+* Spēja izstrādāt automatizācijas procesa algoritmu un sagatavot tehnisko uzdevumu iekārtu projektēšanai
+* Spēja strādāt ar speciālām projektēšanas un mehatronikas iekārtu vadības datorprogrammām
+* Spēja veikt vizuālu mehatronikas iekārtu darbības novērtējumu
+* Spēja izstrādāt mehatronikas iekārtu uzraudzības un vizualizācijas sistēmu
+* Spēja orientēties automatizēto iekārtu apkalpošanas, diagnosticēšanas un remonta jautājumos
+* Spēja sekot mehatronikas iekārtu rezerves daļu daudzumam un veikt to pasūtījumus
+* Spēja izstrādāt ražošanas tehnoloģisko plānojumu
+* Spēja izvērtēt ražošanas automatizācijas līmeni
+* Spēja izvēlēties atbilstošus materiālus, veidojot iekārtu konstrukcijas
+* Spēja sastādīt datorprogrammas automatizēto sistēmu vadības elementu programmēšanai
+* Spēja noteikt mehatronikas sistēmas darbības precizitāti
+* Spēja noteikt mehatronikas sistēmas kalpošanas laiku
+* Spēja projektēšanas procesā izvēlēties salāgojumu izmērus un pielaides, lai nodrošinātu iekārtu kvalitatīvu un ilgstošu darbību
+* Spēja izvērtēt ekonomiski izdevīgākos tehniskos risinājumus
+* Spēja sagatavot projektējamās vai izgatavojamās iekārtas izmaksas un noteikt izdevumu atmaksāšanas laiku
+* Spēja plānot darbus un organizēt to savlaicīgu izpildi
+* Spēja organizēt un vadīt personāla darbu
+* Spēja nodrošināt vides un darba aizsardzības normatīvo aktu prasību izpildi
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja apzināt un izprast normatīvos aktus iekārtu drošuma jautājumos
+* Spēja orientēties Starptautiskās standartu organizācijas (ISO) kvalitātes drošuma un vides aizsardzības sistēmās
+
+### Prasmes 
+* Pārzināt konstruktoru dokumentācijas izstrādāšanas stadijas.
+*  Izprast mehānikas, elektromehānikas, elektronikas un datortehnikas iekārtu savstarpēju mijiedarbību
+* Veikt darba uzdevuma profesionālu analīzi, informācijas apstrādi un darba uzdevuma saskaņošanu ar ražošanas tehnoloģiskajām iespējām
+* Lietot darba izpildei nepieciešamos mehatronikas nozares normatīvos aktus, tehnisko dokumentāciju un standartus, gatavot lietišķos dokumentus
+* Analizēt, vērtēt un izmantot zinātniskos un lietišķos pētījumus, lietot informācijas meklēšanas un atlases līdzekļus, ieviest jaunas tehnoloģijas un datorprogrammas
+* Prast prognozēt mehānikas, elektroiekārtu, elektronikas un datortehnikas iekārtu bezatteikuma darbību
+* Mērķtiecīgi izmantot mehānisko, elektromehānisko, elektronikas un datortehnikas iekārtu iespējas un organizēt to tehnisko apkopi
+* Racionāli organizēt savstarpēji saistīto darba procesu izpildi
+* Projektēt visu automatizēto vai uzstādāmo iekārtu izvietojumu un organizēt darba sadali starp strādājošajiem
+* Prast izvēlēties automatizācijas procesam nepieciešamos izpildelementus (hidraulisko un pneimatisko sistēmu elementi, elektriskie un optiskie elementi u.c.)
+* Izmantot datorizētās projektēšanas un datorizētās ražošanas (CAD/CAM) tehnoloģijas projekta izstrādei
+* Sagatavot prezentācijai automatizācijas projekta materiālus
+* Piedalīties ražošanas projektu analīzē, izstrādē, saskaņošanā un vadīšanā
+* Piemērot darba aizsardzības, ugunsdrošības un vides aizsardzības noteikumus
+* Pielietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Noteikt izpildāmo darbu prioritātes, darboties komandā un plānot, organizēt un vadīt tās darbu, kā arī veikt darbu individuāli
+* Argumentēt savu viedokli, pārliecināt citus un risināt konfliktsituācijas
+* Ievērot profesionālos un vispārīgos ētikas principus
+* Sistemātiski pilnveidot savu profesionālo kvalifikāciju
+* Sniegt pirmo palīdzību
+* Saudzēt apkārtējo vidi

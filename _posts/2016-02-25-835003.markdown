@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: kuģa matrozis
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 835003
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* kuģa matrozis strādā uz kuģiem bez kuģa tilpības un kuģošanas rajona ierobežojumiem; pilda sardzes pienākumus, kuģim atrodoties gan jūrā, gan ostā; stūrē kuģi pēc kuģa vadītāja norādījumiem; strādā ar kuģa tauvošanas iekārtām un tauvām; darbina un izmanto kuģa mehānismus, kravas ierīces, glābšanās līdzekļus, ugunsdzēšanas iekārtas, ka arī takelāžas aprīkojumu un veic to tehnisko apkopi; uztur kārtību un tīrību uz klāja un kuģa telpās, veic nepieciešamos darbus kuģa korpusa un mehānismu aizsardzībai no korozijas; piedalās kravas operācijās; ja nepieciešams, izmanto avārijas aprīkojumu, kā arī rīkojas saskaņā ar avārijas procedūrām.
+* Kuģa matrozis var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "1978. gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu" (STCW (Standarts of Training Certification and Watchkeeping) Konvencija) prasībām.
+
+### Kompetences
+
+* Kuģa matrozim nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-II/4 – "Minimālā kompetences standarta specifikācija navigācijas sardzes sastāvā esošiem ierindas jūrniekiem (sardzes matrožiem)" un STCW Konvencijas kompetenču standarts A-II/5 – "Minimālā kompetences standarta specifikācija kvalificētiem matrožiem".
+
+### Prasmes 
+* Kuģa matrozim nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-II/4 – "Minimālā kompetences standarta specifikācija navigācijas sardzes sastāvā esošiem ierindas jūrniekiem (sardzes matrožiem)" un STCW Konvencijas kompetenču standarts A-II/5 – "Minimālā kompetences standarta specifikācija kvalificētiem matrožiem".

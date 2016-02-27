@@ -1,0 +1,30 @@
+---
+layout: post
+    
+title: kuģa elektromehāniķis
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 315118
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* kuģa elektromehāniķis kontrolē elektrisko mašīnu, mehānismu un sistēmu darba parametrus; plāno, organizē un veic kuģa elektrisko un elektronisko sistēmu ekspluatāciju; veic kuģa elektrisko mašīnu, mehānismu un cita elektriskā aprīkojuma apskates, apkopi un remontu; veic elektroiekārtas ekspluatācijai nepieciešamo materiālu pasūtīšanu un saņemšanu, uzrauga citu darbinieku darbu elektromehāniķa kompetenču jomā. 
+* Kuģa elektromehāniķis var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "Jūrnieku sagatavošana un sertificēšana, kā arī sardzes pildīšana" (STCW (_Standards of Training Certification and Watchkeeping_) Konvencija) prasībām. 
+
+### Kompetences
+
+* Kuģa elektromehāniķim nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-III/ "Minimālā kompetences standarta specifikācija elektromehāniķiem"
+
+### Prasmes 
+* Kuģa elektromehāniķim nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-III/ "Minimālā kompetences standarta specifikācija elektromehāniķiem"

@@ -1,0 +1,56 @@
+---
+layout: post
+    
+title: ģeodēzijas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 216505
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* ģeodēzijas inženieris pēta, mēra un nosaka zemes formu, tās ģeodēziskos un ģeodinamiskos parametrus, projektē un ierīko ģeodēziskā atbalsta sistēmas – projektē/aprēķina teorētisko koordinātu piesaistes modeļu parametrus, plāno, nodrošina un organizē teorētisko koordinātu sistēmu īstenošanu konkrētās teritorijās, veidojot (ierīkojot un uzmērot) ģeodēziskos atbalsta punktus un tīklus, veic ģeodēziskos un ģeodinamiskos mērījumus un pētījumus, pārzina ģeodēzisko mērījumu tehnoloģijas, tehniku un sistēmas, analizē mērījumus un izpētes rezultātus, nosaka zemes garozas deformāciju un kustību ietekmi uz ģeodēzisko koordinātu atbalsta sistēmu izmaiņām, nosaka izpētes procesā iegūtos izmaiņu lielumus, tos dokumentē un praktiski izmanto, lai nodrošinātu ģeodēzijas darbus; veic ģeodēzisko darbu, tehnoloģiju un lietotās tehnikas atbilstības ekspertīzes; izmanto speciālās zināšanas un prasmes dažādu praktisku tehnisko problēmu vai uzdevumu risinājumiem; plāno, projektē un vada dažādus ģeodēziskos darbus. 
+* Ģeodēzijas inženieris strādā uzņēmumos vai kā pašnodarbināta persona, vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja atbildīgi un patstāvīgi veikt ģeodēzijas inženiera pienākumus atbilstoši Latvijas Republikas normatīvajiem aktiem un Eiropas Savienības tiesību normām
+* Spēja pārzināt un izmantot ģeogrāfiskās informācijas sistēmu tehnoloģiju metodes
+* Spēja definēt valsts vai citu ģeodēzisko atbalsta sistēmu parametrus un īstenošanas prasības
+* Spēja nodrošināt prasību un parametru īstenošanu praksē, tai skaitā praktiski veikt visu veidu ģeodēziskos mērījumus
+* Spēja novērtēt, analizēt un apstrādāt informāciju par mērījumiem, kas iegūta, veicot ģeodēziskos darbus
+* Spēja kontrolēt ģeodēzisko darbu izpildi un analizēt ekspertīzes līmenī
+* Spēja projektēt, plānot un vadīt ģeodēziskos darbus
+* Spēja lietot ģeodēziskajiem darbiem paredzētos instrumentus un tehnoloģijas un analizēt iegūtos rezultātus
+* Spēja novērot zemes virsmas parametrus un deformācijas, organizēt šo novērojumu veikšanu un analizēt iegūtos rezultātus
+* Spēja sagatavot pārskatus par ģeodēzisko darbu rezultātiem valsts valodā un divās svešvalodās
+* Spēja sazināties valsts valodā un divās svešvalodās
+
+### Prasmes 
+* Plānot, organizēt un vadīt ģeodēziskos darbus
+* Pārzināt un piemērot ģeodēzijas jomu reglamentējošos normatīvos aktus
+* Strādāt ar ģeodēziskajiem instrumentiem (piemēram, optiskajiem, digitālajiem, magnetometriskajiem, gravimetriskajiem)
+* Prast strādāt ar ģeodēziskajiem darbiem nepieciešamajām speciālajām datorprogrammām
+* Izmantot un projektēt globālās pozicionēšanas sistēmu
+* Apstrādāt un analizēt ģeodēzisko mērījumu datus
+* Lietot dažādas koordinātu un augstumu sistēmas
+* Pārzināt kartogrāfisko darbu veikšanas prasības
+* Novērot zemes virsmas ģeodēziskās deformācijas vai organizēt šos novērojumus un analizēt iegūtos rezultātus
+* Pārzināt fotogrammetrijas darbu procesus
+* Pārzināt ģeodēziskā aprīkojuma un instrumentu izmantošanas un glabāšanas prasības
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības prasības
+* Sadarboties ar klientiem, speciālistiem un citām personām
+* Pašizglītoties
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās

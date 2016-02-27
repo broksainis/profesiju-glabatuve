@@ -1,0 +1,58 @@
+---
+layout: post
+    
+title: telekomunikāciju speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 352205
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* telekomunikāciju speciālists veic tehniska rakstura darbus, kas saistīti ar telekomunikāciju iekārtām (turpmāk – iekārtas); gatavo telekomunikāciju shēmu rasējumus; veic materiālu un darba patēriņa aprēķinu iekārtu ieviešanai; sniedz tehnisko palīdzību telekomunikāciju sistēmu lietošanā, uzraudzībā un remontā, lai nodrošinātu to apmierinošu darbību un atbilstību noteiktajām prasībām.
+* Telekomunikāciju speciālists strādā telekomunikāciju uzņēmumos, citos uzņēmumos vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja formulēt iekārtas ekspluatācijas parametru prasības.
+* Spēja formulēt iekārtas tehnisko parametru prasības.
+* Spēja veikt iekārtas ekspluatācijas apstākļu visaptverošo analīzi.
+* Spēja analizēt iekārtas atbilstību esošajiem standartiem un citām tehniskajām prasībām.
+* Spēja izvēlēties iekārtas, ņemot vērā ekonomiskos faktorus.
+* Spēja novērtēt materiālos un darba izdevumus, kas saistīti ar iekārtas ieviešanu ekspluatācijā.
+* Spēja montēt iekārtu saskaņā ar tehniskās dokumentācijas prasībām.
+* Spēja nodrošināt esošo standartu un citu saistošo dokumentu prasības.
+* Spēja veikt iekārtas uzstādīšanas un testēšanas darbus.
+* Spēja novērtēt iekārtas funkcionēšanas parametrus.
+* Spēja noformēt dokumentāciju, kura saistīta ar iekārtas ieviešanu ekspluatācijā.
+* Spēja apgūt iekārtas ekspluatāciju reglamentējošo tehnisko dokumentāciju.
+* Spēja nodrošināt iekārtas ekspluatācijas režīmus un apstākļus atbilstoši tehniskās dokumentācijas prasībām.
+* Spēja noteikt iekārtas tehniskās ekspluatācijas procesā kontrolējamos parametrus un to kontroles periodiskumu.
+* Spēja analizēt iekārtas kontroles aparatūras prasības.
+* Spēja apgūt metodiku iekārtas parametru kontrolei.
+* Spēja veikt iekārtas periodisko tehnisko apkalpošanu.
+* Spēja diagnosticēt iekārtas atteikumu un bojājumu cēloņus.
+* Spēja noteikt ar iekārtas darbspējas atjaunošanu saistītos materiālus un darba izdevumus.
+* Spēja analizēt atteikuma rašanās cēloņus un novērtēt analoģisko atteikumu brīdinājuma iespējas.
+* Spēja veikt iekārtas modernizēšanas iespējas un lietderības iepriekšējo analīzi.
+* Spēja analizēt iekārtas modernizēšanas tehniskos jautājumus.
+* Spēja novērtēt ar iekārtas modernizēšanu saistītos materiālos un darba izcenojumus.
+* Spēja atrisināt jautājumus, kuri saistīti ar modernizētās iekārtas ekspluatācijas procesa korekciju.
+* Spēja modernizēt iekārtu un novērtēt tās atbilstību standarta un citu saistošo dokumentu prasībām.
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem.
+
+### Prasmes 
+* 

@@ -1,0 +1,73 @@
+---
+layout: post
+    
+title: biotehnologs
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 314126
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* biotehnologs izstrādā, organizē un vada biotehnoloģiskos procesus uzņēmumā, veic pētījumus un konsultē šajā jomā; organizē un vada iekārtu ekspluatāciju, apkalpošanu un remontu atbilstoši normatīvajiem aktiem un tehniskajai dokumentācijai; vada citus darbiniekus. 
+* Biotehnologs strādā uzņēmumā, kurā lieto biotehnoloģiskās metodes un izmanto biotehnoloģiskos paņēmienus produkcijas ražošanā vai uzņēmumu bioķīmijas un mikrobioloģijas laboratorijā. 
+
+### Kompetences
+
+* Spēja organizēt biotehnoloģijas aparatūras un ar aseptiskā procesa daļas saistīto komunikāciju sterilizācijas procesus
+* Spēja organizēt sterila gaisa sagatavošanu substrāta (barotnes) biotehnoloģiskajiem procesiem
+* Spēja organizēt un veikt bioķīmiskās un mikrobioloģiskās analīzes un apkopot un apstrādāt analīžu rezultātus
+* Spēja organizēt un veikt atbilstošu substrāta sagatavošanu un sterilizēšanu
+* Spēja organizēt un veikt sējmateriāla audzēšanu un saglabāšanu
+* Spēja sagatavot nosacījumus fermentāciju veikšanai
+* Spēja organizēt, nodrošināt un vadīt bioloģiski aktīvo vielu producenta ražošanas fermentāciju
+* Spēja strādāt ar fermentācijas procesu automātiskās vadības iekārtām un sistēmām, un procesa datorizētās uzskaites programmām
+* Spēja organizēt biomasas atdalīšanu no tehnoloģiskā procesa un fermentācijas produktu izdalīšanu un attīrīšanu
+* Spēja lietot mērīšanas ierīces, instrumentus, reaģentus un materiālus, darba apģērbu, individuālos un kolektīvos darba aizsardzības līdzekļus
+* Spēja novērtēt biotehnoloģisko procesu un iegūto produktu atbilstību izvirzītajām kvalitātes prasībām
+* Spēja analizēt biotehnoloģiskos riskus un plānot nepieciešamos laboratoriskos izmeklējumus, risināt tehnoloģiskā procesa neatbilstību novēršanu
+* Spēja orientēties aktuālajos normatīvajos aktos un tehniskajā dokumentācijā un lietot to biotehnoloģijas jomā
+* Spēja aprēķināt, noformēt un izvērtēt biotehnoloģisko procesu rezultātus, lietojot informācijas tehnoloģijas
+* Spēja lasīt un veidot tehnoloģiskās shēmas
+* Spēja strādāt komandā un sadarboties ar citiem uzņēmuma speciālistiem kopēju mērķu sasniegšanā, ievērojot profesionālās un vispārīgās ētikas principus
+* Spēja noformēt lietišķos dokumentus
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja ievērot un nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Spēja izvērtēt savas darbības riskus un uzņemties atbildību par iegūtajiem rezultātiem
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Veikt ar procesa aseptisko daļu saistīto iekārtu un to komunikāciju sterilizāciju uzņēmumā
+* Sagatavot sterilu gaisu substrāta biotehnoloģiskajiem procesiem.
+*  Veikt produktu bioķīmisko rādītāju analīzes atbilstoši instrukcijām un standartu prasībām
+* Veikt biotehnoloģisko un mikrobioloģisko testēšanu atbilstoši instrukcijām un standartu prasībām
+* Nolasīt mērījumus, aprēķināt, noformēt un izvēlēties testēšanas rezultātus
+* Organizēt un nodrošināt sējmateriāla sagatavošanas un saglabāšanas procedūru
+* Veikt bioloģiski aktīvo vielu producenta ražošanas fermentāciju
+* Veikt operācijas ar fermentācijas procesu automātiskās vadības iekārtām, sistēmām un procesa datorizētās uzskaites programmām
+* Organizēt un veikt biomasas atdalīšanu no šķidruma un bioloģiski aktīvo vielu izdalīšanu un attīrīšanu, kur tas nepieciešams
+* Prast rīkoties ar substrāta sagatavošanas un sterilizācijas iekārtām
+* Prast rīkoties ar mikroorganismu tīrkultūrām un iekārtām sējmateriāla audzēšanai
+* Pareizi lietot kolektīvos un individuālos darba aizsardzības līdzekļus, kad tas nepieciešams
+* Lietot aktuālus normatīvos aktus un tehnisko dokumentāciju biotehnoloģijas jomā
+* Ieviest testēšanas dokumentāciju un izmantot to testēšanai atbilstoši savai kompetencei
+* Organizēt savu un sev pakļauto darbinieku darbu
+* Ievērot profesionālās un vispārīgās ētikas principus un saskarsmes kultūru
+* Saskaņot savu profesionālo darbību ar citiem uzņēmuma speciālistiem, kur tas nepieciešams, kopēju mērķu sasniegšanai
+* Lasīt un veidot tehnoloģiskās shēmas
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Ievērot darba tiesisko attiecību normas
+* Atbildēt par savas profesionālās darbības rezultātiem un sekām
+* Ievērot un nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības

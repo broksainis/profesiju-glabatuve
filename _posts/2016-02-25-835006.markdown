@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: kuģa motorists
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 835006
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+*  kuģa motorists strādā uz kuģiem bez galvenā dzinēja jaudas un kuģošanas rajona ierobežojumiem; pilda sardzes pienākumus, kuģim atrodoties gan jūrā un gan ostā; veic kuģa enerģētisko un mehānisko iekārtu tehniskās apkopes un remonta darbus; darbina kuģa mehānismus, glābšanās līdzekļus un ugunsdzēšanas iekārtas; uztur kārtību un tīrību mašīntelpā, piedalās degvielas un citās pārsūknēšanas operācijās; ja nepieciešams, izmanto avārijas aprīkojumu, kā arī rīkojas saskaņā ar avārijas procedūrām.     Kuģa motorists var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "197 gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu" (STCW (_Standarts of Training Certification and Watchkeeping_) Konvencija) prasībām.
+
+### Kompetences
+
+* Kuģa motoristam nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-III/ – "Minimālā kompetences standarta specifikācija mašīntelpas sardzes sastāvā esošiem ierindas jūrniekiem (sardzes motoristiem)" un STCW Konvencijas kompetenču standarts A-III/ – "Minimālā kompetences standarta specifikācija kvalificētam motoristam pienākumu pildīšanai mašīntelpā ar apkalpi vai periodiski bez apkalpes esošā mašīntelpā"
+
+### Prasmes 
+* Kuģa motoristam nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-III/ – "Minimālā kompetences standarta specifikācija mašīntelpas sardzes sastāvā esošiem ierindas jūrniekiem (sardzes motoristiem)" un STCW Konvencijas kompetenču standarts A-III/ – "Minimālā kompetences standarta specifikācija kvalificētam motoristam pienākumu pildīšanai mašīntelpā ar apkalpi vai periodiski bez apkalpes esošā mašīntelpā"

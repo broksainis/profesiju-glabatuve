@@ -1,0 +1,71 @@
+---
+layout: post
+    
+title: rasētājs dizainers
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311822
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* rasētājs dizainers ir speciālists, kurš meklē jaunas idejas izstrādājumiem un to iepakojumiem galvenokārt mašīnbūves, aparātbūves un metālizstrādājumu ražošanas jomā, ievērojot funkcionalitātes, dizaina un ergonomikas prasības; veic to attīstīšanu un vizualizēšanu, pielietojot modernās datorizētās tehnoloģijas; izstrādā vai līdzdarbojas izstrādājumu konstrukciju izveidē atkarībā no to sarežģītības pakāpes; izvēlas materiālus un izgatavošanas pamattehnoloģijas; izgatavo rasējumus un citu tehnisko dokumentāciju; organizē izstrādājumu prototipu vai modeļu izveidi un piedalās tajā; izstrādā vizuālās reklāmas objektus un materiālus.
+* Rasētājs dizainers var strādāt projektēšanas birojos un uzņēmumos, kas nodarbojas ar jaunu, estētiskām vērtībām apveltītu, rūpnieciski ražojamu izstrādājumu un to iepakojuma izveidi, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja veikt izpēti izstrādājumu ideju attīstīšanai, izvērtējot reāla vai potenciāla klienta vajadzības, analizējot tehnikas, tehnoloģiju, materiālu un dizaina tendenču aktualitātes.
+* Spēja individuāli vai komandā radīt izstrādājumu konceptuālos variantus, pamatoti izvēlēties labāko no tiem.
+* Spēja dažādos projektēšanas posmos uz papīra un virtuālā vidē vizualizēt idejas un citus darba rezultātus.
+* Spēja patstāvīgi vai sadarbībā ar citiem speciālistiem izveidot izstrādājumu, to mezglu un atsevišķu detaļu konstrukcijas.
+* Spēja izvēlēties un saskaņot materiālus ar klientu un plānot ekonomisku materiāla patēriņu.
+* Spēja ievērot izgatavošanas tehnoloģiju iespējas un ierobežojumus izstrādājumu izstrādes gaitā.
+* Spēja lasīt, izstrādāt un pārbaudīt rasējumus, kas nepieciešami dažādos izstrādājumu projektēšanas posmos.
+* Spēja lietot datorizētās projektēšanas sistēmas.
+* Spēja plānot izpildāmos darbus un noteikt to prioritātes, kā arī uzņemties atbildību par savas profesionālās darbības rezultātiem.
+* Spēja veidot izstrādājumu maketus ar rokām, kā arī lietojot ātrās prototipēšanas un citas tehnoloģijas, vadīt un līdzdarboties to izgatavošanā.
+* Spēja novērtēt izstrādājumu maketu un prototipu funkcionālās, estētiskās, ergonomiskās un tehnoloģiskās īpašības.
+* Spēja orientēties ar projektējamo izstrādājumu specifiku saistītajos normatīvajos dokumentos un standartos un ievērot tos savā darbā.
+* Spēja sekot jaunākajām aktualitātēm un tendencēm tehnikas un industriālā dizaina jomā.
+* Spēja apzināt un analizēt tradicionālo un jauno materiālu piedāvājumu izstrādājumu un to iepakojumu izveidei.
+* Spēja produktīvi piedalīties izstrādājuma projekta prezentācijā.
+* Spēja pārliecināt citus un argumentēt savu viedokli.
+* Spēja ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja sistemātiski pilnveidot profesionalitāti.
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus.
+
+### Prasmes 
+* Iegūt, analizēt un izmantot izstrādājumu projektēšanai nepieciešamo informāciju.
+* Veikt izstrādājumu estētisko, materiāltehnisko, funkcionālo un ekonomisko analīzi.
+* Analizēt izstrādājumu dizaina attīstības tendences.
+* Veidot un vispusīgi novērtēt jaunu izstrādājumu koncepcijas.
+* Sagatavot ideju vizualizāciju skices, izmantojot tradicionālus paņēmienus un datortehnoloģijas.
+* Izgatavot izstrādājumu maketus, izmantojot dažādas tehnoloģijas.
+* Lietot vektorgrafikas un rastrgrafikas programmatūru, kā arī biroja programmatūru.
+* Pārzināt attiecīgās nozares izstrādājumu izgatavošanas materiālus un izprast to pielietošanu.
+* Pārzināt izstrādājumu galvenās izgatavošanas tehnoloģijas nozarē.
+* Konstruēt vienkāršus izstrādājumus vai to daļas mašīnbūves, aparātbūves u. tml. jomās, kā arī izstrādājumu iepakojumu, izmantojot datorizētās projektēšanas (CAD) tehnoloģijas.
+* Izmantot izstrādājumu izstrādē vienkāršākās datorizētās inženieraprēķinu (CAE) tehnoloģijas.
+* Lasīt, izstrādāt un pārbaudīt rasējumus, kas nepieciešami dažādos izstrādājumu projektēšanas posmos.
+* Ievērot ergonomikas likumsakarības izstrādājumu izveidē.
+* Pārzināt un pielietot tehniskās dokumentācijas noformēšanas standartus un citu normatīvo dokumentāciju.
+* Izstrādāt vienkāršus vizuālās reklāmas objektus un materiālus un izstrādājumu iepakojumu dizainu.
+* Pārzināt izstrādājuma projekta tāmi veidojošos principus un pozīcijas.
+* Plānot izstrādājuma projekta realizācijas laiku.
+* Pārvaldīt valsts valodu.
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās.
+* Pārvaldīt vismaz divas svešvalodas profesionālās saziņas līmenī.
+* Pārzināt un pareizi pielietot mašīnbūves un aparātbūves nozarēs esošās standartizētās detaļas un mezglu risinājumus.
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības.
+* Ievērot darba tiesisko attiecību normas.
+* Sadarboties ar citiem speciālistiem un klientu, ievērojot profesionālās un vispārējās ētikas pamatprincipus.

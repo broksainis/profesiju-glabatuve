@@ -1,0 +1,73 @@
+---
+layout: post
+    
+title: programmvadības kokapstrādes darbgaldu/līniju operators
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 752306
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  programmvadības kokapstrādes darbgaldu/līniju operators veic koksnes un koksnes plātņu materiālu mehānisko apstrādi patstāvīgi vai komandā ar citiem nozares speciālistiem, izmantojot programmvadības kokapstrādes darbgaldus/līnijas.     Programmvadības kokapstrādes darbgaldu/līniju operators strādā kokapstrādes un mēbeļu ražošanas uzņēmumos.
+
+### Kompetences
+
+* Spēja vizuāli novērtēt programmvadības kokapstrādes darbgaldu/līniju tehnisko stāvokli, iespējamos riskus
+* Spēja lietot programmvadības kokapstrādes darbgaldu/līnijas vadības programmu
+* Spēja noteikt darba uzdevumam piemērotu kokapstrādes izejmateriālu
+* Spēja noteikt un izvēlēties apstrādājamajam materiālam atbilstošu koksnes griezējinstrumentu darba uzdevuma izpildei
+* Spēja noteikt programmvadības kokapstrādes darbgaldu/līniju gatavību darbam
+* Spēja lietot programmvadības kokapstrādes darbgaldu/līniju specializētās programmas un ieviest korekcijas apstrādes programmās atbilstoši veiktajiem kontrolmērījumiem
+* Spēja noteikt un novērtēt kokapstrādes izejmateriālu atbilstību darba uzdevumam, sagatavot darba vietu atbilstoši tehnoloģiskajam procesam
+* Spēja vadīt programmvadības kokapstrādes darbgaldu/līniju darbību, nodrošināt tās pārraudzību un veikt ikdienas tehnisko apkopi
+* Spēja izvēlēties un uzstādīt darba uzdevumam atbilstošas nepieciešamās palīgierīces un aizsargierīces
+* Spēja izvēlēties atbilstošus mērinstrumentus un citus tehniskos līdzekļus kontrolmērījumu veikšanai
+* Spēja lasīt kokizstrādājumu rasējumus un tehnisko dokumentāciju
+* Spēja pastāvīgi novērtēt programmvadības kokapstrādes darbgaldu/līniju palīgierīču, aizsargierīču un griezējinstrumentu tehnisko stāvokli un nolietojumu
+* Spēja izmantot datubāzes, tehnisko dokumentāciju un citus informācijas avotus un iepazīties ar jaunākajām tehnoloģijām, instrumentiem un specializēto kokapstrādes programmu nodrošinājumiem
+* Spēja izprast un ievērot darba aizsardzības normatīvo aktu prasības, veikt darba pienākumus, nekaitējot savai un citu personu veselībai, izvēlēties un lietot piemērotu darba apģērbu un individuālos aizsardzības līdzekļus, atpazīt un atbilstoši reaģēt uz drošības signāliem un zīmēm
+* Spēja ievērot ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja sniegt pirmo palīdzību
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Atšķirt koku sugas, kokmateriālu veidus un koka plātņu materiālus, noteikt to lietošanas iespējas
+* Noteikt koksnes izejmateriālu atbilstību darba uzdevuma veikšanai
+* Izvērtēt koksnes materiālu kvalitātes atbilstību apstrādei ar programmvadības kokapstrādes darbgaldiem/līnijām
+* Noteikt pasūtījuma izpildei nepieciešamo koksnes izejmateriāla daudzumu un darba apjomu
+* Novērtēt programmvadības kokapstrādes darbgaldu/līniju tehnisko stāvokli
+* Izmantot programmvadības kokapstrādes darbgaldu/līniju iekārtas
+* Salīdzināt esošos un nepieciešamos programmvadības kokapstrādes darbgaldu/līniju iestatījumus
+* Lietot šablonus programmvadības kokapstrādes darbgaldos/līnijās
+* Izvēlēties un lietot mērinstrumentus programmvadības kokapstrādes darbgaldu/līniju griezējinstrumentu kontrolmērījumu veikšanai
+* Veikt korekcijas kokapstrādes darbgaldu/līniju programmā atbilstoši produkcijas kontroles mērījumiem
+* Izvēlēties, uzstādīt un izmantot atbilstošus programmvadības kokapstrādes darbgaldu/līniju griezējinstrumentus.
+*  Lietot programmvadības kokapstrādes darbgaldu/līniju specializētās programmas
+* Lasīt koksnes darbgalda/līnijas tehnoloģiskā procesa programmu, kokizstrādājumu rasējumus un tehnisko dokumentāciju
+* Veikt saražotās produkcijas uzskaiti un noformēt dokumentāciju
+* Uztvert, izprast un lietot programmvadības kokapstrādes darbgaldu/līniju skaņas, vizuālos un tekstveida signālus - paziņojumus
+* Veikt koksnes un koksnes plātņu materiālu mehānisko apstrādi programmvadības kokapstrādes darbgaldos/līnijās
+* Novērtēt programmvadības kokapstrādes darbgaldu/līniju, palīgierīču un aizsargierīču tehnisko stāvokli
+* Ievērot darba aizsardzības normatīvo aktu prasības, izvēlēties un lietot piemērotu darba apģērbu un individuālos aizsardzības līdzekļus, atpazīt un atbilstoši reaģēt uz drošības signāliem un zīmēm
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Sniegt pirmo palīdzību
+* Strādāt kolektīvā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību normas

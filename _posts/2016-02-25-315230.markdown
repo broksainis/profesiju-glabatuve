@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: kuģu vadītājs (vadības līmenī)
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 315230
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* kuģu vadītājs (vadības līmenī) nodrošina drošu kuģa ekspluatāciju kravu un pasažieru pārvadājumos; nosaka sardzes procedūras uz klāja un tiltiņa; pārrauga kuģa vadīšanu; plāno kravas operācijas un pārrauga to norisi; pārrauga un kontrolē kuģa darbības atbilstību tiesību aktu prasībām un pasākumus, lai nodrošinātu cilvēku dzīvības aizsardzību uz jūras un jūras vides aizsardzību; veic tehnisko uzraudzību pār kuģa apkopi un remontu; pārzina un ievēro starptautisko konvenciju un citu starptautisko un nacionālo normatīvo aktu prasības jūrniecības jomā; nodrošina nepieciešamo materiālu un krājumu piegādi uz kuģa, kuģa apkalpes un citu darbinieku atbilstību tiem nozīmēto pienākumu veikšanai, pierakstu par veiktajām darbībām uzturēšanu; nodrošina ikdienas un ārkārtas informācijas pārraidīšanu un saņemšanu, izmantojot radiosakarus ar citiem kuģiem un krasta stacijām; organizē un vada citu speciālistu darbu.
+* Kuģu vadītājs (vadības līmenī) var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "Jūrnieku sagatavošana un sertificēšana, kā arī sardzes pildīšana" (STCW (Standards of Training Certification and Watchkeeping) Konvencija) prasībām. Pabeidzot atbilstošu izglītības programmu vai iegūstot nepieciešamo pieredzi, kuģu vadītājs (vadības līmenī) var tikt nodarbināts kā vecākais speciālists jūrniecības vai citu nozaru uzņēmumos un organizācijās.
+
+### Kompetences
+
+* Kuģu vadītājam (vadības līmenī) nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-II/1 – "Minimālā kompetences standarta specifikācija navigācijas sardzes virsniekiem uz kuģiem ar bruto tilpību 500 BT vai lielāku" un A-II/2 – "Minimālā kompetences standarta specifikācija kapteiņiem un kapteiņu vecākajiem palīgiem uz kuģiem ar bruto tilpību 500 BT vai lielāku".
+
+### Prasmes 
+* Kuģu vadītājam (vadības līmenī) nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-II/1 – "Minimālā kompetences standarta specifikācija navigācijas sardzes virsniekiem uz kuģiem ar bruto tilpību 500 BT vai lielāku" un A-II/2 – "Minimālā kompetences standarta specifikācija kapteiņiem un kapteiņu vecākajiem palīgiem uz kuģiem ar bruto tilpību 500 BT vai lielāku".

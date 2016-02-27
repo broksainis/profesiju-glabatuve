@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: būvniecības tāmju inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214232
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* būvniecības tāmju inženieris veic būvniecības darbu izmaksu tāmes aprēķinus un dzīvojamo māju pārvaldīšanas obligāto un citu darbību izmaksu tāmes aprēķinus; atbild par izmaksu aprēķinu atbilstību Latvijas Republikas un Eiropas Savienības tiesību aktu prasībām būvniecības, nekustamā īpašuma pārvaldīšanas un apsaimniekošanas, nodokļu piemērošanas, darba un vides aizsardzības jomā; atbild par būvniecības un pārvaldīšanas darbību tehnoloģisko ciklu prasību izmaksu izvērtēšanu un aprēķināto izmaksu atbilstību darbu faktiskajiem izdevumiem. 
+* Būvniecības tāmju inženieris strādā uzņēmumos, kas nodarbojas ar būvniecību vai nekustamā īpašuma pārvaldīšanu un apsaimniekošanu, var būt pašnodarbināta persona vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja atbildīgi un patstāvīgi veikt būvniecības tāmju inženiera profesijas pienākumus atbilstoši Latvijas Republikas normatīvajiem aktiem un Eiropas Savienības tiesību normām
+* Spēja optimāli plānot un racionāli izmantot finansējumu un materiālos resursus, prast izvērtēt ekonomiskos faktorus un pieņemt lēmumu par izdevīgāko variantu konkrētajā situācijā
+* Spēja pieņemt lēmumus, pamatojoties uz veiktajām prognozēm, tehnoloģisko procesu izvērtēšanas rezultātiem
+* Spēja orientēties būvmateriālu piedāvājumā, piemērotībā un izmaksās, būvniecības tehnoloģijās, zināt būvdarbu, materiālu izmaksas, to veidošanos
+* Spēja izprast būvniecības produkta cenu ietekmējošos faktorus, noteikt to izmaiņu raksturu un tendences, lai izstrādātu nepieciešamās prognozes būvniecības produkta cenas sastādīšanai
+* Spēja izprast būvju konstruktīvos risinājumus, nesošo un norobežojošo konstrukciju projektēšanas pamatprincipus, inženierkomunikāciju risinājumus, speciālo būvju risinājumus un izbūves pamatus
+* Spēja izstrādāt būvniecības produkta izmaksu aprēķinu, pamatojoties uz būvprojektu un tam pievienoto būvdarbu apjomu sarakstu un būvprojekta specifikāciju
+* Spēja orientēties makroekonomiskajos procesos, būvuzņēmējdarbības ekonomikā, nekustamā īpašuma pārvaldīšanas un apsaimniekošanas procesos, zināt ietekmējošos faktorus un izvēlēties efektīvākās risinājuma metodes
+* Spēja lasīt un izprast dzīvojamo māju pārvaldīšanas un atjaunošanas darbu projektu tehnisko dokumentāciju, maketu, rasējumus un apzināties nepieciešamās izmaiņas, piedāvāt pamatotus un efektīvus risinājumus
+* Spēja izstrādāt dzīvojamo māju obligāto un citu pārvaldīšanas uzdevumu darbu izmaksu tāmi, pamatojoties uz iepriekšējo periodu pieredzi, izdevumiem, materiālu un inventāra kalpošanas laiku, prognozētajām cenām, inflāciju un nekustamā īpašuma pārvaldīšanas un apsaimniekošanas inženierekonomiskajiem aprēķiniem
+* Spēja sagatavot būvdarbu iepirkuma dokumentāciju, t.skkonkursa nolikumu
+* Spēja sagatavot piedāvājumu būvdarbu iepirkumam
+* Spēja paskaidrot un pamatot visus tāmē iekļautos izdevumu posteņus
+* Spēja strādāt komandā un patstāvīgi, risināt problēmsituācijas atbilstoši kompetencei
+* Spēja savā darbībā lietot informācijas tehnoloģijas
+* Spēja nodrošināt darba un vides aizsardzības normatīvo aktu prasību izpildi
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja ievērot profesionālās un vispārējās ētikas principus
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+
+### Prasmes 
+* Izmantot normatīvos aktus būvniecības, dzīvojamo māju pārvaldīšanas, darba, vides aizsardzības, publisko iepirkumu un nodokļu jomā
+* Lasīt būvniecības dokumentāciju
+* Veikt dzīvojamo māju un inženieriekārtu kārtējo vai ārkārtas tehnisko apsekošanu
+* Izvēlēties atbilstošos būvniecības un citus materiālus
+* Izmantot datubāzes, iegūt un izvērtēt informāciju par tirgus tendencēm darbaspēka, iekārtu, inventāra un materiālu piedāvājumā un izmaksās
+* Izvēlēties atbilstošās iekārtas un inventāru
+* Orientēties būvdarbu veidos, izvēlēties optimālās būvniecības tehnoloģijas
+* Sagatavot būvdarbu iepirkuma konkursa nolikumu
+* Sagatavot piedāvājumu būvdarbu iepirkumam
+* Izvēlēties optimālās dzīvojamo māju pārvaldīšanas tehnoloģijas
+* Izvērtēt inženieriekārtu kalpošanas nolietojumu
+* Veikt nepieciešamos aprēķinus tāmju sastādīšanā
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Strādāt ar datoru un apkopot dažādu informāciju
+* Strādāt komandā un patstāvīgi, risināt problēmsituācijas atbilstoši kompetencei
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Sistemātiski pilnveidot profesionālo kvalifikāciju
+* Ievērot darba tiesisko attiecību normas

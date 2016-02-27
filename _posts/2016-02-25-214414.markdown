@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: mehānikas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214414
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* mehānikas inženieris piedalās projektēšanas, ražošanas, pētniecības, tehniskās uzraudzības, izstrādājumu pilnveidošanas, realizācijas un remonta procesos; izmanto speciālās zināšanas un prasmes dažādu praktisku tehnisko problēmu vai uzdevumu risinājumiem, kā arī nodrošina normatīvo aktu ievērošanu darba aizsardzības un vides aizsardzības jomā. 
+* Mehānikas inženieris strādā metālapstrādes, mašīnbūves, projektēšanas, lauksaimniecības, transporta, celtniecības, tirdzniecības un citos uzņēmumos, kuru darbība saistīta ar iekārtu, ierīču, mašīnu projektēšanu, ražošanu, uzstādīšanu, uzraudzību, pilnveidošanu, realizāciju un remontu. 
+
+### Kompetences
+
+* Spēja sastādīt aprēķinu shēmas un sagatavot tehnisko uzdevumu iekārtu projektēšanai
+* Spēja aprēķināt konstrukciju, mehānismu, mezglu un detaļu izmērus un izvēlēties atbilstošus materiālus
+* Spēja veikt mehānismu kinemātisko, dinamisko un termodinamisko parametru aprēķinus
+* Spēja noteikt detaļu stiprības un ilgizturības rādītājus
+* Spēja orientēties mašīnbūves iekārtu apkalpošanas, diagnosticēšanas un remonta jautājumos
+* Spēja projektēšanas procesā izvēlēties salāgojumu izmērus un pielaides, lai nodrošinātu iekārtu kvalitatīvu un ilgstošu darbību
+* Spēja aprēķināt apstrādes režīmus un darbmašīnu skaitu, izplānot izgatavošanas maršrutu un pāreju secību tehnoloģiskā procesa nodrošināšanai
+* Spēja izstrādāt detaļu pārbaudes karti, izvēlēties nepieciešamos instrumentus un aprēķināt to skaitu, nosakot to lietošanas un uzglabāšanas nosacījumus, lai nodrošinātu nepieciešamo izstrādājumu kvalitāti
+* Spēja analizēt ražošanas procesu, iepazīties ar esošiem analogiem un izstrādāt alternatīvus ražošanas konstruktīvos un tehnoloģiskos risinājumus
+* Spēja noteikt palīgierīču nepieciešamību un nodrošināt to izgatavošanu
+* Spēja izvērtēt tehnoloģisko procesu precizitāti un stabilitāti
+* Spēja sagatavot projektējamās vai izgatavojamās iekārtas izmaksas un noteikt izdevumu atmaksāšanas laiku
+* Spēja izvērtēt ražošanas automatizācijas līmeni
+* Spēja izvērtēt ekonomiski izdevīgākos tehniskos risinājumus
+* Spēja novērtēt iespējamos riskus, ko var radīt izstrādājumi, plānot produkcijas kvalitāti
+* Spēja sekot mašīnbūves iekārtu rezerves daļu daudzumam un veikt to pasūtījumus
+* Spēja plānot darbus un organizēt to savlaicīgu izpildi, organizēt un vadīt struktūrvienības darbu
+* Spēja ievērot un nodrošināt vides un darba aizsardzības normatīvo aktu prasības
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja ievērot profesionālās un vispārējās ētikas principus
+* Spēja apzināt un izprast normatīvos aktus iekārtu drošuma jautājumos
+* Spēja nodrošināt Starptautiskās standartu organizācijas (ISO) prasību izpildi kvalitātes drošuma un vides aizsardzības sistēmās
+* Spēja ievērot darba tiesisko attiecību normas
+
+
+### Prasmes 
+* Pārzināt konstruktoru un tehnologu dokumentācijas izstrādāšanas stadijas
+* Veikt mašīnu, mehānismu, mezglu un detaļu stiprības aprēķinus
+* Veikt darba uzdevuma profesionālu analīzi, informācijas apstrādi un darba uzdevuma saskaņošanu ar ražošanas tehnoloģiskajām iespējām
+* Piemērot darba izpildei nepieciešamos mehānikas nozares normatīvos aktus, tehnisko dokumentāciju un standartus, gatavot lietišķos dokumentus
+* Analizēt, vērtēt un izmantot zinātniskos un lietišķos pētījumus, lietot informācijas meklēšanas un atlases līdzekļus, ieviest jaunas tehnoloģijas un konstrukcijas
+* Prast prognozēt mašīnbūves iekārtu bezatteikuma darbību
+* Mērķtiecīgi izmantot ražošanas iekārtu jaudu un organizēt to tehnisko apkopi
+* Prast izvēlēties automātikas elementus (hidraulisko un pneimatisko sistēmu elementi, elektriskie un optiskie elementi u.c.).
+*  Izmantot datorizētās projektēšanas un datorizētās ražošanas (CAD/CAM) tehnoloģijas projekta izstrādei
+* Racionāli organizēt savstarpēji saistīto darba procesu izpildi
+* Projektēt ražošanas iekārtu izvietojumu un organizēt darba sadali starp strādājošajiem
+* Piedalīties ražošanas projektu analīzē, izstrādē, saskaņošanā un vadīšanā
+* Ievērot un nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Noteikt izpildāmo darbu prioritātes, darboties komandā un plānot, organizēt un vadīt tās darbu, kā arī veikt darbu individuāli
+* Argumentēt savu viedokli, pārliecināt citus un risināt konfliktsituācijas
+* Ievērot profesionālās un vispārējās ētikas principus
+* Sistemātiski pilnveidot savu profesionālo kvalifikāciju
+* Sagatavot prezentācijai izstrādātā projekta materiālus un prezentēt to
+* Sniegt pirmo palīdzību
+* Saudzēt apkārtējo vidi
+* Ievērot darba tiesisko attiecību normas

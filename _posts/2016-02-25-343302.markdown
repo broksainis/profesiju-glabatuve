@@ -1,0 +1,67 @@
+---
+layout: post
+    
+title: bibliotēku informācijas speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 343302
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* bibliotēku informācijas speciālists nodrošina bibliotēkas vai informācijas institūcijas darbu atbilstoši savai kompetencei un funkcijām: komplektē, strukturē, kataloģizē tradicionālos/iespiestos un elektroniskos dokumentus, pārzina bibliotēku informācijas sistēmas un modernās informācijas un komunikācijas tehnoloģijas (vismaz klientu/lietotāju/lasītāju līmenī), pārzina informācijas resursus un to lietošanu (krājumu/kolekciju izvietojums, dokumentu pieejamība, datubāžu struktūra, licenzēto datubāžu izmantošana u.c.), sniedz bibliotekāros pakalpojumus uz vietas un tiešsaistē (elektroniskās uzziņas, elektroniskā dokumentpiegāde u.c.), informē sabiedrību par jauniegūtajiem resursiem, tiešsaistes datubāzēm, bibliotekārajiem pakalpojumiem, popularizē bibliotēkas/informācijas institūcijas sniegumu un iespējas (izstādes, pasākumi, publikācijas). 
+* Bibliotēku informācijas speciālists strādā jebkura tipa bibliotēkā (zinātniskajā, speciālajā, publiskajā, izglītības iestādes bibliotēkā) vai citā institūcijā, kas saistīta ar informācijas vākšanu, strukturēšanu, glabāšanu un izplatīšanu (turpmāk – informācijas institūcija). 
+
+### Kompetences
+
+* Spēja orientēties bibliotēkzinātnes un informācijas zinātnes attīstības tendencēs pasaulē un Latvijā
+* Spēja izmantot informācijas un komunikācijas tehnoloģiju iespējas
+* Spēja pielietot svešvalodu zināšanas informācijas resursu meklēšanā, veidošanā, izmantošanā
+* Spēja organizēt bibliotēku un informācijas nozares un radniecīgo nozaru institūciju savstarpējo sazināšanos un sadarbību
+* Spēja veicināt sabiedrības motivāciju bibliotēku un informācijas institūciju resursu izmantošanai
+* Spēja veidot un organizēt inovatīvus profesionālos risinājumus un pakalpojumus
+* Spēja sastādīt un īstenot darbības stratēģiju atbilstoši sabiedrības mainībai
+* Spēja ievērot profesionālās ētikas normas, likumus, normatīvos aktus un citus reglamentējošos dokumentus
+* Spēja veidot un organizēt radošai un informatīvai darbībai labvēlīgu vidi un gaisotni, strādāt komandā
+* Spēja adekvāti rīkoties problēmsituācijās un savlaicīgi pieņemt nepieciešamos lēmumus
+* Spēja nodrošināt, organizēt un pārvaldīt bibliotēkas vai informācijas institūcijas krājumu
+* Spēja veidot, organizēt un sniegt informācijas pakalpojumus, balstoties uz aktualitātēm sabiedrības dzīvē
+* Spēja vērtēt un pilnveidot profesionālo darbību un kvalifikāciju
+* Spēja nodrošināt darba aizsardzības, elektrodrošības un ugunsdrošības noteikumu ievērošanu darba vidē
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+
+### Prasmes 
+* Strādāt individuāli un grupā, nodrošināt informācijas lietotāju tiesību aizsardzību
+* Veidot profesionālo darba vidi, līdzdarboties profesionālajās organizācijās
+* Apzināt nozares aktualitātes valstī, izzināt ārvalstu profesionālo pieredzi
+* Veikt informācijas popularizēšanu un publiskošanu mutvārdos un rakstveidā
+* Organizēt sadarbību ar plašsaziņas līdzekļiem, saziņas iespējas ar citām institūcijām un speciālistiem
+* Sagatavot un īstenot darba plānošanas un organizēšanas dokumentus
+* Iesaistīties radošos projektos
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot nozares terminoloģiju valsts valodā un divās svešvalodās
+* Pārzināt bibliotēku informācijas sistēmu un informācijas un komunikācijas tehnoloģijas (lasītāju/klientu līmenī)
+* Prast meklēt, iegūt, analizēt, vērtēt informāciju un avotus, veicināt lasītāju prasmi lietot informāciju
+* Nodrošināt sadarbību ar profesionālajām un pārvaldības institūcijām (valsts, pašvaldību, nevalstiskajām, privātajām), tālākizglītību un pašizglītību (dalība semināros, projektos, kursos)
+* Pārzināt un īstenot valsts kultūrpolitikas vadlīnijas
+* Pārzināt bibliotekāro vidi un infrastruktūru, pārvaldīt saskarsmes psiholoģiju
+* Nodrošināt tradicionālo un elektronisko dokumentu apstrādi, resursu veidošanu, informācijas ieguvi, dokumentu glabāšanu, piegādi
+* Izprast grāmatu un citu iespiesto informācijas avotu strukturēšanu krājumā, datu strukturēšanu datubāzēs, interneta resursu arhivēšanu
+* Gūt priekšstatu par digitālo objektu pārvaldību, multimediālo digitālo kolekciju veidošanu
+* Prast vizualizēt un prezentēt informāciju
+* Piemērot likumus, normatīvos aktus, standartus un citus bibliotēku un informācijas nozares darbību reglamentējošos dokumentus
+* Sniegt pakalpojumus poligrāfiskā un elektroniskā vidē
+* Ieviest inovatīvus pakalpojumus
+* Sagatavot bibliotēkas un informācijas institūcijas darba operatīvās un stratēģiskās plānošanas dokumentus
+* Veikt projektu sagatavošanu un īstenošanu

@@ -1,0 +1,71 @@
+---
+layout: post
+    
+title: medicīnas fizikālo tehnoloģiju inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214437
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* medicīnas fizikālo tehnoloģiju inženieris projektē un pilnveido medicīniskās iekārtas, aparātus un instrumentus; pārzina iekārtu fizikālos un tehniskos darbības principus, to izgatavošanas un konstruēšanas tehnoloģijas; prot pielietot zināšanas par fizikālo lauku iedarbību uz bioloģiskajiem objektiem, organizēt drošības pasākumus; piedalās medicīnisko iekārtu un sistēmu izvēlē, uzstādīšanā, regulēšanā, remontā un izmantošanā; spēj veikt radiācijas tehnoloģiju plānošanu un uzraudzību; veic pacienta dozimetriju, kā arī piedalās citās inženiera darbībās, kas saistītas ar radioloģiskajām procedūrām un jonizējošo starojumu; piedalās radiācijas drošības un kodoldrošības kvalitātes nodrošināšanas programmas izstrādē ārstniecības iestādē; organizē medicīnisko iekārtu un sistēmu servisu, uzraudzību, kontroli un testēšanu; vada un organizē ražošanu, veicina jaunu tehnoloģiju ieviešanu; veic tehniskos, fizikālos un ekonomiskos aprēķinus medicīnas fizikālo tehnoloģiju jomā; sadarbībā ar ārstniecības personām optimizē, harmonizē medicīniskās fizikas metodes diagnostikai un ārstēšanai; piedalās starptautiskajos projektos; izvērtē nozares projektu īstenošanas ietekmi uz vidi un sabiedrību; ievēro profesionālo ētiku. 
+* Medicīnas fizikālo tehnoloģiju inženieris strādā ārstniecības iestādēs – slimnīcās, poliklīnikās, doktorātos, veselības centros, rehabilitācijas iestādēs, specializētajos centros, laboratorijās, kā arī medicīnas iekārtu izplatītāju, pakalpojumu, sertifikācijas, uzraudzības, ražošanas, projektēšanas un pētniecības uzņēmumos. 
+
+### Kompetences
+
+* Spēja projektēt un pilnveidot medicīniskās iekārtas, aparātus un sistēmas
+* Spēja izstrādāt medicīnisko iekārtu un sistēmu izgatavošanas tehnoloģiju
+* Spēja konstruēt medicīniskās iekārtas, aparātus un sistēmas
+* Spēja vadīt un organizēt jaunu medicīnas fizikālo tehnoloģiju ražošanu
+* Spēja veikt medicīnisko iekārtu iegādes izvēli un uzstādīšanu
+* Spēja veikt medicīnisko iekārtu un sistēmu uzraudzību – apkalpošanu, regulēšanu, remontu, testēšanu un kalibrēšanu
+* Spēja veikt radiācijas tehnoloģiju plānošanu un uzraudzību
+* Spēja veikt pacienta dozimetriju un piedalīties darbībās, kas saistītas ar radioloģiskajām procedūrām un jonizējošo starojumu
+* Spēja veikt radiācijas drošības un kodoldrošības kvalitātes nodrošināšanas programmas izstrādi ārstniecības iestādēs un citos uzņēmumos
+* Spēja veikt tehniskos, fizikālos un ekonomiskos aprēķinus medicīnas fizikālo tehnoloģiju jomā
+* Spēja veikt pētījumus ar zinātnisku vērtību sadarbībā ar mediķiem, biologiem un citiem speciālistiem
+* Spēja organizēt un vadīt struktūrvienības personāla darbu
+* Spēja plānot darbus un organizēt to savlaicīgu izpildi
+* Spēja uzskaitīt un kontrolēt darba un citu resursu apjomus
+* Spēja nodrošināt vides un darba aizsardzības normatīvo aktu prasību izpildi
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+
+### Prasmes 
+* Izmantojot tehnisko dokumentāciju, izprast medicīnisko iekārtu, instrumentu uzbūvi un to attīstības tendences
+* Lietot darba izpildei nepieciešamo tehnisko un normatīvo dokumentāciju, tehniskos standartus un citu ar medicīnas fizikālo tehnoloģiju nozari saistīto dokumentāciju, gatavot lietišķo, tehnisko dokumentāciju
+* Analizēt, vērtēt un izmantot zinātniskus lietišķus pētījumus, lietot informācijas meklēšanas un atlases līdzekļus, ieviest jaunas tehnoloģijas
+* Pārzināt medicīnas iekārtu, instrumentu izgatavošanas tehnoloģijas, projektēt tehnoloģiskos procesus medicīnisko iekārtu un instrumentu izgatavošanai
+* Prast sagatavot, lasīt rasējumus un skices, noformēt konstruktora dokumentāciju un veikt inženiertehniskos aprēķinus
+* Izvērtēt medicīnisko iekārtu, instrumentu izmantošanas nosacījumus un drošību
+* Prast atrast medicīnisko iekārtu un sistēmu bojājumu cēloņus un tos novērst
+* Izvērtēt medicīnisko inženieriekārtu iegādes nosacījumus
+* Vadīt medicīnisko inženieriekārtu uzstādīšanu, izmantošanu, regulēšanu un kvalitātes vadību, izstrādāt atbilstošas pārbaudes metodikas
+* Prast pielietot starojumu avotu aizsardzības inženieraprēķinu metodikas, izstrādāt un pielietot matemātisko modelēšanu medicīnas fizikā un inženierijā
+* Veikt dozimetriskos, radiometriskos un spektrometriskos mērījumus un tos dokumentēt
+* Novērtēt medicīnas fizikālo tehnoloģiju nozares projektu īstenošanas ietekmi uz vidi un sabiedrību
+* Sadarbībā ar mediķiem, biologiem un citiem speciālistiem piedalīties klīniskajos pētījumos
+* Pārzināt kvalitātes sistēmas izveides un pielietojuma principus medicīnas fizikālo tehnoloģiju jomā
+* Pielietot informācijas meklēšanas un atlases līdzekļus, datoru lietotājprogrammas tekstu, zīmējumu un grafiku noformēšanai
+* Analizēt un pielietot praktiskajā darbā zinātnisko literatūru valsts valodā un divās svešvalodās
+* Vadīt struktūrvienības personāla darbu
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot nozares standartus un profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Darboties komandā/grupā, plānot, organizēt un vadīt profesionālās komandas darbu, noteikt izpildāmo darbu prioritātes, veikt darbu arī individuāli
+* Veikt jaunrades un pētniecības darbu
+* Argumentēt savu viedokli, pārliecināt citus un risināt konfliktsituācijas
+* Ievērot profesionālos un vispārīgos ētikas principus
+* Ievērot darba aizsardzības, radiācijas drošības, ugunsdrošības, vides aizsardzības un higiēnas prasības
+* Noformēt dokumentus atbilstoši lietvedības, kā arī ugunsdrošības un civilās aizsardzības jomas normatīvo aktu prasībām
+* Sistemātiski pilnveidot savu profesionālo kvalifikāciju

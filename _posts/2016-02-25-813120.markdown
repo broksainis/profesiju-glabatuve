@@ -1,0 +1,94 @@
+---
+layout: post
+    
+title: ķīmiskās produkcijas ražošanas operators
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 813120
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  ķīmiskās produkcijas ražošanas operators veic ķīmiskās produkcijas ražošanas tehnoloģisko procesu vai tā daļu atbilstoši ražošanas dokumentācijai tam paredzētajās iekārtās ar mērķi iegūt kvalitātes prasībām atbilstošu ķīmisko produkciju, ievērojot darba un vides aizsardzības, kā arī uzņēmuma kvalitātes sistēmu normatīvo aktu prasības.     Ķīmiskās produkcijas ražošanas operators strādā ķīmijas, bioķīmijas, farmācijas, kosmētikas un parfimērijas nozares uzņēmumā.
+
+### Kompetences
+
+* Spēja patstāvīgi sagatavot darba vietu ķīmiskās produkcijas ražošanas tehnoloģiskajam procesam saskaņā ar reglamentējošiem dokumentiem, ievērojot darba drošības un higiēnas prasības
+* Spēja izvērtēt tehnoloģisko komunikāciju atbilstību noteiktam ķīmiskās produkcijas ražošanas tehnoloģiskajam procesam
+* Spēja izvērtēt iekārtu un ierīču tehnisko stāvokli un sagatavot tās darbam
+* Spēja izmantot iekārtas ķīmiskās produkcijas ražošanas tehnoloģisko procesu veikšanai, ievērojot to drošas ekspluatācijas prasības
+* Spēja noteikt ķīmisko izejvielu un materiālu kvalitāti, nosvērt, nomērīt nepieciešamo daudzumu un veikt iekraušanu tilpnēs atbilstoši reglamentējošai dokumentācijai, ievērojot darba un vides aizsardzības normatīvo aktu prasības
+* Spēja patstāvīgi veikt ķīmiskās produkcijas ražošanas tehnoloģisko procesu, uzturot un kontrolējot tā tehnoloģiskos parametrus
+* Spēja lasīt reglamentējošo dokumentāciju un dokumentēt tehnoloģisko procesu, izmantojot labas ražošanas prakses un ķīmijas tehnoloģijas zināšanas
+* Spēja patstāvīgi veikt produkta paraugu noņemšanu un sagatavošanu kvalitātes kontrolei
+* Spēja sagatavot iepakošanas materiālus, iepakot un marķēt gala produktu, lietojot atbilstošus kolektīvos un individuālos aizsardzības līdzekļus
+* Spēja veikt stingrai uzskaitei pakļauto vielu reģistrāciju atbilstoši reglamentējošiem dokumentiem
+* Spēja izprast labas ražošanas prakses principus, ievērot tos standartu operāciju procedūrās
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, veikt darba pienākumus, nekaitējot savai un citu personu veselībai, izmantojot atbilstošus kolektīvos un individuālos aizsardzības līdzekļus
+* Spēja rīkoties pirmsavārijas un avārijas situācijās
+* Spēja sniegt pirmo palīdzību
+* Spēja izprast un ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja sadarboties ar darba vadītāju un kolēģiem, pielietojot pozitīvas saskarsmes prasmes, un ievērot profesionālās un vispārējās ētikas principus
+* Spēja pašizglītoties un patstāvīgi pilnveidot profesionālās kompetences
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja lietot informācijas tehnoloģijas
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Sagatavot telpas, iekārtas, ierīces, komunikācijas, materiālus un izejvielas ražošanas procesam
+* Novērtēt tehnoloģisko iekārtu, ierīču un komunikāciju tehnisko stāvokli
+* Novērtēt izejvielu un materiālu kvalitātes piemērotību noteiktam ražošanas procesam
+* Lietot svēršanas un mērīšanas ierīces
+* Veikt ķīmiskās produkcijas ražošanas tehnoloģisko procesu atbilstoši reglamentējošajai dokumentācijai
+* Lietot ķīmiskās produkcijas ražošanas tehnoloģiskos paņēmienus
+* Ekspluatēt iekārtas atbilstoši noteiktam ražošanas procesam
+* Lietot iekārtu ekspluatācijas dokumentāciju
+* Lasīt un izprast nozares normatīvos aktus, standartus un citu reglamentējošo dokumentāciju
+* Precīzi dokumentēt ķīmiskās produkcijas ražošanas tehnoloģisko procesu
+* Dokumentēt ražošanas procesa atkāpes un novirzes
+* Izvērtēt informāciju par ķīmiskās produkcijas ražošanas tehnoloģisko procesu
+* Informēt darba vadītāju par ķīmiskās produkcijas ražošanas tehnoloģiskā procesa norisi
+* Uzturēt, kontrolēt un dokumentēt tehnoloģiskos parametrus
+* Sagatavot produkta paraugus kvalitātes kontrolei
+* Sagatavot iepakošanas materiālus
+* Novērtēt iepakošanas materiālu kvalitāti
+* Iepakot un marķēt gala produktu
+* Lasīt tehnoloģisko komunikāciju marķējumus
+* Veikt stingrai uzskaitei pakļauto vielu reģistrāciju
+* Racionāli izmantot resursus
+* Piemērot labas ražošanas prakses principus
+* Strādāt klasificētajās telpās
+* Strādāt ar sevišķi kaitīgām vielām
+* Lasīt vielas un materiāla drošības datu lapas
+* Uzturēt tīru un sakoptu darba vidi
+* Ievērot telpu un iekārtu higiēnas prasības
+* Tīrīt iekārtas un ierīces
+* Ievērot personāla higiēnas prasības
+* Ievērot profesionālās un vispārējās ētikas principus
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* Rīkoties pirmsavārijas un avārijas situācijās
+* Sniegt pirmo palīdzību
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Veikt darbu noteiktajā laikā un termiņā
+* Strādāt individuāli un komandā
+* Sadarboties ar darba vadītāju un kolēģiem
+* Patstāvīgi pilnveidot savas profesionālās prasmes, iegūt un analizēt jaunu profesionālo informāciju
+* Ievērot uzņēmuma kvalitātes sistēmu prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Lietot informācijas tehnoloģijas
+* Ievērot darba tiesisko attiecību normas

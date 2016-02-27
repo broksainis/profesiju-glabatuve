@@ -1,0 +1,83 @@
+---
+layout: post
+    
+title: informācijas drošības vadītājs
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 133009
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 
+* informācijas drošības vadītājs organizē un vada informācijas drošības pārvaldības sistēmas (pārvaldības sistēmas stratēģija, arhitektūra/struktūra, kā arī pasākumu, iekšējo normatīvo aktu, ar tiem saistīto procesu kopums) plānošanu, īstenošanu un uzraudzību. 
+* 	Informācijas drošības vadītājs strādā gan valsts un pašvaldību iestādēs, gan uzņēmumos jebkurā tautsaimniecības nozarē. 
+* 	8 
+
+### Kompetences
+
+* Spēja izstrādāt informācijas drošības pārvaldības struktūru/arhitektūru, t.skaprakstīt atbildīgo personu lomas, pienākumus, atbildību
+* Spēja izstrādāt, analizēt, kontrolēt un koriģēt informācijas drošības pārvaldības īstermiņa un ilgtermiņa plānus
+* Spēja noteikt un uzraudzīt mērījumus (indikatorus, rādītājus, metrikas) informācijas drošības pārvaldības sasniedzamo rezultātu novērtēšanai
+* Spēja analizēt un novērtēt sasniegtos rezultātus, pieņemt lēmumus un korekcijas operatīvās un stratēģiskās darbības optimizēšanai
+* Spēja identificēt informācijas drošības ievainojamību, draudus, novērtēt un aprēķināt apdraudējuma ietekmi, noteikt varbūtību
+* Spēja prognozēt urķu uzbrucēja taktiku, izstrādāt riska scenārijus
+* Spēja orientēties informācijas drošības pārvaldības un informācijas un komunikāciju tehnoloģiju (IKT) normatīvo aktu prasībās un starptautiskajos standartos, kā arī informācijas drošības jomas vispārpieņemtajā praksē
+* Spēja izvērtēt, apkopot, atlasīt un adaptēt minimālās drošības prasības informācijas komunikāciju tehnoloģijām, pakalpojumiem un projektiem
+* Spēja analizēt un novērtēt informācijas drošības līmeni, izstrādāt priekšlikumus informācijas drošības līmeņa uzlabošanai
+* Spēja orientēties uzņēmuma darbības nepārtrauktības procesos un plānot informācijas sistēmu atjaunošanas pasākumus un uzraudzību
+* Spēja izstrādāt ārkārtas situācijas rīcības scenārijus un vadīt personālu ārkārtas situācijās
+* Spēja sadarboties, komunicēt, konsultēt, skaidrot un argumentēt informācijas drošības pārvaldības mērķus un rezultātus ieinteresētajām pusēm, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja vadīt apmācības, izstrādāt to saturu, novērtēt zināšanu līmeni informācijas drošības, fizisko personu datu aizsardzības un saistītajos jautājumos
+* Spēja organizēt uzņēmuma struktūrvienības racionālu un saskaņotu darbību, motivēt un kontrolēt pakļautā personāla pienākumu izpildi
+* Spēja ieviest progresīvus risinājumus un metodes informācijas drošības efektivitātes veicināšanai
+* Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību ievērošanu
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+*  Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja veikt pētījumus un prezentēt iegūtos rezultātus
+* 
+
+### Prasmes 
+* Veikt informācijas drošības risku analīzi
+* Izstrādāt un vadīt uzņēmuma informācijas drošības pasākumus
+* Veikt drošības pasākumu plānošanu un drošības plāna vadīšanu
+* Vadīt datu aizsardzības un informācijas drošības pasākumus
+* Izstrādāt un uzturēt ar informācijas drošību saistītos dokumentus un iekšējos normatīvos aktus
+* Kontrolēt informācijas drošības pasākumu izpildi un nodrošināt kontroles rezultātu izmantošanu drošības uzlabošanā
+* Pieņemt lēmumus par informācijas drošības risku pārvaldības pasākumu plāna izmaiņu nepieciešamību
+* Nodrošināt efektīvu informācijas drošības pasākumu plāna izpildes gaitu
+* Vadīt informācijas un komunikāciju tehnoloģiju (IKT) pārbaudes un izmeklēšanas procesus uzņēmumā
+* Apkopot un analizēt datus, izmantot modernās informācijas un komunikāciju tehnoloģijas (IKT) darbības plānošanai, kontrolei un koriģēšanai
+* Sagatavot pārskatus par informācijas drošības pasākumu plāna izpildi
+* Izstrādāt ar drošību saistītus projektus un piedalīties to vadīšanā
+* Vērtēt informācijas drošības attīstības projektu efektivitāti
+* Pārzināt un lietot risku identificēšanas, novērtēšanas un novēršanas metodes
+* Izmantot nozares drošības standartus faktu vērtēšanā un analīzē, kā arī vispārpieņemto praksi informācijas drošības pārvaldības jomā
+* Veikt uzņēmuma darbinieku apmācību par informācijas drošības jautājumiem
+* Savā darbībā lietot modernās informācijas tehnoloģijas
+* Izmantot secinājumu veidošanas loģiskās metodes
+* Vadīt padoto personālu
+* Strādāt komandā
+* Veikt darbu patstāvīgi, plānot izpildāmos darbus un noteikt to prioritātes
+* Noformēt lietišķos dokumentus
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  Formulēt problēmas un to cēloņus, izvirzīt uzdevumus
+* Veikt zinātnisko un pētniecisko darbu un pētījumu rezultātus ieviest praksē
+* Sagatavot prezentācijas un uzstāties ar ziņojumiem par profesionāliem jautājumiem konferencēs, semināros, sanāksmēs
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Patstāvīgi pilnveidot profesionālās zināšanas
+* Ievērot darba tiesisko attiecību normas
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* 

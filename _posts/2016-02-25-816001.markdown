@@ -1,0 +1,66 @@
+---
+layout: post
+    
+title: pārtikas produktu ražošanas operators.
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 816001
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* pārtikas produktu ražošanas operators ir pārtikas produktu ražošanas nozares (gaļas un gaļas produktu, piena produktu, zivju un zivju pārstrādes produktu, augļu un dārzeņu pārstrādes, dzērienu ražošanas, graudu, garšvielu un tehnisko kultūru apstrādes ražošanas, maizes un miltu produktu un citu pārtikas produktu ražošanas) darbinieks, kas prot strādāt ar pārtikas produktu ražošanas iekārtām un instrumentiem, ievērojot higiēnas un darba aizsardzības noteikumus. 
+* Pārtikas produktu ražošanas operators strādā pārtikas rūpniecības uzņēmumos.  
+
+### Kompetences
+
+* Spēja izprast higiēnas prasības pārtikas produktu ražošanā.
+*  Spēja pielietot tehnoloģiskās iekārtas atbilstoši to funkcijām ražošanas procesā
+* Spēja pielietot atbilstošus tīrīšanas, mazgāšanas un dezinficēšanas līdzekļus, ievērojot darba aizsardzību saskarē ar ķīmiskām vielām
+* Spēja vadīt un regulēt iekārtu darbību atbilstoši nepieciešamajiem parametriem, kuri noteikti produktu ražošanas tehnoloģiskās instrukcijās un iekārtu ekspluatācijas instrukcijās
+* Spēja pieņemt un novērtēt izejvielas un palīgmateriālus atbilstoši kvalitātes prasībām
+* Spēja izvērtēt un paredzēt iespējamos riskus droša galaprodukta radīšanai
+* Spēja praktiski pielietot darba aizsardzības, elektrodrošības, ugunsdrošības noteikumu prasības darba vidē
+* Spēja izvēlēties vidi saudzējošu darbību, ievērojot vides aizsardzības noteikumus
+* Spēja piedalīties lēmuma pieņemšanā un uzņemties atbildību
+* Spēja sadarboties komandā, ievērojot darba ētikas principus
+* Spēja izvērtēt savu un kolēģu pieredzi, izvēloties optimālāko profesionālo pilnveidi profesijā
+* Spēja sekot jauninājumiem nozarē, izmantojot visus pieejamos informācijas avotus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Sagatavot darba vietu un iekārtas atbilstoši instrukcijām
+* Pielietot atbilstošus tīrīšanas, mazgāšanas un dezinficēšanas līdzekļus, ievērojot darba drošību saskarē ar ķīmiskām vielām
+* Novērtēt iekārtas atbilstību darba aizsardzības un ekspluatācijas instrukcijām
+* Lietot iekārtas vai instrumentus atbilstoši tehnoloģiskam uzdevumam un ekspluatācijas instrukcijām
+* Orientēties tehniskajā dokumentācijā un iekārtu darbības principiālajās shēmās
+* Atpazīt palīgmateriālus un izejvielas
+* Lasīt marķējumu izejvielām un materiāliem
+* Izvērtēt izmantojamo izejvielu un materiālu atbilstību izvirzītām kvalitātes prasībām
+* Prast noregulēt tehnoloģiskās iekārtas
+* Novērtēt gala produkta atbilstību vizuāli, organoleptiski, veicot elementārus uzmērījumus
+* Prast aizpildīt protokolus un to analogus
+* Novērst neracionālu izejvielu un materiālu izlietojumu
+* Ievērot darba aizsardzības, elektrodrošības un ugunsdrošības noteikumus
+* Izvēlēties piemērotus un atbilstošus individuālos darba aizsardzības līdzekļus
+* Sniegt pirmo palīdzību
+* Ievērot vides aizsardzības prasības
+* Prast novērtēt iespējamo apdraudējumu videi kādā no ražošanas posmiem
+* Prast pieņemt lēmumus un uzņemties atbildību
+* Ievērot darba ētikas principus
+* Pielietot kolēģu vai citu pieredzi
+* Izvērtēt un pielietot iegūtās zināšanas savā darbā
+* Prast strādāt komandā
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā, angļu un krievu valodā

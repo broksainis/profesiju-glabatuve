@@ -1,0 +1,79 @@
+---
+layout: post
+    
+title: mašīnbūves speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311566
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* mašīnbūves speciālists, lietojot speciālas datorprogrammas, konstruē detaļas un mezglus, projektē to izgatavošanas un montāžas tehnoloģiskos procesus, nodrošinot ar programmām automatizētos ciparu programmas vadības (turpmāk – NC) darbgaldus, kā arī uzrauga mehāniķu, iekārtu atslēdznieku un izstrādājumu montētāju darbu. 
+* Mašīnbūves speciālists strādā uzņēmumos, kuros veic mašīnbūves un metālu konstrukciju, rūpniecības mašīnu, mehānisko iekārtu un tehnisko ierīču, izstrādājumu datorizētu projektēšanu, izgatavošanu, apkalpošanu un remontu. 
+
+### Kompetences
+
+* Spēja plānot un organizēt mašīnbūves uzņēmuma vai tā struktūrvienības darbu
+* Spēja strādāt ar mašīnbūves un metālapstrādes nozares tehnisko dokumentāciju
+* Spēja lasīt rasējumus, tehnoloģiskās kartes un NC darbgaldu vadības programmas
+* Spēja izstrādāt un pārbaudīt darba rasējumus pēc skicēm un tehniskiem noteikumiem, ko sagatavojuši inženieri, projektētāji vai klienti
+* Spēja lietot automatizētās projektēšanas sistēmas
+* Spēja veikt mehāniskās apstrādes un tehnoloģiskā procesa analīzi
+* Spēja izstrādāt mehāniskās apstrādes tehnoloģisko operāciju maršrutu un noteikt to veikšanai nepieciešamo laiku
+* Spēja veikt mehāniskās apstrādes un montāžas metroloģiskā nodrošinājuma analīzi
+* Spēja laikus plānot ražošanas procesu, noteikt tā prioritātes un organizēt tā savlaicīgu izpildi
+* Spēja laikus un operatīvi koriģēt ražošanas procesus un veikt korekcijas tehnoloģiskajā un konstruktoru dokumentācijā
+* Spēja kontrolēt tehnoloģiskā procesa ievērošanu
+* Spēja novērtēt materiāla daudzumu un darba patēriņu pasūtījumam
+* Spēja veikt darbu patstāvīgi un atbildēt par darba rezultātiem
+* Spēja strādāt komandā (grupā) un vadīt citus darbiniekus
+* Spēja argumentēt savu viedokli, pārliecināt citus un risināt konfliktsituācijas
+* Spēja sadarboties ar citu profesiju pārstāvjiem
+* Spēja saskaņot tehnisko dokumentāciju ar ieinteresētajiem uzņēmumiem
+* Spēja iegūt un analizēt informāciju par jaunākām tehnoloģijām un sagatavot to ieviešanas pamatojumu uzņēmumā
+* Spēja sniegt operatīvu informāciju par darba rezultātiem
+* Spēja pielietot ISO standartus, Eiropas Savienības un citu valstu standartus mašīnbūves un metālapstrādes nozarēs
+* Spēja patstāvīgi veidot iemaņas darbā ar jaunākajām informācijas tehnoloģijām
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+
+### Prasmes 
+* Analizēt projektēšanai nepieciešamos datus, konstruējot vienkāršus algoritmus
+* Konstruēt un aprakstīt vienkāršu mašīnu mehānismus un detaļas, izmantojot datorizētās projektēšanas, ražošanas un inženieraprēķinu (CAD/CAM/CAE) tehnoloģijas
+* Saskaņot projektēšanas un apstrādes programmas
+* Lietot darba izpildei nepieciešamo tehnisko normatīvo dokumentāciju
+* Analizēt izstrādājumu un ražošanas procesu tehnoloģiskos aspektus un sniegt konsultācijas
+* Precizēt un saskaņot projektēšanas tehnisko uzdevumu
+* Sagatavot konstrukcijas detaļu un mezglu tehnoloģiskos dokumentus
+* Sagatavot vadības programmu NC darbgaldiem
+* Veidot griezējinstrumentu apstrādes trajektorijas
+* Lietot un papildināt griezējinstrumentu bibliotēkas
+* Lietot kontroles mērinstrumentus un iekārtas izstrādājumu kvalitātes nodrošināšanai
+* Pilnveidot izstrādājuma konstrukciju un izgatavošanas tehnoloģiju
+* Iestatīt programmatūru uz NC ražošanas iekārtām
+* Veikt izmaiņas tehnoloģiskajā dokumentācijā atbilstoši izmaiņām ražošanas procesā
+* Veikt datu pārnešanu no vadības programmas uz ārējo programmnesēju
+* Veikt NC iekārtu vadības programmas korekciju pēc izmēģinājuma detaļas izgatavošanas
+* Novērtēt iekārtu tehniskās drošības atbilstību normatīvo aktu prasībām
+* Uzturēt savu profesionālo kompetenci
+* Uzņemties atbildību par profesionālo darbību
+* Domāt kritiski un risināt problēmas
+* Veikt administratīvus pienākumus mašīnbūves uzņēmumā vai tā struktūrvienībā
+* Noteikt prioritātes ražošanas procesa darba uzdevumiem
+* Plānot un organizēt veicamo darbu
+* Līdzdarboties komandas darbā
+* Pielietot ar izpratni mašīnu zinātnes sasniegumus un pētniecības rezultātus ražošanā
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* Pielietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Ievērot darba tiesiskās, darba aizsardzības un vides aizsardzības prasības

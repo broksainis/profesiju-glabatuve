@@ -1,0 +1,59 @@
+---
+layout: post
+    
+title: dispečers (iekšlietu jomā)
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 541925
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  dispečers strādā Valsts ugunsdzēsības un glābšanas dienestā un veic vienotā ārkārtas palīdzības izsaukumu numura "112" un Valsts ugunsdzēsības un glābšanas dienesta tālruņa numura 01 ienākošo zvanu apstrādi un pāradresāciju, pieņem pieteikumus par ugunsgrēkiem un glābšanas darbiem (turpmāk – notikumi), izsūta Valsts ugunsdzēsības un glābšanas dienesta apakšvienības uz notikuma vietu, organizē informācijas apmaiņu ar citām notikumā iesaistītajām institūcijām un dienestiem, sniedz informāciju iedzīvotājiem apdraudējuma gadījumos.
+
+### Kompetences
+
+* Spēja saprast un precīzi izpildīt Valsts ugunsdzēsības un glābšanas dienesta darbību reglamentējošo normatīvo aktu prasības
+* Spēja apstrādāt un glabāt Valsts ugunsdzēsības un glābšanas dienesta darba nodrošināšanai nepieciešamo informāciju
+* Spēja pārbaudīt un novērtēt darba vietas tehniskā aprīkojuma, biroja tehnikas un sakaru līdzekļu gatavību darbam
+* Spēja strādāt ar darba vietas tehnisko aprīkojumu
+* Spēja strādāt ar Valsts ugunsdzēsības un glābšanas dienesta datu bāzēm un informācijas sistēmām
+* Spēja pastāvīgi pilnveidot savas profesionālās zināšanas un prasmes, un fizisko sagatavotību
+* Spēja precīzi izpildīt priekšnieku rīkojumus, savus pienākumus un kopējos uzdevumus
+* Spēja adekvāti rīkoties stresa situācijās, izvērtēt informāciju un pieņemt lēmumus
+* Spēja pieņemt pieteikumus pēc algoritma un izsūtīt Valsts ugunsdzēsības un glābšanas dienesta apakšvienības uz notikuma vietu
+* Spēja noteikt un piesaistīt nepieciešamos operatīvos dienestus notikumam
+* Spēja noteikt un piesaistīt citu institūciju resursus notikumam
+* Spēja veikt Valsts ugunsdzēsības un glābšanas dienesta resursu uzskaiti un aktualizēšanu
+* Spēja izprast un ievērot darba aizsardzības, ugunsdrošības un elektrodrošības noteikumu prasības, veikt darba pienākumus, nekaitējot videi
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Pieņemt un izvērtēt pieteikumus par notikumiem, izsūtīt uz notikuma vietu Valsts ugunsdzēsības un glābšanas dienesta apakšvienības
+* Pieņemt zvanus uz vienoto ārkārtas palīdzības izsaukumu numuru "" un Valsts ugunsdzēsības un glābšanas dienesta tālruņa numuru , noteikt atbildīgo dienestu un nepieciešamības gadījumā pāradresēt zvanu pēc piekritības
+* Uzturēt sakarus ar ugunsgrēku dzēšanas un glābšanas darbu dalībniekiem
+* Uzturēt sakarus ar operatīvo, avārijas un citu notikumā iesaistīto institūciju amatpersonām
+* Izvērtēt saņemto informāciju, piesaistīt notikumam citus operatīvos un avārijas dienestus, valsts un pašvaldību institūcijas
+* Veikt Valsts ugunsdzēsības un glābšanas dienesta struktūrvienību resursu uzskaiti un aktualizēšanu
+* Pārzināt Valsts ugunsdzēsības un glābšanas dienesta datu bāzes un informācijas sistēmas, prast ar tām strādāt
+* Prast strādāt ar informāciju un pieņemt lēmumus paaugstināta stresa apstākļos
+* Sniegt informāciju iedzīvotājiem apdraudējuma gadījumā
+* Reģistrēt notikumus informācijas nesējā atbilstoši normatīvajos aktos noteiktajām prasībām
+* Prast strādāt ar datoru (biroja programmatūru un interneta pārlūkprogrammām), citu biroja tehniku, sakaru līdzekļiem un skaņu ierakstu iekārtām
+* Strādāt patstāvīgi un komandā
+* Ievērot darba aizsardzības un vides aizsardzības prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Pilnveidot profesionālās zināšanas un prasmes
+* Uzturēt atbilstošu fiziskās sagatavotības līmeni

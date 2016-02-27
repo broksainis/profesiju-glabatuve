@@ -1,0 +1,107 @@
+---
+layout: post
+    
+title: būvdarbu vadītāja palīgs
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311229
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* ceļu būvtehniķis ir tehniskais speciālists, kas ceļu, tiltu un citu transportbūvju (turpmāk – ceļi) būvobjektā, būvlaukumā vai ceļu uzturēšanas iecirknī organizē un īsteno ceļa izbūves vai uzturēšanas darbus.
+* Ceļu būvtehniķim var tikt noteikts konkrēts darbu/pienākumu apjoms kopējā ceļu būves projekta ietvaros vai ceļu uzturēšanas iecirknī.
+* Ceļu būvtehniķis strādā ceļu būves uzņēmumos, kā arī uzņēmumos, kas nodarbojas ar ceļu uzturēšanas darbiem. Ceļu būvtehniķis var veikt būvdarbu vadītāja palīga, būvdarbu projekta vadītāja palīga, ceļu meistara pienākumus.
+
+### Kompetences
+
+* Spēja izprast būvprojektu, tehniskās shēmas un normatīvus.
+* Spēja organizēt un īstenot ceļa izbūves būvdarbus atbilstoši būvprojektam, būvdarbu organizācijas projektam, citai tehniskajai dokumentācijai, ilgtspējīgas būvniecības principiem, noteiktajām kvalitātes un normatīvo aktu prasībām.
+* Spēja pārzināt būvprojekta un materiālu vispārējo specifikāciju prasības, kā arī konkrētajam ceļu būves projektam nepieciešamo pieejamo materiālu klāstu.
+* Spēja komunicēt ar būvprojektā iesaistītajām personām, kā arī tā īstenošanā ieinteresētajām valsts un pašvaldību iestādēm, citām institūcijām.
+* Spēja nodrošināt darbu gaitu atbilstoši projekta izpildes grafikam ar esošajiem darbaspēka, materiālu un tehniskajiem resursiem.
+* Spēja nodrošināt kvalitātes prasību izpildi.
+* Spēja piemērot specifikāciju prasības izmantotajiem materiāliem un konstruktīvajiem elementiem, kā arī izvēlēties tiem atbilstošas un piemērotas pārbaužu metodes.
+* Spēja iedziļināties pabeigta ceļu būvobjekta vērtēšanas metodikā un tās lietošanā, lai nodrošinātu izpildītā darba objektīvu novērtējumu.
+* Spēja iegūt nepieciešamo informāciju un to lietot praksē.
+* Spēja lietot paraugu ņemšanas un pārbaužu izpildes procedūras.
+* Spēja sagatavot nepieciešamo dokumentāciju ceļu būvobjekta nodošanai ekspluatācijā.
+* Spēja novērtēt pieļauto neatbilstību sekas, panākt neatbilstību novēršanu un pieņemt izlabotos būvdarbus.
+* Spēja pārzināt kritiskas un nestandarta situācijas, kā arī pieņemt nepieciešamos lēmumus.
+* Spēja novērtēt darba aizsardzības riskus un organizēt preventīvus pasākumus to novēršanai.
+* Spēja sniegt pirmo palīdzību.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja identificēt draudus vides aizsardzības jomā un organizēt savlaicīgus pasākumus to novēršanai.
+* Spēja lietot drošus darba paņēmienus un ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības.
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu.
+* Spēja komunicēt, ievērojot profesionālās un vispārējās ētikas pamatprincipus.
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+
+### Prasmes 
+* Pārzināt projekta dokumentāciju un citus saistošos normatīvus.
+* Izmantot ceļu būves tehnoloģijas.
+* Lietot darbaspēka, nepieciešamo mehānismu, materiālu un citu resursu normēšanas principus.
+* Lietot biroja lietojumprogrammas.
+* Pārzināt būvuzņēmuma iekšējo struktūru un dokumentu aprites kārtību.
+* Pārzināt objekta būvdarbu organizācijas projektu.
+* Lietot objekta specifikācijas.
+* Komunicēt ar projekta realizācijā iesaistītajām un ieinteresētajām personām un institūcijām.
+* Izprast satiksmes organizācijas, ceļu būvprojekta sagatavošanas, saskaņošanas un izpildes kārtību objektā.
+* Saprast vispārējo būvdarbu pārvaldības organizāciju, pārzināt būvniecības dalībnieku pienākumus, tiesības un atbildību būvniecības procesā.
+* Pārzināt ceļu būvē izmantojamo materiālu raksturlielumus un īpašības.
+* Izprast konkrētajam ceļu būvobjektam piesaistīto karjeru ģeoloģisko raksturojumu.
+* Izmantot drošas un racionālas karjeru izstrādes tehnoloģijas.
+* Uzturēt un aizsargāt ceļu būvobjekta pagaidu ģeodēzisko atbalsta tīklu, kā arī atjaunot to bojājumu gadījumos.
+* Ievērot veicamo darbu izpildes grafiku un apjomu.
+* Novērtēt ceļu būvdarbu izpildei nepieciešamos resursus, esošo darbinieku kvalifikāciju un faktiski pieejamo tehnisko resursu veiktspēju, kā arī darba procesā racionāli tos organizēt darba izpildei.
+* Izprast ārējo apstākļu ietekmi uz darba ražīgumu un kvalitāti.
+* Rīkoties ar tehniskās klases ģeodēziskajiem instrumentiem, veikt to pārbaudi un regulēšanu.
+* Kontrolēt iestrādājamo materiālu īpašības un to atbilstību ceļu būvprojektam pirms iestrādes un iestrādes laikā.
+* Lietot darbu kvalitātes kontroles ekspresmetodes.
+* Atbilstoši rīkoties, ja konstatēti tehnoloģiju pārkāpumi, materiālu vai izpildīto darbu kvalitātes un citas neatbilstības.
+* Pārzināt ceļu būvprojektu specifikāciju prasības, kvalitātes rādītāju vērtības un pieļaujamajās atkāpes.
+* Aizpildīt nepieciešamos dokumentus.
+* Pārzināt ceļu uzturēšanas normatīvās prasības.
+* Lietot ceļu uzturēšanā izmantojamos materiālus atbilstoši konkrētajiem laikapstākļiem un ceļa konstrukcijas stāvoklim.
+* Organizējot ceļu uzturēšanu, patstāvīgi pieņemt lēmumus un rīkoties atbilstoši mainīgajiem laikapstākļiem.
+* Pastāvīgi novērot un analizēt uzraudzībā esošo ceļu stāvokļa īpatnības un to nozīmi ceļa uzturēšanā izmantojamo tehnisko līdzekļu un materiālu izvēlē.
+* Operatīvi rīkoties nestandarta situācijās.
+* Lietot ceļu būvobjekta satiksmes organizācijas projektu.
+* Novērtēt transporta kustības organizācijas līdzekļu izvietojuma atbilstību projektam un organizēt neatbilstību novēršanu.
+* Veikt ceļu būvobjekta ikdienas transporta kustības organizācijas stāvokļa atbilstības kontroli atbilstoši apstiprinātajai kustības organizācijas shēmai.
+* Sniegt pirmo palīdzību, izmantojot pirmās palīdzības līdzekļus un pirmās palīdzības sniegšanas metodes.
+* Novērtēt negadījumu bīstamību un iespējamās sekas.
+* Pārzināt un novērtēt vides aizsardzības faktorus.
+* Ievērot vides aizsardzības normatīvo aktu prasības.
+* Izmantot materiālu un konstruktīvo elementu kvalitātes pārbaudes metodes.
+* Lietot materiālu un konstruktīvo elementu paraugu ņemšanas procedūras to kvalitātes pārbaudēm.
+* Pārzināt paredzētās soda sankcijas un darbinieku atbildību kvalitātes neatbilstību gadījumos.
+* Pārzināt pabeigta ceļu būvobjekta gala vērtējuma principus.
+* Novērtēt pieļauto neatbilstību sekas un panākt neatbilstību novēršanu.
+* Pieņemt izlabotos būvdarbus.
+* Sagatavot nepieciešamo dokumentāciju ceļu būvobjekta nodošanai ekspluatācijā.
+* Identificēt bīstamos atkritumus, organizēt atkritumu savākšanu.
+* Izprast vides aizsardzības principus un pārvaldīt vides aizsardzības paņēmienus.
+* Pārzināt darba aizsardzības organizāciju un organizēt šo pasākumu kompleksu objektā.
+* Ievērot darba aizsardzības normatīvo aktu prasības un nodrošināt to izpildi.
+* Identificēt un analizēt darba aizsardzības un drošu darba metožu nodrošināšanas problēmas konkrētā ceļu būvobjektā.
+* Organizēt preventīvus pasākumus darba risku novēršanai.
+* Ievērot un organizēt ugunsdrošības prasību izpildi.
+* Izmantot profesionālās pilnveides iespējas nozarē un apgūt nozares aktualitātes (materiāli, tehnoloģijas, to lietojums).
+* Analizēt, atlasīt un lietot iegūtās zināšanas ikdienas darbā.
+* Komunicēt ar citiem būvniecības dalībniekiem un pamatot savu viedokli.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī.
+* Patstāvīgi organizēt savu darbu, analizēt darba gaitu, uzņemties atbildību par sava darba rezultātu.
+* Ievērot darba tiesisko attiecību normas.
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.

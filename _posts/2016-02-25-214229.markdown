@@ -1,0 +1,72 @@
+---
+layout: post
+    
+title: transportbūvju būvinženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214229
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* transportbūvju būvinženieris ir kvalificēts speciālists, kurš ievērojot universālā dizaina principus projektē ceļus, tiltus un citas transportbūves; vada būvprojektus, uztur šīs būves ekspluatācijas kārtībā; veic konstrukciju aprēķinus, pārzina būvniecības materiālu tehnoloģiju un būvdarbu vadīšanu; organizē un vada būvlaukuma resursus profesionālā un no izmaksu viedokļa efektīvā veidā - veic būvniecības un ekspluatācijas procesa plānošanu un uzraudzību; pārbauda projekta dokumentāciju; plāno visu būvobjekta realizācijā iesaistīto dalībnieku sadarbību un būvdarbu veikšanas kārtību; dod nepieciešamos rīkojumus padotajiem un būves realizācijas dalībniekiem un pārbauda šo rīkojumu izpildi; seko, lai būvdarbi tiktu veikti atbilstoši būvprojekta, būvnormatīvu un standartu prasībām noteiktos termiņos un to izmaksas iekļautos apstiprinātās tāmes ietvaros; plāno nepieciešamos pasākumus kvalitātes nodrošināšanai un darba un satiksmes drošībai objektā; sastāda un kontrolē būves izpilddokumentāciju; kontrolē un analizē darbu izpildi un izstrādā darbu organizēšanas un veikšanas projektus būvnormatīviem atbilstošā tehnoloģiskajā līmenī, efektīvi un lietderīgi izmantojot resursus; pārzina būvju ekspluatāciju; veic zinātniskās pētniecības darbus un izstrādā jaunas celtniecības inženierzinātņu teorijas un metodes. 
+* Transportbūvju būvinženieris strādā uzņēmumos, kas nodarbojas ar transportbūvju projektēšanu, būvniecību un ekspluatāciju vai kā pašnodarbināta persona, vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja atbildīgi un patstāvīgi veikt transportbūvju būvinženiera pienākumus atbilstoši Latvijas Republikas normatīvajiem aktiem un Eiropas Savienības tiesību normām
+* Spēja izstrādāt tādas virszemes transporta infrastruktūras sistēmas, kas garantē drošu tās funkcionēšanu
+* Spēja, ievērojot universālā dizaina principus, projektēt autoceļus, tiltus un citas transportbūves, pielietojot inovatīvas pieejas un tehnoloģiskos sasniegumus
+* Spēja plānot, organizēt un vadīt transportbūvju projektēšanas, būvniecības un ekspluatācijas procesus un tajos iesaistīto speciālistu darbu
+* Spēja vadīt progresīvo tehnoloģiju un inovatīvo procesu ieviešanu transportbūvju nozarē
+* Spēja pilnveidot autoceļu, tiltu un citu transportbūvju pārvaldes, būvniecības un ekspluatācijas uzņēmumu organizatoriskās un vadības struktūras
+* Spēja izglītot pakļautībā esošo personālu, veicināt tā profesionālo izaugsmi transportbūvju jomā
+* Spēja strādāt ar transportbūvju projektu izstrādāšanai nepieciešamajām datorprogrammām
+* Spēja lietišķi sazināties (verbāli, rakstveidā)
+* Spēja veidot profesionālas attiecības ar pasūtītāju, darba devēju un padotajiem
+* Spēja darbu veikt individuāli un mērķgrupās
+* Spēja analizēt un risināt problēmu situācijas
+* Spēja sazināties valsts valodā un divās svešvalodās
+* Spēja veikt pētījumus ar zinātnisku vērtību transportbūvju un transporta virszemes infrastruktūras jomā
+* Spēja pārzināt un pielietot universālā dizaina principus
+
+### Prasmes 
+* Pielietot gan vispārēju būvniecību reglamentējošus dokumentus, gan speciālos autoceļu būvniecību reglamentējošos dokumentus
+* Pielietot transportbūvju būvnormatīvus un atbilstošos būvstandartus
+* Pārzināt normatīvos aktus civiltiesību un administratīvo tiesību jomā
+* Pielietot normatīvos aktus darba tiesisko attiecību jomā
+* Projektēt transportbūves, izstrādāt projekta dokumentāciju skiču vai tehniskā projekta sastāvā
+* Projektēt ceļa segas
+* Izstrādāt ceļu satiksmes organizācijas projektu
+* Pārzināt būtiskās prasības transportbūvēm (mehānisko stiprību un stabilitāti (noturību), nekaitīgumu videi, lietošanas drošību, atbilstību pielietojumam, būvju pieejamību, dabas resursu racionālu izmantošanu)
+* Pārzināt transportbūvju konstruktīvos risinājumus (nesošo un balstu konstrukciju projektēšanu, inženierkomunikāciju risinājumus un izbūves pamatprincipus)
+* Noteikt projekta izmaksas, ņemot vērā specifiskās prasības transportbūvēm
+* Sastādīt transportbūvju būvdarbu tāmes, izvērtēt ekonomiskos faktorus un izvēlēties izdevīgāko variantu, izprast tehnisko faktoru mijiedarbību ar ekonomiskajiem
+* Pielietot mūsdienu datortehniku un speciālo programmatūru transportbūvju projektēšanai
+* Pārzināt transportbūvju būvniecības tehnoloģiju (darba paņēmienus un operācijas, būvdarbu tehnoloģiskos procesus, būvdarbu klasifikāciju un speciālos būvdarbus, tehnoloģisko aprīkojumu)
+* Orientēties autoceļu un tiltu būvniecībai raksturīgo būvmateriālu piedāvājumā, piemērotībā un izmaksās, pārzināt būvmateriālu īpašības
+* Pārzināt transportbūvju būvniecībā pielietotās būvmašīnas, mehānismus un instrumentus
+* Izstrādāt transportbūvju organizēšanas (veikšanas) projektu (būvdarbu kalendāro plānu, būvdarbu ģenerālplānu, būvdarbu tehnoloģisko shēmu, kvalitātes nodrošināšanas plānu)
+* Noformēt izpilddokumentus būvlaukumā, aizpildīt būvdarbu žurnālu un autoruzraudzības žurnālu
+* Plānot un taupīgi izlietot finansējumu un materiālos resursus
+* Pārzināt darba samaksas sistēmas, darba normēšanu un prast to pielietot
+* Realizēt transportbūvju būvdarbu kvalitātes kontroles vadību
+* Pārzināt transportbūvju būvniecībai raksturīgās darba aizsardzības un vides aizsardzības prasības un nodrošināt to realizāciju būvobjektā, veidojot optimālu būvlaukuma infrastruktūru, organizējot būvmašīnu un mehānismu drošu ekspluatāciju un drošu darbu veikšanu
+* Pārzināt būvlaukuma infrastruktūru
+* Pārzināt ģeodēziskos un metroloģiskos darbus būvobjektā
+* Organizēt materiālu, būvizstrādājumu un tehnisko līdzekļu uzskaiti atbilstoši normatīvo aktu un būvdarbu līguma prasībām
+* Pielietot vadīšanas un saskarsmes psiholoģiju
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Pielietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārzināt un pielietot universālā dizaina principus

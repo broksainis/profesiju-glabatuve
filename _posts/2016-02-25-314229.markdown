@@ -1,0 +1,95 @@
+---
+layout: post
+    
+title: lopkopības tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 314229
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  lopkopības tehniķis plāno, organizē un veic lauksaimniecības dzīvnieku ēdināšanu, kopšanu, turēšanu, atražošanu un nodrošina kvalitatīvas lopkopības produkcijas ieguvi, uzglabāšanu un realizāciju; veic darba pienākumus lopkopības produkcijas ražošanā atbilstoši labas lauksaimniecības prakses nosacījumiem.     Profesionālās darbības pamatuzdevumu veikšanai lopkopības tehniķim nepieciešama A un B kategorijas traktortehnikas vadītāja apliecība.     Lopkopības tehniķis strādā uzņēmumā, kur audzē lopus, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja veikt lopkopības produkcijas ražošanu un realizāciju atbilstoši labas lauksaimniecības prakses nosacījumiem
+* Spēja novērtēt un nodrošināt lauksaimniecības dzīvnieku sugai un tās fizioloģiskajam stāvoklim atbilstošus turēšanas, ēdināšanas un kopšanas apstākļus
+* Spēja novērtēt vispārējo veterināro un sanitāro situāciju lauksaimniecības dzīvnieku novietnē un, ja nepieciešams, atbilstoši rīkoties
+* Spēja novērtēt novietnes mikroklimatu, tehniskā aprīkojuma stāvokli un turēšanas iekārtas atbilstoši lauksaimniecības dzīvnieku labturībai un vajadzības gadījumā atbilstoši rīkoties
+* Spēja patstāvīgi plānot un īstenot mērķtiecīgu ganāmpulka atražošanu
+* Spēja nodrošināt pārtikas nekaitīguma prasību ievērošanu lopkopības produkcijai visos ražošanas ķēdes posmos
+* Spēja izmantot speciālo lopkopības tehniku, aprīkojumu, iekārtas un to jauninājumus atbilstoši lietošanas instrukcijām un apmācīt uzņēmuma personālu to izmantošanā
+* Spēja izprast lopkopības produkcijas ražošanas rādītājus, pieņemt atbilstošus lēmumus rādītāju uzlabošanai un īstenot tos
+* Spēja novērtēt tirgus situāciju, plānot un īstenot lopkopības produkcijas realizāciju
+* Spēja lietot lopkopībā izmantojamās ķīmiski un bioloģiski aktīvās vielas
+* Spēja racionāli plānot un veikt darba pienākumus, uzņemties atbildību par sava darba rezultātu
+* Spēja sadarboties ar lopkopības produkcijas ražošanas procesa nodrošināšanā iesaistītajiem darbiniekiem un sadarbības partneriem
+* Spēja lietot datorprogrammas (_MS Office_, ar nozari saistītās vadības programmas)
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības, lopkopības produkcijas ražošanā izmantot videi draudzīgas tehnoloģijas
+* Spēja ievērot darba aizsardzības un ugunsdrošības normatīvo aktu prasības
+* Spēja izvēlēties un lietot atbilstošus individuālos un kolektīvos aizsardzības līdzekļus
+* Spēja sniegt pirmo palīdzību lauksaimniecības dzīvniekiem
+* Spēja sniegt pirmo palīdzību cilvēkiem
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Organizēt un veikt lauksaimniecības dzīvnieku ēdināšanu, turēšanu un kopšanu
+* Īstenot lauksaimniecības dzīvnieku labturību atbilstoši turēšanas tehnoloģijai
+* Novērtēt novirzes lauksaimniecības dzīvnieku uzvedībā, veselībā
+* Novērtēt lauksaimniecības dzīvnieku novietnes un apkārtnes sanitāro un veterināro stāvokli
+* Novērtēt lauksaimniecības dzīvnieku barības līdzekļus organoleptiski, noņemt un nosūtīt vidējo barības paraugu laboratoriskai izmeklēšanai
+* Uzskaitīt barības līdzekļu ikmēneša un gada patēriņu un atlikumu
+* Nodrošināt atbilstošu barības līdzekļu uzglabāšanu
+* Nodrošināt barības līdzekļu izēdināšanas noteikumu izpildi
+* Apzīmēt lauksaimniecības dzīvniekus
+* Noteikt lauksaimniecības dzīvnieku ķermeņa kondīciju
+* Grupēt lauksaimniecības dzīvniekus atbilstoši to produktivitātei, veselības un fizioloģiskajam stāvoklim
+* Veikt lauksaimniecības dzīvnieku attīstības kontroli, izmantojot svēršanu, mērīšanu vai nosakot citus parametrus atkarībā no dzīvnieku sugas
+* Veikt lauksaimniecības dzīvnieku ražības rādītāju uzskaiti
+* Īstenot mērķtiecīgu atražošanai augstvērtīgu lauksaimniecības dzīvnieku atlasi, pārojumu plānošanu un pārojumu plāna izpildi
+* Noteikt lauksaimniecības dzīvnieku meklēšanās pazīmes un apkopot informāciju
+* Lietot aprīkojumu lauksaimniecības dzīvnieku apaugļošanai, grūsnības noteikšanai un dzemdību palīdzībai
+* Atšķirt fizioloģiskas dzemdības no apgrūtinātām
+* Uzraudzīt un vadīt dzemdību procesu lauksaimniecības dzīvniekiem
+* Veikt vienkāršas veterinārmedicīniskās manipulācijas saskaņā ar licencēta veterinārārsta norādījumiem
+* Uzturēt labu apkārtējo vidi lauksaimniecības dzīvnieku novietnē un teritorijā
+* Noteikt piemērotāko kūtsmēslu izvākšanas, uzglabāšanas un izlietošanas veidu atbilstoši vides aizsardzības normatīvo aktu prasībām
+* Novērtēt un nodrošināt iekārtu un aprīkojuma tehnisko stāvokli atbilstoši lietošanas prasībām, ievērojot vides aizsardzības normatīvo aktu prasības
+* Lietot lopkopības tehniku un iekārtas
+* Uzskaitīt un uzglabāt lauksaimniecības tehnikas darbībai nepieciešamos materiālus atbilstoši vides normatīvo aktu prasībām
+* Izprast lopkopības produkcijas noieta tirgus tendences
+* Sastādīt lopkopības produkcijas ražošanas un realizācijas plānus
+* Sagatavot dzīvus lauksaimniecības dzīvniekus realizācijai
+* Veikt atsevišķas iegūtās lopkopības produkcijas fasēšanu, marķēšanu un realizāciju gala patērētājam
+* Noformēt ar lopkopības nozari saistītos dokumentus atbilstoši noteiktajām prasībām
+* Aizpildīt dokumentus, izmantot elektroniskās datubāzes, izmantojot datorprogrammas (_MS Office_, ar nozari saistītās vadības programmas)
+* Sazināties un veidot sadarbību ar partneriem lopkopības produkcijas ražošanas un realizācijas procesu nodrošināšanai
+* Identificēt un novērst iegūtās lopkopības produkcijas piesārņojuma avotus un veidus
+* Nodrošināt lopkopības produkcijas nemainīgu kvalitāti
+* Nodrošināt ķīmisko un bioloģiski aktīvo vielu uzglabāšanu un atbilstošu lietošanu
+* Uzskaitīt un organizēt darba procesā radušos atkritumu šķirošanu, uzglabāšanu un nodošanu utilizācijai
+* Ievērot darba aizsardzības normatīvo aktu prasības, izvēlēties atbilstošus individuālos un kolektīvos darba aizsardzības līdzekļus
+* Sniegt pirmo palīdzību lauksaimniecības dzīvniekiem
+* Sniegt pirmo palīdzību cilvēkiem
+* Ievērot vides aizsardzības normatīvo aktu prasības, lopkopības produkcijas ražošanā izmantot videi draudzīgas tehnoloģijas
+* Ievērot ugunsdrošības normatīvo aktu prasības
+* Patstāvīgi organizēt un analizēt darba gaitu, uzņemties atbildību par sava darba rezultātu
+* Ievērot darba tiesisko attiecību normas
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā

@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: kuģu vadītājs (ekspluatācijas līmenī)
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 315231
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* kuģa vadītājs (ekspluatācijas līmenī): vada kuģus vai citus peldlīdzekļus jūrā un iekšējos ūdeņos; pilda sardzi uz klāja un tiltiņa; veic manevrus ar kuģi, iebraucot un izbraucot no ostām, braucot pa kanāliem, šaurumiem un citos ūdeņos; uzrauga kravu iekraušanu, izvietošanu, nostiprināšanu un izkraušanu un veic pasākumus kravai nepieciešamo apstākļu nodrošināšanai reisa laikā; kontrolē darba drošības pasākumu īstenošanu; nodrošina pierakstu par veiktajām darbībām uzturēšanu; pārraida un saņem ikdienas un ārkārtas informāciju, izmantojot radiosakarus ar citiem kuģiem un krasta stacijām; uzrauga kuģa apkalpes locekļu un citu darbinieku darbu uz kuģa atbilstoši savam atbildības līmenim.
+* Kuģa vadītājs (ekspluatācijas līmenī) var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "Jūrnieku sagatavošana un sertificēšana, kā arī sardzes pildīšana" (STCW (Standards of Training Certification and Watchkeeping) Konvencija) prasībām.
+
+### Kompetences
+
+* Kuģa vadītājam (ekspluatācijas līmenī) nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-II/1 – "Minimālā kompetences standarta specifikācija navigācijas sardzes virsniekiem uz kuģiem ar bruto tilpību 500 BT vai lielāku".
+
+### Prasmes 
+* Kuģa vadītājam (ekspluatācijas līmenī) nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-II/1 – "Minimālā kompetences standarta specifikācija navigācijas sardzes virsniekiem uz kuģiem ar bruto tilpību 500 BT vai lielāku".

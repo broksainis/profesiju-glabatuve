@@ -1,0 +1,86 @@
+---
+layout: post
+    
+title: datorsistēmu tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 351301
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  datorsistēmu tehniķis uzstāda vienkāršus lokālos datortīklus; pārbauda un novērš kļūmes visu veidu datortehnikas un programmatūras darbībā; konfigurē, diagnosticē un modernizē datortehniku, programmatūru un vienkāršus lokālos datortīklus; sniedz konsultācijas darbā ar datortehniku, programmatūru un biroja tehniku, tai skaitā elektroniski un telefoniski; ar savu profesionālo darbību veicina un uzlabo datorlietotāju darba efektivitāti.     Datorsistēmu tehniķis strādā uzņēmumā, kas sniedz informācijas un komunikācijas tehnoloģijas pakalpojumus, vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja izvērtēt datortehnikas, vienkāršu lokālo datortīklu, operētājsistēmu un lietojumprogrammatūras atbilstību datorlietotāju vajadzībām
+* Spēja uzstādīt, konfigurēt, pārvietot un noņemt datortehniku
+* Spēja veikt datortehnikas un vienkāršu lokālo datortīklu apkopi un uzlabošanu, diagnosticēšanu, kļūmju novēršanu un vienkāršus remontdarbus
+* Spēja uzstādīt, konfigurēt un atjaunināt operētājsistēmas un lietojumprogrammatūru, diagnosticēt un novērst kļūmes operētājsistēmu un lietojumprogrammatūras darbībā
+* Spēja izvēlēties un lietot piemērotus materiālus, atbilstošus mehāniskos un elektriskos instrumentus, mērinstrumentus, tehnoloģisko risinājumu, programmnodrošinājumu un normatīvajos aktos un ražotāju specifikācijās noteiktās prasības
+* Spēja organizēt un nodrošināt datu glabāšanas un apmaiņas kārtību, datu aizsardzību un iznīcināšanu no neizmantojamiem vai bojātiem datu nesējiem
+* Spēja lasīt, izprast darba uzdevumu izpildei nepieciešamos tehniskos rasējumus un shēmas, korekti interpretēt tehnisko dokumentāciju, veidot skices un darba zīmējumus, ievērot standartizētās prasības
+* Spēja noteikt darba uzdevumu izpildei nepieciešamās darbības prioritārā secībā, izveidot pasūtījuma tehnisko specifikāciju, pamatoti noteikt un ievērot darba uzdevumu izpildes termiņus
+* Spēja iepazīstināt datorlietotājus ar datortehnikas, programmatūras un vienkāršu lokālo datortīklu darbības pamatprincipiem
+* Spēja secīgi iepazīstināt datorlietotājus ar ļaundabīgo programmatūru, tās veidiem un izpausmēm, datorsistēmu un lokālo datortīklu fizisko aizsardzību, datu aizsardzību un informācijas glabāšanu
+* Spēja veidot prezentācijas
+* Spēja regulāri un patstāvīgi sekot un iepazīties ar informācijas un komunikāciju tehnoloģijas nozares jaunākajām tehnoloģijām, iekārtām, darba instrumentiem un materiāliem, izmantot tehnisko dokumentāciju, tīmekli, datubāzes un citus tehniskās informācijas avotus
+* Spēja sagatavot racionālus priekšlikumus datortehnikas un lokālo datortīklu attīstības plānošanai
+* Spēja izvērtēt iegūtās zināšanas un prasmes un pastāvīgi pilnveidot profesionālo kvalifikāciju
+* Spēja komunicēt un sadarboties ar kolēģiem, datorlietotājiem un saistīto profesiju speciālistiem, uzklausīt citus un argumentēti skaidrot savu viedokli
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja izmantot biroja tehniku un sazināties ar datorlietotājiem mutvārdos, lietišķajā sarakstē, telefoniski un elektroniski, noformēt dokumentus atbilstoši darba uzdevumiem, ievērot datu aizsardzības un konfidencialitātes principus
+* Spēja profesionāli pārbaudīt un izvērtēt datortehnikas un vienkāršu lokālo datortīklu atbilstību darba aizsardzības normatīvo aktu prasībām, nepieciešamības gadījumā atbilstoši rīkoties
+* Spēja organizēt, izmantot un uzturēt drošu darba vietu, ievērot elektrodrošības un ugunsdrošības, darba aizsardzības un vides aizsardzības normatīvo aktu prasības un sniegt pirmo palīdzību
+* Spēja ievērot profesionālās ētikas principus, profesionālās saskarsmes un darba tiesisko attiecību normas
+* Spēja sazināties valsts valodā un vienā svešvalodā un lietot profesionālo terminoloģiju
+
+### Prasmes 
+* Izprast datortehnikas tehniskās iespējas un izvērtēt atbilstību datorlietotāju prasībām
+* Izvērtēt datortehnikas gatavību darbam un ekspluatācijas atbilstību darba aizsardzības prasībām
+* Uzstādīt, konfigurēt, pārvietot un noņemt datortehniku vienkāršā lokālā un publiskā datortīklā, uzstādīt un noņemt datortehnikas komponentes
+* Veikt datortehnikas un operētājsistēmu apkopi, izvērtēt datortehnikas uzlabojumu nepieciešamību
+* Iegūt un izvērtēt informāciju datortehnikas uzlabojumu veikšanai, noteikt datortehnikas defektus un datorlietotāju kļūmes darbā ar datortehniku
+* Izmantot darba procesam atbilstošu tehnisko dokumentāciju, instrumentus, mērinstrumentus un materiālus
+* Noteikt galvenos vienkārša lokālā datortīkla kvalitātes parametrus un izvērtēt uzlabojumu nepieciešamību
+* Izveidot kabeļu sistēmu vienkāršam lokālam datortīklam, ierīkot datortīkla pieslēguma vietas un savienojošos kabeļus
+* Uzstādīt, konfigurēt un noņemt vienkārša lokālā datortīkla iekārtas
+* Atrast un novērst kļūdas vienkārša lokālā datortīkla iekārtu konfigurācijā un vienkārša lokālā datortīkla infrastruktūrā
+* Izvērtēt, uzstādīt un konfigurēt lietojumprogrammatūras prasību atbilstību vienkārša lokālā datortīkla ātrdarbībai un datortehnikas parametriem un datorlietotāju vajadzībām
+* Izvērtēt datora operētājsistēmu atbilstību datortehnikas parametriem un datorlietotāju vajadzībām, uzstādīt, nomainīt un konfigurēt datora operētājsistēmas atbilstoši datortehnikas tehniskajiem parametriem un datorlietotāju vajadzībām
+* Automatizēt operētājsistēmu uzstādīšanas un konfigurēšanas procesus un veikt lietojumprogrammatūras, operētājsistēmu, dziņu, aparātprogrammatūras atjaunināšanu
+* Diagnosticēt un novērst kļūmes operētājsistēmu un lietojumprogrammatūras darbībā
+* Atrast un izprast operētājsistēmu un lietojumprogrammatūras ģenerētus žurnālfailus
+* Nodrošināt operētājsistēmu un lietojumprogrammatūras aizsardzību pret ļaundabīgo programmatūru un nodrošināt datorsistēmu un vienkāršu lokālo datortīklu fizisko aizsardzību.
+*  Izvērtēt, identificēt, plānot un veikt datu aizsardzības pasākumus, plānot rezerves kopijām nepieciešamo vietu datu glabātavās vai datu nesējos
+* Noteikt un īstenot datu glabāšanas un apmaiņas kārtību, izveidot datu rezerves kopēšanas plānu, veikt datu rezerves kopēšanu, atjaunot datus no rezerves kopijām
+* Konfigurēt datu sinhronizāciju starp iekārtām un veikt drošu datu iznīcināšanu ar lietojumprogrammatūras līdzekļiem vai speciālām iekārtām
+* Izveidot datortehnikas tehnisko parametru un lietojumprogrammatūras audita struktūru, iegūt, apkopot un prezentēt nepieciešamos audita datus
+* Lasīt un saprast darba procesam nepieciešamos rasējumus un tehnisko dokumentāciju
+* Sagatavot un prezentēt priekšlikumus datortehnikas un lokālo datortīklu ierīkošanai un modernizēšanai
+* Patstāvīgi veikt datortehnikas un programmatūras uzskaiti ar atbilstošiem lietojumprogrammatūras līdzekļiem
+* Plānot darba uzdevumus, to secību un izpildes termiņus
+* Komunicēt un sadarboties ar kolēģiem un datorlietotājiem, uzklausīt ieteikumus un norādījumus
+* Izveidot iepirkuma tehnisko specifikāciju un izmantot to darba procesā
+* Izmantot biroja tehniku, sagatavot un noformēt dokumentus atbilstoši darba uzdevumiem
+* Rīkoties saskaņā ar darba iekārtu un darba aprīkojuma lietošanas instrukcijām
+* Novērtēt paveiktā darba atbilstību darba uzdevumam, uzņemties atbildību par sava darba rezultātiem
+* Iegūt, izvērtēt, atlasīt un izmantot informāciju
+* Ievērot normatīvo aktu, standartu un citas uzņēmumam saistošās dokumentācijas prasības informācijas un komunikāciju tehnoloģijas nozarē
+* Pilnveidot profesionālo kompetenci
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot profesionālās ētikas principus un darba tiesisko attiecību normas
+* Ievērot darba vietai un darba aprīkojuma lietošanai noteiktās ekspluatācijas prasības un atbilstošu darba drošības un veselības režīmu
+* Ievērot elektrodrošības un ugunsdrošības, darba un vides aizsardzības normatīvo aktu prasības un sniegt pirmo palīdzību

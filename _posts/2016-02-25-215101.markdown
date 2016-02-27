@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: elektroinženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 215101
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* elektroinženieris projektē elektroiekārtas; komplektē, uzrauga un apkalpo elektriskās iekārtas, ievērojot saistību ar tehnoloģijām; vada un pārrauga citu speciālistu darbu, plāno un organizē to. 
+* Elektroinženieris strādā elektrotehniskajos uzņēmumos, kas ražo, pārvada un sadala elektroenerģiju, ražo elektroiekārtas tautsaimniecībai, kā arī rūpniecības, lauksaimniecības ražošanas un pārstrādes, transporta uzņēmumos, kuros tiek izmantotas modernas tehnoloģiskās iekārtas ar sarežģītu automatizētu elektrotehnisko aprīkojumu, kā arī projektēšanas, pētniecības, konsultāciju un apkalpes uzņēmumos. 
+
+### Kompetences
+
+* Spēja izveidot pilna apjoma automatizēto elektrotehnisko iekārtu projekta dokumentāciju, ieskaitot programmējamo loģisko kontrolleru (PLC – _Programmable Logical Controllers_) programmēšanu
+* Spēja orientēties mikroprocesoru kontrolleru programmēšanā (asamblerā vai C++ valodā)
+* Spēja veikt pēc projekta izgatavotās iekārtas algoritmizētu testēšanu un regulēšanu
+* Spēja veikt automatizēto elektroiekārtu piesaisti tehnoloģijām
+* Spēja veikt uzņēmumu elektroapgādes, elektroenerģijas pārvades un sadales sistēmu režīmu aprēķinus
+* Spēja veikt elektrotehnisko projektu dokumentācijas koriģēšanu un pilnveidošanu
+* Spēja veikt projektēto elektrotehnisko iekārtu tehniskiekonomisko novērtējumu
+* Spēja sniegt konsultācijas par automatizēto elektrotehnisko sistēmu izveidi un darbības jautājumiem
+* Spēja vadīt elektroiekārtu (elektrotehnoloģiju, elektrisko dzinēju, elektrisko ierīču) pēcprojekta montāžas darbus
+* Spēja strādāt ar speciālām projektēšanas un elektroiekārtu vadības datorprogrammām
+* Spēja nodrošināt vides un darba aizsardzības normatīvo aktu prasību izpildi
+* Spēja organizēt elektrotehnisko un elektronisko automatizācijas iekārtu apskates un metroloģiskos novērtējumus, nosakot kontroles parametrus un tehnoloģisko procesu raksturojumus
+* Spēja organizēt darbojošos elektrotehnisko un elektronisko automatizācijas iekārtu testēšanu un pārbaudes, pieregulēšanu, kontrolleru programmu pielāgošanu saskaņā ar ražotājuzņēmumu tehnisko dokumentāciju, nosakot un novēršot bojājumus
+* Spēja noteikt tehnoloģisko elektroiekārtu elektrotehnisko un elektronisko mezglu bojājumus un vadīt to remontu
+* Spēja organizēt jaunu elektrotehnisko un elektronisko iekārtu pieslēgšanu, testēšanu, pieregulēšanu, ievērojot tehniskos normatīvus un standartus, kā arī patērētāju prasības
+* Spēja organizēt un vadīt padoto personālu ātrai elektroiekārtu bojājumu novēršanai, vienlaikus nodrošinot augstu kvalitāti
+* Spēja organizēt un vadīt uzņēmumu elektroapgādes, pārvades un sadales iekārtu ekspluatāciju
+* Spēja izvērtēt un noteikt elektroiekārtu atteikuma cēloņus un biežumu, ar nolūku tos novērst pirms to atteikuma
+* Spēja pētīt elektrotehnisko materiālu, ražojumu un procesu tehnoloģiskos aspektus un sniegt konsultācijas, gatavot ziņojumus un pārskatus
+* Spēja iepazīties ar jaunākajām elektroiekārtu izstrādnēm un to īpatnībām
+* Spēja novērtēt dažādu elektroiekārtu un elektrisko tehnoloģiju pielietošanas iespējas Latvijā
+* Spēja veikt tehnisko risinājumu efektivitātes novērtējumu
+* Spēja veikt ārvalstu firmu elektrotehnisko iekārtu piesaistes projektēšanu
+* Spēja veikt elektrotehnisko iekārtu uzstādīšanas vadību
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās (krievu un angļu vai vācu valodā)
+
+### Prasmes 
+* Veikt elektriskos, magnētiskos un elektronisko elementu aprēķinus, ievērojot normatīvo aktu prasības, Latvijas un starptautisko standartu prasības
+* Veikt aprēķinus un procesu vadīšanu, pielietojot skaitļošanas tehniku
+* Izprast datormodelēšanas un aprēķinu programmu sastādīšanas metodiku, pārbaudīt mikroprocesoru vadības sistēmu programmas
+* Pielietot tipveida datorprogrammas, pielietot datorus modelēšanai
+* Projektēt automatizētās elektrotehniskās iekārtas
+* Izveidot principiālās elektriskās un elektroniskās shēmas, shēmu darbības aprakstus, montāžas un piesaistes shēmas
+* Pielietot projektēšanas datorprogrammas
+* Projektēt uzņēmumu elektroapgādes, elektropārvades un sadales iekārtas
+* Izveidot elektroapgādes, elektropārvades un sadales iekārtu shēmas, veikt nepieciešamos aprēķinus, izveidot montāžas shēmas un konstruktīvos dokumentus
+* Pielietot tipveida elektroapgādes, elektropārvades un sadales elementus un projektēšanas metodiku
+* Izmantot diagnostikas un mērīšanas aparatūru
+* Veikt metroloģiskos mērījumus ar dažāda tipa mēraparātiem.
+*  Ievērot darba aizsardzības normas, pielietot darba aizsardzības pasākumus darbā ar diagnostikas un mērīšanas aparatūru
+* Pielietot mikroprocesoru kontrollerus un datorvadības sistēmas.
+*  Izprast automatizācijas elementu darbības principus
+* Pielietot elektrodrošības tehniskos līdzekļus
+* Sniegt pirmo neatliekamo palīdzību
+* Veikt tehniski ekonomisko salīdzinājumu un darba organizācijas pasākumus
+* Novērtēt tehniski ekonomisko rādītāju sistēmas (arī svešvalodās), veikt rādītāju datorizētus aprēķinus un novērtējumus
+* Noformēt lietišķos dokumentus, protokolus, ziņojumus, sniegt konsultācijas
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas (krievu un angļu vai vācu valodā) saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās

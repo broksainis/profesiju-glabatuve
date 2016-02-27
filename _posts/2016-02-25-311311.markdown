@@ -1,0 +1,129 @@
+---
+layout: post
+    
+title: elektrisko iekārtu speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311311
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 
+* elektrisko iekārtu speciālists veic zemsprieguma un augstsprieguma elektrisko iekārtu montāžu un apkalpošanu; vada, plāno, organizē un pārrauga citu strādnieku darbu; ja nepieciešams, izstrādā vienkāršus elektrisko iekārtu projektus. 
+* 	Elektrisko iekārtu speciālists strādā elektroenerģijas ražošanas, pārvades un sadales uzņēmumos, rūpniecības, komunālos un transporta uzņēmumos, lauksaimniecības ražošanas un pārstrādes uzņēmumos, var būt pašnodarbināta persona vai individuālais komersants. 
+* 	5 Profesionālās darbības veikšanai nepieciešamās  profesionālās kompetences 
+* 	 Spēja pārbaudīt elektriskās ķēdes pēc elektriskajām principiālajām shēmām un montāžas shēmām. 
+* 	 Spēja apkalpot darba mehānismus, ierīces un mēriekārtas. 
+* 	 Spēja ievērot iekārtu izgatavotāju instrukcijas, nodrošinot elektrisko iekārtu pareizu un kvalitatīvu uzstādīšanu, regulēšanu un ekspluatāciju. 
+* 	 Spēja regulēt un iestatīt jaunas un ekspluatācijā esošas elektriskās iekārtas. 
+* 	 Spēja ievērot elektrotehnisko materiālu stiprību, pieļaujamās slodzes, to raksturojošās mērvienības. 
+* 	 Spēja sastādīt elektrisko iekārtu pārbaužu tehnisko dokumentāciju. 
+* 	 Spēja veikt elektrisko iekārtu apskates, profilaktiskās pārbaudes un mērījumus, kā arī, ja nepieciešams, nekavējoties novērst bojājumus. 
+* 	 Spēja remontdarbos izmantot tehnoloģiskās kartes un, ja nepieciešams, tās papildināt. 
+* 	 Spēja noformēt visu nepieciešamo dokumentāciju periodisko ekspluatācijas darbu, atjaunošanas un kapitālā remonta izpildei. 
+* 	1 Spēja organizēt elektrisko iekārtu apskates. 
+* 	1 Spēja organizēt elektrisko iekārtu un režīmu tehnisko parametru mērījumus. 
+* 	1 Spēja organizēt patērētāju elektrisko iekārtu apsekošanu, pārbaudes un jaunu jaudu pieslēgšanu, ievērojot tehniskos normatīvus un patērētāja prasības. 
+* 	1 Spēja organizēt un vadīt padoto personālu ātrai un kvalitatīvai operatīvo atslēgumu izpildei un avāriju novēršanai, ievērojot profesionālās un vispārējās ētikas pamatprincipus. 
+* 	1 Spēja organizēt un vadīt elektrisko iekārtu atjaunošanas un kapitālos remontus. 
+* 	1 Spēja organizēt un vadīt rūpnieciskās ražošanas un komunālās saimniecības objektu spēka un apgaismošanas instalācijas montāžu. 
+* 	1 Spēja organizēt un vadīt daudzdzīvokļu un individuālo māju spēka un apgaismošanas instalāciju montāžu. 
+* 	1 Spēja noformēt atbilstošo tehnisko dokumentāciju par elektrisko iekārtu montāžas darbiem. 
+* 	1 Spēja pārbaudīt, vai darbu izpildē tiek ievēroti elektrisko iekārtu ekspluatācijas noteikumi. 
+* 	1 Spēja izvēlēties atbilstošo elektrisko iekārtu dokumentāciju. 
+* 	2 Spēja izstrādāt elektroapgādes projektus. 
+* 	2 Spēja izstrādāt nepieciešamo materiālu un iekārtu specifikācijas. 
+* 	2 Spēja sastādīt lokālās un koptāmes. 
+* 	2 Spēja saskaņot projektu dokumentāciju ar ieinteresētajām organizācijām. 
+* 	2 Spēja pārbaudīt aplēšu atbilstību projekta uzdevumam. 
+* 	2 Spēja izmantot datorprojektēšanu, apstrādāt informāciju datorā, lietot internetu. 
+* 	2 Spēja pārzināt normatīvo aktu un standartu prasības attiecībā uz elektroenerģētiku, t.sk. prasības vispārējā un elektroenerģētisko objektu būvniecībā. 
+* 	2 Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  	2 Spēja ievērot darba aizsardzības, ugunsdrošības, elektrodrošības un vides aizsardzības normatīvo aktu prasības un nodrošināt to izpildi. 
+* 	2 Spēja ievērot darba tiesisko attiecību normas. 
+* 	3 Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem. 
+* 	5 Profesionālās darbības pamatuzdevumu veikšanai  nepieciešamās prasmes 
+* 	 Veikt elektrisko lielumu mērījumus, izmantojot dažādu sistēmu mēraparātus. 
+* 	 Veikt elektrisko un neelektrisko lielumu mērījumus un novērtēt mērinstrumentu shēmas un darbības principus. 
+* 	 Izmantot elektrotīklu un kabeļu bojājumu noteikšanas aparatūru. 
+* 	 Zināt elektronikas pamatnormas un izmantot jaunākos tehniskos risinājumus. 
+* 	 Izvēlēties nepieciešamo elektrisko iekārtu darbības automātiku. 
+* 	 Analizēt un sintezēt elektrotīkla automātikas shēmas. 
+* 	 Izvēlēties apgaismojumu un veikt apgaismojuma, kā arī apgaismojuma tīkla aprēķinu. 
+* 	 Aplēst ražotnes elektrisko slodzi un izvēlēties atbilstošus transformatorus. 
+* 	 Aplēst sadales un vietējo elektrisko tīklu elektrisko iekārtu atbilstību slodzes režīmiem. 
+* 	1 Aplēst strāvas īsslēguma režīmā. 
+* 	1 Rasēt elektriskās shēmas, kā arī detaļu un mezglu skices. 
+* 	1 Analizēt bojājumus elektriskajās shēmās. 
+* 	1 Pārvaldīt valsts valodu. 
+* 	1 Pārvaldīt vismaz divas svešvalodas saziņas līmenī. 
+* 	1 Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās. 
+* 	1 Plānot un veikt darbus, nosakot prioritātes. 
+* 	1 Strādāt ar datortehniku un specializētām elektrotehniskās jomas lietojumprogrammām. 
+* 	1 Lietot informācijas meklēšanas un atlases līdzekļus, klasificēt rezultātu. 
+* 	1 Noformēt lietišķos dokumentus, ziņojumus, protokolus. 
+* 	2 Sagatavot prezentācijas materiālus un pasākumus, tos vadīt. 
+* 	2 Argumentēt savu viedokli, kā arī uzklausīt citu domas. 
+* 	2 Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  	2 Ievērot darba higiēnas, darba aizsardzības un elektrodrošības normatīvo aktu prasības. 
+* 	2 Pārbaudīt un lietot individuālos un kolektīvos aizsardzības līdzekļus elektriskajās iekārtās līdz 20 kV. 
+* 	2 Plānot un organizēt padotā personāla darbu. 
+* 	2 Strādāt komandā un izmantot komandas darba stilu. 
+* 	2 Izmantot progresīvo darba pieredzi. 
+* 	2 Izskaidrot elektrotehnisko materiālu un iekārtu lietojumu. 
+* 	2 Izskaidrot elektroenerģētikas tehniski ekonomiskos rādītājus. 
+* 	3 Ievērot ugunsdrošības normatīvo aktu prasības un, ja nepieciešams, lietot ugunsgrēka dzēšanas līdzekļus. 
+* 	3 Atbrīvot cilvēku no elektriskās strāvas iedarbības un sniegt pirmo palīdzību cietušajam. 
+* 	3 Ievērot vides aizsardzības normatīvo aktu prasības. 
+* 	3 Ievērot darba tiesisko attiecību normas. 
+* 	3 Atbildēt par savas profesionālās darbības rezultātiem un sekām. 
+* 	5 Profesionālās darbības pamatuzdevumu veikšanai  nepieciešamās zināšanas 
+* 	 Profesionālās darbības pamatuzdevumu veikšanai nepieciešamās zināšanas priekšstata līmenī: 
+* 	 vispārējā socioloģija; 
+* 	 grāmatvedības un uzskaites pamatprincipi; 
+* 	 makroekonomikas mērķi un rādītāji; 
+* 	 komercdarbības pamati. 
+* 	 Profesionālās darbības pamatuzdevumu veikšanai nepieciešamās zināšanas izpratnes līmenī: 
+* 	 ekonomika; 
+* 	 fizika; 
+* 	 elektronika; 
+* 	 programmējamie kontrolieri; 
+* 	 energosistēmas automātika; 
+* 	 profesionālie termini valsts valodā un vismaz divās svešvalodās. 
+* 	 Profesionālās darbības pamatuzdevumu veikšanai nepieciešamās zināšanas lietošanas līmenī: 
+* 	 matemātika; 
+* 	 elektrotehnika; 
+* 	 elektriskie mērījumi; 
+* 	 elektriskās mašīnas; 
+* 	 elektriskā piedziņa un tās automātiskā vadība; 
+* 	 rūpniecības uzņēmumu elektriskās iekārtas; 
+* 	 elektroapgāde; 
+* 	 pārvades un sadales elektriskie tīkli; 
+* 	 apakšstaciju elektriskās iekārtas; 
+* 	1 automātisko sistēmu elementi; 
+* 	1 elektrisko iekārtu montāža un darbu organizācija; 
+* 	1 elektrisko iekārtu apkalpošana un organizācija; 
+* 	1 apgaismes iekārtas un to projektēšana; 
+* 	1 normatīvie akti elektroenerģētikā un vispārējā un elektroenerģētisko objektu būvniecībā; 
+* 	1 datormācība (pamatkurss); 
+* 	1 datormācība (datoru izmantošana projektēšanā enerģētikā); 
+* 	1 projektu vadība; 
+* 	1 profesionālās un vispārējās ētika
+
+### Kompetences
+
+* 
+
+### Prasmes 
+* 

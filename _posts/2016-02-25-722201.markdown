@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: atslēdznieks
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 722201
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  atslēdznieks veic iekārtu un to mezglu tehnisko apkopi, mezglu montāžu, demontāžu un atjaunošanu, izmantojot atslēdznieka instrumentus, iekārtas, materiālus un tehnoloģiskos paņēmienus.     Atslēdznieks strādā metālapstrādes un mašīnbūves nozares uzņēmumos un citos uzņēmumos, kuru darbības nodrošināšanai jāveic atslēdznieku darbi, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja lietot darba pienākumu izpildei nepieciešamo informāciju, izpildīt darbu, pamatojoties uz tehnisko dokumentāciju un sazinoties ar darba vadītāju
+* Spēja izvēlēties darba uzdevuma veikšanai nepieciešamos materiālus, instrumentus, palīgierīces un palīgmateriālus
+* Spēja sagatavot darbam darbgaldus, palīgierīces, instrumentus
+* Spēja veikt aizzīmēšanas, ciršanas, griešanas, vīlēšanas, urbšanas, izrīvēšanas, pielāgošanas, kniedēšanas, liekšanas, presēšanas, slīpēšanas, šāberēšanas, taisnošanas, valcēšanas, lepēšanas, pulēšanas, vītņgriešanas, lodēšanas un mērīšanas darbus
+* Spēja veikt iekārtu un to mezglu apkopi saskaņā ar tehnisko dokumentāciju
+* Spēja veikt mezglu montāžas un demontāžas darbus
+* Spēja uzturēt atslēdznieka instrumentus, palīgierīces un iekārtas darba kārtībā un veikt to tehnisko apkopi saskaņā ar ekspluatācijas noteikumiem
+* Spēja pārbaudīt un lietot atslēdznieka instrumentus, palīgierīces un iekārtas atbilstoši darba aizsardzības normatīvo aktu prasībām
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, tai skaitā lietot darba apģērbu un individuālos aizsardzības līdzekļus atbilstoši darba aizsardzības normatīvo aktu prasībām, lietot darbgalda aizsardzības aprīkojumu
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja profesionāli pilnveidoties un sekot līdzi jaunākajām tehnoloģijām atslēdznieka darbā
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Lasīt darba rasējumus un tehnisko dokumentāciju
+* Saprast darba uzdevumu saistībā ar tehnoloģisko procesu kopumu.
+* Izvēlēties un lietot darba uzdevumam atbilstošas iekārtas, instrumentus, palīgierīces, mērinstrumentus un kontrolinstrumentus.
+* Izvēlēties darba uzdevumam atbilstošus palīgmateriālus
+* Asināt atslēdznieka darbam nepieciešamos instrumentus
+* Izvēlēties veicamo montāžas un demontāžas darbu secību
+* Veikt tehnisko apkopi saskaņā ar tehnisko dokumentāciju
+* Veikt aizzīmēšanas, ciršanas, griešanas, vīlēšanas, urbšanas, izrīvēšanas, pielāgošanas, kniedēšanas, liekšanas, presēšanas, slīpēšanas, šāberēšanas, taisnošanas, valcēšanas, lepēšanas, pulēšanas, vītņgriešanas, lodēšanas un mērīšanas darbus
+* Novērtēt izveidoto savienojumu atbilstību tehniskajām prasībām
+* Uzturēt darba vietu kārtībā darba laikā un sakārtot to, beidzot darbu
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Ievērot un lietot darba drošības zīmes un signālus
+* Ievērot elektrodrošības un ugunsdrošības noteikumus
+* Lietot darbgaldu aizsardzības aprīkojumu
+* Pārbaudīt instrumentu atbilstību darba aizsardzības normatīvo aktu prasībām
+* Lietot individuālos aizsardzības līdzekļus
+* Sniegt pirmo palīdzību
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Apgūt profesionālās kvalifikācijas pilnveidei nepieciešamās zināšanas, sekot līdzi informācijai par jaunākajām tehnoloģijām metālapstrādē un atslēdznieka darbā
+* Darba uzdevuma ietvaros organizēt savu darbu, sadarboties ar citiem darbiniekiem, strādāt komandā
+* Ievērot darba tiesisko attiecību normas
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu

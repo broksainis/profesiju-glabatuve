@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: kuģa elektriķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 741107
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+*  kuģa elektriķis veic ārējo un iekšējo elektrisko tīklu izbūvi; elektroietaišu ierīkošanas, elektromontāžas, ekspluatācijas, remonta un apkopes darbus; montē un apkalpo apgaismes ķermeņus uz kuģiem.     Kuģa elektriķis var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "197 gada Starptautiskā konvencija par jūrnieku sagatavošanu un diplomēšanu, kā arī sardzes pildīšanu" (STCW (_Standarts of Training Certification and Watchkeeping_) Konvencija) prasībām.
+
+### Kompetences
+
+* Kuģa elektriķim nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-III/ – "Minimālā kompetences standarta specifikācija elektriķiem"
+
+### Prasmes 
+* Kuģa elektriķim nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-III/ – "Minimālā kompetences standarta specifikācija elektriķiem"

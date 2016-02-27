@@ -1,0 +1,88 @@
+---
+layout: post
+    
+title: grāmatvedis (ceturtā līmeņa kvalifikācija)
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 331301
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* grāmatvedis veic uzņēmuma finansiālo operāciju pilnu uzskaiti; nodrošina savlaicīgu finanšu informācijas apkopošanu, apstrādi un finanšu rādītāju aprēķināšanu; analizē uzņēmuma finansiālās darbības rādītājus; gatavo finanšu pārskatus un nodokļu deklarācijas; apkopo, plāno un kontrolē finanšu resursu sadali; izstrādā priekšlikumus uzņēmuma finansiālās darbības pilnveidošanai; nodrošina Latvijas Republikas normatīvo aktu un starptautisko tiesību normu ievērošanu un piemērošanu grāmatvedības jomā; organizē un vada citus darbiniekus. 
+* Grāmatvedis strādā uzņēmumos vai kā pašnodarbinātais vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja izveidot pareizu, racionālu un progresīvu grāmatvedības sistēmu un sastādīt grāmatvedības organizācijas dokumentus
+* Spēja reģistrēt un iegrāmatot saimnieciskos darījumus grāmatvedības reģistros un grāmatvedības datorprogrammās, pamatojoties uz attaisnojuma dokumentiem
+* Spēja veikt reģistrēto saimniecisko darījumu pārbaudi
+* Spēja aprēķināt nodokļus, veikt norēķinus par nodokļiem
+* Spēja sagatavot un iesniegt nodokļu deklarācijas un pārskatus.
+*  Spēja prognozēt nodokļu ietekmi uz uzņēmuma vadības pieņemtajiem lēmumiem
+* Spēja aprēķināt darba samaksu atbilstoši uzņēmumā pastāvošajai samaksas sistēmai un veikt norēķinu ar darbiniekiem uzskaiti
+* Spēja uzskaitīt ilgtermiņa ieguldījumus, iegrāmatot nemateriālo ieguldījumu, pamatlīdzekļu un finanšu ieguldījumu darījumus
+* Spēja aprēķināt un iegrāmatot ilgtermiņa ieguldījumu pārskata gadā norakstāmo summu, pamatlīdzekļu nolietojumu finanšu un nodokļu vajadzībām
+* Spēja uzskaitīt apgrozāmos līdzekļus un veikt to uzskaites kontroli
+* Spēja uzskaitīt pašu kapitāla izmaiņas un reģistrēt tās
+* Spēja izvērtēt nepieciešamos uzkrājumu veidus uzņēmumā, tos aprēķināt un uzskaitīt
+* Spēja identificēt saistības saskaņā ar to ekonomisko saturu, nodrošināt saistību rašanās un dzēšanas uzskaiti, kontrolēt saistību dzēšanas termiņus
+* Spēja veikt bilances posteņu inventarizāciju un ar finanšu pārskata sastādīšanu saistītos koriģējošos un slēguma grāmatojumus
+* Spēja sagatavot un analizēt uzņēmuma finanšu pārskatu
+* Spēja nodrošināt izmaksu uzskaiti pašizmaksas aprēķināšanai un cenu noteikšanai
+* Spēja sagatavot grāmatvedībā pieejamo informāciju uzņēmuma vadībai īstermiņa un ilgtermiņa rakstura lēmumu pieņemšanai
+* Spēja sagatavot un iesniegt operatīvos pārskatus vadībai
+* Spēja sagatavot un sniegt nepieciešamo informāciju auditoriem un kontrolējošām institūcijām
+* Spēja sagatavot un sniegt informāciju ārējai kontrolei
+* Spēja sagatavot statistikas pārskatus
+* Spēja orientēties Latvijas Republikas normatīvajos aktos un starptautiskajās tiesību normās grāmatvedības jomā
+* Spēja aizstāvēt sava uzņēmuma finanšu intereses citās institūcijās grāmatvedības un nodokļu jomā
+* Spēja lietot informācijas tehnoloģijas savas darbības veikšanā
+* Spēja ievērot profesionālo ētiku
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+*  Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību izpildi
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+
+### Prasmes 
+* Sagatavot grāmatvedības organizācijas dokumentus
+* Sagatavot saimnieciskiem darījumiem atbilstošus pirmdokumentus, arī datorprogrammās
+* Novērtēt saimnieciskos darījumus naudas vienībās
+* Veikt darījumu sistematizēšanu un grupēšanu
+* Izvēlēties vai veidot uzskaites objektiem atbilstošus analītiskās uzskaites reģistrus
+* Veikt analītiskās uzskaites summu salīdzināšanu ar sintētiskās uzskaites datiem
+* Izvēlēties un strādāt ar uzņēmuma grāmatvedībai atbilstošu datorprogrammu
+* Iniciēt esošajā grāmatvedības datorprogrammā nepieciešamos uzlabojumus atbilstoši uzņēmuma darbības vai nodokļu uzskaites specifikai
+* Izsekot saimnieciskajiem darījumiem no pirmdokumentu saņemšanas un no to atspoguļošanas brīža grāmatvedības dokumentos līdz finanšu pārskatam
+* Veikt finanšu analīzi un interpretēt rādītāju izmaiņas
+* Nodrošināt grāmatvedības datu aizsardzību un konfidencialitāti
+* Reģistrēt saimnieciskos darījumus hronoloģiskajos un sistemātiskajos grāmatvedības reģistros
+* Novērtēt saimnieciskos darījumus naudas vienībās
+* Noteikt uzņēmuma būtiskuma kritērijus grāmatvedības jomā
+* Sagatavot finanšu pārskatus
+* Sagatavot nodokļu deklarācijas
+* Sagatavot operatīvos vadības pārskatus
+* Sagatavot statistikas pārskatus
+* Pielietot praktiskajā darbā Latvijas Republikas normatīvos aktus un starptautiskās tiesību normas grāmatvedības jomā
+* Izmantot Latvijas un starptautiskos grāmatvedības standartus un starptautiskos publiskā sektora grāmatvedības standartus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Risināt problēmsituācijas saistībā ar grāmatvedības un nodokļu jautājumiem
+* Sagatavot lietišķās sarakstes dokumentus
+* Plānot un organizēt savu darbu atbilstoši amata aprakstam, organizēt padoto darba izpildi noteiktā termiņā
+* Lietot darbā informācijas tehnoloģijas
+* Sniegt operatīvu informāciju par darba rezultātiem uzņēmuma vadībai un argumentēti izteikt savu viedokli
+* Ievērot profesionālās ētikas principus
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Ievērot darba tiesisko attiecību noteikumus

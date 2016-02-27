@@ -1,0 +1,92 @@
+---
+layout: post
+    
+title: datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu operators
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 722334
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu operators atbilstoši darba uzdevumam sagatavo CNC darbgaldus, izejmateriālus un instrumentus produkcijas ražošanai; kontrolē produkcijas kvalitāti; veic metāla skaidas griešanas un cita veida darbus ar CNC metālapstrādes iekārtām.     Datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu operators strādā ar CNC darbgaldiem metālapstrādes un mašīnbūves uzņēmumos.
+
+### Kompetences
+
+* Spēja lasīt un lietot dažāda veida tehnisko dokumentāciju, datorizētās ciparu vadības (CNC) darbgaldu detaļu apstrādes programmas
+* Spēja lasīt skices un darba rasējumus
+* Spēja izmantot tehnoloģiskās kartes
+* Spēja veikt datorizētās ciparu vadības (CNC) darbgaldu ikdienas tehnisko apkopi
+* Spēja sagatavot datorizētās ciparu vadības (CNC) darbgaldu darbam
+* Spēja ieslēgt, vadīt un izslēgt CNC metālapstrādes darbgaldu
+* Spēja praktiski pielietot kontroles instrumentus un mērinstrumentus
+* Spēja veikt korekcijas apstrādes programmā atbilstoši detaļu mērījumiem
+* Spēja iestatīt un koriģēt datorizētās ciparu vadības (CNC) darbgaldu apstrādes programmas manuālā vadības režīmā
+* Spēja strādāt ar dažādu datorizētās ciparu vadības (CNC) darbgaldu paneļiem, izmantojot atbilstošu programmatūru nodrošinājumu
+* Spēja sagatavot detaļu automātiskam ražošanas procesam, kurā tiks izmantots datorizētās ciparu vadības (CNC) darbgalds
+* Spēja izgatavot kontroldetaļu un pārbaudīt tās tehnisko un kvalitatīvo rādītāju atbilstību tehnoloģiskajām prasībām
+* Spēja pieņemt un novērtēt materiālus, instrumentus un ierīces atbilstoši kvalitātes prasībām
+* Spēja sastādīt vienkāršas apstrādes programmas manuālā vadības režīmā un ievadīt tās arī no ārējiem datu nesējiem
+* Spēja kontrolēt tehnoloģiskā procesa ievērošanu
+* Spēja saprast un pielietot CNC darbgaldu skaņas, vizuālos un tekstveida signālus
+* Spēja novērtēt nepieciešamā materiāla daudzumu un darba patēriņu pasūtījumam
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja strādāt patstāvīgi un komandā
+* Spēja sadarboties ar citu profesiju pārstāvjiem
+* Spēja ievērot darba aizsardzības prasības, strādājot pie dažāda veida datorizētās ciparu vadības (CNC) metālapstrādes darbgaldiem
+* Spēja ievērot vides aizsardzības prasības
+* Spēja sekot jaunākajām tehnoloģijām nozarē, izmantojot visus pieejamos informācijas avotus
+* Spēja noformēt saražotās produkcijas dokumentāciju un sagatavot saražoto produkciju nosūtīšanai vai glabāšanai noliktavā
+* Spēja sazināties valsts valodā un vismaz vienā svešvalodā
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+
+### Prasmes 
+* Izprast un spēt izmantot datorizētās ciparu vadības (CNC) metālapstrādes darbgalda manuālās programmēšanas un iestatīšanas instrukciju
+* Veikt datorizētās ciparu vadības (CNC) metālapstrādes darbgalda tehnisko apkopi saskaņā ar darbgalda lietošanas instrukciju
+* Strādāt ar datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu un instrumentiem, ievērot to ekspluatācijas noteikumus
+* Pielietot datorizētās ciparu vadības (CNC) metālapstrādes darbgalda tehniskās apkopes dokumentāciju
+* Lasīt darba rasējumus un skices
+* Veikt detaļu mērījumus saskaņā ar procesa instrukciju
+* Lietojot manuālā režīma programmēšanu, sastādīt apstrādes programmu vienkāršām detaļām , dimensijās
+* Iestatīt fiksēto punktu – nulles punktu
+* Veikt instrumentu izmēra iestatīšanu un nepieciešamās korekcijas
+* Izvēlēties darba instrumentus atbilstoši tehnoloģiskajai kartei
+* Izvēlēties eļļošanas un dzesēšanas šķidrumus atbilstoši darbgalda un tehnoloģiskajai dokumentācijai
+* Veikt apstrādes programmas testēšanu, izmantojot datorizētās ciparu vadības (CNC) metālapstrādes darbgaldu iespējas
+* Veikt CNC darbgalda tehnisko apkopi
+* Veikt sagatavju iestatīšanu un to atbilstības pārbaudi
+* Veikt instrumentu un palīgierīču iestatīšanu
+* Veikt mērinstrumentu sagatavošanu
+* Ievadīt vienkāršas apstrādes programmas manuālā režīmā un izmantot ārējos datu nesējus apstrādes programmu pārnesei
+* Lietot nepieciešamo aprīkojumu
+* Veikt kontroldetaļas izgatavošanu
+* Veikt detaļu izmēru regulāru pārbaudi
+* Veikt apstrādes instrumentu korekcijas
+* Veikt instrumentu nomaiņu
+* Veikt nepieciešamās korekcijas apstrādes programmā pēc kontroldetaļas izgatavošanas
+* Racionāli izmantot darbgalda un instrumentu iespējas
+* Ievērot darba aizsardzības informatīvās norādes
+* Pielietot instrumentu katalogu
+* Izmēru kontrolei lietot mērinstrumentus
+* Uzstādīt nepieciešamo aprīkojumu un instrumentus
+* Veikt nepieciešamos iestatījumus vienkāršas apstrādes programmas palaišanai uz datorizētās ciparu vadības (CNC) metālapstrādes darbgaldiem
+* Novērtēt iekārtu tehniskās drošības atbilstību normatīvo aktu prasībām
+* Uzturēt savu profesionālo kompetenci
+* Uzņemties atbildību par sava darba rezultātu
+* Domāt racionāli un risināt problēmas
+* Plānot un organizēt veicamo darbu
+* Līdzdarboties komandas darbā
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību, darba aizsardzības un vides aizsardzības prasības

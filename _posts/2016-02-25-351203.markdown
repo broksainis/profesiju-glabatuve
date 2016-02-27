@@ -1,0 +1,78 @@
+---
+layout: post
+    
+title: programmēšanas tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 351203
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  programmēšanas tehniķis veic programmatūras izstrādi, darbības pārbaudi un darbības izmaiņas ar mērķi izveidot funkcionālu un izvirzītajām prasībām atbilstošu vienkāršu programmatūras risinājumu vai tā komponentes.     Programmēšanas tehniķis strādā uzņēmumā, kas veic programmēšanu, vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja lasīt un izprast programmatūras vai tās daļas tehnisko projektējumu un shematisko attēlojumu un izmantot iegūto informāciju darba uzdevumu veikšanā
+* Spēja iegūt informāciju par konkrētas programmatūras vai tās daļas uzbūvi un novērtēt darba apjomu
+* Spēja izveidot programmatūras vienību, lietojot programmēšanas valodu un ievērojot programmatūras izstrādes metodoloģiju un labo praksi
+* Spēja lasīt un analizēt esošo programmatūras vienības pirmkodu un uzrakstīt programmatūras vienības pirmkodu, pārbaudīt tā atbilstību lietotāja vajadzībām un veikt vienībtestēšanu
+* Spēja izvērtēt koda struktūras atbilstību tā uzdevumam un veikt koda refaktorēšanu (programmatūras koda struktūras jeb dizaina uzlabošana, bez sagaidāmās funkcionalitātes maiņas)
+* Spēja īsi un saprotami formulēt pirmkoda fragmenta darbības principus
+* Spēja veidot datubāzes un lietot tās vadības sistēmas programmatūras vienībām nepieciešamajā apjomā
+* Spēja sagatavot testu datu komplektu piemērus, izvēlēties piemērotākos programmatūras vienības testēšanai un veikt programmatūras darbības pārbaudi
+* Spēja uzturēt programmatūras daļu un nepieciešamības gadījumā to atjaunināt
+* Spēja analizēt un novērst uzturamās programmatūras lietotāja konstatētās kļūdas, to cēloņus vai neatbilstību dokumentācijai
+* Spēja noteikt darba uzdevuma izpildei nepieciešamās darbības prioritārajā secībā, pamatoti noteikt un ievērot darba uzdevumu izpildes termiņus
+* Spēja sagatavot rakstisku un mutisku informāciju par programmatūras izstrādes, testēšanas, ieviešanas gaitu un programmatūras uzturēšanu, noformējot dokumentus atbilstoši darba uzdevumiem, ievērojot datu aizsardzības un konfidencialitātes principus
+* Spēja izvērtēt iegūtās zināšanas un prasmes un pastāvīgi pilnveidot profesionālo kvalifikāciju, regulāri iepazīstoties ar informācijas un komunikācijas nozares profesionālajiem jaunumiem, izmantojot tehnisko dokumentāciju, tīmekli un citus tehniskās informācijas avotus
+* Spēja strādāt individuāli un komandā, ievērojot profesionālās ētikas principus, profesionālās saskarsmes un darba tiesisko attiecību normas
+* Spēja organizēt, izmantot un uzturēt drošu darba vietu, ievērot elektrodrošības un ugunsdrošības, darba aizsardzības un vides aizsardzības normatīvo aktu prasības un sniegt pirmo palīdzību
+* Spēja sazināties valsts valodā un vienā svešvalodā, lietot profesionālo terminoloģiju
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+
+### Prasmes 
+* Piemērot informācijas un komunikācijas nozares standartus, algoritmus un lietot programmēšanas valodu, ievērojot normatīvo aktu prasības informācijas un komunikācijas tehnoloģiju nozarē
+* Lasīt pirmkodu un izdalīt struktūras elementus programmatūras vienības pirmkodā
+* Pārbaudīt programmatūras vienības darbību
+* Izvērtēt, salīdzināt un dokumentēt programmatūras vienības testu datus
+* Veikt programmatūras testēšanu
+* Novērst nepilnības izstrādājamās un uzturamās programmatūras vienības pirmkodā
+* Izmantot datubāzes darba uzdevuma veikšanai nepieciešamo datu iegūšanai, apstrādei un uzglabāšanai
+* Izvērtēt programmatūras vienības datu plūsmas
+* Formulēt programmatūras vienības pirmkoda fragmenta darbības principus
+* Izstrādāt programmatūras kodu atbilstoši noteiktajām funkcionālajām un nefunkcionālajām prasībām, ievērojot metodoloģiju un labo praksi
+* Sadalīt kompleksu darba uzdevumu loģiskos posmos un iteratīvi izstrādāt un pilnveidot programmatūras kodu, līdz tas atbilst izvirzītajām prasībām
+* Refaktorēt programmatūras kodu, lai uzlabotu lasāmību un koda struktūras atbilstību uzdevumam
+* Izvēlēties programmatūras vienības testēšanas metodes un paņēmienus
+* Izveidot programmatūras vienības testu un testu datu komplektu piemērus
+* Ievērot programmatūras vienības izstrādes termiņus
+* Izprast programmatūras priekšmetisko jomu un lietotāju grupas.
+*  Formulēt programmatūras vienības tehniskos risinājumus
+* Izskaidrot programmatūras vienības vai tās daļu darbības principus
+* Lietot atbilstošus programmatūras izstrādes rīkus
+* Lasīt, saprast un izmantot tehnisko dokumentāciju, shematiskos apzīmējumus, vizualizācijas rīkus
+* Lietot biroja lietojumprogrammatūru un tīmekļu pārlūkprogrammas, sagatavojot un noformējot dokumentus atbilstoši darba uzdevumiem
+* Instalēt un konfigurēt programmatūras vienības vai tās daļas
+* Plānot darba uzdevumus, to secību un izpildes termiņus veicamo darba pienākumu ietvaros
+* Ievērot profesionālās ētikas principus un darba tiesisko attiecību normas
+* Novērtēt paveiktā darba atbilstību darba uzdevumam, uzņemties atbildību par sava darba rezultātiem
+* Komunicēt un sadarboties ar citiem speciālistiem, uzņēmuma vadību, esošajiem un potenciālajiem pasūtītājiem un to pārstāvjiem
+* Pilnveidot profesionālo kompetenci
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba vietai un darba aprīkojuma lietošanai noteiktās ekspluatācijas prasības un atbilstošu darba drošības un veselības režīmu
+* Ievērot darba aizsardzības, elektrodrošības un ugunsdrošības normatīvo aktu prasības
+* Ievērot darba un vides aizsardzības normatīvo aktu prasības
+* Sniegt pirmo palīdzību

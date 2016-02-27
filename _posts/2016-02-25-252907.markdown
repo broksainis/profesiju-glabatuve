@@ -1,0 +1,110 @@
+---
+layout: post
+    
+title: informācijas sistēmas drošības speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 252907
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 
+* informācijas sistēmas drošības speciālists nodrošina informācijas un komunikāciju tehnoloģiju fizisko un loģisko drošības prasību realizāciju; piedalās uzņēmuma informācijas drošības pasākumu īstenošanā, infrastruktūras drošības arhitektūras izveidē un uzturēšanā. 
+* 	Informācijas sistēmas drošības speciālists strādā valsts un pašvaldību iestādēs, vai uzņēmumos. 
+* 	5 Profesionālās darbības veikšanai nepieciešamās  profesionālās kompetences 
+* 	 Spēja izstrādāt, analizēt, pilnveidot uzņēmuma informācijas sistēmas drošības prasības. 
+* 	 Spēja identificēt informācijas sistēmas drošības riskus, vadīt risku analīzi, formulēt priekšlikumus drošības pasākumu plāna pilnveidei. 
+* 	 Spēja novērtēt un sagatavot informāciju par esošo informācijas sistēmas drošības stāvokli, lietotāju veiktajām darbībām un citiem informācijas sistēmas drošības incidentiem. 
+* 	 Spēja apkopot un analizēt informāciju, iegūt datus, izmantojot atbilstošus informācijas sistēmas drošības diagnostikas risinājumus (programmatūru, rīkus). 
+* 	 Spēja izprast sociālās inženierijas metodes un to lomu informācijas drošības pārvaldībā. 
+* 	 Spēja izstrādāt priekšlikumus kiberuzbrukumu (sociālās inženierijas uzbrukumu) novēršanai. 
+* 	 Spēja identificēt informācijas drošības ievainojamību un sniegt konsultācijas tās novēršanā. 
+* 	 Spēja izprast programmatūru izstrādes dzīves ciklu un izteikt priekšlikumus drošības prasību nodrošināšanai visā dzīves ciklā. 
+* 	 Spēja izprast kriptogrāfijas un digitālo parakstu lietojumu informācijas drošībā. 
+* 	1 Spēja noteikt minimālās drošības prasības informācijas sistēmām. 
+* 	1 Spēja konsultēt un veikt lietotāju ievadinstruktāžu atbilstoši kompetencei. 
+* 	1 Spēja sniegt tehnisko atbalstu lietotājiem. 
+* 	1 Spēja orientēties normatīvo aktu prasībās IKT jomā, nodrošināt uzņēmuma ārējo drošības prasību atbilstību, izprast normatīvo aktu ietekmi uz informācijas sistēmām, programmatūras dzīves ciklu un procesiem uzņēmumā. 
+* 	1 Spēja pārzināt informācijas drošības standartus, interesēties par aktualitātēm informācijas sistēmu drošībā un pilnveidot profesionālās zināšanas. 
+* 	1 Spēja lietot standartus un izprast normatīvos aktus personas datu aizsardzības jomā. 
+* 	1 Spēja ievērot darba aizsardzības, ugunsdrošības un ergonomikas, vides aizsardzības normatīvo aktu prasības. 
+* 	1 Spēja prezentēt savas idejas un priekšlikumus, argumentēt viedokli. 
+* 	1 Spēja sagatavot priekšlikumus par nepieciešamajiem uzlabojumiem informācijas drošībā. 
+* 	1 Spēja dokumentēt savu darbību. 
+* 	2 Spēja organizēt un vadīt grupas darbu. 
+* 	2 Spēja izvēlēties uzdevumu risināšanai vispiemērotāko variantu. 
+* 	2 Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus. 
+* 	2 Spēja ievērot lietišķās saskarsmes principus. 
+* 	2 Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem. 
+* 	2 Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  	5 Profesionālās darbības pamatuzdevumu veikšanai  nepieciešamās prasmes 
+* 	 Vadīt informācijas sistēmas drošības risku analīzi. 
+* 	 Izteikt priekšlikumus vadītājam informācijas sistēmas drošības pasākumu plānošanā un drošības plāna izstrādē un realizācijā. 
+* 	 Uzturēt ar informācijas sistēmas drošību saistītos iekšējos normatīvos aktus un citus dokumentus. 
+* 	 Pārzināt un lietot risku vadības metodoloģiju, izmantot informācijas drošības standartus un vispārpieņemto labo praksi. 
+* 	 Analizēt un izmantot iegūtos informācijas sistēmas auditācijas pierakstus. 
+* 	 Izmantot secinājumu veidošanas datu apstrādes metodes. 
+* 	 Strādāt komandā un veikt darbu patstāvīgi. 
+* 	 Plānot izpildāmos darbus un noteikt to prioritātes. 
+* 	 Noformēt lietišķos dokumentus. 
+* 	1 Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  	1 Formulēt problēmas un to cēloņus, izvirzīt uzdevumus. 
+* 	1 Pārvaldīt valsts valodu. 
+* 	1 Pārvaldīt vismaz divas svešvalodas saziņas līmenī. 
+* 	1 Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās. 
+* 	1 Patstāvīgi pilnveidot profesionālās zināšanas. 
+* 	1 Ievērot darba tiesisko attiecību normas. 
+* 	1 Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības. 
+* 	1 Savā darbībā lietot modernās informācijas tehnoloģijas. 
+* 	5 Profesionālās darbības pamatuzdevumu veikšanai  nepieciešamās zināšanas 
+* 	 Profesionālās darbības pamatuzdevumu veikšanai nepieciešamās zināšanas priekšstata līmenī: 
+* 	 IKT arhitektūra; 
+* 	 informācijas drošības tiesiskais regulējums; 
+* 	 kvalitatīvās un kvantitatīvās pētniecības metodes informācijas drošības jomā; 
+* 	 finanšu ekonomikas pamati; 
+* 	 inovācijas IKT jomā; 
+* 	 kvalitātes vadība IKT projektos; 
+* 	 IKT pakalpojumu pārvaldība; 
+* 	 modernās apmācības metodes. 
+* 	 Profesionālās darbības pamatuzdevumu veikšanai nepieciešamās zināšanas izpratnes līmenī: 
+* 	 programmatūras izstrādes dzīves cikls; 
+* 	 IKT infrastruktūras aizsardzība; 
+* 	 personas datu aizsardzības tiesiskais regulējums un standarti;
+*  	 kritiskās infrastruktūras tiesiskais regulējums un standarti;
+*  	 informācijas drošības un informācijas drošības pārvaldības izmērāmie rādītāji; 
+* 	 organizācijas pamatdarbības procesu nepārtrauktība; 
+* 	 iekšējo normatīvo aktu izstrādes metodoloģija; 
+* 	 kibernoziegumu analīze; 
+* 	 kibernoziegumu izmeklēšanas process un pierādījumu vākšana; 
+* 	1 ārkārtas situāciju pārvaldība; 
+* 	1 informācijas drošības tehnoloģijas un risinājumi; 
+* 	1 kriptogrāfija (sertifikāti un paraksti); 
+* 	1 sociālā inženierija; 
+* 	1 lēmumu pieņemšana, argumentācijas māksla; 
+* 	1 profesionālie termini valsts valodā un divās svešvalodās. 
+* 	 Profesionālās darbības pamatuzdevumu veikšanai nepieciešamās zināšanas lietošanas līmenī: 
+* 	 incidentu pārvaldība; 
+* 	 komercdarbības vadības teorijas; 
+* 	 lietišķā komunikācija un prezentēšanas prasme; 
+* 	 informācijas drošības pārvaldība; 
+* 	 informācijas drošības standarti un labā prakse; 
+* 	 risku pārvaldības metodoloģijas, standarti un labā prakse; 
+* 	 kiberuzbrukuma atvairīšanas un 
+
+### Kompetences
+
+* 
+
+### Prasmes 
+* 

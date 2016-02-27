@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: koka izstrādājumu ražošanas tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311927
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  koka izstrādājumu ražošanas tehniķis plāno, organizē, uzrauga un kontrolē koka izstrādājumu ražošanas procesu; veic izejvielu, izejmateriālu un gatavās produkcijas pieņemšanu, kontrolējot gatavās produkcijas un tehnoloģiskā procesa atbilstību normatīvajiem aktiem un tehniskajai dokumentācijai; sagatavo tehnisko dokumentāciju un rasējumus; spēj strādāt ar kokapstrādes tehnoloģiskajām iekārtām.     Koka izstrādājumu tehniķis strādā kokapstrādes un mēbeļu ražošanas uzņēmumos.
+
+### Kompetences
+
+* Spēja pieņemt noliktavā piegādātās izejvielas un izejmateriālus, novērtējot koksnes izejmateriālu atbilstību kvalitātes prasībām
+* Spēja noteikt nepieciešamā koksnes izejmateriāla veidu, daudzumu un darba apjomu pasūtījuma izpildei
+* Spēja sagatavot darba rasējumus un tehnisko dokumentāciju atbilstoši darba uzdevumam
+* Spēja noteikt tehnoloģiskā procesa noviržu cēloņus, pamatojoties uz tehniski normatīvajā dokumentācijā noteiktajiem parametriem, nodrošināt to novēršanas pasākumus
+* Spēja nodrošināt ražošanas posteņus ar izejvielām, izejmateriāliem, veicot to uzskaiti noliktavā
+* Spēja nodrošināt kārtību ražošanas uzņēmuma struktūrvienībā
+* Spēja lietot tehnoloģiskās zināšanas tehnoloģisko procesu kontrolē un vadīšanā, nodrošinot galveno ražošanas tehnoloģisko iekārtu optimālu noslogojumu
+* Spēja plānot un organizēt veicamos darbus
+* Spēja novērtēt darba riskus, izvēlēties un izmantot piemērotu darba apģērbu un individuālos aizsardzības līdzekļus.
+*  Spēja izprast un ievērot darba aizsardzības normatīvo aktu prasības, nodrošināt to ievērošanu, veikt darba pienākumus, nekaitējot savai un citu personu veselībai, atpazīt un ievērot drošības signālus un zīmes
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības
+* Spēja izprast un ievērot ugunsdrošības prasības, veikt darba pienākumus, nodrošinot to ievērošanu ražošanas uzņēmuma struktūrvienībā
+* Spēja sniegt pirmo palīdzību
+* Spēja izmantot informācijas tehnoloģijas, datubāzes, tehnisko dokumentāciju un citus informācijas avotus un apgūt jaunākās tehnoloģijas, instrumentus un specializētās kokapstrādes programmas
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja domāt racionāli un risināt problēmas
+* Spēja pilnveidot kvalifikāciju atbilstoši darba devēja prasībām, izmantojot datorprogrammas mēbeļu konstruēšanai un rasēšanai
+* Spēja nodrošināt produkcijas kvalitātes vadības sistēmas procedūru un instrukciju ievērošanu
+* Spēja sazināties un lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Atšķirt koku sugas, kokmateriālu un to apstrādes izejvielu veidus
+* Noteikt koksnes izejmateriālus, izejvielas pēc to marķējuma
+* Izvēlēties un lietot piemērotu darba apģērbu un individuālos aizsardzības līdzekļus
+* Izvēlēties un uzstādīt palīgierīces, aizsargierīces un koksnes griezējinstrumentus
+* Novērtēt kokapstrādes tehnoloģisko iekārtu, palīgierīču, aizsargierīču un koksnes griezējinstrumentu tehnisko stāvokli un nolietojumu
+* Salīdzināt esošos un nepieciešamos kokapstrādes tehnoloģisko iekārtu iestatījumus, apstrādes režīmus atbilstoši iekārtu ekspluatācijas instrukcijām
+* Apmācīt kokapstrādes iekārtu operatorus strādāt ar kokapstrādes tehnoloģiskajām iekārtām
+* Strādāt ar programmvadības kokapstrādes darbmašīnu/līniju specializētajām programmām
+* Noteikt un izvēlēties apstrādājamajam materiālam atbilstošus koksnes griezējinstrumentus
+* Izvēlēties un lietot mērinstrumentus kokapstrādes tehnoloģisko iekārtu, koksnes griezējinstrumentu kontroles veikšanai
+* Vadīt kokapstrādes mehāniskās apstrādes tehnoloģisko iekārtu darbību
+* Novērtēt ar kokapstrādes mehāniskās apstrādes tehnoloģisko iekārtu saistīto iekārtu tehnisko stāvokli
+* Izvēlēties atbilstošus mērinstrumentus un citus tehniskos līdzekļus kontrolmērījumu veikšanai
+* Veikt saražotās produkcijas kontrolmērījumus un kvalitātes pārbaudes
+* Veikt korekcijas kokapstrādes tehnoloģisko iekārtu iestatījumos atbilstoši veiktajiem ražotās produkcijas kontrolmērījumiem
+* Uztvert, izprast un ievērot kokapstrādes tehnoloģisko iekārtu skaņas, vizuālos un tekstuālos paziņojumus
+* Lasīt koksnes darbmašīnas/līnijas tehnoloģiskā procesa programmu, rasējumus un tehnisko dokumentāciju
+* Noteikt un novērtēt kokapstrādes izejmateriālus atbilstošā darba uzdevuma veikšanai
+* Vizuāli novērtēt kokapstrādes tehnoloģisko iekārtu tehnisko stāvokli un riska iespējas
+* Organizēt darba vietu un veikt darbus atbilstoši darba aizsardzības, elektrodrošības, ugunsdrošības un vides aizsardzības normatīvo aktu prasībām
+* Veikt saražotās produkcijas uzskaiti un noformēt dokumentāciju
+* Strādāt kolektīvā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Sniegt pirmo palīdzību
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību normas

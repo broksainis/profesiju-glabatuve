@@ -1,0 +1,67 @@
+---
+layout: post
+    
+title: būvdarbu vadītājs
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 132305
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* būvdarbu vadītājs ir būvniecības speciālists, kurš ir ieguvis attiecīgu profesionālo izglītību būvniecībā un attiecīgu praktisko būvdarbu vadīšanas pieredzi, veic konkrētu būvobjektu realizācijas plānošanu, balstoties uz projekta dokumentāciju, būvobjekta realizācijas līguma nosacījumiem un savu pieredzi, apzina un piedāvā atsevišķu būvdarbu veidu un apjomu izpildītājus (uzņēmējus), nokomplektē būvstrādnieku brigādes atsevišķu darbu apjomu veikšanai, izvēlas būvmašīnas un aprīkojumu šo darbu veikšanas nodrošināšanai, izvēlas projektam atbilstošus būvmateriālus un būvkonstrukcijas un plāno to piegādi būvobjektā, plāno visu būvobjekta realizācijā iesaistīto dalībnieku sadarbību un būvdarbu veikšanas kārtību, dod nepieciešamos rīkojumus padotajiem un būves realizācijas dalībniekiem un pārbauda šo rīkojumu izpildi, rūpējas, lai būvdarbi tiktu veikti atbilstoši būves projekta, būvniecības normatīvu un standartu prasībām un to izmaksas iekļautos apstiprināto būvniecības izmaksu ietvaros; veic nepieciešamos pasākumus kvalitātes nodrošināšanai un darba drošībai būvobjektā; sagatavo būvniecības normatīvajos aktos noteikto būves izpilddokumentāciju; sagatavo un iesniedz vadībai nepieciešamās atskaites. 
+* Būvdarbu vadītājs var strādāt valsts vai pašvaldības iestādē, būvuzraudzības dienestā, nekustamā īpašuma novērtēšanas un pārvaldīšanas jomā, būvmateriālu ražošanas un tirdzniecības uzņēmumos vai kā pašnodarbināta persona, vai individuālais komersants. 	 
+
+### Kompetences
+
+* Spēja atbildīgi un patstāvīgi veikt būvdarbu vadītāja pienākumus atbilstoši Latvijas Republikas normatīvajiem aktiem un Eiropas Savienības tiesību normām būvniecības jomā
+* Spēja veikt būvdarbu operatīvo vadību
+* Spēja koordinēt būvniecības dalībnieku darbu
+* Spēja plānot būvobjekta realizāciju atbilstoši būvprojektam.
+*  Spēja novērtēt un analizēt objekta būvniecības ekonomiskos faktorus
+* Spēja novērtēt projekta dokumentāciju
+* Spēja projektēt būvdarbu organizēšanu, plānot un vadīt būvdarbus
+* Spēja organizēt būvobjekta pastāvīgo nodrošinājumu
+* Spēja sadarboties ar sadarbības partneriem būvobjekta realizācijai
+* Spēja kontrolēt izpildīto būvdarbu apmaksu
+* Spēja nodrošināt un kontrolēt vides aizsardzības, ugunsdrošības un darba aizsardzības noteikumu ievērošanu
+* Spēja apmācīt nodarbinātos
+* Spēja organizēt mācības
+* Spēja izmantot aprēķinu metodes un speciālās datorprogrammas
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+
+### Prasmes 
+* Plānot, organizēt un vadīt būvdarbus
+* Pārzināt un pielietot būvnormatīvus
+* Lasīt un izprast projektu dokumentāciju
+* Pārzināt būvniecības tehnoloģiskos procesus
+* Pārzināt būvmateriālu pamatīpašības, esošo būvmateriālu klāstu un sistēmas
+* Izprast būvju konstruktīvos risinājumus
+* Izprast inženierkomunikāciju un speciālo būvju risinājumus un būvniecības pamatprincipus
+* Saprast ģeodēzisko un metroloģisko darbu pamatprincipus
+* Prast izvēlēties būvmašīnas, mehānismus, instrumentus un tehnoloģiskā aprīkojuma sistēmas katra konkrētā darba veikšanai
+* Orientēties darba samaksas sistēmās, darba normēšanā un prast tos pielietot
+* Prast aprēķināt būvdarbu izmaksas, izvērtēt ekonomiskos faktorus un izvēlēties izdevīgāko variantu
+* Prast risināt problēmu situācijas
+* Pielietot būvdarbu kvalitātes kontroles sistēmas un standartizācijas pamatprincipus
+* Prast izvēlēties būvdarbu speciālistus, atbilstoši veicamā darba saturam un veidot darba tiesiskās attiecības atbilstoši normatīvo aktu prasībām
+* Prast veidot optimālu būvlaukuma infrastruktūru atbilstoši darba aizsardzības, darba higiēnas, ugunsdrošības un vides aizsardzības normatīvo aktu prasībām būvniecības jomā
+* Prast strādāt ar būvdarbu organizēšanas projektēšanai nepieciešamajām speciālajām datorprogrammām
+* Veikt projektu sagatavošanu un īstenošanu
+* Prast izmantot informācijas tehnoloģijas
+* Prast analizēt saņemto informāciju
+* Prast analizēt darba rezultātus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot nozares terminoloģiju valsts valodā un divās svešvalodās
+* Pašizglītoties

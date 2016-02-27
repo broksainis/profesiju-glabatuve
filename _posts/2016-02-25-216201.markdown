@@ -1,0 +1,50 @@
+---
+layout: post
+    
+title: ainavu arhitekts
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 216201
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* ainavu arhitekts veic uzdevumus, kas saistīti ar ainavu, publisko un privāto ārtelpu labiekārtojuma un apstādījumu izpēti, analīzi, attīstību, saglabāšanu, atjaunošanu un pārvaldīšanu; vērtē un pēta ainavas telpisko struktūru un ainavas elementu savstarpējo mijiedarbību; novērtē prognozējamo izmaiņu ietekmi uz ainavu; izstrādā vadlīnijas, metodiku, rekomendācijas ainavu aizsardzībai, saglabāšanai un atjaunošanai; izstrādā kultūrvēsturisko un degradēto ainavu un teritoriju atjaunošanas vai rekonstrukcijas projektus (turpmāk – projektu), izstrādā ainavu un publiskās ārtelpas kompozicionālo plānojumu un telpisko struktūru, teritoriju labiekārtojuma un apstādījumu funkcionālos un kompozicinālos risinājumus, tehniskos risinājumus, darba zīmējumus un specifikācijas; konsultē projektētājus, būvniecības procesa dalībniekus un iedzīvotājus ainavu, teritorijas labiekārtojuma un apstādījumu veidošanas un saglabāšanas jautājumos. 
+* Ainavu arhitekts var strādāt uzņēmumos vai kā pašnodarbināta persona vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja izprast kultūrvēsturiskās ainavas un dabas mantojuma nozīmi tautsaimniecības attīstībā
+* Spēja izstrādāt vadlīnijas, metodiku, rekomendācijas ainavu aizsardzībai, saglabāšanai un atjaunošanai, pamatojoties uz ainavas izpēti, analīzi un saistīto nozaru speciālistu slēdzieniem
+* Spēja veikt teritorijas pirmsprojekta izpēti, apkopojot informāciju par dabas un antropogēnajiem faktoriem, kā arī par apbūves raksturu
+* Spēja izstrādāt projekta kompozicionālo ieceri atbilstoši veiktajai teritorijas pirmsprojekta izpētei, funkcionālajām prasībām un darba uzdevumam
+* Spēja izstrādāt projektu publiskai un privātai ārtelpai, ietverot ceļu un laukumu plānojumu, apstādījumu plānu, vertikālo un horizontālo piesaistu plānus, labiekārtojuma elementu plānu, darbu un materiālu apjomus un specifikācijas
+* Spēja izstrādāt projektu dokumentāciju meta, skiču un tehniskā projekta stadijās
+* Spēja organizēt darba procesu sadarbībā ar citu nozaru speciālistiem
+* Spēja plānot un vadīt darbu, strādāt darba grupā saskaņā ar projekta izstrādes laika grafiku
+* Spēja sazināties un izstrādāt projektus valsts valodā un vismaz divās svešvalodās
+* Spēja veikt pētījumus ar zinātnisku vērtību ainavu arhitektūras un plānošanas jomā
+* Spēja strādāt saskaņā ar lietvedības, būvniecības, pieminekļu aizsardzības un dabas aizsardzības normatīvo aktu prasībām
+
+### Prasmes 
+* Pārzināt visu ainavu tipu telpiskās uzbūves principus
+* Apsekot un izvērtēt projektējamās teritorijas, iegūstot visu darbam nepieciešamo informāciju
+* Pielietot datorprogrammas, izstrādājot projekta dokumentāciju, atspoguļojot projekta ieceri un veidojot prezentācijas
+* Pārzināt inženiertehnisko risinājumu vispārējos principus, jaunākās tehnoloģijas un materiālus ainavu veidošanas, teritorijas labiekārtojuma un apstādījumu ierīkošanas jomā
+* Pielietot labiekārtojuma elementus atbilstoši funkcionālajām prasībām, ainavas raksturam, vides un arhitektūras kontekstam
+* Pārzināt Baltijas reģionā lietojamo apstādījumu augu sortimentu un to botāniskos nosaukumus latīņu valodā
+* Pielietot augus atbilstoši to estētiskajām un bioloģiskām īpašībām, funkcionālajām prasībām, ainavas raksturam, vides un arhitektūras kontekstam
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Sniegt konsultācijas ainavu, teritorijas labiekārtojuma un apstādījumu veidošanā un saglabāšanā, skaidri un argumentēti izklāstot viedokli un pieņemtos lēmumus

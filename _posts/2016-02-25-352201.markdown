@@ -1,0 +1,89 @@
+---
+layout: post
+    
+title: telekomunikāciju tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 352201
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  telekomunikāciju tehniķis ierīko telekomunikāciju tīklu; novērtē tīkla un tā elementu veiktspēju; veic tīkla bojājumu diagnostiku un novēršanu; konfigurē komutācijas un maršrutēšanas iekārtas, izmantojot atbilstošus instrumentus, mērinstrumentus un programmnodrošinājumu; ar savu profesionālo darbību nodrošina kvalitatīvu un nepārtrauktu telekomunikāciju tīkla darbību un attīstību.     Telekomunikāciju tehniķis strādā uzņēmumos, kuri sniedz telekomunikāciju tīklu ierīkošanas, būvniecības, uzturēšanas un apkalpošanas pakalpojumus, vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja izvērtēt telekomunikāciju piekļuves tīkla atbilstību normatīvajos aktos noteiktajām prasībām un telekomunikāciju lietotāju vajadzībām
+* Spēja ierīkot telekomunikāciju tīklu iekštelpās un ārējā vidē
+* Spēja veikt telekomunikāciju iekārtu elektrobarošanas tehnisko apkalpošanu
+* Spēja veikt telekomunikāciju piekļuves tīkla iekārtu konfigurācijas darbus
+* Spēja veikt telekomunikāciju tīkla elementu fizisko apsekošanu, lietojot atbilstošus mehāniskos un elektriskos instrumentus un mērinstrumentus
+* Spēja veikt vadu un bezvadu telekomunikāciju tīkla parametru mērījumus, lietojot atbilstošus mērinstrumentus un programmnodrošinājumu
+* Spēja dokumentēt un analizēt iegūtos vadu un bezvadu telekomunikāciju tīkla parametru mērījumu rezultātus
+* Spēja diagnosticēt un novērst bojājumus telekomunikāciju tīkla darbībā un konfigurācijas kļūdas telekomunikāciju tīkla iekārtās, lietojot atbilstošus mehāniskos un elektriskos instrumentus, mērinstrumentus un programmnodrošinājumu
+* Spēja lasīt un izprast darba uzdevumu izpildei nepieciešamos tehniskos rasējumus un shēmas, korekti interpretēt tehnisko dokumentāciju un izmantot iegūto informāciju darba procesā
+* Spēja veidot skices un darba zīmējumus telekomunikāciju tīkla ierīkošanai un ievērot standartizētās prasības
+* Spēja noteikt darba uzdevumu izpildei nepieciešamās darbības prioritārajā secībā, izveidot ierīkojamā telekomunikāciju tīkla tehnisko specifikāciju, pamatoti noteikt un ievērot darba uzdevumu izpildes termiņus
+* Spēja izmantot atbilstošas telekomunikācijas tehnoloģijas, izvēlēties un lietot atbilstošus mehāniskos un elektriskos instrumentus, mērinstrumentus, tīkla iekārtas un materiālus
+* Spēja iepazīstināt ar izstrādāto telekomunikāciju piekļuves tīkla risinājumu, pamatot, saskaņot un veikt nepieciešamās korekcijas
+* Spēja iepazīstināt telekomunikāciju tīkla lietotājus ar telekomunikāciju pakalpojumiem, telekomunikāciju tīkla gala iekārtu izvietojumu, diagnostikas metodēm un drošu lietošanu
+* Spēja veidot prezentācijas
+* Spēja regulāri un patstāvīgi sekot un iepazīties ar informācijas un komunikācijas nozares jaunākajām tehnoloģijām, materiāliem, mehāniskajiem un elektriskajiem instrumentiem, izmantojot tehnisko dokumentāciju, tīmekli, datubāzes un citus tehniskās informācijas avotus
+* Spēja sagatavot racionālus priekšlikumus telekomunikāciju tīkla attīstības plānošanai
+* Spēja izvērtēt iegūtās zināšanas un prasmes un pastāvīgi pilnveidot profesionālo kvalifikāciju
+* Spēja komunicēt un sadarboties ar kolēģiem, telekomunikāciju tīkla lietotājiem un saistīto profesiju speciālistiem, uzklausīt citus un argumentēti skaidrot savu viedokli
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot elektrodrošības, ugunsdrošības, darba un vides aizsardzības normatīvo aktu prasības un sniegt pirmo palīdzību
+* Spēja ievērot profesionālās ētikas principus un darba tiesisko attiecību normas
+* Spēja sazināties valsts valodā un vienā svešvalodā un lietot profesionālo terminoloģiju
+
+### Prasmes 
+* Izvērtēt telekomunikāciju tīkla atbilstību lietotāju prasībām
+* Izvērtēt telekomunikāciju tīkla atbilstību ekspluatācijas prasībām un gatavību darbam
+* Izveidot kabeļu sistēmu telekomunikāciju tīklam un ierīkot pieslēguma vietas iekštelpās un ārējā vidē
+* Veikt telekomunikāciju tīkla izbūvi un veidot telekomunikāciju tīkla kabeļu savienojumus iekštelpās un ārējā vidē
+* Savienot vadu un bezvadu telekomunikāciju tīkla elementus
+* Savienot telekomunikāciju iekārtas ar atbilstošajām saskarnēm
+* Izvēlēties darba procesam atbilstošākās tehnoloģijas
+* Novērtēt telekomunikāciju tīkla un tā elementu veiktspēju
+* Konfigurēt komutācijas un maršrutēšanas iekārtas
+* Diagnosticēt un novērst bojājumus telekomunikāciju tīkla darbībā un konfigurācijas kļūdas telekomunikāciju tīkla iekārtās
+* Veikt telekomunikāciju iekārtu elektrobarošanas tehnisko apkalpošanu
+* Veikt vadu un bezvadu telekomunikāciju tīkla parametru mērījumus un analizēt telekomunikāciju tīklu apsekošanas procesā iegūtos vadu un bezvadu telekomunikāciju tīkla parametru mērījumus
+* Nomainīt bojātus telekomunikāciju tīkla elementus
+* Izvēlēties un lietot darba procesam atbilstošas iekārtas, materiālus, mehāniskos un elektriskos instrumentus, mērinstrumentus un programmnodrošinājumu
+* Izvērtēt tīkla uzlabojumu nepieciešamību, pamatojoties uz galvenajām telekomunikāciju piekļuves tīkla veiktspējas parametru vērtībām
+* Veidot skices, darba zīmējumus un datorizētās shēmas telekomunikāciju tīkla ierīkošanai un uzlabojumu veikšanai
+* Sagatavot ierīkojamā telekomunikāciju tīkla dokumentāciju
+* Lietot darba procesā standartizētus telekomunikāciju tīkla elementu apzīmējumus
+* Lasīt un saprast darba procesam nepieciešamos rasējumus un tehnisko dokumentāciju
+* Sagatavot un prezentēt priekšlikumus par turpmāko infrastruktūras attīstību un telekomunikāciju tīkla ierīkošanu un modernizēšanu
+* Plānot darba uzdevumus, to secību un izpildes termiņus
+* Komunicēt un sadarboties ar citiem speciālistiem, uzņēmuma vadību, uzklausīt ieteikumus un norādījumus
+* Sazināties, komunicēt un sadarboties ar esošajiem un potenciālajiem telekomunikāciju tīkla lietotājiem
+* Noformēt dokumentus atbilstoši darba uzdevumam
+* Rīkoties saskaņā ar lietošanas instrukcijām par darba iekārtu un darba aprīkojuma ekspluatāciju
+* Novērtēt paveiktā darba atbilstību darba uzdevumam, uzņemties atbildību par sava darba rezultātiem
+* Iegūt, izvērtēt, atlasīt un izmantot informāciju
+* Ievērot normatīvo aktu, standartu, tehniskās dokumentācijas prasības telekomunikāciju tīkla ierīkošanai, būvniecībai un uzraudzībai
+* Pilnveidot profesionālo kompetenci
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot profesionālās ētikas principus un darba tiesisko attiecību normas
+* Ievērot darba vietai un darba aprīkojuma lietošanai noteiktās ekspluatācijas prasības
+* Ievērot darba vietai un darba aprīkojumam atbilstošas darba drošības un veselības aizsardzības normatīvo aktu prasības
+* Ievērot darba un vides aizsardzības normatīvo aktu prasības
+* Ievērot ugunsdrošības un elektrodrošības normatīvo aktu prasības
+* Rīkoties elektrotraumu gadījumā
+* Sniegt pirmo palīdzību

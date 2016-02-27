@@ -1,0 +1,85 @@
+---
+layout: post
+    
+title: autovirsbūvju remontatslēdznieks
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 723115
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  autovirsbūvju remontatslēdznieks veic transportlīdzekļu, transportlīdzekļu sastāvu, traktortehnikas (turpmāk tekstā – transportlīdzekļi) virsbūvju, kabīņu, furgonu, vagonu (turpmāk tekstā – virsbūves), kā arī to sastāvdaļu nomaiņu, remontu, restaurāciju un virsmas sagatavošanu krāsošanai.     Autovirsbūvju remontatslēdznieks strādā uzņēmumos, kuros veic transportlīdzekļu tehnisko apkopi un remontu, specializējoties virsbūvju remontdarbu izpildē, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja noteikt nepieciešamos transportlīdzekļu virsbūvju remontdarbus un saplānot tos atbilstoši ražotāju noteiktajai remonta tehnoloģijai
+* Spēja noteikt transportlīdzekļu virsbūvju remontdarbu izmaksas un novērtēt remontdarbu ekonomisko pamatotību
+* Spēja sagatavot darba vietu transportlīdzekļu virsbūvju remontdarbu veikšanai
+* Spēja novērtēt un izmērīt transportlīdzekļu virsbūvju deformāciju lielumu un apjomu, plānot deformāciju novēršanas darbu secību un noteikt nepieciešamo tehnoloģiju
+* Spēja veikt nepieciešamo transportlīdzekļu virsbūvju detaļu demontāžu un montāžu, kā arī veikt pretkorozijas apstrādi
+* Spēja atjaunot transportlīdzekļu virsbūvju bojāto detaļu virsmu formas, izmantojot virsbūves remonta stendu, lietojot atslēdznieka rokas instrumentus un izmantojot alvošanas un špaktelēšanas remonttehnoloģiju
+* Spēja transportlīdzekļu virsbūvju remontdarbos izmantot metināšanas tehnoloģijas (gāzmetināšana, lokmetināšana, kontaktmetināšana)
+* Spēja kontrolēt darba kvalitāti, izdarot mērījumus un vizuāli novērtējot transportlīdzekļu virsbūves
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, pārbaudīt un lietot remontatslēdznieka instrumentus un aprīkojumu, darba apģērbu, individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus atbilstoši darba aizsardzības normatīvo aktu prasībām
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja profesionāli pilnveidoties un sekot līdzi jaunākajām tehnoloģijām transportlīdzekļu virsbūvju remonta jomā
+* Spēja strādāt komandā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja plānot un organizēt savu darbu un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Lasīt un izprast tehnisko dokumentāciju, izmantot iegūto informāciju darba procesā
+* Vizuāli novērtēt transportlīdzekļu virsbūvju un to detaļu deformācijas
+* Veikt transportlīdzekļu virsbūvju konstrukcijas ģeometrijas kontrolmērījumus
+* Izvēlēties atbilstošāko tehnoloģisko risinājumu transportlīdzekļu virsbūvju remontdarbu veikšanai
+* Izmantot ražotāju noteikto transportlīdzekļu virsbūvju remonta tehnoloģiju
+* Vizuāli novērtējot un izmantojot mērierīces, pamatot, kurām detaļām, mezgliem vai agregātiem nepieciešama demontāža, nomaiņa vai remonts
+* Lasīt darba uzdevumu un izveidoto tāmi
+* Novērtēt transportlīdzekļu virsbūvju remontdarbu izmaksas un darbietilpību
+* Sagatavot darba vietu atbilstoši izmantojamā aprīkojuma un iekārtu lietošanas instrukcijām
+* Lasīt iekārtu un instrumentu lietošanas instrukcijas
+* Izmantot elektroniskos informācijas avotus un tehnisko literatūru
+* Sagatavot palīgiekārtas atbilstoši izmantojamā aprīkojuma un iekārtu lietošanas instrukcijām
+* Sakārtot darba vietu atbilstoši uzņēmuma iekšējās kārtības noteikumiem
+* Veikt iekārtu un instrumentu apkopi atbilstoši to lietošanas instrukcijām
+* Lietot mehāniskās, elektroniskās un lāzera mērierīces
+* Izmantot darbā atslēdznieka rokas instrumentus un pneimatiskos un elektriskos rokas instrumentus
+* Izmantot transportlīdzekļu virsbūvju remontu tehnoloģijai atbilstošus materiālus
+* Lietot maskēšanas materiālus
+* Alvot un špaktelēt virsmas
+* Atjaunot deformētās virsmas izvelkot
+* Izmantot līmēšanas tehnoloģijas
+* Izmantot metināšanas tehnoloģijas (gāzmetināšana, lokmetināšana, kontaktmetināšana)
+* Lietot virsmas deformācijas noteikšanas instrumentus
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Ievērot darba aizsardzības normatīvo aktu prasības, tai skaitā strādājot paaugstinātas bīstamības apstākļos
+* Atpazīt drošības zīmes un ievērot tās
+* Ievērot elektrodrošības un ugunsdrošības noteikumus
+* Lietot iekārtu un darbgaldu aizsardzības aprīkojumu
+* Pārbaudīt instrumentu un aprīkojuma atbilstību darba aizsardzības normatīvo aktu prasībām
+* Lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus
+* Sniegt pirmo palīdzību
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Apgūt profesionālās kvalifikācijas pilnveidei nepieciešamās zināšanas, sekot līdzi informācijai par jaunākajām tendencēm transportlīdzekļu virsbūvju remonttehnoloģiju jomā
+* Piedalīties darba aizsardzības apmācībās (instruktāžās) un savlaicīgi veikt obligātās veselības pārbaudes
+* Darba uzdevuma ietvaros sadarboties ar citiem darbiniekiem, strādājot komandā un ievērojot profesionālās un vispārējās ētikas pamatprincipus un darba kārtības noteikumus
+* Veikt darba pienākumus, nekaitējot savai un citu personu veselībai
+* Atpazīt darba vides riskus un veikt visus nepieciešamos pasākumus, lai mazinātu to ietekmi
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Ievērot darba tiesisko attiecību normas

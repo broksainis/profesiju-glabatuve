@@ -1,0 +1,86 @@
+---
+layout: post
+    
+title: gāzmetinātājs (OAW)
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 721201
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  gāzmetinātājs (OAW – _Oxy Acetylene Welding_) veic manuālās metināšanas darbus, izmantojot skābekļa–deggāzes maisījumu; atbilstoši tehniskajiem noteikumiem izgatavo metālizstrādājumus un to konstrukcijas; veic montāžas, demontāžas un remonta darbus, izmantojot gāzmetināšanas iekārtas, materiālus un tehnoloģiskos paņēmienus.     Gāzmetinātājs (OAW) strādā metālapstrādes un mašīnbūves nozares un citos uzņēmumos, kuros tiek veikti gāzmetināšanas darbi, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja strādāt ar darba pienākumu izpildei nepieciešamo dokumentāciju un informāciju un pieņemt atbilstošus lēmumus
+* Spēja izvēlēties uzdevuma veikšanai nepieciešamo darba aprīkojumu
+* Spēja atbildīgi un atbilstoši veicamajam uzdevumam sagatavot detaļu virsmas un to malas metināšanai, izmantojot piemērotus darbarīkus un paņēmienus
+* Spēja veikt pirmsmetināšanas detaļu izvietošanu un nostiprināšanu, izmantojot palīgierīces un kontrolmērierīces, un veidot pieķeršuves
+* Spēja veikt pirmsmetināšanas uzsildīšanu, izmantojot gāzes liesmu, un izmantot atbilstošus mērinstrumentus
+* Spēja samontēt un izvietot metināšanas iekārtu un iestatīt metināšanas režīmu
+* Spēja izvēlēties metināšanas piedevu materiālu atbilstoši veicamajam uzdevumam
+* Spēja izvēlēties šuvju metināšanas secību atkarībā no konstrukcijas un šuves sarežģītības
+* Spēja metināt lokšņu konstrukciju kakta šuves un saduršuves atbilstoši standartos un citos saistošajos dokumentos noteiktajām prasībām
+* Spēja metināt saduršuves caurulēm apakšējā telpiskajā pozīcijā
+* Spēja veikt metināšanai radnieciskos procesus: uzkausēšanu un lodēšanu
+* Spēja vizuāli novērtēt šuves atbilstību prasībām un, izmantojot mērinstrumentus un kontrolinstrumentus, novērtēt izveidotā savienojuma ģeometriju
+* Spēja novērst metinātās šuves defektus
+* Spēja lietot gāzmetinātāja aprīkojumu, darba apģērbu, individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus atbilstoši darba aizsardzības normatīvo aktu prasībām, strādājot paaugstinātas bīstamības apstākļos
+* Spēja ievērot elektrodrošības un ugunsdrošības noteikumus, ja nepieciešams, atbilstoši rīkoties
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja sekot līdzi tehnoloģiju jaunumiem metālu metināšanas jomā un paaugstināt profesionālo kvalifikāciju
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja sadarboties ar darba vadītāju, kolēģiem un klientiem
+
+### Prasmes 
+* Lasīt tehnisko darba dokumentāciju
+* Izprast metināšanas procesa specifikāciju (WPS – _Welding Process Specification_) un cita veida tehnoloģisko dokumentāciju
+* Lietot veicamā uzdevuma izpildei nepieciešamo informāciju, pieņemt lēmumu un sniegt informāciju par tā izpildes gaitu, problēmām un to iespējamiem risinājumiem
+* Izvēlēties aprīkojumu darba uzdevuma izpildei
+* Sagatavot gāzmetināšanas iekārtu darbam un novērtēt metināšanas aprīkojuma tehnisko stāvokli
+* Iestatīt gāzu spiedienus atbilstoši veicamajam darbam
+* Izvēlēties metināšanas degļa uzgaļus un regulēt liesmu
+* Izvēlēties virsmas tīrīšanas veidu un instrumentus
+* Attīrīt metināmo virsmu
+* Veikt darba uzdevuma izpildei nepieciešamo aizzīmēšanu atbilstoši darba rasējumam
+* Griezt un slīpēt sagatavi atbilstoši darba rasējumam, izmantojot rokas elektroinstrumentus un stacionārās iekārtas
+* Taisnot un locīt sagatavi atbilstoši darba rasējumam
+* Izvēlēties un veikt pirmsmetināšanas detaļu salikšanu un nostiprināšanu
+* Veikt detaļu pirmsmetināšanas uzsildīšanu
+* Izvēlēties metināšanai nepieciešamos piedevu materiālus
+* Izvēlēties šuvju metināšanas secību
+* Metināt lokšņu konstrukciju kakta šuves un saduršuves atbilstoši standartos un citos saistošajos dokumentos noteiktajām prasībām
+* Metināt saduršuves caurulēm apakšējā telpiskajā pozīcijā
+* Uzkausēt materiālus atbilstoši darba uzdevumam
+* Lodēt ar mīkstlodēm un cietlodēm
+* Vizuāli novērtēt metinātas šuves
+* Novērtēt izstrādājuma ģeometriju
+* Labot metināšanas šuvju defektus
+* Ievērot darba aizsardzības normatīvo aktu prasības, novērtēt iekārtas un aprīkojuma atbilstību darba aizsardzības normatīvo aktu prasībām un novērtēt, izvēlēties un lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus atbilstoši darba uzdevumam
+* Atpazīt darba vides riskus un veikt visus pasākumus, lai samazinātu to ietekmi
+* Ievērot elektrodrošības un ugunsdrošības noteikumus
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Veikt darbu, nekaitējot savai un citu personu veselībai
+* Sniegt pirmo palīdzību
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Pilnveidot savu profesionālo kompetenci
+* Ievērot darba tiesisko attiecību normas
+* Darba uzdevuma ietvaros sadarboties ar citiem darbiniekiem, strādājot komandā un ievērojot profesionālās un vispārējās ētikas pamatprincipus un darba kārtības noteikumus
+* Lietot saskarsmes un komunikācijas prasmes

@@ -1,0 +1,99 @@
+---
+layout: post
+    
+title: ēku būvtehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311202
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  ēku būvtehniķis plāno, organizē un uzrauga izpildītāju darbu, kas veic ēkas nesošo un norobežojošo konstrukciju būvniecību, nojaukšanu vai nomaiņu atbilstoši būvprojektam, būvdarbu organizēšanas projektam un darbu veikšanas projektam.     Ēku būvtehniķis strādā būvuzņēmumos, kas nodarbojas ar dažāda veida ēku būvniecības, atjaunošanas, pārbūves vai restaurācijas darbiem, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja izmantot normatīvo aktu prasības būvdarbu izpildē.
+* Spēja lasīt un izmantot būvprojektus ikdienas darbā.
+* Spēja pārzināt ēku būvniecībā veicamo būvdarbu veidus, tehnoloģiju un īstenošanas specifiku atbilstoši ilgtspējīgas būvniecības principiem.
+* Spēja pārzināt darbu organizēšanas kalendāra plānu un tīkla grafiku, sagatavot tam atbilstošu operatīvo darbu izpildes grafiku, rasēt.
+* Spēja noteikt ēku būvdarbiem nepieciešamo darbaspēka patēriņu un darbaspēka kvalifikāciju.
+* Spēja noteikt būvprojektā paredzēto būvdarbu (zemes, betonēšanas, būvkonstrukciju montāžas, mūrnieku, namdaru, jumiķu un apdares darbu) īstenošanai nepieciešamo būvmateriālu un būvizstrādājumu daudzumu, izvēlēties atbilstošos darba instrumentus un aprīkojumu.
+* Spēja iekārtot drošu un ergonomisku darba vietu, lietot būvdarbu veikšanai nepieciešamo aprīkojumu un instrumentus.
+* Spēja lietot individuālos un kolektīvos darba aizsardzības līdzekļus.
+* Spēja izprast ēkas konstrukciju savstarpējo mijiedarbību un dažādu būvkonstrukciju savienojumus.
+* Spēja novērtēt būvmateriālu un būvizstrādājumu kvalitāti.
+* Spēja novērtēt būvizstrādājumu atbilstību būvprojektā noteiktajiem parametriem.
+* Spēja organizēt un vadīt būvdarbus (būvkonstrukciju montāžas, mūrnieku, namdaru un jumiķu darbus).
+* Spēja uzmērīt izpildītos būvdarbus.
+* Spēja lietot ģeodēziskās un citas mērīšanas ierīces un instrumentus.
+* Spēja novērtēt izpildīto būvdarbu kvalitāti.
+* Spēja novērtēt ēku būvdarbu veikšanā pieļauto neatbilstību sekas, savlaicīgi rīkoties un organizēt pieļauto neatbilstību novēršanu.
+* Spēja identificēt videi bīstamos būvniecības atkritumus un, ja nepieciešams, organizēt to savākšanu būvobjektā.
+* Spēja lietot drošus darba paņēmienus un ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības.
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Spēja komunicēt un izskaidrot darbiniekiem darba kārtību un uzdevumus, pienākumus un tiesības.
+* Spēja motivēt darbiniekus kvalitatīvai būvdarbu veikšanai.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+* Spēja atbilstoši rīkoties ārkārtas situācijās un sniegt pirmo palīdzību.
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja veikt savus pienākumus patstāvīgi un uzņemties atbildību par sava un pārraudzībā esošo darbinieku darba rezultātu.
+
+### Prasmes 
+* Pārzināt un ievērot būvniecības normatīvo aktu prasības praktiskajā darbā.
+* Lietot būvniecības terminus un rasējumos izmantotos apzīmējumus profesionālajā saziņā un dokumentos.
+* Rasēt ēku plānus, fasādes, griezumus un būvkonstrukciju mezglus.
+* Lietot biroja lietojumprogrammas dokumentu sagatavošanai un projektēšanas datorprogrammas rasējumu lasīšanai.
+* Sagatavot operatīvo darbu izpildes grafiku atbilstoši darbu organizēšanas kalendāra plānam un tīkla grafikam.
+* Pārzināt būvdarbu tehnoloģijas.
+* Organizēt, vadīt un patstāvīgi veikt būvkonstrukciju montāžu, mūrnieku, namdaru un jumiķu darbus.
+* Atšķirt būvizstrādājumu funkcionālo nozīmi un lietojumu.
+* Lietot būvizstrādājumu iestrādāšanas metodes.
+* Iebūvēt būvizstrādājumus atbilstoši būvprojektam.
+* Sagatavot specifikācijas nepieciešamā būvmateriālu un būvizstrādājumu daudzuma pasūtījumam piegādei būvlaukumā.
+* Novērtēt būvizstrādājumu kvalitāti un to atbilstību būvprojektā paredzētajam.
+* Lietot būvprojektā paredzētos tehniskos risinājumus.
+* Noteikt būvdarbu veikšanai nepieciešamo darbaspēka kvalifikāciju un darbietilpību.
+* Izvēlēties atbilstošu aprīkojumu un darba instrumentus.
+* Organizēt un vadīt būvmateriālu un būvizstrādājumu pārvietošanu būvlaukumā.
+* Izprast būvkonstrukciju savstarpējo mijiedarbību.
+* Savienot dažādas būvkonstrukcijas.
+* Lietot ģeodēziskās un citas mērīšanas ierīces un instrumentus būvobjektā.
+* Uzmērīt un uzskaitīt izpildītos būvdarbus.
+* Izprast segto darbu dokumentēšanas principus būvniecībā.
+* Novērtēt pieļauto neatbilstību sekas un panākt to novēršanu atbilstoši būvprojektam.
+* Lietot būvdarbu kvalitātes kontroles sistēmu.
+* Organizēt būvprojektam neatbilstošo būvdarbu labošanu.
+* Pieņemt izlabotos būvdarbus no izpildītājiem.
+* Pārzināt būvniecības dalībnieku pienākumus, tiesības un atbildību būvniecības procesā.
+* Ievērot būvuzņēmuma un būvobjekta iekšējos kārtības noteikumus.
+* Ievērot normatīvo aktu prasības ikdienas darba organizēšanā.
+* Ierīkot ergonomiski un tehnoloģiski pareizas un drošas darba vietas.
+* Lietot aprīkojumu atbilstoši konkrētam būvdarbu veidam.
+* Identificēt iespējamos riskus darba vietā.
+* Ievērot darba aizsardzības normatīvo aktu prasības.
+* Lietot individuālos un kolektīvos darba aizsardzības līdzekļus.
+* Atbilstoši rīkoties ārkārtas situācijās un sniegt pirmo palīdzību.
+* Identificēt būvniecības bīstamos atkritumus.
+* Organizēt būvniecības atkritumu savākšanu.
+* Ievērot vides aizsardzības normatīvo aktu prasības.
+* Ievērot ugunsdrošības normatīvo aktu prasības.
+* Izskaidrot darbiniekiem darba kārtību, darba uzdevumus, pienākumus un tiesības.
+* Komunicēt ar citiem būvniecības dalībniekiem un pamatot savu viedokli.
+* Patstāvīgi organizēt savu darbu, analizēt darba gaitu, uzņemties atbildību par sava darba rezultātu.
+* Ievērot darba tiesisko attiecību normas.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī.
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.

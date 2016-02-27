@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: poligrāfijas ražošanas tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311919
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  poligrāfijas ražošanas tehniķis sagatavo darba uzdevumus iespieddarbu pirmsdrukai, drukai un apstrādei, pārzina poligrāfijas ražošanas tehnoloģijas, iekārtas, instrumentus un mērierīces, organizē kvalitatīvu un efektīvu iespieddarbu ražošanu; strādā kvalificēta augstāka līmeņa speciālista vadībā.     Poligrāfijas ražošanas tehniķis strādā uzņēmumos, kas veic iespieddarbu ražošanu, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja izvēlēties atbilstošu tehnoloģisko risinājumu iespieddarbu ražošanai.
+* Spēja izstrādāt iespieddarba ražošanas specifikāciju un tehnoloģisko karti.
+* Spēja izgatavot iespieddarba tehnisko maketu un montāžas izklājumu, lietojot atbilstošas datorprogrammas.
+* Spēja izvēlēties darba procesā atbilstošas iespieddarbu ražošanas iekārtas, veikt nepieciešamos mērījumus ar atbilstošām mērierīcēm.
+* Spēja strādāt ar iespieddarbu ražošanas iekārtām, instrumentiem un mērierīcēm, nodrošinot produkcijas ražošanu.
+* Spēja izvērtēt poligrāfijas materiālu atbilstību tehnoloģiskajam procesam un izvēlēties darba uzdevumam atbilstošas kvalitātes poligrāfijas materiālus, aprēķinot nepieciešamo izmēru, svaru gramos un daudzumu.
+* Spēja sagatavot darba uzdevumu, plānot iespieddarba ražošanas tehnoloģisko secību, ievērojot spēkā esošos poligrāfijas standartus, noformēt darba procesam nepieciešamo tehnisko dokumentāciju.
+* Spēja veikt iespiedprodukcijas uzskaiti.
+* Spēja izvērtēt iespieddarba kvalitāti katrā ražošanas posmā, atbilstoši kompetencei uzņemties atbildību par darba rezultātiem un sagatavot priekšlikumus iespieddarbu ražošanas kvalitātes uzlabošanai un ražošanas zudumu samazināšanai.
+* Spēja strādāt komandā un individuāli, ievērot vispārējās un profesionālās ētikas pamatprincipus un darba tiesisko attiecību normas.
+* Spēja sekot līdzi informācijai par jaunumiem iespieddarbu ražošanas iekārtu, tehnoloģiju, materiālu, instrumentu un mērierīču jomā.
+* Spēja izmantot iegūtās zināšanas un prasmes, kā arī pastāvīgi pilnveidot profesionālo kvalifikāciju.
+* Spēja sazināties valsts valodā un divās svešvalodās.
+* Spēja lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās.
+* Spēja ievērot darba un vides aizsardzības normatīvo aktu prasības, elektrodrošības un ugunsdrošības noteikumus.
+* Spēja sniegt pirmo palīdzību.
+* Spēja piedalīties iespieddarbu ražošanas projektu izstrādē, vadīšanā un uzraudzīšanā.
+
+### Prasmes 
+* Izvēlēties iespieddarba ražošanai atbilstošāko tehnoloģisko risinājumu.
+* Izstrādāt iespieddarba ražošanas specifikāciju un tehnoloģisko karti.
+* Izveidot iespieddarba tehnisko maketu un montāžas izklājumu.
+* Lietot darba procesā biroja un izdevējdarbības datorprogrammas.
+* Izvēlēties darba procesam atbilstošas poligrāfijas ražošanas iekārtas.
+* Mērīt un dokumentēt poligrāfijas ražošanas iekārtu tehnoloģiskos parametrus.
+* Sagatavot darba uzdevumu un tehnisko dokumentāciju.
+* Izvēlēties iespieddarba ražošanas tehnoloģiskajam procesam atbilstošus materiālus un aprēķināt to daudzumu.
+* Ievērot iespieddarba ražošanas procesa tehnoloģisko secību.
+* Izvērtēt iespieddarba kvalitāti un atbilstību tehniskajai dokumentācijai visos ražošanas posmos.
+* Uzskaitīt saražoto iespiedprodukciju.
+* Piedalīties iespieddarba projekta izstrādē un īstenošanā, izteikt priekšlikumus par tā īstenošanu.
+* Ievērot normatīvo aktu, standartu un tehniskās dokumentācijas prasības par iespieddarbu ražošanu.
+* Ievērot poligrāfijas ražošanas iekārtu, instrumentu un mērinstrumentu lietošanas instrukcijas.
+* Ievērot darba un vides aizsardzības normatīvo aktu prasības.
+* Ievērot darba drošības un veselības aizsardzības prasības, ugunsdrošības un elektrodrošības noteikumus.
+* Pilnveidot profesionālo kvalifikāciju.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt divas svešvalodas profesionālās saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās.
+* Sadarboties ar kolēģiem un saistīto profesiju speciālistiem.
+* Ievērot vispārējās un profesionālās ētikas pamatprincipus.
+* Ievērot darba tiesisko attiecību normas.
+* Ja nepieciešams, sniegt pirmo palīdzību.

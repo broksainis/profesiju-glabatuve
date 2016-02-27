@@ -1,0 +1,74 @@
+---
+layout: post
+    
+title: skaņu režisors
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 265407
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 
+* skaņu režisors ir speciālists, kurš ir apguvis zināšanas par mūzikas attīstības procesiem, dažādu laikmetu mūzikas stiliem un žanriem, skanējuma estētiku, kā arī prasmes strādāt ar mūzikas ierakstu un apskaņošanas tehnoloģijām, veikt publisku pasākumu apskaņošanu un skaņu ierakstus, radīt skaņas partitūras; atbilstoši darba uzdevumam veikt ar apskaņošanas un skaņas ieraksta darbību saistītu pasūtījumu izpildi – skaņas sistēmu veidošanu, skaņas sistēmas instalācijas plānošanu, koncertu un publisku pasākumu apskaņošanu, skaņas ierakstu veikšanu, skaņas partitūras veidošanu, skaņas ieraksta pēcapstrādi (mastering), telpu akustisko parametru mērījumus, ekspertīzi par skaņu ierakstu un apskaņošanas tehnoloģiju pielietojumiem. 
+* 	Skaņu režisors strādā kultūras un izglītības institūcijās, kino industrijā, televīzijā, radio, apskaņošanas uzņēmumos vai kā pašnodarbināta persona, vai individuālais komersants. 
+* 	2 
+
+### Kompetences
+
+* Spēja orientēties telpu akustikas jautājumos
+* Spēja pārzināt mūzikas attīstības procesus, dažādu laikmetu mūzikas stilus un žanrus, skanējuma estētiku
+* Spēja pārzināt dažādu mūzikas instrumentu spektrālo sastāvu, sakarības starp signāla spektru un tembru
+* Spēja orientēties dažādu mūzikas stilu ierakstu specifikā
+* Spēja pārzināt mūzikas tehnoloģiju attīstības procesus, analogo un digitālo apskaņošanas un skaņu ierakstu tehnoloģiju
+* Spēja ar tehnikas palīdzību izveidot savu skaņas (skanējuma) modeli, radoši strādāt ar skaņas ieraksta tehnoloģijām
+* Spēja pārzināt skaņu ierakstu tehnoloģiju veidus
+* Spēja pārzināt mikrofonu izvietojumu tehnikas
+* Spēja sadarboties ar atskaņotājmāksliniekiem, dot ieteikumus ieraksta tapšanā un apskaņošanas procesā
+* Spēja pielietot specializētās datorprogrammas apskaņošanas un ierakstu procesā
+* Spēja pārzināt mikrofonu, skaļruņu, pastiprinātāju, miksēšanas pulšu, signālu apstrādes ierīču darbības principus un raksturojošos parametrus
+* Spēja organizēt darbu skaņu ierakstu studijā – plānot darba kārtību un konfigurēt tehniku
+* Spēja pārzināt mūzikas tehnoloģiju attīstības procesus, analogo un digitālo apskaņošanas un skaņu ierakstu tehnoloģiju
+* Spēja pārzināt skaņas sintēzes pamatprincipus
+* Spēja formulēt un analītiski aprakstīt informāciju, problēmas un risinājumus par skaņu ierakstu un apskaņošanas tehnoloģijām, to inovācijām, izskaidrot un argumentēti diskutēt gan ar speciālistiem, gan nespeciālistiem
+* Spēja demonstrēt zinātnisku pieeju problēmu risināšanā
+* Spēja uzņemties atbildību un iniciatīvu, veicot darbu individuāli, komandā vai vadot citu cilvēku darbu
+* Spēja pieņemt lēmumus un rast risinājumus mainīgos vai neskaidros apstākļos
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* 
+
+### Prasmes 
+* Izmērīt un aprēķināt galvenos telpu akustiku raksturojošos parametrus
+* Izvēlēties ieraksta vai apskaņošanas situācijai atbilstošu mikrofonu daudzumu un tipus
+* Strādāt ar analogu un digitālu skaņu miksēšanas pulti
+* Izstrādāt apskaņošanas iekārtu un skaņu ierakstīšanas iekārtu izvietojuma un savienojumu shēmas
+* Veikt testa mērījumus, noregulēt apskaņošanas iekārtu un skaņu ierakstīšanas iekārtas un optimizēt apskaņošanas sistēmu tehniskos parametrus
+* Lietot ar apskaņošanu saistīto informācijas tehnoloģiju – skaņas signālu rediģēšanas, signāla virzīšanas (_routing_), miksēšanas un māsterēšanas programmas
+* Izmērīt un novērtēt dažādu audio komponenšu parametrus
+* Sastādīt audio komponenšu (mikrofonu, pastiprinātāju, skaņas signālu apstrādes ierīču, skaļruņu) savienojumu shēmu
+* Veikt audio sistēmas darbības modelēšanu ar datorprogrammas palīdzību
+* Sastādīt audio sistēmas komponenšu un savienojumu specifikāciju
+* Veikt kompleksus audio sistēmas mērījumus
+* Optimizēt audio sistēmas darbību, izvēloties atbilstošu signālu pastiprinājuma struktūru
+* Pārbaudīt audio sistēmas komponenšu atbilstību tehniskajām prasībām
+* Ievērot darba aizsardzības, elektrodrošības, ugunsdrošības un higiēnas prasības
+* Ievērot vides aizsardzības noteikumus
+* Sazināties ar klientiem un sadarbības partneriem
+* Veikt darbu individuāli
+* Plānot un vadīt komandas darbu, strādāt darba grupā
+* Izmantot informācijas meklēšanas un atlases līdzekļus
+* Sistemātiski pilnveidot profesionālo kvalifikāciju
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* 

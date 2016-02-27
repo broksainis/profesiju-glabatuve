@@ -1,0 +1,84 @@
+---
+layout: post
+    
+title: tapsētājs
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 753401
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  tapsētājs ir speciālists, kurš izgatavo dažādu veidu tapsējumus, remontē un restaurē tos; veic dažādu mēbeļu izstrādājumu apvilkšanu, izmantojot tapsēšanas materiālus.     Tapsētājs strādā galdniecības, kokapstrādes vai mēbeļu ražošanas uzņēmumos, mēbeļu remonta un restaurācijas uzņēmumos, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja noteikt, izvērtēt un izvēlēties darba uzdevuma veikšanai nepieciešamos tapsējamos materiālus atbilstoši to īpašībām, savstarpējās saderības un lietojuma veidam, aprēķināt to patēriņu
+* Spēja izvēlēties tapsēšanas tehnoloģiju, izvērtējot tapsējamā priekšmeta funkciju, tā vizuālo izskatu un ergonomiku, pārzināt dažādus konstruktīvos tapsēšanas paņēmienus vai metodes un izvēlēties tapsēšanas metodei piemērotus materiālus
+* Spēja noteikt un novērtēt tapsēšanas izejmateriālus konkrētā darba uzdevuma veikšanai, organizēt un uzturēt darba vietu atbilstoši tapsēšanas tehnoloģiskajam procesam
+* Spēja rūpīgi un secīgi veikt tapsēšanas darbus atbilstoši izvēlētajai tehnoloģijai, izvēlēties, iestatīt un lietot atbilstošus instrumentus un iekārtas darba uzdevuma izpildei
+* Spēja patstāvīgi plānot un organizēt darbu, lasīt tehnoloģiskās kartes un rasējumus, atpazīt dažādus tapsējamo materiālu tehniskos apzīmējumus, izvēlēties atbilstošus tapsējamo materiālu izmērus un formātu standartus, ievērojot resursu taupību
+* Spēja aprēķināt tapsējamam priekšmetam nepieciešamo darba un materiālu apjomu, izvērtējot bojājuma veidu un tā rašanās iemeslus
+* Spēja veikt tapsējuma demontāžu tā remontam nepieciešamajā apjomā un atjaunot to, novēršot remontējamā priekšmeta esošos trūkumus un defektus
+* Spēja izvēlēties restaurējamam priekšmetam tādas tapsējuma restaurācijas metodes, kas neradīs priekšmetam lielākus bojājumus, kā nepieciešams, lai atjaunotu tapsējumu
+* Spēja izvēlēties restaurējamajam priekšmetam autentiskus vai maksimāli oriģinālam līdzīgus tapsējamos materiālus un metodiku
+* Spēja, veicot restaurējamā priekšmeta demontāžu, rūpīgi dokumentēt tapsējuma oriģinālo izgatavošanas tehnoloģiju un veikt tapsējuma faktiskā stāvokļa fotofiksāciju
+* Spēja atjaunot tapsējumu, izprotot un precīzi ievērojot tehnoloģijas un materiālus, kas lietotas restaurējamā priekšmeta izgatavošanā
+* Spēja rūpīgi veikt priekšmeta fotofiksāciju pirms restaurācijas un priekšmeta restaurācijas gaitā, veicot demontāžu un atjaunojot to, saglabāt liecības par sākotnējo tapsējumu un iepriekš veiktajiem remontiem vai restaurāciju
+* Spēja izvērtēt savu profesionālo kompetenci, veicot tapsējuma restaurācijas darbus, ja nepieciešams, pieaicināt un sadarboties ar augstākas kvalifikācijas restaurācijas speciālistiem
+* Spēja izmantot datubāzes, tehnisko dokumentāciju un citus informācijas avotus un iepazīties ar jaunākajām tehnoloģijām, instrumentiem, tapsēšanas materiāliem un metodēm, dalīties pieredzē ar kolēģiem
+* Spēja uzklausīt pasūtītāja vēlmes, izstrādāt dažādus tapsēšanas piedāvājumus, izklāstīt tos pasūtītājam saprotamā formā, izskaidrot atšķirīgu piedāvājumu priekšrocības un trūkumus, precīzi aprēķināt pasūtījuma izpildei nepieciešamās izmaksas
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja izprast un ievērot darba aizsardzības, vides aizsardzības un ugunsdrošības normatīvo aktu prasības, veikt darba pienākumus, nekaitējot savai un citu personu veselībai
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja sniegt pirmo palīdzību
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+
+### Prasmes 
+* Lasīt rasējumus un nolasīt tehniskos zīmējumus
+* Atšķirt un salīdzināt tapsējamos materiālus
+* Veikt izmantojamā materiāla mērījumus un aprēķinus
+* Izvēlēties tapsēšanas veidu
+* Naglot un skavot tapsēšanas materiālus
+* Siet un montēt mēbeļu atsperes
+* Veidot tapsējuma formu
+* Izgatavot šablonus
+* Izgatavot piegrieztnes
+* Šūt tapsējumu
+* Līmēt tapsēšanas materiālus
+* Izvēlēties piemērotus apstrādes režīmus
+* Mainīt iekārtas iestatījumus
+* Demontēt tapsējumu (izvilkt naglas, skavas, atārdīt audumu un demontēt citu tapsējamo materiālu)
+* Novērtēt tapsējuma bojājumu apjomu
+* Dokumentēt restaurējamā tapsējuma faktisko stāvokli
+* Piemeklēt oriģinālajam tapsējumam atbilstošus materiālus
+* Veikt fotofiksāciju
+* Sagatavot tapsējuma restaurācijas darbu dokumentāciju
+* Sakārtot darba vietu
+* Sakopt tapsēšanā izmantojamās iekārtas
+* Racionāli izmantot tapsējamo materiālu
+* Ievērot vides aizsardzības normatīvo aktu prasības, sagatavot materiālu pārpalikumus un nolietotos materiālus utilizācijai
+* Apmainīties ar informāciju (par tehnoloģijām, pasūtījumiem, darba gaitu)
+* Komunicēt ar klientu
+* Sagatavot tāmi, pavaddokumentus un rēķinus
+* Novērtēt darba drošības riskus darbnīcā
+* Ievērot darba aizsardzības normatīvo aktu prasības, lietot individuālos aizsardzības līdzekļus
+* Sniegt pirmo palīdzību
+* Ievērot ugunsdrošības noteikumus un rīkoties ugunsgrēka gadījumā
+* Strādāt kolektīvā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālajā saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību normas

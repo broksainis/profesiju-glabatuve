@@ -1,0 +1,89 @@
+---
+layout: post
+    
+title: šuvējs
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 753101
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  šuvējs atbilstošā kvalitātē un termiņā veic šūtā izstrādājuma (turpmāk – izstrādājums) pilnu darba procesu vai atsevišķus tā posmus, ievērojot dotos tehniskos noteikumus.     Šuvējs var strādāt masveida šūšanas ražošanas uzņēmumos vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja sagatavot darba vietu atbilstoši dotajam uzdevumam, izvēloties piemērotus palīgmateriālus, instrumentus, iekārtas un to palīgierīces
+* Spēja izvēlēties tehnoloģiskajiem norādījumiem atbilstošu mezglu apstrādi
+* Spēja izvēlēties tehnoloģiskajiem norādījumiem atbilstošus palīgmateriālus un furnitūru izstrādājuma izgatavošanai
+* Spēja komplektēt detaļas atbilstoši atzīmēm uz piegrieztajām detaļām
+* Spēja pārbaudīt piegriezto detaļu atbilstību izgatavojamam mezglam, ņemot vērā pieļaujamās nobīdes piegriezumos
+* Spēja piegriezt atsevišķas detaļas vai elementus, ņemot vērā tehnoloģiskos noteikumus, izmantojot dotos lekālus vai piegrieztnes un atbilstošus instrumentus
+* Spēja novērtēt šūšanas iekārtu vizuālo un tehnisko atbilstību iekārtu tehniskās dokumentācijas prasībām
+* Spēja veikt šūšanas iekārtu tehnisko apkopi atbilstoši iekārtu lietošanas un tehniskās dokumentācijas prasībām
+* Spēja kvalitatīvi sašūt izstrādājumus, patstāvīgi izvēloties atbilstošās iekārtas un instrumentus
+* Spēja sagatavot izstrādājumus laikošanai, lietojot atbilstošas iekārtas, palīgmateriālus un instrumentus
+* Spēja regulēt iekārtas atbilstoši paredzētajiem šūšanas un higrotermiskās apstrādes parametriem
+* Spēja veikt nepieciešamo izstrādājumu detaļu apstrādi un dublēšanu ar palīgmateriāliem pirms mezglu šūšanas
+* Spēja izgatavot izstrādājumus, ievērojot šūšanas secību un dotos tehnoloģiskos norādījumus
+* Spēja novērst sīku defektu šūšanas un higrotermisko iekārtu darbībā, ievērojot iekārtu tehniskās dokumentācijas prasības
+* Spēja izvēlēties un veikt izstrādājumu materiālam atbilstošas starpoperācijas un gala higrotermisko apstrādi
+* Spēja labot izstrādājumu, novērtējot defekta veidu, izvēloties piemērotākos materiālus un apstrādi tā novēršanai
+* Spēja sadarboties ar darba vadītāju un kolēģiem aktuālu jautājumu risināšanā
+* Spēja organizēt darbu saskaņā ar termiņiem, resursiem, kvalitātes prasībām, izrādot patstāvību un ieinteresētību resursu taupībā
+* Spēja aizpildīt iekšējo dokumentāciju atbilstoši konkrētās darbības reglamentējošai dokumentācijai
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, veikt darba pienākumus, nekaitējot savai un citu personu veselībai.
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot profesionālās un vispārējās ētikas principus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja sniegt pirmo palīdzību
+* Spēja lietot profesionālo terminoloģiju
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Saprast doto uzdevumu pēc tehniskā zīmējuma, tehnoloģiskās kartes vai paraugmodeļa
+* Novērtēt piegriezto izstrādājumu atbilstību tehnoloģiskajiem norādījumiem
+* Izvēlēties veicamajam darbam atbilstošas iekārtas, to palīgierīces un instrumentus
+* Saprast atzīmju nozīmi uz piegrieztajām izstrādājuma detaļām
+* Komplektēt (kombinēt) izstrādājumu detaļas
+* Noteikt izstrādājumu detaļu atbilstību izgatavojamam mezglam
+* Lietot tehnoloģiskajiem norādījumiem atbilstošus palīgmateriālus un furnitūru
+* Veikt šūšanas un higrotermisko iekārtu vizuālo un tehnisko pārbaudi pirms darba sākšanas
+* Veikt šūšanas iekārtu tehnisko apkopi
+* Sagatavot piegriezto izstrādājumu laikošanai
+* Veikt iekārtu tehnoloģiskās regulēšanas atbilstoši paredzētajiem šūšanas un higrotermiskās apstrādes parametriem
+* Piegriezt atsevišķus detaļu elementus un palīgmateriālus, lietojot lekālus vai piegrieztnes
+* Apstrādāt izstrādājumu detaļas pirms mezglu šūšanas
+* Lietot individuālos aizsardzības līdzekļus
+* Šūt izstrādājumus
+* Novērst sīkos defektus šūšanas iekārtu darbībā
+* Veikt darbu patstāvīgi un uzņemties atbildību un kontroli par sava darba rezultātu
+* Izvēlēties izstrādājumu materiāliem atbilstošu termisko apstrādi
+* Veikt izstrādājumu materiālam atbilstošas starpoperācijas un gala higrotermisko apstrādi
+* Atpazīt izstrādājumu konstruktīvās detaļas un konstruktīvos elementus
+* Izvērtēt izstrādājumu defektus
+* Izvēlēties izstrādājumu labošanai nepieciešamos materiālus un apstrādes veidu
+* Labot izstrādājumus
+* Sadarboties ar darba vadītāju un kolēģiem
+* Ievērot profesionālās un vispārējās ētikas principus
+* Aizpildīt iekšējo dokumentāciju atbilstoši konkrētās darbības reglamentējošai dokumentācijai
+* Uzturēt tīru un sakoptu savu darba vietu, sākot un beidzot darbu
+* iekārtot darba vietu atbilstoši veicamajam uzdevumam, izvietot dažādas palīgierīces un instrumentus ērti sasniedzamā vietā
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* ievērot vides aizsardzības normatīvo aktu prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Sniegt pirmo palīdzību
+* Ievērot darba tiesisko attiecību normas

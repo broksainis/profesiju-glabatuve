@@ -1,0 +1,86 @@
+---
+layout: post
+    
+title: elektrisko tīklu tehniķis
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311313
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* elektrotehniķis plāno, organizē un veic elektroietaišu projektēšanas, izbūves un ekspluatācijas (elektroietaišu darbspējas uzturēšanas un darbmūža pagarināšanas) darbus sadarbībā ar tiešo darba vadītāju.
+* Elektrotehniķis strādā dažādu jomu uzņēmumos vai kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja lasīt un izprast rasējumus, elektriskās principiālās shēmas un materiālu specifikācijas, lai sagatavotos elektrotehniķa darba uzdevuma izpildei.
+* Spēja patstāvīgi veikt darba vietas un uzdevuma analīzi.
+* Spēja saimnieciski plānot resursus elektroiekārtām atbilstoši darba uzdevumam un izvērtētajai informācijai.
+* Spēja projektēt vienkāršas principiālās elektrotehniskās shēmas, izmantojot elektroiekārtu shēmu analogus.
+* Spēja precīzi un uzmanīgi izstrādāt elektroietaišu montāžas shēmu atbilstoši principiālajai shēmai.
+* Spēja izbūvēt elektroinstalāciju, izmantojot atbilstošus materiālus, darbarīkus un instrumentus.
+* Spēja veikt elektroiekārtu atslēdznieka darbus.
+* Spēja precīzi veikt elektriskos un citus mērījumus ar atbilstošiem mērinstrumentiem.
+* Spēja regulēt un pārbaudīt elektroiekārtas, nepieciešamības gadījumā lietojot datortehnoloģijas.
+* Spēja veikt elektroiekārtu defektēšanu un novērst atklātos defektus elektroiekārtās, izmantojot atbilstošus materiālus un instrumentus.
+* Spēja veikt darbus elektroiekārtu darbspēju uzturēšanai un darbmūža pagarināšanai.
+* Spēja patstāvīgi izstrādāt un saskaņot darba grafiku darba pienākumu veikšanai.
+* Spēja sazināties ar darba procesā iesaistītajiem speciālistiem.
+* Ievērot profesionālās un vispārējās ētikas principus.
+* Spēja izveidot elektrotehnisko darbu tāmi.
+* Spēja izveidot un uzturēt materiāltehnisko bāzi elektrotehnisko un ekspluatācijas darbu veikšanai.
+* Spēja sadarboties ar tiešo darba vadītāju, mērķtiecīgi organizēt savu un sev pakļautā elektrotehniskā personāla darbu.
+* Spēja noformēt un uzturēt elektrotehnisko dokumentāciju.
+* Spēja uzraudzīt sev pakļauto elektrotehnisko personālu un darba vietu drošai darba veikšanai.
+* Spēja novērtēt un novērst riskus elektrotehnisko darbu veikšanas procesā.
+* Spēja veikt elektrotehniskos darbus, ievērojot darba un vides aizsardzības normatīvo aktu prasības, lietojot individuālos un kolektīvos aizsardzības līdzekļus.
+* Spēja atrast, izvērtēt un radoši lietot elektroietaišu projektēšanas, izbūves un ekspluatācijas gaitā iegūto informāciju.
+* Spēja novērtēt paveikto darbu un sniegt priekšlikumus par darba gaitu elektroiekārtās, lietojot nepieciešamās tehnoloģijas.
+* Spēja sagatavot elektrotehnisko personālu veicamajam darbam.
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu.
+* Spēja sniegt pirmo palīdzību.
+* Spēja sazināties valsts valodā un vienā svešvalodā.
+* Spēja ievērot darba tiesisko attiecību normas.
+
+### Prasmes 
+* Lasīt un pārzināt tehnisko dokumentāciju (rasējumus, materiālu specifikācijas, elektriskās shēmas).
+* Izskaidrot elektroietaišu darbību un ierīkošanu.
+* Izstrādāt un noformēt tehniskos risinājumus.
+* Izstrādāt darba uzdevuma elektrotehnisko skici.
+* Veikt elektroinstalācijas darbus.
+* Veikt elektroiekārtu atslēdznieka darbus.
+* Veikt elektromontāžas darbus.
+* Veikt un fiksēt elektrisko lielumu un vērtību mērījumus.
+* Veikt un fiksēt ģeometriskus mērījumus.
+* Regulēt elektroiekārtas un elektroietaises.
+* Pārbaudīt elektroiekārtas.
+* Konstatēt, novērtēt un novērst elektroiekārtu defektus.
+* Veikt nepieciešamās elektrotehniskās aplēses.
+* Izvērtēt darba apstākļus, sagatavojot darba vietu drošai darba veikšanai.
+* Plānot un organizēt savu un sev pakļautā personāla darbu atbilstoši uzdevumam.
+* Apzināt veicamajam darba uzdevumam nepieciešamos resursus.
+* Noteikt tehnoloģiskā procesa izmaksas un izveidot tāmi.
+* Strādāt komandā vai patstāvīgi, kā arī uzņemties iniciatīvu, ievērot darba kultūru un profesionālās un vispārējās ētikas principus, risināt problēmsituācijas darba procesā.
+* Pārzināt materiālu, instrumentu, darbarīku sagādes norisi.
+* Noformēt dokumentāciju atbilstoši lietvedības un nozares normatīvo aktu prasībām.
+* Veikt darbus atbilstoši darba aizsardzības un vides aizsardzības normatīvo aktu prasībām, lietot videi draudzīgus materiālus.
+* Pieņemt atbilstošus lēmumus.
+* Veikt tehniskos un organizatoriskos darba un iekārtu uzraudzības pasākumus.
+* Iegūt darba veikšanai nepieciešamo informāciju.
+* Atrast, analizēt un lietot informāciju par jaunākajām tehnoloģijām nozarē, pastāvīgi pilnveidot profesionālo kompetenci.
+* Novērtēt paveiktā darba atbilstību darba uzdevumam, uzņemties atbildību par sava darba rezultātiem.
+* Lietot informācijas tehnoloģijas un speciālo programmatūru darba veikšanai.
+* Sniegt pirmo palīdzību.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vienu svešvalodu profesionālajā saziņas līmenī.
+* Ievērot darba tiesisko attiecību normas.

@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: aukstuma iekārtu mehāniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 712703
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  aukstuma iekārtu mehāniķis veic saldēšanas, gaisa kondicionēšanas un ventilācijas iekārtu un to apkalpojošo elektrisko, elektronisko, pneimatisko un hidraulisko vadības sistēmu (turpmāk – aukstuma iekārtas) tehnisko ekspluatāciju, tehnisko apkopi un remontu, lai nodrošinātu kravu transportēšanai un uzglabāšanai nepieciešamo režīmu.     Aukstuma iekārtu mehāniķis var strādāt pārtikas produktu ražošanas, glabāšanas un transportēšanas uzņēmumos, uz kuģiem, kas aprīkoti ar aukstuma iekārtām, kā arī pildīt tehniskos uzdevumus un pienākumus uzņēmumos, kuri nodarbojas ar aukstuma iekārtu projektēšanu, montāžu un tehnisko ekspluatāciju.
+
+### Kompetences
+
+* Spēja izvēlēties atbilstošu tehnoloģisko risinājumu iespieddarbu ražošanai.
+* Spēja izstrādāt iespieddarba ražošanas specifikāciju un tehnoloģisko karti.
+* Spēja izgatavot iespieddarba tehnisko maketu un montāžas izklājumu, lietojot atbilstošas datorprogrammas.
+* Spēja izvēlēties darba procesā atbilstošas iespieddarbu ražošanas iekārtas, veikt nepieciešamos mērījumus ar atbilstošām mērierīcēm.
+* Spēja strādāt ar iespieddarbu ražošanas iekārtām, instrumentiem un mērierīcēm, nodrošinot produkcijas ražošanu.
+* Spēja izvērtēt poligrāfijas materiālu atbilstību tehnoloģiskajam procesam un izvēlēties darba uzdevumam atbilstošas kvalitātes poligrāfijas materiālus, aprēķinot nepieciešamo izmēru, svaru gramos un daudzumu.
+* Spēja sagatavot darba uzdevumu, plānot iespieddarba ražošanas tehnoloģisko secību, ievērojot spēkā esošos poligrāfijas standartus, noformēt darba procesam nepieciešamo tehnisko dokumentāciju.
+* Spēja veikt iespiedprodukcijas uzskaiti.
+* Spēja izvērtēt iespieddarba kvalitāti katrā ražošanas posmā, atbilstoši kompetencei uzņemties atbildību par darba rezultātiem un sagatavot priekšlikumus iespieddarbu ražošanas kvalitātes uzlabošanai un ražošanas zudumu samazināšanai.
+* Spēja strādāt komandā un individuāli, ievērot vispārējās un profesionālās ētikas pamatprincipus un darba tiesisko attiecību normas.
+* Spēja sekot līdzi informācijai par jaunumiem iespieddarbu ražošanas iekārtu, tehnoloģiju, materiālu, instrumentu un mērierīču jomā.
+* Spēja izmantot iegūtās zināšanas un prasmes, kā arī pastāvīgi pilnveidot profesionālo kvalifikāciju.
+* Spēja sazināties valsts valodā un divās svešvalodās.
+* Spēja lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās.
+* Spēja ievērot darba un vides aizsardzības normatīvo aktu prasības, elektrodrošības un ugunsdrošības noteikumus.
+* Spēja sniegt pirmo palīdzību.
+* Spēja piedalīties iespieddarbu ražošanas projektu izstrādē, vadīšanā un uzraudzīšanā.
+
+### Prasmes 
+* Izvēlēties iespieddarba ražošanai atbilstošāko tehnoloģisko risinājumu.
+* Izstrādāt iespieddarba ražošanas specifikāciju un tehnoloģisko karti.
+* Izveidot iespieddarba tehnisko maketu un montāžas izklājumu.
+* Lietot darba procesā biroja un izdevējdarbības datorprogrammas.
+* Izvēlēties darba procesam atbilstošas poligrāfijas ražošanas iekārtas.
+* Mērīt un dokumentēt poligrāfijas ražošanas iekārtu tehnoloģiskos parametrus.
+* Sagatavot darba uzdevumu un tehnisko dokumentāciju.
+* Izvēlēties iespieddarba ražošanas tehnoloģiskajam procesam atbilstošus materiālus un aprēķināt to daudzumu.
+* Ievērot iespieddarba ražošanas procesa tehnoloģisko secību.
+* Izvērtēt iespieddarba kvalitāti un atbilstību tehniskajai dokumentācijai visos ražošanas posmos.
+* Uzskaitīt saražoto iespiedprodukciju.
+* Piedalīties iespieddarba projekta izstrādē un īstenošanā, izteikt priekšlikumus par tā īstenošanu.
+* Ievērot normatīvo aktu, standartu un tehniskās dokumentācijas prasības par iespieddarbu ražošanu.
+* Ievērot poligrāfijas ražošanas iekārtu, instrumentu un mērinstrumentu lietošanas instrukcijas.
+* Ievērot darba un vides aizsardzības normatīvo aktu prasības.
+* Ievērot darba drošības un veselības aizsardzības prasības, ugunsdrošības un elektrodrošības noteikumus.
+* Pilnveidot profesionālo kvalifikāciju.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt divas svešvalodas profesionālās saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās.
+* Sadarboties ar kolēģiem un saistīto profesiju speciālistiem.
+* Ievērot vispārējās un profesionālās ētikas pamatprincipus.
+* Ievērot darba tiesisko attiecību normas.
+* Ja nepieciešams, sniegt pirmo palīdzību.

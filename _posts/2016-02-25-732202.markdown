@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: ofseta iespiedējs
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 732202
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  ofseta iespiedējs izgatavo daudzveidīgus dažādas sarežģītības pakāpes iespieddarbus ofseta tehnoloģijā; izmanto poligrāfijas materiālus, atbilstošas ofseta iespiediekārtas, palīgiekārtas, aprīkojumu, instrumentus un mērierīces; organizē un nodrošina iespiešanas procesu; pārbauda iespieddarbu kvalitāti ražošanas procesa gaitā.     Ofseta iespiedējs strādā tipogrāfijās, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja lasīt un lietot darba uzdevumam atbilstošu tehnoloģisko karti vai citu tehnisko dokumentāciju.
+* Spēja plānot iespiešanas procesa secību.
+* Spēja izvērtēt ofseta iespiediekārtu, palīgiekārtu, aprīkojuma, instrumentu un mērierīču atbilstību ekspluatācijas prasībām.
+* Spēja sagatavot iespiešanai un strādāt ar ofseta iespiediekārtām, palīgiekārtām, aprīkojumu, instrumentiem un mērierīcēm.
+* Spēja pārbaudīt un izvērtēt poligrāfijas materiālu atbilstību iespiešanas procesiem.
+* Spēja izgatavot iespiedformas un izvērtēt to kvalitāti.
+* Spēja izgatavot iespieddarba paraugloksni un izvērtēt tās atbilstību poligrāfijas nozares standartiem, tehnoloģiskajai kartei vai citai tehniskajai dokumentācijai.
+* Spēja izmantot iespiešanas procesos dažādus poligrāfijas materiālus un iespiešanas procesa gaitā izvērtēt iespieddarba kvalitāti.
+* Spēja veikt ofseta iespiediekārtu, palīgiekārtu, aprīkojuma un instrumentu tehniskās apkopes darbus.
+* Spēja izvērtēt sava darba kvalitāti, aizpildīt darba procesā nepieciešamo dokumentāciju, atbildēt par sava darba rezultātu.
+* Spēja strādāt komandā un individuāli, ievērojot vispārējās un profesionālās ētikas pamatprincipus un darba tiesisko attiecību normas.
+* Spēja sekot līdzi ofseta iespiešanas attīstības tendencēm, pastāvīgi iepazīties ar jaunākajām ofseta iespiediekārtām, palīgiekārtām, aprīkojumu, instrumentiem, mērierīcēm un poligrāfijas materiāliem.
+* Spēja izvērtēt iegūtās zināšanas un prasmes, kā arī pastāvīgi pilnveidot profesionālo kvalifikāciju.
+* Spēja sazināties valsts valodā un divās svešvalodās, lietot profesionālo terminoloģiju.
+* Spēja ievērot darba aizsardzības un vides aizsardzības normatīvo aktu prasības, elektrodrošības un ugunsdrošības noteikumus.
+* Spēja sniegt pirmo palīdzību.
+
+### Prasmes 
+* Lasīt un lietot darba uzdevumam atbilstošu tehnoloģisko karti vai citu tehnisko dokumentāciju.
+* Organizēt iespiešanas procesu pareizā tehnoloģiskā secībā.
+* Sagatavot iespiešanas procesam ofseta iespiediekārtas, palīgiekārtas, aprīkojumu, krāsu aparātus.
+* Sagatavot iespiedkrāsas.
+* Izgatavot un izvērtēt iespiedformu kvalitāti.
+* Sagatavot iespiešanai un nomainīt iespiedformas un iespieddarba drukāšanai nepieciešamos materiālus.
+* Pārbaudīt un izvērtēt poligrāfijas materiālu atbilstību konkrētā iespieddarba iespiešanas procesam.
+* Lietot ofseta iespiediekārtu tehniskās kontroles mērierīces.
+* Pierīkot iespiedloksni, noregulēt formu reģistrus un pārbaudīt tās atbilstību maketam.
+* Izgatavot paraugloksni un izvērtēt tās atbilstību paraugam, maketam, krāsu paraugam.
+* Veikt krāsu kontroles mērījumus.
+* Nodrošināt krāsas un ūdens līdzsvaru iespiešanas procesā.
+* Veikt iespieddarba kvalitātes kontroles mērījumus.
+* Veikt un uzraudzīt ofseta iespiediekārtu, palīgiekārtu, aprīkojuma un instrumentu tehniskās apkopes darbus.
+* Ievērot ofseta iespiediekārtu, palīgiekārtu, aprīkojuma, instrumentu un mērierīču lietošanas instrukcijas.
+* Ievērot darba drošības un veselības aizsardzības prasības, ugunsdrošības un elektrodrošības noteikumus.
+* Ievērot darba un vides aizsardzības normatīvo aktu prasības.
+* Pilnveidot profesionālo kvalifikāciju.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt divas svešvalodas profesionālās saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās.
+* Komunicēt un sadarboties ar kolēģiem un saistīto profesiju speciālistiem.
+* Ievērot vispārējās un profesionālās ētikas pamatprincipus.
+* Ievērot darba tiesisko attiecību normas.
+* Ja nepieciešams, sniegt pirmo palīdzību.

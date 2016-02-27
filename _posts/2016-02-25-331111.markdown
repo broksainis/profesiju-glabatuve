@@ -1,0 +1,78 @@
+---
+layout: post
+    
+title: banku speciālists
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 331111
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* banku speciālists ir speciālists, kas esošajiem un potenciālajiem klientiem sniedz vispārēju informāciju par banku darbību un to veidošanās vēsturi, par bankas īpašniekiem (akcionāriem) un par bankas piedāvātajiem finanšu pakalpojumiem; prot atvērt un apkalpot noguldījumu un norēķinu kontus; veic klientu padziļinātu izpēti; veic kreditēšanas operācijas un nodrošina to kvalitatīvu novērtējumu; izpilda kases operācijas, ārvalstu valūtu operācijas; nodrošina bankas operāciju uzskaiti; pielieto informācijas tehnoloģijas; pārzina banku attālinātos norēķinus; pārzina banku darbību reglamentējošos normatīvos dokumentus un banku komercdarbības vidi. 
+* Banku speciālists strādā kredītiestādē. 
+
+### Kompetences
+
+* Spēja noformēt klienta iesniegumu konta atvēršanai un bankas un klienta līgumu, informēt par klienta tiesībām un pienākumiem, tai skaitā par patērētāju tiesību aizsardzību reglamentējošiem normatīvajiem aktiem
+* Spēja veikt klienta uzdevumā operācijas, tai skaitā starptautiskās, ar kontos esošajiem naudas līdzekļiem, kā arī sagatavot un izsniegt klientiem konta izrakstus un izziņas
+* Spēja atpazīt neparastus un aizdomīgus finanšu darījumus un noformēt ziņojumus par tiem
+* Spēja aprēķināt ienākumu par līdzekļu glabāšanu kontos
+* Spēja pieņemt un pārbaudīt kredīta pieteikumus un tiem pievienotos dokumentus, kā arī novērtēt klienta kredītspēju un maksātspēju
+* Spēja noteikt kredīta procentu likmi un procentu samaksas kārtību
+* Spēja sagatavot kredītlīgumu un kredīta dzēšanas grafiku
+* Spēja nodrošināt kredītu uzraudzību, novērtēt kredītu kvalitāti un pārzināt uzkrājumu veidošanas principus nedrošiem parādiem
+* Spēja noformēt kases iemaksu un izmaksu dokumentus, veikt skaidras naudas iemaksu un izmaksu operācijas un noformēt kases dokumentāciju
+* Spēja noformēt un izsniegt čeku grāmatiņas, pārbaudīt čeku pareizību, izpildīt operācijas ar čekiem – pirkt, pārdot, pieņemt uz inkaso, spēja apkalpot maksājumu kartes
+* Spēja pieņemt nodokļu, komunālo un citu pakalpojumu maksājumus
+* Spēja pirkt un pārdot ārvalstu valūtu un veikt valūtu konvertācijas operācijas klientu uzdevumā
+* Spēja atvērt un apkalpot vērtspapīru kontus un klienta uzdevumā pirkt un pārdot vērtspapīrus
+* Spēja noformēt bankas operāciju attaisnojošos dokumentus un sagatavot arhivēšanai bankas dokumentus
+* Spēja sagatavot pārskatus par atsevišķām banku operācijām vai to grupām
+* Spēja lietot informācijas meklēšanas un atlases līdzekļus
+* Spēja novērtēt bankas vietu finanšu tirgū, kā arī analizēt un prognozēt klientu rīcību ietekmējošos faktorus
+* Spēja pārzināt banku pakalpojumu attīstības tendences
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja lietot informācijas tehnoloģijas savas darbības veikšanai un izskaidrot banku attālināto norēķinu veikšanas kārtību
+* Spēja ievērot profesionālās ētikas principus un saskarsmes kultūru
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+*  Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību izpildi
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+
+### Prasmes 
+* Sniegt vispārēju informāciju par bankas darbību un tās vēsturi, kā arī informāciju par bankas akcionāriem
+* Sniegt informāciju par bankas piedāvātajiem finanšu pakalpojumiem
+* Informēt klientu par patērētāju tiesību aizsardzību reglamentējošiem normatīvajiem aktiem
+* Iepazīstināt ar bankas piedāvāto attālināto norēķinu kārtību
+* Informēt par finanšu tirgu uzraugošajām institūcijām un to kompetenci iesniegumu, t.sksūdzību, izskatīšanā un patērētāju strīdu risināšanā
+* Pieņemt vai noformēt klienta iesniegumu konta atvēršanai, noformēt bankas un klienta līgumu, informēt klientu par viņa tiesībām un pienākumiem
+* Veikt klienta uzdevumā operācijas, tai skaitā starptautiskās, ar kontos esošajiem naudas līdzekļiem
+* Aprēķināt ienākumu par līdzekļu glabāšanu kontos
+* Sagatavot un izsniegt klientiem konta izrakstus un izziņas
+* Informēt klientu par kredīta pieteikuma noformēšanu un iesniedzamajiem dokumentiem, pieņemt un pārbaudīt kredīta pieteikumu un tam pievienotos dokumentus
+* Novērtēt klienta kredītspēju un maksātspēju, kā arī noteikt kredīta procentu likmi un procentu samaksas kārtību
+* Sagatavot kredītlīgumu un kredīta dzēšanas grafiku
+* Nodrošināt kredītu uzraudzību, prast novērtēt kredītu kvalitāti un pārzināt kreditēšanas restrukturizācijas un atgūšanas procesus, pārzināt uzkrājumu veidošanos nedrošiem parādiem
+* Noformēt kases iemaksu un izmaksu dokumentus un veikt skaidras naudas iemaksu un izmaksu operācijas
+* Izpildīt operācijas ar čekiem – pirkt, pārdot, pieņemt uz inkaso, noformēt un izsniegt čeku grāmatiņas, pārbaudīt čeku pareizību
+* Pieņemt nodokļu, komunālo un citu pakalpojumu maksu
+* Noformēt kases dokumentāciju
+* Atpazīt neparastus un aizdomīgus finanšu darījumus un veikt darbības tālākai informācijas sniegšanai
+* Pirkt un pārdot ārvalstu valūtu, sniegt informāciju par valūtu oficiālajiem un komerckursiem, kā arī veikt valūtu konvertācijas operācijas klientu uzdevumā
+* Atvērt un apkalpot vērtspapīru kontus un klientu uzdevumā pirkt un pārdot vērtspapīrus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Lietot darbā informācijas tehnoloģijas, veikt attālināto norēķinu pakalpojumus
+* Ievērot profesionālās ētikas principus
+* Ievērot fizisko personu datu aizsardzības, darba tiesisko attiecību, darba aizsardzības, ugunsdrošības un vides aizsardzības noteikumus

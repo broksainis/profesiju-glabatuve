@@ -1,0 +1,118 @@
+---
+layout: post
+    
+title: programmēšanas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 251202
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 
+* programmēšanas inženieris izstrādā programmatūru atbilstoši funkcionalitātes, kvalitātes un resursietilpības nosacījumiem, konfigurējot izstrādes vidi un rakstot programmas kodu saskaņā ar projektējuma un kodēšanas vadlīnijām; ievieš un uztur programmatūru un konsultē tās lietotājus; veic vides sagatavošanu programmatūras ieviešanai, kā arī sagatavo programmatūras testēšanas plānu un veic nepieciešamās programmatūras izmaiņas; analizē esošo situāciju; plāno programmatūras projektus; specificē prasības un sagatavo nepieciešamo lietotāja dokumentāciju; organizē un vada programmētāju darba grupu, kā arī sistemātiski pilnveido zināšanas un prasmes. 
+* Programmēšanas inženieris strādā uzņēmumos, kas veic programmatūras izstrādi, ieviešanu vai uzturēšanu. 
+* 	
+
+### Kompetences
+
+* Spēja kodēt, lasot un saprotot programmatūras projektējuma aprakstus
+* Spēja kodēt, analizējot ieejas un izejas datus
+* Spēja kodēt, konfigurējot izstrādes vidi
+* Spēja kodēt, rakstot programmas kodu saskaņā ar projektējumu un kodēšanas vadlīnijām
+* Spēja kodēt, konstruējot algoritmus
+* Spēja kodēt, lasot un analizējot svešus programmu tekstus
+* Spēja kodēt, veidojot lietotāja saskarni
+* Spēja kodēt, atkļūdojot programmas un veicot vienībtestēšanu
+* Spēja kodēt, analizējot programmas izpildes laiku un to optimizējot
+* Spēja kodēt, dokumentējot kodu
+* Spēja kodēt, veidojot programmatūras instalāciju
+* Spēja kodēt, veidojot iebūvēto palīdzības sistēmu
+* Spēja kodēt, apstrādājot izmaiņu pieprasījumus un problēmu ziņojumus
+* Spēja projektēt, lasot un saprotot programmatūras prasību specifikācijas
+* Spēja projektēt, iepazīstoties ar programmatūras projektējuma apraksta standartiem
+* Spēja projektēt, veidojot un aprakstot programmatūras arhitektūru
+* Spēja projektēt, analizējot dažādus tehniskos risinājumus un izvēloties piemērotāko
+* Spēja projektēt, veidojot datu konceptuālo modeli un fizisko modeli
+* Spēja projektēt, veidojot realizācijas modeli (klašu un/vai funkciju hierarhiju)
+* Spēja projektēt, konstruējot un aprakstot algoritmus
+* Spēja projektēt lietotāja saskarnes
+* Spēja projektēt, sagatavojot programmatūras projektējuma apraksta dokumentu
+* Spēja uzturēt programmatūru, lasot un saprotot uzturamās sistēmas dokumentāciju un kodu
+* Spēja uzturēt programmatūru, apstrādājot izmaiņu pieprasījumus un problēmu ziņojumus
+* Spēja uzturēt programmatūru, veicot izmaiņu ietekmes analīzi
+* Spēja uzturēt programmatūru, veicot izmaiņas programmatūrā.
+*  Spēja uzturēt programmatūru, veicot uzturamās programmatūras konfigurācijas pārvaldību
+* Spēja uzturēt programmatūru, sistematizējot uzturēšanas gaitā uzkrāto atbalsta informāciju
+* Spēja uzturēt programmatūru, konsultējot programmatūras lietotājus
+* Spēja ieviest programmatūru, veicot vides sagatavošanu programmatūras uzstādīšanai
+* Spēja ieviest programmatūru, veicot datu pārnešanu
+* Spēja ieviest programmatūru, izpildot programmatūras uzstādīšanu un parametrizēšanu
+* Spēja ieviest programmatūru, iepazīstoties ar lietotāja dokumentāciju
+* Spēja ieviest programmatūru, sniedzot konsultācijas programmatūras ieviešanas laikā
+* Spēja sagatavot programmatūras testēšanas plānu
+* Spēja sagatavot programmatūras testēšanas specifikāciju
+* Spēja analizēt programmatūras testēšanas programmas kodu
+* Spēja sagatavot programmatūras testēšanas testpiemērus
+* Spēja sagatavot testēšanas vidi programmatūras testēšanai
+* Spēja izpildīt programmatūras testēšanas testpiemērus
+* Spēja pierakstīt programmatūras testēšanas gaitu un rakstīt problēmu ziņojumus
+* Spēja programmatūras testēšanā analizēt kļūdu avotus (prasības specifikācijā, projektējuma aprakstā, u.c.)
+* Spēja reproducēt programmatūras testēšanā konstatētās lietotāja kļūdas
+* Spēja sagatavot programmatūras testēšanas pārskata dokumentu
+* Spēja specificēt prasības, iepazīstoties ar esošo pasūtītāja programmatūru
+* Spēja specificēt prasības, analizējot prasību realizācijas iespējas
+* Spēja sagatavot lietotāja dokumentāciju, iepazīstoties ar lietotāja dokumentācijas standartiem
+* Spēja sagatavot lietotāja dokumentāciju, iepazīstoties ar lietotāja darījumu terminoloģiju
+* Spēja sagatavot lietotāja dokumentāciju, rakstot un noformējot lietotāja dokumentācijas tekstu
+* Spēja sagatavot lietotāja dokumentāciju, saskaņojot lietotāja dokumentāciju ar iebūvēto palīdzības sistēmu (Help)
+* Spēja plānot programmatūras projektu, prognozējot darba uzdevuma darbietilpību un izpildes laiku
+* Spēja plānot programmatūras projektu, veicot individuālā darba plānošanu un kontroli
+* Spēja plānot programmatūras projektu, piedaloties projekta gaitas izpildes apspriešanā
+* Spēja plānot programmatūras projektu, izstrādājot programmēšanas vadlīnijas
+* Spēja sazināties valsts valodā un divās svešvalodās
+* 
+
+### Prasmes 
+* Lietot informācijas tehnoloģijas nozares standartus
+* Lietot informācijas tehnoloģijas terminoloģiju valsts valodā un divās svešvalodās
+* Lietot operētājsistēmas
+* Lietot teksta un grafikas redaktorus u.cbiroja lietojumprogrammas
+* Piedalīties projektu vadīšanā
+* Kodēt un atkļūdot programmas
+* Pielietot projektējuma shēmas un diagrammas
+* Projektēt algoritmus un datu struktūras
+* Izvēlēties uzdevumu risināšanai adekvātus līdzekļus
+* Veikt datu aizsardzības un drošības pasākumus
+* Konfigurēt darba vietu un darba rīkus
+* Lietot programmatūras izstrādes rīkus
+* Analizēt programmas kodu
+* Realizēt lietotāja saskarnes
+* Lietot datu pieprasījumu valodas
+* Mērīt programmatūras veiktspēju
+* Lietot labu programmēšanas stilu
+* Lietot programmatūras testēšanas paņēmienus
+* Veikt sistēmu projektēšanu
+* Strādāt komandā
+* Vadīt citus
+* Veikt darbu patstāvīgi
+* Plānot izpildāmos darbus un noteikt to prioritātes
+* Lietot informācijas meklēšanas un atlases līdzekļus
+* Sagatavot prezentācijas materiālus un pasākumus, tos vadīt
+* Pārliecināt citus un argumentēt savu viedokli
+* Noformēt lietišķos dokumentus
+* Ievērot profesionālās ētikas principus
+* Ievērot darba aizsardzības prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* 

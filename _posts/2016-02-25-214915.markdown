@@ -1,0 +1,69 @@
+---
+layout: post
+    
+title: kvalitātes inženieris
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214915
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* procesu kvalitātes vadības inženieris organizē tehnisko, tehnoloģisko un organizatorisko procesu vadības metožu, mērīšanas, vērtēšanas, atbilstības novērtēšanas un pilnveides metodoloģiju izstrādāšanu, kvalitātes risku identifikāciju un vadību; analizē, izvērtē, veido, izplata un ievieš praksē kvalitātes vadības un pilnveides metodes, lai sekmētu pastāvīgu uzņēmuma darbības efektivitātes un kvalitātes paaugstināšanu; rūpējas, lai uzņēmuma procesi un produkti apmierinātu klientu prasības, vajadzības, vēlmes, neradītu kaitējumu sabiedrībai un videi; pārzina uzņēmuma vadības, klientu, īpašnieku un sabiedrības intereses; vada un īsteno kvalitātes vadības sistēmu ieviešanu un pilnveidi; veic savu darbu, ievērojot saistošās, nozares specifiskās, uz procesiem un produktiem attiecināmās normatīvo aktu un standartu prasības; rosina konkurentu un citu uzņēmumu pieredzes apgūšanu un prasmīgas saimniekošanas izpratni.
+* Procesu kvalitātes vadības inženieris var strādāt gan par kvalitātes inženieri, procesu vadītāju, risku vadības speciālistu un kvalitātes vadības sistēmu speciālistu jebkuras tautsaimniecības nozares uzņēmumā neatkarīgi no tā darbības veida un lieluma, gan arī kā pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja noteikt, izvērtēt, vadīt un pilnveidot uzņēmuma procesus un to mijiedarbību.
+* Spēja definēt uzņēmuma mērķus un īstenojamo procesu, produktu, sistēmu kvalitātes pilnveides pasākumus.
+* Spēja noteikt uzņēmuma sistēmu, procesu un produktu kvalitāti ietekmējošos faktorus un riskus.
+* Spēja noteikt kvalitātes riskiem atbilstošus preventīvus pasākumus.
+* Spēja izprast sistēmas, procesus un produktus reglamentējošo normatīvo aktu prasības un nodrošināt to izpildi savu pilnvaru ietvaros.
+* Spēja izprast sistēmām, procesiem un produktiem piemērojamos standartus un nodrošināt to izpildi savu pilnvaru ietvaros.
+* Spēja izprast uzņēmuma operacionālās darbības budžeta veidošanas principus un plānot nepieciešamos resursus sistēmu, procesu un produktu kvalitātes nodrošināšanai un pilnveidei.
+* Spēja noteikt personālam nepieciešamo kompetenci, pienākumu un pilnvaru sadalījumu sistēmu, procesu un produktu kvalitātes nodrošināšanai un pilnveidei.
+* Spēja izveidot, ieviest un pilnveidot uzņēmuma kvalitātes vadības sistēmu.
+* Spēja izprast integrētas vadības sistēmas izveides principus.
+* Spēja izprast uzņēmuma saimnieciskās darbības pamatrādītājus.
+* Spēja rosināt un vadīt uzņēmuma pārmaiņu procesus.
+* Spēja vadīt darbu grupās un panākt vienošanos.
+* Spēja izprast un virzīt informācijas apmaiņas plūsmu uzņēmumā.
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja veikt pētījumus ar zinātnisku vērtību procesu vadības un pilnveides jomā, interpretēt un analizēt to rezultātus.
+* Spēja ievērot darba tiesisko attiecību normas.
+* Spēja ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības un nodrošināt to izpildi.
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus.
+
+### Prasmes 
+* Izprast uzņēmuma sistēmas, procesus un produktus, uz tiem attiecināmās normatīvo aktu un standartu prasības.
+* Piemērot kvalitātes normatīvos aktus un standartus, kā arī uz sistēmām, procesiem un produktiem attiecināmos citu jomu normatīvos aktus un standartus.
+* Noteikt uzņēmuma sistēmu, procesu un produktu kvalitātes vadības nepieciešamību.
+* Pielietot zināšanas sistēmu, procesu un produktu kvalitātes vadībā.
+* Ieviest mūsdienīgas metodes uzņēmuma sistēmu, procesu un produktu kvalitātes vadībā.
+* Izstrādāt priekšlikumus uzņēmuma sistēmu, procesu un produktu kvalitātes pilnveidei.
+* Pielietot sistēmu, procesu un produktu pilnveides metodes.
+* Pielietot sistēmu, procesu un produktu atbilstības novērtēšanas metodes.
+* Analizēt kvalitātes izmaksas.
+* Izprast uzņēmuma sistēmu, procesu un produktu kvalitāti ietekmējošos riskus.
+* Izprast uzņēmuma darbības un procesu kopsakarības, piedalīties uzņēmuma īstermiņa un ilgtermiņa darbības plānu izstrādāšanā.
+* Īstenot pētījumus procesu vadības un pilnveides jomā un apkopot to rezultātus, veikt datu statistisko apstrādi, sagatavot pārskatus un publikācijas, sagatavot un sniegt prezentācijas.
+* Pielietot jaunākās darba organizācijas formas un informācijas tehnoloģijas.
+* Sadarboties ar uzņēmuma darbiniekiem, sadarbības partneriem, īpašniekiem, plašsaziņas līdzekļiem, valsts un pašvaldību iestādēm, biedrībām un nodibinājumiem.
+* Rīkoties atbilstoši normatīvo aktu prasībām un profesionālās un vispārējās ētikas pamatprincipiem.
+* Plānot un organizēt savu darbu, pieņemt lēmumus atbilstoši situācijas izmaiņām un risināt problēmsituācijas, prast argumentēti izteikt savu viedokli.
+* Patstāvīgi apgūt jaunas zināšanas.
+* Prast strādāt komandā un grupā.
+* Pielietot informācijas sistēmas uzņēmuma kvalitātes vadības procesos.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī.
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās.
+* Ievērot darba tiesisko attiecību normas.
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības un nodrošināt to izpildi.

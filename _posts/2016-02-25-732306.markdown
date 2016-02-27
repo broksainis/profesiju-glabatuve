@@ -1,0 +1,61 @@
+---
+layout: post
+    
+title: grāmatsējējs
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 732306
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  grāmatsējējs veic poligrāfijas produkcijas apstrādi un iesiešanu; izmanto poligrāfijas apstrādes iekārtas un instrumentus; sagatavo darbam nepieciešamos materiālus un ievēro veicamo darbu izpildes secību.     Grāmatsējējs strādā uzņēmumos, kas veic iespieddarbu iespiešanu, apstrādi un iesiešanu, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja veikt darba uzdevumu atbilstoši tehnoloģiskajai kartei, iespieddarba maketam un citai tehniskajai dokumentācijai, neskaidrību gadījumā precizēt iegūto informāciju
+* Spēja sagatavot un lietot darba procesā iespieddarbu apstrādes iekārtas un instrumentus, ievērojot lietošanas instrukcijās noteiktās prasības
+* Spēja sagatavot darba uzdevumam atbilstošus iespieddarbu apstrādes materiālus nepieciešamajā kvalitātē, gramāžā, izmēros un apjomā
+* Spēja izvēlēties tehnoloģiskajai kartei un darba maketam atbilstošu iespiedlokšņu locījuma veidu un locīt iespiedloksnes
+* Spēja veikt dažādus iespiedloksnes virsmas apdares darbus atbilstoši tehnoloģiskajiem norādījumiem vai iespieddarba maketam.
+*  Spēja atbilstoši sējuma veidam veikt bloka izgatavošanu un apdari, izgatavot mīksto vai cieto vāku, veikt vāku apdari un ievākot iespieddarbu
+* Spēja plānot veicamo darbu secību un termiņus, noformēt darba procesā nepieciešamo dokumentāciju
+* Spēja izvērtēt sava darba kvalitāti, sagatavot atskaiti par veikto darbu un uzņemties atbildību par darba rezultātiem
+* Spēja strādāt komandā vai individuāli
+* Spēja ievērot vispārējās un profesionālās ētikas pamatprincipus
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja papildināt savas profesionālās zināšanas, sekot līdzi iespieddarbu apstrādes tehnoloģiju attīstībai, jaunākajiem materiāliem un iekārtām
+* Spēja izvērtēt iegūtās zināšanas un pastāvīgi pilnveidot profesionālo kvalifikāciju
+* Spēja sazināties valsts valodā un vienā svešvalodā, lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja ievērot darba un vides aizsardzības normatīvo aktu prasības, elektrodrošības un ugunsdrošības noteikumus un sniegt pirmo palīdzību
+
+### Prasmes 
+* Strādāt ar tehnoloģisko karti, iespieddarba maketu un citu tehnisko dokumentāciju
+* Ievērot tehnoloģiskās kartes, iespieddarba maketa un citas tehniskās dokumentācijas prasības par iespiedprodukcijas iesiešanu un apstrādi
+* Sagatavot darba uzdevumam atbilstošus iespieddarba apstrādes materiālus
+* Sagatavot darbam un lietot iespieddarbu apstrādes iekārtas, izvēlēties un lietot atbilstošus instrumentus
+* Rīkoties saskaņā ar iespieddarbu apstrādes iekārtu un instrumentu lietošanas instrukcijām, darba drošības un veselības aizsardzības noteikumiem
+* Veikt iespiedloksnes virsmas apstrādes darbus atbilstoši tehnoloģiskajai kartei, iespieddarba maketam vai citai tehniskajai dokumentācijai
+* Veikt bloka izgatavošanas un apstrādes darbus, izgatavot vāku un ievākot iespieddarbu
+* Plānot savu darbu un dokumentēt uzdevuma izpildi
+* Vērtēt paveiktā darba kvalitāti un atbilstību darba uzdevumam
+* Komunicēt un sadarboties ar kolēģiem, ievērojot vispārējās un profesionālās ētikas pamatprincipus
+* Iegūt, vērtēt, atlasīt un izmantot profesionālo informāciju
+* Pilnveidot profesionālo pienākumu veikšanai nepieciešamās zināšanas un prasmes
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību normas
+* Ievērot darba aizsardzības un vides aizsardzības normatīvo aktu prasības
+* Ievērot ugunsdrošības un elektrodrošības noteikumus
+* Sniegt pirmo palīdzību

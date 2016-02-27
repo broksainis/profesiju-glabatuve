@@ -1,0 +1,41 @@
+---
+layout: post
+    
+title: analītiskās ķīmijas tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311608
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* analītiskās ķīmijas tehniķis patstāvīgi veic ķīmiskās, fizikāli ķīmiskās, bioķīmiskās un mikrobioloģiskās analīzes, izmantojot klasiskās un instrumentālās analīzes metodes atbilstoši standartu un citu normatīvo aktu prasībām; ķīmijas speciālista vadībā veic pētījumus. 
+* Analītiskās ķīmijas tehniķis var strādāt ķīmijas, bioķīmijas, farmācijas, kosmētikas, parfimērijas vai pārtikas ražošanas uzņēmumā, kā arī nosaukto nozaru un vides uzraudzības iestādēs. 
+
+### Kompetences
+
+* Spēja patstāvīgi un precīzi veikt ķīmiskās vai mikrobioloģiskās analīzes, pildīt darba uzdevumu atbilstoši reglamentējošo dokumentu prasībām
+* Spēja veikt ķīmiskās vai mikrobioloģiskās analīzes, nekaitējot savai un kolēģu veselībai, kā arī rūpējoties par veselīgu darba vidi
+* Spēja novērtēt reaģentu un citu materiālu atbilstību kvalitātes prasībām un darba uzdevumam, ievērot reaģentu un citu materiālu glabāšanas noteikumus
+* Spēja novērtēt mērīšanas līdzekļu derīgumu darbam un gatavību analīzes veikšanai
+* Spēja patstāvīgi un precīzi strādāt ar analītisko aparatūru atbilstoši reglamentējošo dokumentu prasībām
+* Spēja apkopot un izvērtēt iegūtos rezultātus
+* Spēja precīzi pagatavot nepieciešamos šķīdumus, reaģentus un mikrobioloģiskās barotnes analīžu veikšanai
+* Spēja izprast kvalitātes specifikāciju, analīzes metožu, standartpriekšrakstu būtību un lietot tos darbā
+* Spēja precīzi un savlaicīgi dokumentēt analīžu rezultātus un veikt pierakstus
+* Spēja apkopot un statistiski apstrādāt iegūtos analīžu rezultātus
+* Spēja lietot mērīšanas iekārtas, instrumentus, reaģentus un materiālus, darba apģērbu, individuālos un kolektīvos aizsardzības līdzekļus atbilstoši darba aizsardzības prasībām
+* Spēja ievērot sprādziendrošības, ugunsdrošības un elektrodrošības noteikumu pras
+
+### Prasmes 
+* 

@@ -1,0 +1,52 @@
+---
+layout: post
+    
+title: kartogrāfijas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 216501
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* kartogrāfijas inženieris novēro, atpazīst un fiksē digitālā vai grafiskā veidā zemes virsmas un uzbūves elementus, veidojot kartogrāfiskos attēlus, modeļus, tai skaitā kartes, plānus un atlantus; prot izmantot speciālas datorprogrammas un veidot kartogrāfiskās informācijas modeļus atbilstoši to lietošanas specifikai; iesaka optimālos karšu un plānu veidošanas un lietošanas paņēmienus; sniedz konsultācijas; izstrādā priekšlikumus darba pilnveidošanai un efektivitātes paaugstināšanai; plāno, organizē un vada kartogrāfisko darbu izpildes procesus un speciālistu darbu; sadarbojas ar citu nozaru speciālistiem. 
+* Kartogrāfijas inženieris strādā uzņēmumos vai kā pašnodarbināta persona, vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja atbildīgi un patstāvīgi veikt kartogrāfijas inženiera pienākumus atbilstoši Latvijas Republikas normatīvajiem aktiem un Eiropas Savienības tiesību normām
+* Spēja projektēt un veidot dažādu veidu kartogrāfiskos attēlus vai kartogrāfiskās informācijas kopas, kā arī rediģēt un atjaunot to saturu
+* Spēja plānot, organizēt un vadīt kartogrāfisko darbu izpildes procesus un tajos iesaistīto speciālistu darbu
+* Spēja strādāt ar ģeogrāfiskās informācijas sistēmu un speciālām kartogrāfijas datorprogrammām
+* Spēja sagatavot kartogrāfiskos darbus valsts valodā un divās svešvalodās
+* Spēja veikt pētniecisko darbu
+* Spēja sazināties valsts valodā un divās svešvalodās
+
+### Prasmes 
+* Pārzināt kartogrāfisko darbu izpildes tehnoloģijas, kartogrāfisko darbu organizācijas principus un paņēmienus
+* Pārzināt normatīvos aktus, nozarei saistošos standartus un klasifikācijas, topogrāfisko plānu un karšu specifikācijas
+* Noformēt dokumentus atbilstoši prasībām, kas noteiktas normatīvajos aktos lietvedības un kartogrāfijas jomā
+* Prast strādāt ar ģeogrāfiskās informācijas sistēmu vai speciālām kartogrāfijas datorprogrammām
+* Prast izmantot datubāzes un ģeotelpiskās informācijas sistēmas
+* Prast izvērtēt karšu un plānu satura avotus, pārzināt kartējamo objektu atbilstību situācijai dabā un digitālās ortofotokartes veidošanas tehnoloģiju
+* Prast apsekot un kontrolēt kartografējamās teritorijas
+* Prast vizualizēt topogrāfiskos plānus un kartes, koriģēt un aktualizēt kartes un plānus
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības prasības
+* Prast novērtēt sociālo un politisko procesu ietekmi uz kartogrāfiskās darbības efektivitāti
+* Lietot kartogrāfijas terminus valsts valodā un divās svešvalodās
+* Radoši sadarboties ar uzņēmumiem, klientiem, speciālistiem un citām personām
+* Veikt darbu atbildīgi un patstāvīgi
+* Mutiski un rakstiski argumentēt savu viedokli
+* Pašizglītoties
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī

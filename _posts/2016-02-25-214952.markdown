@@ -1,0 +1,68 @@
+---
+layout: post
+    
+title: sistēmu vadības inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214952
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* sistēmu vadības inženieris, saskaņojot savu darbību ar uzņēmuma vadītāju un sadarbojoties ar citu struktūrvienību vadītājiem, veic pienākumus, kas ir saistīti ar kompleksu uzņēmuma sistēmu (sistēma ir dažādu elementu kopums, kas kopā dod rezultātus, kuri nav iegūstami, izmantojot katru sistēmas elementu atsevišķi; sistēmas elementi vai to daļas var ietvert cilvēkus, aparatūru, programmatūru, iekārtas, telpas, reglamentējošās vadlīnijas un dokumentus, kā arī citus objektus, kas nepieciešami sistēmas līmenī rezultātu iegūšanai; rezultāti ietver sistēmas līmeņa kvalitāti, īpašumu, raksturlielumus, funkcijas, darbības un veiktspēju; sistēmas pievienotā vērtība primāri ir nodrošināta ar sistēmas sastāvdaļu mijiedarbību un to, kā daļas savstarpēji ir saistītas, neatkarīgi no katras sistēmas neatkarīgās sastāvdaļas ieguldījuma) vai zinātņietilpīgu produktu (turpmāk – sistēma, produkts) izveidi, uzturēšanu un pilnveidošanu: plāno, koordinē un vada uzņēmuma sistēmu izstrādāšanu, testēšanu, ekspluatēšanu un utilizāciju; plāno, koordinē un vada sistēmu inženierijas ikdienas darbu; veic sistēmu modelēšanu un analīzi; veic sistēmu ekonomiskos aprēķinus, izstrādāšanas un ekspluatācijas izmaksu analīzi; kontrolē padotās struktūrvienības izdevumus un resursu racionālu izmantošanu; vada inženiertehnisko risinājumu izstrādāšanu un nodrošina struktūrvienības darījumu un vadības procedūras; pārvalda struktūrvienības personāla resursus; pārstāv struktūrvienību vai uzņēmumu; veic citus uzdevumus, kas ir saistīti ar uzņēmuma sistēmu inženierijas procesu nodrošināšanu un vadīšanu. 
+* Sistēmu vadības inženieris strādā uzņēmumā, kas darbojas ražošanas vai inženiertehniskā jomā. 
+
+### Kompetences
+
+* Spēja noteikt, izvērtēt, vadīt un pilnveidot uzņēmuma procesus un to mijiedarbību
+* Spēja definēt sistēmu izstrādāšanai nepieciešamos parametrus
+* Spēja noteikt sistēmas funkcijas un tās sadalīt (dekompozīcija), lai izstrādātu sistēmu, un noteikt sistēmas izstrādāšanu ietekmējošos faktorus un riskus
+* Spēja izstrādāt sistēmu un vadīt sistēmas izstrādāšanu atbilstoši definētajiem kritērijiem
+* Spēja izprast sistēmas, procesus un produktus reglamentējošo normatīvo aktu prasības un nodrošināt to izpildi
+* Spēja izprast sistēmām, procesiem un produktiem piemērojamos standartus un nodrošināt to izpildi
+* Spēja izprast sistēmu izstrādāšanas, testēšanas, auditēšanas, uzturēšanas budžeta veidošanas principus un plānot nepieciešamos resursus sistēmu izstrādāšanai un pilnveidei
+* Spēja noteikt nepieciešamā personāla kompetences, pienākumu un pilnvaru sadalījumu sistēmu izstrādāšanai, testēšanai, ieviešanai, uzturēšanai un pilnveidei
+* Spēja izveidot, ieviest un pilnveidot sarežģītu sistēmu
+* Spēja izprast integrētas vadības sistēmas izveides principus.
+* Spēja vadīt sistēmu izstrādāšanas struktūrvienības darbu, darba grupas un panākt vienošanos
+* Spēja izprast sistēmas izstrādāšanas ekonomiskos kritērijus, uzņēmuma saimnieciskās darbības pamatrādītājus
+* Spēja rosināt un vadīt uzņēmuma pārmaiņu procesus, izprast un virzīt informācijas apmaiņas plūsmu uzņēmumā
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja veikt pētījumus ar zinātnisku vērtību sistēmu vadības un pilnveides jomā, interpretēt un analizēt to rezultātus
+* Spēja lietot informācijas tehnoloģijas savas darbības veikšanai
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+* Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību ievērošanu
+
+### Prasmes 
+* Izprast sistēmu, procesu un produktu izstrādāšanu un uz tiem attiecināmās normatīvo aktu un standartu prasības
+* Noteikt sistēmu, procesu un produktu izstrādāšanas iespējas un nepieciešamību atbilstoši definētajam uzdevumam
+* Izmantot zināšanas sistēmu, procesu un produktu izstrādāšanas vadībā
+* Ieviest mūsdienīgas metodes sistēmu, procesu un produktu izstrādāšanas vadībā
+* Izstrādāt priekšlikumus un metodes sistēmu, procesu un produktu pilnveidei
+* Izmantot sistēmu, procesu un produktu atbilstības novērtēšanas metodes
+* Analizēt sistēmas izmaksas un ekonomiskos rādītājus
+* Izprast ar sistēmu, procesu un produktu izstrādi un ekspluatāciju saistītos riskus
+* Izprast uzņēmuma darbības un procesu kopsakarības, piedalīties uzņēmuma īstermiņa un ilgtermiņa darbības plānu izstrādāšanā
+* Apkopot pētījumu rezultātus, veikt datu statistisko apstrādi, sagatavot pārskatus un publikācijas, kā arī prezentēt tos
+* Izmantot mūsdienīgas darba organizācijas formas un informācijas tehnoloģijas
+* Sadarboties ar uzņēmuma darbiniekiem, sadarbības partneriem, īpašniekiem, masu saziņas līdzekļiem, valsts un pašvaldību iestādēm, nevalstiskām organizācijām
+* Rīkoties atbilstoši spēkā esošajiem normatīvajiem aktiem un ētikas normām
+* Plānot un organizēt savu darbu, pieņemt lēmumus atbilstoši situācijas izmaiņām un risināt problēmsituācijas, prast argumentēti izteikt savu viedokli
+* Organizēt un vadīt struktūrvienības darbu
+* Patstāvīgi apgūt jaunas zināšanas
+* Prast strādāt komandā un grupā
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Ievērot darba tiesisko attiecību noteikumus
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības noteikumus

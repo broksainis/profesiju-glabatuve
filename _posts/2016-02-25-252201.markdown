@@ -1,0 +1,106 @@
+---
+layout: post
+    
+title: datorsistēmu un datortīklu administrators
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 252201
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* datorsistēmu un datortīklu administrators nodrošina datortehnikas un programmatūras, kā arī datortīkla optimālo darbspēju lietotāju vajadzībām; projektē, konfigurē un administrē datorsistēmas un datortīklus; nodrošina informācijas aizsardzību un drošību; sniedz tehnisko un konsultatīvo atbalstu lietotājiem; sagatavo nepieciešamo tehnisko dokumentāciju.
+* Datorsistēmu un datortīklu administrators strādā uzņēmumos, kuros veic datorsistēmu un datortīklu projektēšanu, uzstādīšanu, ieviešanu ekspluatācijā un uzturēšanu, var būt pašnodarbinātais.
+
+### Kompetences
+
+* Spēja veikt datorsistēmu projektēšanu
+* Spēja veikt datortīklu projektēšanu
+* Spēja veikt esošās datortehnikas, programmatūras un esošā datortīkla inventarizāciju
+* Spēja veikt sīkus datortehnikas remontdarbus
+* Spēja instalēt un konfigurēt programmatūru
+* Spēja uzstādīt un konfigurēt datortehniku
+* Spēja diagnosticēt un novērst programmatūras lietošanas problēmas
+* Spēja diagnosticēt un novērst datortehnikas lietošanas problēmas
+* Spēja izveidot un uzturēt lietotāju kontus
+* Spēja piešķirt lietotājam dažādas pieejas tiesības datorsistēmai
+* Spēja nodrošināt datorsistēmas fizisko drošību
+* Spēja administrēt datortīkla servisus
+* Spēja administrēt datņu sistēmu
+* Spēja sagatavot nepieciešamo tehnisko dokumentāciju
+* Spēja veidot informācijas rezerves kopijas
+* Spēja prezentēt savas idejas un priekšlikumus
+* Spēja sniegt tehnisko atbalstu lietotājiem
+* Spēja izstrādāt un realizēt informācijas sistēmas drošības politiku
+* Spēja nodrošināt informācijas aizsardzību un drošību
+* Spēja nodrošināt datorsistēmas nepārtraukto elektrobarošanas padevi
+* Spēja novērst nesankcionētas programmatūras lietošanu
+* Spēja analizēt esošās datorsistēmas darbības statistiku
+* Spēja sistemātiski pilnveidot savas profesionālās zināšanas un prasmes
+* Spēja sekot jaunumiem informācijas tehnoloģijas nozarē
+* Spēja sagatavot priekšlikumus nepieciešamajiem uzlabojumiem programmatūrā un datortehnikā
+* Spēja uzlabot datortehnikas veiktspēju, izmantojot atjauninājumus
+* Spēja uzlabot programmatūru, izmantojot atjauninājumus
+* Spēja dokumentēt savu darbību
+* Spēja konsultēt lietotājus ar dažādiem zināšanu līmeņiem
+* Spēja organizēt un vadīt komandas darbu
+* Spēja izvēlēties uzdevumu risināšanai vispiemērotāko variantu
+* Spēja lietot praksē iegūtas zināšanas un prasmes
+* Spēja ievērot profesionālās ētikas principus
+* Spēja ievērot lietišķās saskarsmes principus
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+*  Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību izpildi
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+* 
+
+### Prasmes 
+* Pārzināt un ievērot Eiropas Savienības tiesību normas, Latvijas Republikas normatīvos aktus, kas saistīti ar informācijas tehnoloģijas jautājumiem
+* Lietot informācijas tehnoloģijas nozares standartus un tehnisko dokumentāciju
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Lietot operētājsistēmas
+* Lietot teksta un grafikas redaktorus, izklājlapu redaktorus u.cbiroja lietojumprogrammatūru
+* Lietot pretvīrusu programmatūru
+* Lietot ugunsmūri
+* Lietot diagnostikas programmatūru
+* Lietot programmatūras atjauninājumus
+* Lietot perifērijas ierīces
+* Lietot dažādus informācijas nesējus
+* Lietot datubāzes tehnoloģijas
+* Lietot programmēšanas rīkus skriptu rakstīšanai
+* Konfigurēt darba vietu un darba rīkus
+* Lietot sīku datortehnikas remontdarbu veikšanai nepieciešamo mēraparatūru
+* Izvēlēties uzdevumu risināšanai adekvātus līdzekļus
+* Veikt datu aizsardzības un drošības pasākumus
+* Veikt programmatūras testēšanu
+* Sekot informācijas tehnoloģiju nozares aktualitātēm
+* Strādāt komandā un patstāvīgi
+* Plānot izpildāmos darbus un noteikt to prioritātes
+* Lietot informācijas meklēšanas un atlases līdzekļus
+* Noformēt dokumentāciju atbilstoši lietvedības normatīvo aktu prasībām
+* Sagatavot prezentācijas materiālus un apmācības pasākumus, vadīt tos
+* Pārliecināt citus un argumentēt savu viedokli
+* Ievērot darba aizsardzības, ugunsdrošības un ergonomikas prasības
+* Ievērot civilās aizsardzības prasības
+* Ievērot vides aizsardzības prasības
+* Ievērot profesionālās ētikas principus un normas
+* Lietot lietišķās saskarsmes principus
+* Īstenot vietējo un starptautisko komercdarbības komunikāciju atbilstoši organizācijas kultūras prasībām
+* Risināt problēmsituācijas
+* Ievērot komercdarbības resursu racionālas izmantošanas nosacījumus
+* Sekot Latvijas un pasaules ekonomikas tendencēm
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Ievērot darba tiesisko attiecību noteikumus
+* Atbildēt par savas profesionālās darbības rezultātiem
+* 

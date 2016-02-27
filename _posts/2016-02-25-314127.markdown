@@ -1,0 +1,105 @@
+---
+layout: post
+    
+title: biotehnologa palīgs
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 314127
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  biotehnologa palīgs patstāvīgi vai biotehnoloģijas speciālista vadībā veic biotehnoloģiskos procesus vai to daļu; nodrošina biotehnoloģisko iekārtu ekspluatāciju, apkalpošanu un remontu uzņēmuma struktūrvienībā atbilstoši reglamentējošajai dokumentācijai; piedalās biotehnoloģisko ražošanas procesu pētījumos un apkopo to rezultātus.     Biotehnologa palīgs strādā ķīmijas, bioķīmijas, farmācijas, kosmētikas un parfimērijas nozares uzņēmumos.
+
+### Kompetences
+
+* Spēja veikt biotehnoloģisko iekārtu, palīgiekārtu, tehnoloģisko komunikāciju vizuālo un tehnisko novērtējumu atbilstoši ekspluatācijas dokumentācijai un marķējumam, izmantojot atbilstošus mērinstrumentus un mēriekārtas
+* Spēja lasīt tehnoloģisko shēmu un nodrošināt tās īstenošanu noteiktajam biotehnoloģiskajam procesam
+* Spēja nodrošināt biotehnoloģisko iekārtu un tehnoloģisko komunikāciju savienošanu atbilstoši tehnoloģiskajai shēmai
+* Spēja veikt biotehnoloģisko procesu, izmantojot mehāniskās un automātiskās procesa vadības iekārtas atbilstoši tehnoloģiskajai dokumentācijai
+* Spēja sagatavot barotni atbilstoši tehnoloģiskajai dokumentācijai un veikt eksperimentus/pētījumus barotnes optimizācijas nolūkos saskaņā ar plānu/protokolu
+* Spēja aprēķināt procesa materiālu bilanci, lietot sterilizācijas iekārtas
+* Spēja sagatavot sējmateriālu, reaģentus un izvēlēties piemērotākos materiālus biotehnoloģiskajam procesam atbilstoši reglamentējošajai dokumentācijai
+* Spēja veikt barotnes iekraušanu, sējmateriāla ievadīšanu reaktorā un materiālu ievadi biotehnoloģiskā ražošanas procesa laikā saskaņā ar tehnoloģisko dokumentāciju, lietojot aseptiskas metodes
+* Spēja veikt biotehnoloģiskos ražošanas procesus, ievērojot standarta operāciju procedūras un labas ražošanas prakses principus
+* Spēja noņemt paraugus kvalitātes kontroles nolūkos, izvērtēt un apkopot testēšanas rezultātus atbilstoši tehnoloģiskajai dokumentācijai
+* Spēja apkopot biotehnoloģiskā ražošanas procesa datus, identificēt un izvērtēt novirzes iekārtu darbībā un tehnoloģiskajā procesā, noteikt to cēloņus
+* Spēja analizēt biotehnoloģiskā ražošanas procesa datus un pilnveidot biotehnoloģiskos procesus atbilstoši labas ražošanas prakses principiem
+* Spēja veikt eksperimentus saskaņā ar plānu/protokolu gala produkta ražošanas procesu optimizācijas nolūkā
+* Spēja veikt biomasas atdalīšanu, izmantojot tam paredzētās iekārtas, un gatavā produkta izdalīšanu atbilstoši tehnoloģiskajai dokumentācijai
+* Spēja veikt biotehnoloģiskā ražošanas procesa gala produkta apstrādi saskaņā ar tehnoloģisko dokumentāciju, izmantojot biotehnoloģiskās ražošanas iekārtas
+* Spēja veikt biotehnoloģiskā ražošanas procesa gala produkta fasēšanu, iepakošanu, marķēšanu un izvērtēt tā kvalitātes kontroles rezultātus
+* Spēja identificēt un marķēt nekvalitatīvu biotehnoloģiskā ražošanas procesa gala produktu, iekārtas, palīgiekārtas un tehnoloģiskās komunikācijas
+* Spēja piemērot bioloģiskās izcelsmes atkritumu (t.skbīstamo) apstrādes un nodošanas principus, veikt biotehnoloģiskā procesa atlikumu sagatavošanu tālākai pārstrādei un utilizācijai
+* Spēja strādāt ar ražotāja iekārtu ekspluatācijas dokumentāciju, organizēt iekārtu uzstādīšanu un veikt kvalificēšanas testus atbilstoši plānam/protokolam, sagatavot iekārtu ekspluatācijas instrukcijas
+* Spēja veikt biotehnoloģisko ražošanas iekārtu, tehnoloģisko komunikāciju tīrīšanu, sterilizāciju un dekontamināciju, izmantojot rūpnieciskās mazgāšanas un sterilizācijas iekārtas, dezinficējošos līdzekļus
+* Spēja ievērot personāla, telpu un iekārtu higiēnas prasības, lietojot kolektīvos un individuālos higiēnas līdzekļus, atbilstošus tīrīšanas un dezinfekcijas līdzekļus un iekārtas
+* Spēja organizēt un veikt darbu patstāvīgi, ievērojot termiņus un kvalitātes prasības, taupot resursus un uzņemoties atbildību par sava darba rezultātu
+* Spēja sadarboties ar darba vadītāju un kolēģiem, lietojot pozitīvas saskarsmes prasmes un ievērojot profesionālās un vispārējās ētikas principus
+* Spēja organizēt darbu saskaņā ar nozares reglamentējošo dokumentāciju
+* Spēja izstrādāt un aktualizēt ražošanas dokumentāciju
+* Spēja pašizglītoties un pilnveidot profesionālās kompetences
+* Spēja izprast un ievērot darba aizsardzības normatīvo aktu prasības, strādājot ar iekārtām, mikroorganismu kultūrām un ķīmiskajām vielām, veikt darba pienākumus, nekaitējot savai un citu personu veselībai, izmantojot atbilstošus kolektīvos un individuālos aizsardzības līdzekļus
+* Spēja strādāt ar spiediena iekārtām un elektroiekārtām
+* Spēja sniegt pirmo palīdzību
+* Spēja izprast un ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja lietot informācijas tehnoloģijas
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Veikt biotehnoloģisko iekārtu, palīgiekārtu un tehnoloģisko komunikāciju vizuālo un tehnisko novērtējumu
+* Lasīt tehnoloģisko shēmu un nodrošināt tās īstenošanu atbilstoši biotehnoloģiskajam procesam
+* Veikt biotehnoloģisko iekārtu un tehnoloģisko komunikāciju savienošanu un atvienošanu
+* Veikt biotehnoloģisko ražošanas procesu saskaņā ar tehnoloģisko dokumentāciju
+* Sagatavot un sterilizēt barotni atbilstoši tehnoloģiskajai dokumentācijai
+* Izveidot procesa materiālu bilanci
+* Sagatavot sējmateriālu un citus biotehnoloģiskajam ražošanas procesam nepieciešamos reaģentus un materiālus atbilstoši reglamentējošajai dokumentācijai
+* Veikt biomasas atdalīšanas procesu atbilstoši tehnoloģiskajai dokumentācijai
+* Noņemt paraugus kvalitātes kontrolei
+* Izvērtēt paraugu kvalitātes kontroles rezultātus
+* Apkopot biotehnoloģiskā ražošanas procesa rezultātus
+* Identificēt novirzes no tehnoloģiskā režīma un noteikt nepieciešamās korektīvās darbības
+* Veikt eksperimentus saskaņā ar plānu/protokolu gala produkta ražošanas procesu optimizācijas nolūkos
+* Optimizēt biotehnoloģisko ražošanas procesu atbilstoši savai kompetencei
+* Veikt biotehnoloģiskā ražošanas procesa gala produkta izdalīšanu saskaņā ar tehnoloģisko dokumentāciju
+* Veikt biotehnoloģiskā ražošanas procesa gala produkta attīrīšanas procesu saskaņā ar tehnoloģisko dokumentāciju
+* Veikt biotehnoloģiskā ražošanas procesa gala produkta apstrādi (koncentrēšanu, žāvēšanu, granulēšanu) saskaņā ar tehnoloģisko dokumentāciju
+* Fasēt, iepakot un marķēt biotehnoloģiskā ražošanas procesa gala produktu
+* Piemērot bioloģiskās izcelsmes atkritumu (t.skbīstamo) apstrādes un nodošanas principus
+* Aizpildīt, kontrolēt un apkopot biotehnoloģiskā ražošanas procesa dokumentāciju, organizēt tās apriti
+* Izstrādāt un aktualizēt ražošanas dokumentāciju
+* Marķēt biotehnoloģiskās iekārtas, palīgiekārtas, tehnoloģiskās komunikācijas un materiālus
+* Organizēt jaunu iekārtu uzstādīšanu
+* Veikt iekārtu kvalificēšanas testus sadarbībā ar piegādātāju un citām struktūrvienībām
+* Veikt biotehnoloģisko iekārtu, palīgiekārtu un tehnoloģisko komunikāciju tīrīšanu un dekontamināciju
+* Nodrošināt mazgāšanas un dezinficējošo šķīdumu sagatavošanu
+* Lietot aseptiskos darba paņēmienus un nodrošināt higiēnas prasību ievērošanu
+* Nodrošināt tīru un sakoptu darba vidi
+* Piemērot labas ražošanas prakses principus
+* Lasīt un izprast nozares normatīvos aktus, standartus un citu reglamentējošo dokumentāciju
+* Racionāli izmantot resursus
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Strādāt komandā, izvairīties no konfliktsituācijām, novērst un risināt konfliktus
+* Ievērot profesionālās un vispārējās ētikas principus
+* Atrast, analizēt un atlasīt informāciju par jaunākajām tehnoloģijām profesijā un patstāvīgi pilnveidot profesionālo kompetenci
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* Sniegt pirmo palīdzību
+* Rīkoties pirmsavārijas un avārijas situācijās
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Lietot informācijas tehnoloģijas
+* Ievērot darba tiesisko attiecību normas

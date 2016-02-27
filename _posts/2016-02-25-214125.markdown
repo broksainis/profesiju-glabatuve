@@ -1,0 +1,65 @@
+---
+layout: post
+    
+title: apģērbu un tekstila ražošanas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214125
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* apģērbu un tekstila ražošanas inženieris plāno un organizē savu un citu darbu, nodrošinot darba drošību ražošanas vidē un tehnoloģiskā procesa vadīšanu un uzraudzību kvalitatīvas produkcijas iegūšanai, veic šo procesu ekonomisko izvērtējumu, kā arī nodrošina kvalitātes kontroles sistēmas darbību uzņēmumam; racionāli izvieto iekārtas un personālu, kontrolē darba kvalitāti un apjomu, instruē darbiniekus tehnoloģiskajos un darba drošības jautājumos; analizē informāciju par apģērbu un tekstila nozares attīstības tendencēm, izstrādā stratēģiskās attīstības plānus, sekmē to īstenošanu, projektē un ievieš jaunus tehnoloģiskos procesus, pamatojot tos ar attiecīgiem biznesa plāniem un tāmēm; konsultē vadītājus par resursu ekonomiskas un efektīvas izmantošanas veidiem, par jaunākajiem apģērbu un tekstila nozares zinātnes (un tehnikas) sasniegumiem, to ieviešanas iespējām un efektivitāti; gatavo zinātniskus rakstus un pārskatus. 
+* Apģērbu un tekstila ražošanas inženieris strādā apģērbu un tekstila ražošanas uzņēmumos.  
+
+### Kompetences
+
+* Spēja izstrādāt apģērbu un tekstila ražošanas tehnisko dokumentāciju
+* Spēja noteikt optimālos tehnoloģisko partiju/pasūtījumu apjomus
+* Spēja pētīt un izvēlēties materiālu, palīgmateriālu un furnitūras piedāvājumus un kontrolēt to kvalitāti
+* Spēja nodrošināt pasūtījumus ar nepieciešamo materiālu un palīgmateriālu apjomu un noteikt starpoperāciju rezerves
+* Spēja izvērtēt un noteikt pasūtījuma izpildei nepieciešamo tehnoloģiju
+* Spēja izstrādāt tehnoloģisko operāciju secību un noteikt to veikšanai nepieciešamo laiku
+* Spēja noteikt nepieciešamās tehnoloģiskās iekārtas un plānot to izvietojumu
+* Spēja izstrādāt struktūrvienības biznesa/ražošanas plānus.
+* Spēja organizēt un vadīt struktūrvienības personāla darbu
+* Spēja analizēt izmaksas un sastādīt ražošanas kalkulācijas
+* Spēja plānot darbus un organizēt to savlaicīgu izpildi
+* Spēja uzskaitīt un kontrolēt darba un citu resursu apjomus
+* Spēja risināt apģērbu un tekstila ražošanas loģistikas uzdevumus
+* Spēja nodrošināt tehnoloģiskā procesa un produkcijas kvalitātes stabilitāti
+* Spēja nodrošināt vides un darba aizsardzības normatīvo aktu prasību izpildi
+* Spēja sazināties valsts valodā un divās svešvalodās
+
+### Prasmes 
+* Veikt darba uzdevuma profesionālu analīzi, informācijas apstrādi un darba uzdevuma saskaņošanu ar ražošanas tehnoloģiskajām iespējām
+* Lietot darba izpildei nepieciešamo tehnisko un normatīvo dokumentāciju, nozares tehniskos standartus un ar nozari saistīto juridisko dokumentāciju, gatavot lietišķos dokumentus
+* Analizēt, vērtēt un izmantot zinātniskos un lietišķos pētījumus, lietot informācijas meklēšanas un atlases līdzekļus, ieviest jaunas tehnoloģijas un datorprogrammas
+* Brīvi orientēties apģērbu un tekstila izgatavošanas tradicionālajās un mūsdienu tehnoloģijās, novērtēt esošo iekārtu tehnoloģiskās iespējas un atbilstību jaunākajām tendencēm, pamatot iekārtu maiņas nepieciešamību un efektivitāti
+* Analizēt apģērbu un tekstila nozares produkcijas tirgus situāciju, tās attīstības tendences un novērtēt ražotā produkta realizācijas iespējas
+* Mērķtiecīgi izmantot iekārtas jaudu un organizēt tās tehnisko apkopi
+* Racionāli organizēt savstarpēji saistīto darba procesu izpildi
+* Projektēt iekārtu izvietojumu un organizēt darba sadali starp strādājošajiem
+* Risināt apģērbu un tekstila nozares attīstības problēmu stratēģiskos un analītiskos aspektus
+* Piedalīties ražošanas projektu analīzē, izstrādē, saskaņošanā un vadīšanā, sastādīt projekta vai programmas budžetu un ievērot to darba procesā
+* Ieviest tikai apkārtējai videi draudzīgas tehnoloģijas
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās
+* Darboties komandā/grupā, plānot, organizēt un vadīt profesionālās komandas darbu, noteikt izpildāmo darbu prioritātes, veikt darbu arī individuāli
+* Veikt jaunrades un pētniecības darbu
+* Piedalīties pasākumu organizēšanā un sagatavošanā
+* Argumentēt savu viedokli, pārliecināt citus un risināt konfliktsituācijas
+* Ievērot profesionālos un vispārīgos ētikas principus
+* Ievērot darba drošības, ugunsdrošības un higiēnas prasības
+* Sistemātiski pilnveidot savu profesionālo kvalifikāciju

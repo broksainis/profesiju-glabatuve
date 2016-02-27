@@ -1,0 +1,55 @@
+---
+layout: post
+    
+title: zemes ierīcības inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 216507
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* zemes ierīcības inženieris uzmēra nekustamā īpašuma objekta un zemes vienības daļas; veic ģeodēzisko un topogrāfisko izpēti būvniecības un teritorijas plānošanas vajadzību aktualizācijai; noformē nekustamo īpašumu dokumentus, sastāda zemes robežu apgrūtinājumu, situācijas plānu un topogrāfisko plānu; grafiski vizualizē telpiskos datus; izstrādā teritorijas plānojumu grafiskās daļas un zemes ierīcības projektus; apvidū nosprauž detālplānojuma un zemes ierīcības projekta robežas; ierīko un pārzina ģeodēziskā (uzmērīšanas) atbalsttīkla punktus; strādā ar Nekustamā īpašuma valsts kadastra informācijas sistēmas datubāzi un veic nekustamā īpašuma objektu kadastrālo vērtēšanu; pārzina un lieto nozarei saistošos normatīvos aktus. 
+* Zemes ierīcības inženieris strādā mērniecības un projektēšanas uzņēmumos. 
+
+### Kompetences
+
+* Spēja ierīkot ģeodēziskā (uzmērīšanas) atbalsttīkla punktu
+* Spēja veikt nekustamā īpašuma objektu kadastrālo mērniecību, ģeodēzisko un topogrāfisko izpēti būvniecības, teritorijas plānošanas un uzskaites vajadzībām
+* Spēja sastādīt zemes robežu apgrūtinājumu un situācijas plānu un topogrāfisko plānu
+* Spēja sastādīt lielmēroga topogrāfiskos plānus un kartes
+* Spēja lietot ģeogrāfiskās informācijas sistēmas
+* Spēja pārzināt zemes racionālu izmantošanu un teritorijas organizāciju
+* Spēja izstrādāt teritorijas plānojuma grafisko daļu
+* Spēja izstrādāt zemes ierīcības projektu
+* Spēja strādāt ar Nekustamā īpašuma valsts kadastra informācijas sistēmas datubāzi
+* Spēja veikt nekustamā īpašuma objektu kadastrālo vērtēšanu
+* Spēja piemērot zemes ierīcības jomu regulējošos normatīvos aktus
+* Spēja sazināties valsts valodā un divās svešvalodās
+
+### Prasmes 
+* Strādāt rūpīgi un precīzi
+* Sadarboties ar klientiem
+* Strādāt komandā
+* Strādāt patstāvīgi
+* Izmantot savas zināšanas praksē
+* Pieņemt lēmumus atbilstoši kompetencei
+* Analizēt informāciju un izdarīt secinājumus
+* Plānot un organizēt savu un pakļauto darbinieku darbu
+* Noformēt dokumentus atbilstoši prasībām, kas noteiktas normatīvajos aktos lietvedības un zemes ierīcības jomā
+* Strādāt ar speciālajām datorprogrammām
+* Apkopot, sistematizēt un analizēt datus
+* Izmantot nozarei atbilstošu speciālo literatūru divās svešvalodās
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās

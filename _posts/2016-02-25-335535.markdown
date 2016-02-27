@@ -1,0 +1,77 @@
+---
+layout: post
+    
+title: kārtībnieks
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 335535
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* Valsts policijas jaunākais inspektors veic darbu sabiedriskās kārtības un personu drošības nodrošināšanā, likumpārkāpumu prevencijā, kā arī bezvēsts pazudušu un personu, kuras izdarījušas likumpārkāpumus, meklēšanā; veic aizturēto, apcietināto un notiesāto konvojēšanu un apsardzi; veic pasākumus likumpārkāpēju aizturēšanā; dokumentē likumpārkāpumus; sniedz personām pirmo palīdzību; uzrauga un kontrolē ceļu un ūdens satiksmes drošību; apsargā personas un objektus.
+* Valsts policijas jaunākais inspektors pilda dienesta pienākumus Valsts policijas struktūrvienībās.
+
+### Kompetences
+
+* Spēja uzturēt drošību un kārtību sabiedriskās vietās, t. sk. ārkārtas situācijās, stihisku nelaimju un masu nekārtību laikā, rīkojoties lielas psiholoģiskās slodzes un stresa apstākļos.
+* Spēja novērst un atklāt noziedzīgus nodarījumus un citus likumpārkāpumus, taktiski novērtējot situāciju un, ja nepieciešams, operatīvi un precīzi pielietojot pašaizsardzības paņēmienus un līdzekļus.
+* Spēja aizturēt likumpārkāpējus.
+* Spēja apsargāt aizturētās, apcietinātās un notiesātās personas īslaicīgās aizturēšanas vietās, ilgstoši atrodoties slēgtā vidē un komunicējot ar psihiski nestabilām, agresīvi, depresīvi, negatīvi noskaņotām personām.
+* Spēja atrast meklēšanā izsludinātas personas un priekšmetus.
+* Spēja konvojēt un apsargāt aizturētās, apcietinātās un notiesātās personas, t. sk. uz mūžu notiesātās personas.
+* Spēja pārmeklēt aizturētās, apcietinātās, notiesātās personas, izņemt neatļautus priekšmetus un novērst veselībai un dzīvībai apdraudošas situācijas.
+* Spēja strādāt komandā un uzklausīt objektīvu kritiku.
+* Spēja orientēties normatīvajos aktos iekšlietu jomā un pielietot tos atbilstoši konkrētajai situācijai.
+* Spēja atbilstoši nepieciešamības novērtējumam sniegt pirmo palīdzību, kā arī sniegt palīdzību personām, kuras cietušas likumpārkāpumu rezultātā, nelaimes gadījumos vai atrodas bezpalīdzības stāvoklī.
+* Spēja kontrolēt ceļu un ūdens satiksmi.
+* Spēja sazināties valsts valodā un vismaz vienā svešvalodā.
+* Spēja rīkoties godīgi, uzņemties personīgu atbildību par savu rīcību, darba rezultātiem, racionālu darba laika un resursu izmantošanu un ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Spēja pastāvīgi pilnveidot savas profesionālās prasmes, zināšanas un fizisko sagatavotību atbilstoši darba devēja norādījumiem.
+* Spēja apsargāt objektus un personas, nodrošinot sabiedrisko kārtību to tuvumā un caurlaižu režīma objektos.
+* Spēja lietot informācijas tehnoloģijas savas darbības veikšanai.
+* Spēja ievērot darba aizsardzības un ugunsdrošības normatīvo aktu prasības.
+* Spēja ievērot dienesta gaitu regulējošo normatīvo aktu prasības.
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības.
+
+### Prasmes 
+* Patrulēt sabiedriskās vietās, nodrošinot kārtību un drošību.
+* Pieņemt taktiski atbilstošu lēmumu psiholoģiskās slodzes un stresa apstākļos.
+* Rīkoties un izvēlēties atbilstošu taktiku konfliktsituācijās.
+* Nepieļaut likumpārkāpumus, ar savu klātbūtni demonstrējot tiesību normu ievērošanas kontroli.
+* Identificēt, apskatīt un izņemt nozieguma pēdas un citus lietiskos pierādījumus.
+* Komunicēt un iegūt nepieciešamo informāciju bezvēsts pazudušu personu un to personu meklēšanā, kuras izdarījušas likumpārkāpumus.
+* Meklēt bezvēsts pazudušas un likumpārkāpumus izdarījušas personas, līķus, narkotiskās vielas un sprāgstvielas, t. sk. izmantojot dienesta suņus.
+* Konvojēt un apsargāt aizturētās, apcietinātās un notiesātās personas.
+* Pielietot fizisku spēku, speciālos cīņas paņēmienus.
+* Pielietot speciālos līdzekļus (ķīmiskās vielas, priekšmetus vai mehānismus).
+* Atvairīt uzbrukumus, pielietojot aizsardzības taktiskos paņēmienus.
+* Izmantot un pielietot šaujamieroci, lai dotu trauksmes signālu, izsauktu palīdzību vai veiktu mērķtiecīgu šāvienu.
+* Pārmeklēt aizturētās, apcietinātās un notiesātās personas un izņemt veselību un dzīvību apdraudošus priekšmetus.
+* Komunicēt ar psihiski nestabilām personām, agresīvi, depresīvi, negatīvi noskaņotām personām.
+* Atrast piemērojamo tiesību normu, piemērot (t. sk. iztulkojot) un noformēt dienesta un administratīvās lietvedības dokumentus.
+* Kontrolēt ceļu un ūdens satiksmi.
+* Regulēt transportlīdzekļu un gājēju kustību, t. sk. izmantojot roku žestus un svilpes signālus.
+* Pārvaldīt valsts valodu.
+* Pārvaldīt vismaz vienu svešvalodu profesionālās saziņas līmenī.
+* Patstāvīgi pilnveidot savas zināšanas, profesionālās iemaņas, fizisko un profesionālo sagatavotību.
+* Sniegt pirmo palīdzību.
+* Ievērot dienesta attiecības un subordināciju.
+* Vadīt B kategorijas transportlīdzekli.
+* Adekvāti reaģēt paaugstināta stresa un bīstamības apstākļos.
+* Strādāt ar informācijas sistēmām un datubāzēm.
+* Apsargāt valsts objektus un diplomātiskās pārstāvniecības.
+* Pārbaudīt caurlaides, kontrolējot apsargājamos objektos ienākošās personas.
+* Novērtēt dzīvību un veselību apdraudošas situācijas un atbilstoši rīkoties.
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā.
+* Ievērot darba aizsardzības, ugunsdrošības un elektrodrošības normatīvo aktu prasības.
+* Ievērot vides aizsardzības normatīvo aktu prasības.
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.

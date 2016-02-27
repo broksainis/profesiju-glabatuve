@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: rokas lokmetinātājs (MMA)
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 721204
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  rokas lokmetinātājs (MMA – _Manual Metal Arc_) veic manuālās metināšanas darbus, izmantojot elektrolokmetināšanas iekārtas; atbilstoši tehniskajiem noteikumiem izgatavo metālizstrādājumus un to konstrukcijas; veic montāžas, demontāžas un remonta darbus, izmantojot elektrolokmetināšanas iekārtas, materiālus un tehnoloģiskos paņēmienus.     Rokas lokmetinātājs (MMA) strādā metālapstrādes un mašīnbūves nozares un citos uzņēmumos, kuros tiek veikti lokmetināšanas darbi, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja strādāt ar darba pienākumu izpildei nepieciešamo tehnisko dokumentāciju un informāciju un pieņemt atbilstošus lēmumus, sazinoties ar darba vadītāju
+* Spēja izvēlēties lokmetināšanai nepieciešamo aprīkojumu
+* Spēja izvēlēties šuvju metināšanas darbu secību atkarībā no konstrukcijas sarežģītības
+* Spēja sagatavot metināšanas iekārtu un iestatīt metināšanas režīmu
+* Spēja izvēlēties elektrodus atbilstoši veicamajam uzdevumam
+* Spēja atbilstoši veicamajam uzdevumam sagatavot detaļu virsmas un malas metināšanai, izmantojot piemērotus darbarīkus un paņēmienus
+* Spēja veikt pirmsmetināšanas detaļu izvietošanu un nostiprināšanu, izmantojot palīgierīces, kontrolmērierīces un veidojot pieķeršuves
+* Spēja metināt lokšņu konstrukciju vienslāņa un daudzslāņu kakta šuves un saduršuves atbilstoši standartos un citos saistošajos dokumentos noteiktajām prasībām
+* Spēja vizuāli novērtēt metinātās šuves atbilstību prasībām un, izmantojot mērinstrumentus un kontrolinstrumentus, novērtēt izveidotā savienojuma ģeometriju
+* Spēja izvēlēties defektu novēršanas veidu un novērst defektus
+* Spēja pārbaudīt, novērtēt un lietot metināšanas iekārtas, aprīkojumu, darba apģērbu, individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus atbilstoši darba aizsardzības normatīvo aktu prasībām
+* Spēja ievērot elektrodrošības un ugunsdrošības noteikumus, ja nepieciešams, atbilstoši rīkoties
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības un veikt darba pienākumus, nekaitējot videi
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības, strādājot paaugstinātas bīstamības apstākļos
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja paaugstināt profesionālo kvalifikāciju
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+
+### Prasmes 
+* Lasīt tehnisko darba dokumentāciju
+* Izprast metināšanas procesa specifikāciju (WPS – _Welding Process Specification_) un cita veida tehnoloģisko dokumentāciju
+* Lietot veicamā uzdevuma izpildei nepieciešamo informāciju, pieņemt lēmumu un sniegt informāciju par izpildes gaitu, problēmām un to iespējamiem risinājumiem
+* Noteikt nepieciešamo aprīkojumu uzdevuma izpildei
+* Sagatavot metināšanas iekārtu darbam, novērtēt metināšanas iekārtas un aprīkojuma tehnisko stāvokli
+* Iestatīt metināšanas režīma parametrus
+* Izvēlēties darbam atbilstošus elektrodus un sagatavot tos darbam
+* Izvēlēties darba uzdevumam atbilstošu šuvju metināšanas darbu secību
+* Izvēlēties un veikt pirmsmetināšanas detaļu taisnošanu, salikšanu un nostiprināšanu
+* Attīrīt metināmās un sametinātās virsmas
+* Veikt darba izpildei nepieciešamo aizzīmēšanu atbilstoši darba rasējumam
+* Griezt un slīpēt sagataves un šuves atbilstoši tehnoloģiskajām prasībām, izmantojot rokas elektroinstrumentus un stacionārās iekārtas
+* Metināt lokšņu konstrukciju vienslāņa un daudzslāņu kakta šuves un saduršuves atbilstoši standartos un citos saistošajos dokumentos noteiktajām prasībām
+* Vizuāli novērtēt metinātās šuves
+* Labot metināto šuvju defektus
+* Ievērot darba aizsardzības normatīvo aktu prasības, it īpaši strādājot paaugstinātas bīstamības apstākļos, novērtēt un lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus
+* Ievērot elektrodrošības un ugunsdrošības noteikumus
+* Atpazīt darba vides riskus un veikt visus pasākumus, lai samazinātu to ietekmi
+* Izvietot un ievērot darba drošības zīmes un signālus
+* Rīkoties ugunsgrēka gadījumā
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Veikt darba pienākumus, nekaitējot savai un citu personu veselībai
+* Sniegt pirmo palīdzību
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Ievērot darba tiesisko attiecību normas
+* Novērtēt un paaugstināt savu profesionālo kompetenci un zināšanas
+* Darba uzdevuma ietvaros sadarboties ar citiem darbiniekiem, strādājot komandā un ievērojot profesionālās un vispārējās ētikas pamatprincipus un darba kārtības noteikumus

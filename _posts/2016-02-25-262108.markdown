@@ -1,0 +1,80 @@
+---
+layout: post
+    
+title: dokumentu sistēmu vadītājs
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 262108
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 
+* dokumentu sistēmu vadītājs nosaka uzņēmuma dokumentēšanas un dokumentu pārvaldības vajadzības; nodrošina dokumentu pārvaldības procesu norisi; vada dokumentu sistēmu veidošanu; veic dokumentu sistēmu auditus un darbības kontroli; nodrošina dokumentu sistēmu atbilstību normatīvajiem aktiem un uzņēmuma vajadzībām; plāno un vada darbu atbilstoši uzņēmuma mērķiem tiešā uzņēmuma vadības pakļautībā un sadarbībā ar citu struktūrvienību vadītājiem. 
+* 	Dokumentu sistēmu vadītājs strādā uzņēmumā, kur izveidota dokumentu sistēma, vai uzņēmumā, kurš sniedz konsultācijas un piedāvā pakalpojumus dokumentu sistēmu izstrādē, vai kā pašnodarbināta persona vai individuālais komersants. 
+* 	6 
+
+### Kompetences
+
+* Spēja izstrādāt dokumentu pārvaldības politiku un stratēģiju, nodrošināt dokumentu pārvaldības attīstību
+* Spēja definēt dokumentu pārvaldības mērķus un uzdevumus saskaņā ar normatīvajiem aktiem un institūcijas darbības vajadzībām
+* Spēja izstrādāt vai uzlabot dokumentu sistēmas, nodrošināt to darbību, sniegt konsultācijas dokumentu sistēmu izstrādāšanā un uzlabošanā
+* Spēja sagatavot darba uzdevumus un projektu specifikācijas dokumentu sistēmu projektiem
+* Spēja izstrādāt dokumentu pārvaldību reglamentējošos normatīvos aktus
+* Spēja noteikt darbinieku atbildības līmeņus
+* Spēja analizēt institūcijas darbību, noteikt institūcijas dokumentēšanas vajadzības, prasības dokumentiem un dokumentu sistēmām
+* Spēja plānot un izmantot dokumentu sistēmu izveidošanai, uzlabošanai un uzturēšanai nepieciešamos finanšu resursus
+* Spēja veikt izstrādātās vai uzlabotās dokumentu sistēmas novērtējumu, auditu un darbības pārbaudes
+* Spēja organizēt un kontrolēt dokumentu (gan papīra dokumentu, gan elektronisku dokumentu) izstrādāšanu, uzskaiti, apriti un glabāšanu aktīvajā un pusaktīvajā dzīves ciklā
+* Spēja organizēt un izstrādāt dokumentu pārvaldības procesus reglamentējošos dokumentus (dokumentu sarakstus, lietu nomenklatūru, klasifikatorus u.c.)
+* Spēja organizēt dokumentu izvērtēšanu, dokumentu glabāšanas termiņu un arhīviskās vērtības noteikšanu
+* Spēja organizēt dokumentu izmantošanu, nodrošināt un kontrolēt dokumentu pieejamību, datu aizsardzību
+* Spēja nodrošināt valsts noslēpuma, Ziemeļatlantijas līguma organizācijas, Eiropas Savienības un ārvalstu institūciju klasificētās informācijas un dokumentu pārvaldību
+* Spēja organizēt un veikt dokumentu aprakstīšanu, uzziņu un uzskaites līdzekļu sagatavošanu
+* Spēja organizēt dokumentu un datu migrāciju no vienas sistēmas un/ vai nesēja uz citu sistēmu vai nesēju
+* Spēja brīvi pārvaldīt valsts valodu un sazināties vismaz divās svešvalodās
+* Spēja veikt pētījumus par aktuāliem dokumentu pārvaldības jautājumiem
+* Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasību izpildi
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+*  Spēja lietot informācijas tehnoloģijas savas darbības veikšanai
+* Spēja ievērot profesionālās ētikas normas
+* 
+
+### Prasmes 
+* Izprast institūciju darbības tiesiskās formas (valsts pārvaldes iestāde, komercsabiedrība, biedrība u.tml.) un pārvaldes principus
+* Pielietot vadības zinātņu, kā arī dokumentu un arhīvu pārvaldības speciālās metodes (funkciju, riska analīzi u.c.)
+* Pielietot teorētiskās zināšanas praksē
+* Izstrādāt normatīvos aktus un dokumentu pārvaldības procedūras, sekot to ieviešanai un nodrošināt to ievērošanu
+* Organizēt, pārvaldīt un sistematizēt dokumentus to radīšanas, aprites, glabāšanas, izmantošanas un iznīcināšanas procesos
+* Auditēt dokumentu sistēmas un informācijas sistēmas
+* Izstrādāt prasības dokumentu (tai skaitā elektronisko) sistēmu projektiem, specifikācijām
+* Izvērtēt dokumentus un informāciju
+* Novērtēt un izvēlēties piemērotākos dokumentu sistēmu glabāšanas apstākļus atbilstoši informācijas (datu) nesējam un videi
+* Ieviest progresīvus risinājumus un metodes dokumentu pārvaldībā
+* Apzināt jaunākās dokumentu pārvaldības tendences, sekot aktualitātēm dokumentu un arhīvu pārvaldībā
+* Pielietot jaunākās darba metodes un informācijas tehnoloģijas
+* Pielietot nozarei specifiskās informācijas tehnoloģijas un aprīkojumu (e-paraksti, datubāzes, attēlveidošanas tehnoloģijas u.tml.) 
+* Rīkoties atbilstoši spēkā esošiem normatīvajiem aktiem, lietišķajai etiķetei un ētikas normām
+* Strādāt komandā/grupā, deleģēt un koordinēt pienākumu izpildi, motivēt darbiniekus
+* Prast strādāt psiholoģiski sarežģītās situācijās un risināt problēmsituācijas
+* Apgūt jaunas zināšanas patstāvīgi
+* Plānot un organizēt savu darbu
+* Prast argumentēti izteikt savu viedokli
+* Sagatavot un sniegt prezentācijas
+* Pārvaldīt valsts valodu augstākajā līmenī
+* Spēt sazināties divās svešvalodās
+* Lietot profesionālo terminoloģiju valsts valodā un divās svešvalodās
+* Ievērot darba aizsardzības, elektrodrošības, ugunsdrošības un higiēnas prasības
+* Ievērot vides aizsardzības noteikumus
+* Ievērot darba tiesisko attiecību noteikumus
+* 

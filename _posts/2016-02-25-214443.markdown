@@ -1,0 +1,85 @@
+---
+layout: post
+    
+title: siltumenerģētikas un siltumtehnikas inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 214443
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* siltumenerģētikas un siltumtehnikas inženieris veic siltumenerģijas ražošanas, sadales un izmantošanas uzņēmuma siltumenerģētisko un siltumtehnisko iekārtu (termoelektrostaciju un katlu māju, katlu agregātu, rūpniecisko krāšņu, žāvētavu, siltummaiņu, individuālo siltummezglu, siltumtrašu, tvertņu, kompresoru, saldētavu) izvēli, projektēšanu, uzstādīšanu; veic un uzrauga tehnoloģiskos mērījumus un procesu automātisko vadību; sastāda siltuma bilances; nosaka kaitīgo izmešu daudzumu, kurināmā sastāvu un patēriņu; vada siltumenerģētisko objektu montāžu, pārbūvi, modernizācijas un pārbaudes darbus; izstrādā siltumenerģētisko un siltumtehnisko projektu tehniski ekonomiskos pamatojumus un dokumentāciju; izstrādā siltumenerģētisko iekārtu ekspluatācijas, apkopes un remontdarbu izmaksu tāmes; izvērtē nozares projektu īstenošanas ietekmi uz vidi un sabiedrību. 
+* Siltumenerģētikas un siltumtehnikas inženieris strādā kā atbildīgais inženieris vai struktūrvienības vadītājs uzņēmumos, kuru darbība saistīta ar siltumenerģijas ražošanu, sadali, pārvadi un izmantošanu. 
+
+### Kompetences
+
+* Spēja pārzināt centralizēto siltumapgādes sistēmu, siltumtehnisko un siltumenerģētisko iekārtu uzbūvi, to fizikālos un tehniskos darbības principus, ekspluatācijas nosacījumus un drošības prasības
+* Spēja veikt siltumtehnisko iekārtu un sistēmu izvēli, projektēšanu, uzstādīšanu, ekspluatāciju un regulēšanu
+* Spēja organizēt un veikt siltumtehnisko iekārtu pārbaudes un uzraudzības darbības, piedalīties iekārtu un sistēmu tehniskās apkopes organizēšanā
+* Spēja veicināt jaunu tehnoloģiju ieviešanu, patstāvīgi un sadarbībā ar projektētājiem un nozares zinātniekiem izstrādāt jaunas, optimizēt un pilnveidot esošās siltumtehniskās metodes, tehnoloģijas un sistēmas siltuma ģenerēšanai, sadalei, transportēšanai, izmantošanai un utilizācijai
+* Spēja izvēlēties optimālos tehniskos un ekonomiskos risinājumus
+* Spēja izvēlēties siltumtehniskajās iekārtās izmantojamos materiālus pēc to īpašībām, aprēķināt to daudzumu un patēriņu
+* Spēja patstāvīgi strādāt ar darbam nepieciešamo programmnodrošinājumu profesionālā vai labā lietotāja līmenī siltumtehnisko, hidrodinamisko un aerodinamisko aprēķinu veikšanai un rasējumu izstrādei
+* Spēja veikt tehnoloģisko iekārtu kalibrēšanu, verificēšanu un pārbaudi
+* Spēja veikt siltumtehniskos, hidrauliskos un aerodinamiskos mērījumus
+* Spēja izstrādāt attiecīgo siltumenerģētisko un siltumtehnisko projektu tehniski ekonomiskos pamatojumus un dokumentāciju
+* Spēja sastādīt siltumenerģētisko iekārtu ekspluatācijas, apkopes un remontdarbu izmaksu tāmes
+* Spēja pārzināt un pielietot bīstamo iekārtu (tvaika katlu, kurtuvju, ūdens sildkatlu un spiedtvertņu, siltumizmantojošo u.ciekārtu) uzbūves, ekspluatācijas un drošības noteikumus
+* Spēja saskaņot projektu dokumentāciju ar ieinteresētajām nevalstiskajām organizācijām un uzraugošajām institūcijām
+* Spēja veikt un organizēt tehniskā palīgpersonāla apmācību, darboties profesionāļu komandā
+* Spēja veikt pētījumus ar zinātnisku vērtību siltumenerģētikas un siltumtehnikas jomā
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja izprast un izstrādāt attiecīgo siltumenerģētisko un siltumtehnisko iekārtu iepirkumu konkursu dokumentāciju
+* Spēja ievērot vides aizsardzības prasības, izvērtēt nozares projektu īstenošanas ietekmi uz vidi un sabiedrību
+* Spēja pārzināt un ievērot normatīvos aktus, valsts standartus un būvnormatīvus, kā arī siltumenerģētikas un siltumtehnikas nozari reglamentējošās Eiropas Savienības un starptautiskās tiesību normas
+* Spēja apgūt jaunu pieredzi un inovatīvus risinājumus siltumenerģētikas un siltumtehnikas nozarē, pārredzēt siltumenerģētikas nozares attīstības perspektīvas
+* Spēja nodrošināt darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Spēja nodrošināt darba tiesisko attiecību normu ievērošanu.
+*  Spēja vadīt un organizēt uzņēmuma struktūrvienības darbu, strādāt komandā, kā arī veikt darbu individuāli
+
+### Prasmes 
+* Atrast, izvērtēt, atlasīt un lietot jaunāko tehnisko un zinātnisko literatūru un dokumentāciju
+* Izmantot teorētiskās zināšanas un praktiskā darba pieredzi savā un pakļautās darba grupas uzdevumu izpildē
+* Veikt siltumenerģētisko iekārtu izvēli un projektēšanu, iekārtu izgatavošanas un ekspluatācijas uzraudzību
+* Analizēt un vadīt centralizēto siltumapgādes sistēmu darbu
+* Veikt iekārtu un siltumapgādes sistēmu testēšanas un pētnieciskos eksperimentus ar zinātnisku vērtību, prast apstrādāt iegūtos datus un tos pielietot praksē
+* Veikt nepieciešamos mērījumus un darba režīmu izmēģinājumus siltumtehnisko iekārtu siltuma bilances sastādīšanai un lietderības koeficienta noteikšanai
+* Izstrādāt rekomendācijas un metodes enerģētisko iekārtu lietderības koeficienta paaugstināšanai un kurināmā ekonomijai
+* Prast efektīvi argumentēt lokālo, atjaunojamo energoresursu lietderību un tos izmantot siltumenerģētikā, vienlaikus nodrošinot minimālas siltumenerģijas izmaksas
+* Novērtēt kurināmā veida piemērotību izvirzītajam mērķim un izmaksu pamatotību
+* Ievērot noteikumus kurināmā un degvielas piegādē un uzglabāšanā, prognozēt kurināmā resursu piegādes termiņus un daudzumus
+* Montēt un apkalpot siltumenerģētiskās un siltumtehniskās iekārtas
+* Izvēlēties optimālos risinājumus izmantojamo materiālu, siltumnesēju, armatūras, automatizētās procesu vadības un signalizācijas sistēmu un siltumtehnisko mērījumu tehnisko līdzekļu iegādē un izmantošanā
+* Izskaidrot un aprēķināt siltumfizikālos procesus siltumenerģētiskajās un siltumtehniskajās iekārtās
+* Izvēlēties un analizēt siltumenerģētisko un siltumtehnisko iekārtu alternatīvos variantus un to tehniski ekonomiskos rādītājus
+* Atrast vajadzīgās iekārtas katalogos un veikt to pasūtījumus atbilstoši nepieciešamajām siltuma slodzēm un siltumnesēju parametriem
+* Strādāt komandā, argumentēt savu viedokli, risināt konfliktsituācijas
+* Izmantot datortehnoloģijas visās darba stadijās (sākot no informācijas iegūšanas, siltumtehniskajiem aprēķiniem un projektēšanas līdz siltumenerģijas, materiālu un izmaksu uzskaitei), kā arī sagatavot lietišķo dokumentāciju
+* Izvēlēties un analizēt aukstumiekārtu tipus un aukstuma aģentu īpašības, veikt saldēšanas iekārtu ciklu aprēķinus
+* Pielietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Sniegt pirmo medicīnisko palīdzību cietušajam, ievērot sanitāri higiēniskās prasības
+* Izmantot praktiskajā darbā normatīvos aktus, valsts standartus un tehniskos noteikumus, kā arī siltumenerģētikas un siltumtehnikas nozari reglamentējošās Eiropas Savienības un starptautiskās tiesību normas
+* Aprakstīt apkalpojamo enerģētisko iekārtu uzbūvi un darbības principus
+* Novērtēt kurināmā veidus, šķirnes, kvalitāti un to izmantošanas iespējas
+* Veikt siltumenerģijas un siltumnesēju patēriņa un citu parametru uzskaiti
+* Izmantot siltumenerģētisko procesu automātiskās vadības ierīces
+* Izvēlēties konstruktīvos un siltumizolācijas materiālus
+* Novērtēt izmešu (SEG, pelni un izdedži, notekūdeņi) kaitīgumu un prast to samazināt, aprēķināt un komerciāli izmantot kaitīgo izmešu kvotas atbilstoši Apvienoto Nāciju Organizācijas Vispārējās konvencijas par klimata pārmaiņām Kioto protokolam
+* Ievērot deggāzes lietošanas noteikumus, orientēties gāzes degļu un šķidrā kurināmā degļu piedāvājumā un prast tos izvēlēties
+* Aprēķināt, analizēt dažādu enerģijas veidu izmantošanas izmaksas
+* Ievērot profesionālos un vispārīgos ētikas principus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Ievērot darba aizsardzības un vides aizsardzības noteikumus
+* Ievērot darba tiesisko attiecību noteikumus

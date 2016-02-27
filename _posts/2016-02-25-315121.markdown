@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: kuģu mehāniķis (vadības līmenī) 
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 315121
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* kuģu mehāniķis (vadības līmenī) kontrolē kuģa iekārtu, mehānismu un sistēmu darba parametrus; uzrauga citu darbinieku darbu mašīntelpās; plāno un organizē kuģa mehānisko, elektrisko un elektronisko sistēmu ekspluatāciju; pārrauga kuģa mašīnu, mehānismu un cita aprīkojuma apkopi un remontu; nodrošina degvielas un citu materiālu pasūtīšanu un saņemšanu.
+* Kuģu mehāniķis (vadības līmenī) var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "Jūrnieku sagatavošana un sertificēšana, kā arī sardzes pildīšana" (STCW (Standards of Training Certification and Watchkeeping) Konvencija) prasībām.
+
+### Kompetences
+
+* Profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-III/1 – "Minimālā kompetences standarta specifikācija sardzes mehāniķiem mašīntelpā ar apkalpi vai periodiski bez apkalpes esošā mašīntelpā" un A-III/2 – "Minimālā kompetences standarta specifikācija vecākajiem mehāniķiem un otrajiem mehāniķiem uz kuģiem ar galveno dzinēju kopējo jaudu 3000 kW vai lielāku".
+
+### Prasmes 
+* Profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-III/1 – "Minimālā kompetences standarta specifikācija sardzes mehāniķiem mašīntelpā ar apkalpi vai periodiski bez apkalpes esošā mašīntelpā" un A-III/2 – "Minimālā kompetences standarta specifikācija vecākajiem mehāniķiem un otrajiem mehāniķiem uz kuģiem ar galveno dzinēju kopējo jaudu 3000 kW vai lielāku".

@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: mehatronisku sistēmu tehniķis
+
+    
+tags: trešais_profesionālās_kvalifikācijas_līmenis
+    
+categories: trešais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 311546
+
+### Grupa
+trešais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  mehatronisku sistēmu tehniķis veic automatizētos un datorizēti vadāmos tehnoloģiskos procesos izmantotu mehānisku, elektronisku un programmējamu vadības ierīču montāžu, tehnisko apkopi, diagnostiku un remontu.     Mehatronisku sistēmu tehniķis strādā ražošanas un servisa uzņēmumos, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja analizēt darba uzdevuma izpildei nepieciešamo informāciju un pieņemt lēmumu
+* Spēja izvēlēties darba veikšanai nepieciešamos darbarīkus, mērinstrumentus un diagnostikas iekārtas
+* Spēja veikt atslēdznieka darbus
+* Spēja veikt elektronisku, hidraulisku, mehānisku un pneimatisku mezglu diagnostiku, remontu un iestatīšanu
+* Spēja komplektēt mehatronisku sistēmu komponentes, rezerves daļas un palīgmateriālus
+* Spēja pārbaudīt iekārtu mezglu darbības atbilstību dotajiem parametriem
+* Spēja veikt mehatronisku sistēmu tehnisko apkopi, diagnostiku, montāžu un remontdarbus
+* Spēja noformēt tehnisko dokumentāciju saistībā ar apkopēm un remontdarbiem
+* Spēja pārbaudīt un novērtēt mehatronisku sistēmu tehniķa instrumentu, aprīkojuma, darba apģērba, individuālo aizsardzības līdzekļu un kolektīvo darba aizsardzības līdzekļu atbilstību darba aizsardzības prasībām
+* Spēja lietot mehatronisku sistēmu tehniķa instrumentus un aprīkojumu, darba apģērbu, individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus atbilstoši darba aizsardzības normatīvo aktu prasībām, ievērot elektrodrošības, ugunsdrošības noteikumu prasības darba vietā, lietot drošus darba paņēmienus, atpazīt drošības zīmes un ievērot tās
+* Spēja sniegt pirmo palīdzību
+* Spēja saprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Spēja sazināties valsts valodā un vienā svešvalodā
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja profesionāli pilnveidoties un sekot līdzi jaunākajām tehnoloģijām mehatronikas jomā
+* Spēja strādāt komandā, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja plānot un organizēt savu darbu un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Strādāt ar darba pienākumu izpildei nepieciešamo informāciju un pieņemt lēmumus
+* Strādāt ar darbam nepieciešamajām datubāzēm un katalogiem
+* Lasīt mehatronisku sistēmu shēmas un izprast komponenšu mijiedarbību
+* Lasīt darbam nepieciešamo tehnisko dokumentāciju, ieskaitot rasējumus
+* Izvēlēties mehatronisku sistēmu montāžas, apkopes vai remontdarbu veikšanai piemērotu tehnoloģiju
+* Komplektēt mehatronisku sistēmu komponentes, rezerves daļas un palīgmateriālus
+* Izvēlēties montāžai un remontam nepieciešamos darbarīkus
+* Izvēlēties darba veikšanai nepieciešamos mērinstrumentus un diagnostikas iekārtas
+* Veikt mehatronisku sistēmu mezglu montāžu, apkopi, remontu un nomaiņu
+* Veikt atslēdznieka darbus
+* Pārbaudīt iekārtas vai mezgla parametru atbilstību tehnoloģiskajai specifikācijai
+* Pārbaudīt mezgla vai iekārtas kopumā darbības atbilstību tehniskajai dokumentācijai
+* Veikt mehatronisku sistēmu diagnostiku
+* Veikt izpildīto darbu dokumentēšanu
+* Uzturēt darba vietu kārtībā darba laikā, sakārtot to pēc darba beigām
+* Izprast un ievērot vides aizsardzības normatīvo aktu prasības
+* Izvērtēt un ievērot dažādu mehatronisku sistēmu specifiskās darba aizsardzības prasības
+* Izvietot un ievērot darba drošības signālus un zīmes
+* Ievērot elektrodrošības un ugunsdrošības noteikumus
+* Lietot iekārtu un darbagaldu aizsardzības aprīkojumu
+* Pārbaudīt instrumentu un aprīkojuma atbilstību darba aizsardzības normatīvo aktu prasībām
+* Lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus
+* Pilnveidot profesionālo kvalifikāciju, sekot informācijai par jaunākajām tendencēm mehatronikas jomā
+* Darba uzdevuma ietvaros sadarboties ar citiem darbiniekiem, strādājot komandā, ievērojot profesionālās un vispārējās ētikas pamatprincipus un darba kārtības noteikumus
+* Veikt darba pienākumus, nekaitējot savai un citu personu veselībai
+* Atpazīt darba vides riskus un veikt visus pasākumus, lai tos mazinātu
+* Sniegt pirmo palīdzību
+* Lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu profesionālās saziņas līmenī
+* Ievērot darba tiesisko attiecību normas

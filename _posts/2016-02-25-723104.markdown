@@ -1,0 +1,76 @@
+---
+layout: post
+    
+title: autoatslēdznieks
+
+    
+tags: otrais_profesionālās_kvalifikācijas_līmenis
+    
+categories: otrais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 723104
+
+### Grupa
+otrais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+*  autoatslēdznieks kvalificēta augstāka līmeņa speciālista vadībā veic automobiļa tehniskā stāvokļa pārbaudi, tehnisko apkopi un remontu; konstatē un novērš automobiļu bojājumus un patstāvīgi veic detaļu, mezglu, agregātu demontāžu, montāžu.     Autoatslēdznieks strādā ar automobiļu tehnisko apkopi un remontu saistītos uzņēmumos, var būt pašnodarbināta persona vai individuālais komersants.
+
+### Kompetences
+
+* Spēja sagatavot darba vietu, izvēlēties automobiļu remontam atbilstošu tehnoloģiju un instrumentus
+* Spēja lasīt automobiļa ražotāja tehniskās apkopes karti un veikt tehnisko apkopi un remontu atbilstoši uzņēmuma kvalitātes nodrošināšanas sistēmām, lietojot atbilstošus ķīmiskās apkopes un remonta materiālus
+* Spēja konstatēt un novērst automobiļa bojājumus kvalificēta augstāka līmeņa speciālista vadībā
+* Spēja patstāvīgi veikt automobiļa agregātu, mezglu demontāžu un montāžu
+* Spēja uzturēt atslēdznieka instrumentus, palīgierīces un iekārtas darba kārtībā un veikt ekspluatācijas noteikumos paredzēto tehnisko apkopi
+* Spēja ievērot darba aizsardzības normatīvo aktu prasības
+* Spēja pārbaudīt un lietot autoatslēdznieka instrumentus, aprīkojumu, darba apģērbu, individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus
+* Spēja sniegt pirmo palīdzību
+* Spēja ievērot vides aizsardzības normatīvo aktu prasības
+* Spēja lietot profesionālo terminoloģiju valsts valodā un vienā svešvalodā
+* Spēja profesionāli pilnveidoties un sekot līdzi jaunākajām tehnoloģijām, instrumentiem un palīgierīcēm autoatslēdznieka darbā
+* Spēja sadarboties ar citiem darbiniekiem un strādāt komandā
+* Spēja ievērot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja sazināties valsts valodā un vienā svešvalodā
+
+### Prasmes 
+* Veikt automobiļa transmisijas un ritošās daļas ārējo apskati
+* Pārbaudīt automobiļa transmisijas un ritošās daļas mezglu, agregātu un mehānismu tehnisko stāvokli un darbību
+* Novērst konstatētos defektus automobiļa transmisijas un ritošās daļas mezglos, agregātos, mehānismos un sistēmās
+* Veikt automobiļa stūres iekārtas un balstiekārtas ārējo apskati
+* Pārbaudīt automobiļa stūres iekārtas un balstiekārtas mezglu, agregātu un mehānismu tehnisko stāvokli un darbību
+* Novērst konstatētos defektus automobiļa stūres iekārtas un balstiekārtas mezglos, agregātos, mehānismos un sistēmās
+* Veikt automobiļa bremžu sistēmas izpildiekārtu vizuālo apskati, tehniskā stāvokļa novērtējumu
+* Pārbaudīt automobiļa bremžu sistēmas mezglu, agregātu un mehānismu tehnisko stāvokli un darbību
+* Novērst konstatētos defektus automobiļa bremžu sistēmas mezglos, agregātos, mehānismos
+* Veikt elektroiekārtas sastāvdaļu nomaiņu
+* Izmantojot atslēdznieka darba paņēmienus, novērst automobiļa elektromehānisko mezglu defektus, kuri saistīti ar atslēdznieka darbiem
+* Novērst konstatētos defektus automobiļa virsbūves, kabīnes vai salona mezglos un mehānismos
+* Izvēlēties darbam nepieciešamos rīkus, instrumentus, iekārtas un palīgierīces
+* Sagatavot darba vietu atbilstoši veicamo darbu veidam un apjomam
+* Lasīt automobiļa ražotāja izstrādāto tehniskās apkopes karti un izmantot to tehniskās apkopes veikšanā
+* Lasīt automobiļa tehniskā stāvokļa diagnostikas rezultātu karti un veikt kartē paredzētos darbus
+* Sagatavot nodošanai mezglus un agregātus, kas paredzēti izjaukšanai palīgcehos vai specializētās darbnīcās
+* Veikt tehnisko apkopi, lietojot atbilstošus ķīmiskās apkopes un remonta materiālus
+* Izmantot elektroniskos informācijas avotus un tehnisko literatūru savā profesionālajā darbībā
+* Uzturēt darba vietu kārtībā darba laikā un sakārtot to darba beigās
+* Ievērot vides aizsardzības normatīvo aktu prasības
+* Ievērot darba aizsardzības normatīvo aktu prasības
+* Pārbaudīt instrumentu atbilstību darba aizsardzības normatīvo aktu prasībām
+* Lietot individuālos aizsardzības līdzekļus un kolektīvos darba aizsardzības līdzekļus
+* Sniegt pirmo palīdzību
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz vienā svešvalodā
+* Apgūt profesionālās kvalifikācijas pilnveidei nepieciešamās zināšanas, sekot līdzi informācijai par jaunākajām tehnoloģijām automobiļu remonta jomā
+* Darba uzdevuma ietvaros sadarboties ar citiem darbiniekiem un strādāt komandā
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus un darba kārtības noteikumus
+* Pārvaldīt valsts valodu
+* Pārvaldīt vienu svešvalodu saziņas līmenī
+* Veikt darbu patstāvīgi un uzņemties atbildību par sava darba rezultātu
+* Ievērot darba tiesisko attiecību normas

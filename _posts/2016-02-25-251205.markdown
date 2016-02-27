@@ -1,0 +1,101 @@
+---
+layout: post
+    
+title: programmētājs
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 251205
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* 4 Programmētāja profesijas standarts 
+* 	4 Vispārīgie jautājumi 
+* 	 Profesijas nosaukums – programmētājs. 
+* 	 Profesijas kods – 2512 0 
+* 	4 Nodarbinātības apraksts 
+* 	 Profesionālās kvalifikācijas līmenis – ceturtais profesionālās kvalifikācijas līmenis. 
+* 	 Profesionālās pamatdarbības kopsavilkums: 
+* programmētājs izstrādā programmatūru atbilstoši funkcionalitātes, kvalitātes un resursietilpības nosacījumiem, konfigurējot izstrādes vidi un rakstot programmas kodu saskaņā ar projektējuma un kodēšanas vadlīnijām; veic vides sagatavošanu programmatūras ieviešanai; ievieš un uztur programmatūru un piedalās programmatūras projekta plānošanā. 
+* 	Programmētājs strādā uzņēmumos, kuros veic programmatūras izstrādi, ieviešanu vai uzturēšanu, var būt pašnodarbināta persona vai individuālais komersants. 
+* 	4 
+
+### Kompetences
+
+* Spēja lasīt un saprast programmatūras projektējuma aprakstus
+* Spēja analizēt ieejas un izejas datus
+* Spēja konfigurēt izstrādes vidi
+* Spēja ģenerēt, rakstīt programmas kodu saskaņā ar projektējumu un kodēšanas vadlīnijām
+* Spēja kodēt, lasot un analizējot svešus programmu tekstus
+* Spēja kodēt, veidojot lietotāja saskarni
+* Spēja atkļūdot programmas un veikt vienībtestēšanu
+* Spēja analizēt programmas izpildes laiku un to optimizēt
+* Spēja dokumentēt koda izmaiņas
+* Spēja veidot programmatūras instalāciju
+* Spēja kodēt, veidojot iebūvēto palīdzības sistēmu
+* Spēja kodēt, apstrādājot un realizējot izmaiņu pieprasījumus un problēmu ziņojumus
+* Spēja lasīt un saprast programmatūras prasību specifikāciju.
+*  Spēja lasīt un saprast datu konceptuālo modeli un veidot datubāzes fizisko modeli
+* Spēja projektēt, veidojot realizācijas modeli (klašu un funkciju hierarhiju)
+* Spēja projektēt, konstruējot un aprakstot algoritmus
+* Spēja lasīt un saprast uzturamās sistēmas dokumentāciju un kodu
+* Spēja uzturēt programmatūru, apstrādājot un realizējot problēmu ziņojumus un izmaiņu pieprasījumus
+* Spēja uzturēt programmatūru, veicot izmaiņu ietekmes analīzi, izmaiņas programmatūrā un uzturamās programmatūras konfigurācijas pārvaldību
+* Spēja uzturēt programmatūru, sistematizējot uzturēšanas gaitā uzkrāto atbalsta informāciju
+* Spēja ieviest programmatūru, veicot vides sagatavošanu programmatūras uzstādīšanai
+* Spēja ieviest programmatūru, izpildot programmatūras uzstādīšanu un parametrizēšanu un veicot datu pārnešanu
+* Spēja analizēt programmas kodu programmatūras testēšanai
+* Spēja sagatavot programmatūras testpiemēra datus
+* Spēja sagatavot testēšanas vidi programmatūras testēšanai
+* Spēja izpildīt programmatūras testpiemērus
+* Spēja pierakstīt programmatūras testēšanas gaitu un rakstīt problēmu ziņojumus
+* Spēja programmatūras testēšanā analizēt kļūdu avotus (prasību specifikācijā, projektējuma aprakstā u.c.)
+* Spēja atkārtot programmatūras testēšanā lietotāja konstatētās kļūdas
+* Spēja prognozēt darba uzdevuma darbietilpību un izpildes laiku
+* Spēja veikt individuālā darba plānošanu un kontroli
+* Spēja piedalīties programmatūras projekta izpildes gaitas apspriešanā
+* Spēja sazināties valsts valodā un vismaz vienā svešvalodā
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* 
+
+### Prasmes 
+* Lietot informācijas tehnoloģijas nozares standartus
+* Lietot operētājsistēmas
+* Lietot teksta un grafikas redaktorus u.cbiroja lietojumprogrammas
+* Veidot un atkļūdot programmas
+* Projektēt algoritmus un datu struktūras
+* Izvēlēties problēmas risināšanai adekvātus līdzekļus
+* Veikt datu aizsardzības un drošības pasākumus
+* Konfigurēt darba vietu un darba rīkus
+* Lietot programmatūras izstrādes rīkus
+* Analizēt programmas kodu
+* Veidot lietotāja saskarnes
+* Lietot datu pieprasījumu valodas
+* Mērīt un uzlabot programmatūras veiktspēju
+* Mērīt un uzlabot programmatūras izstrādes procesu
+* Lietot un pilnveidot programmēšanas labo stilu
+* Strukturēt programmas kodu atbilstoši labajam stilam
+* Lietot programmatūras testēšanas metodes un rīkus
+* Strādāt komandā (grupā)
+* Veikt darbu patstāvīgi un uzņemties atbildību un kontroli par sava darba rezultātu
+* Plānot izpildāmos darbus un noteikt to prioritātes
+* Lietot informācijas meklēšanas un atlases līdzekļus
+* Sagatavot prezentācijas materiālus un organizēt pasākumus
+* Pārliecināt citus un argumentēt savu viedokli
+* Noformēt lietišķos dokumentus
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+*  Lietot profesionālo terminoloģiju valsts valodā un angļu valodā
+* Ievērot darba tiesisko attiecību normas
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* 

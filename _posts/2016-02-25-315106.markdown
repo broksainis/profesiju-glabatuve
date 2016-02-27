@@ -1,0 +1,28 @@
+---
+layout: post
+    
+title: otrais mehāniķis uz kuģiem ar galveno dzinēju jaudu, mazāku par 3000 kW
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 315106
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+### Apraksts
+
+* kuģu mehāniķis (ekspluatācijas līmenī) pilda sardzi mašīntelpās, kontrolē un pieraksta iekārtu, mehānismu un sistēmu darba parametrus; uzrauga citu darbinieku darbu mašīntelpās; plāno, organizē un veic kuģa mehānisko, elektrisko un elektronisko sistēmu ekspluatāciju; veic kuģa mašīnu, mehānismu un cita aprīkojuma apskati, apkopi un remontu; nodrošina degvielas un citu materiālu pasūtīšanu un saņemšanu.
+* Kuģu mehāniķis (ekspluatācijas līmenī) var strādāt uz Latvijas vai citu valstu karogu kuģiem starptautiskajā kuģošanā ar nosacījumu, ka viņa profesionālās kompetences Ministru kabineta noteiktajā kārtībā ir atzītas par atbilstošām starptautiskās konvencijas "Jūrnieku sagatavošana un sertificēšana, kā arī sardzes pildīšana" (STCW (Standards of Training Certification and Watchkeeping) Konvencija) prasībām.
+
+### Kompetences
+
+* Kuģu mehāniķim (ekspluatācijas līmenī) nepieciešamās profesionālās kompetences nosaka STCW Konvencijas kompetenču standarts A-III/1 – "Minimālā kompetences standarta specifikācija sardzes mehāniķiem mašīntelpā ar apkalpi vai periodiski bez apkalpes esošā mašīntelpā".
+
+### Prasmes 
+* Kuģu mehāniķim (ekspluatācijas līmenī) nepieciešamās profesionālās prasmes nosaka STCW Konvencijas kompetenču standarts A-III/1 – "Minimālā kompetences standarta specifikācija sardzes mehāniķiem mašīntelpā ar apkalpi vai periodiski bez apkalpes esošā mašīntelpā".

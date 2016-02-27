@@ -1,0 +1,92 @@
+---
+layout: post
+    
+title: dzelzceļa elektrosistēmu inženieris
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 215120
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* dzelzceļa elektrosistēmu inženieris ir kvalificēts speciālists, kurš veic efektīvu dzelzceļa transporta elektrosistēmu izstrādāšanu un uzturēšanu, kas saistītas ar dzelzceļa automātikas un telemehānikas iekārtu, elektriskā transporta tehnisko līdzekļu projektēšanu, ekspluatāciju un remontu; veic dzelzceļa elektrosistēmu tehnisko, tehnoloģisko un organizatorisko procesu izstrādi un vadību; plāno, organizē un vada personāla darbu. 
+* Dzelzceļa elektrosistēmu inženieris strādā dzelzceļa transporta uzņēmumos, pētniecības un izglītības iestādēs, kā arī citās institūcijās.  
+
+### Kompetences
+
+* Spēja izstrādāt, pilnveidot un vadīt efektīvas un inovatīvas dzelzceļa elektriskās sistēmas
+* Spēja izstrādāt un attīstīt progresīvās dzelzceļa elektrisko sistēmu iekārtas un tehnoloģijas, kas organiski iekļaujas Eiropas Savienības dzelzceļu savietojamības procesā
+* Spēja vadīt progresīvo tehnoloģiju un inovatīvo procesu ieviešanu dzelzceļa elektrosistēmu jomā
+* Spēja novērtēt dzelzceļa elektrosistēmu tehnoloģisko procesu efektivitāti, ražīgumu un drošību
+* Spēja veicināt informācijas tehnoloģiju efektīvu lietošanu dzelzceļa elektrosistēmu tehnoloģisko procesu un tehnoloģiju vadībā
+* Spēja projektēt dzelzceļa automātikas un telemehānikas iekārtu un elektriskā transporta tehniskos līdzekļus, izstrādāt ekspluatācijas un remonta tehnoloģijas, ieviest un pilnveidot tās
+* Spēja izstrādāt dzelzceļa elektrisko sistēmu iekārtu un tehnisko līdzekļu modernizācijas projektus, konstruktoru un tehnoloģisko dokumentāciju
+* Spēja prast aprēķināt un projektēt dzelzceļa transporta speciālās ķēdes: signālkabeļlīnijas, barošanas tīkla un sliežu ķēdes
+* Spēja organizēt un vadīt dzelzceļa automātikas lauku un posteņu, elektrotransporta borta iekārtu uzstādīšanas un montāžas darbu izpildi
+* Spēja organizēt un vadīt automātikas un telemehānikas iekārtu regulēšanas un palaišanas darbus bez vilcienu kustības pārtraukšanas
+* Spēja pārzināt un prast lietot vilcienu kustības vadības sistēmas, tehnoloģiskos vadu un bezvadu sakarus
+* Spēja organizēt vilcienu kustības vadības sistēmu testēšanas programmu izstrādāšanu
+* Spēja organizēt signālsistēmu, ceļu devēju un barošanas tīkla diagnostiku ar speciālā mērījumu vagona palīdzību
+* Spēja veikt elektrisko sistēmu atteikumu analīzi un izstrādāt tehniskos un organizatoriskos pasākumus vilcienu kustības drošības paaugstināšanai
+* Spēja plānot, organizēt un veikt automātikas un telemehānikas iekārtu un elektriskā transporta tehnisko līdzekļu, barošanas tīkla tehniskās apkopes un remontus
+* Spēja pārraudzīt un optimizēt pārbrauktuvju darbību dzelzceļa un automobiļu transporta intensīvas kustības apstākļos
+* Spēja vadīt un izglītot personālu, veicināt profesionālo apmācību un izstrādāt programmas dzelzceļa elektrosistēmu jomā.
+* Spēja vadīt personālu, plānot un organizēt tā darbu
+* Spēja organizēt dzelzceļa elektrosistēmu speciālistu un apkalpojošā personāla apmācību un atestāciju
+* Spēja izstrādāt kvalifikācijas celšanas kursu programmas un piedalīties to īstenošanā sadarbībā ar dzelzceļa transporta profesionālām organizācijām
+* Spēja rosināt jaunāko tehnoloģiju ieviešanu dzelzceļa transportā
+* Spēja piedalīties studiju programmu pilnveidošanā augstskolās
+* Spēja rosināt, īstenot un vadīt pētniecības darbu, attīstības un pilnveides pasākumus
+* Spēja veikt dzelzceļa elektrosistēmu fundamentālos un lietišķos pētījumos
+* Spēja analizēt, modelēt, vērtēt un optimizēt dzelzceļa automātikas un elektriskā transporta tehnoloģiskos un tehnisko līdzekļu funkcionēšanas procesus
+* Spēja piedalīties starptautisko un Eiropas Savienības standartu un normatīvo dokumentu ieviešanā un izstrādāšanā dzelzceļa elektrosistēmu jomā
+* Spēja vērtēt dzelzceļa elektrosistēmu funkcionēšanas un ekoloģisko drošību
+* Spēja prognozēt dzelzceļa elektrosistēmu attīstību
+* Spēja darbu veikt individuāli un mērķgrupās
+* Spēja vadīt darbiniekus
+* Spēja veidot saziņu un sadarbību vertikālā un horizontālā plāksnē institūcijā, pārzināt starptautiskos (globālos) dzelzceļa transporta funkcionēšanas un integrācijas principus
+* Spēja sazināties valsts valodā un divās svešvalodās
+
+### Prasmes 
+* Izprast Eiropas Savienības tiesību normas dzelzceļa transporta nozarē
+* Lietot teorētiskās zināšanas un praktiskās iemaņas konkrētu uzdevumu formulēšanai un risināšanai dzelzceļa elektrosistēmu jomā
+* Pārzināt projektu tehniskās dokumentācijas izstrādes procesu.
+* Veikt aprēķinu un projektēšanas darbus ar datorprogrammu pielietošanu
+* Prast profesionāli sistematizēt informāciju, radoši lietot normatīvos dokumentus dzelzceļa elektrosistēmu jomā, sagatavot apkopojošus pārskatus un publikācijas
+* Rosināt profesionālās kvalifikācijas celšanas mācības, pilnveidot to programmu saturu
+* Prast pārraudzīt apmācību procesu, pilnveidot tā organizāciju un metodoloģiju
+* Prast veikt tehniskos aprēķinus un pārzināt jauno izstrāžu ekonomiskā efekta noteikšanas metodes dzelzceļa elektrosistēmu jomā
+* Pārzināt mūsdienu ciparu mērījumu tehniku un prast to pielietot
+* Prast prognozēt dzelzceļa elektrisko sistēmu darbības resursu
+* Pārzināt dzelzceļa tīklu ar ceļu platumu  un  mm savietojamības prasības
+* Prast patstāvīgi izstrādāt dzelzceļa elektrosistēmu funkcionēšanas modeļus, analizēt to darbības procesus
+* Prast plānot, organizēt un vadīt automātikas un telemehānikas iekārtu un elektriskā transporta tehnisko līdzekļu, barošanas tīkla projektēšanas, ekspluatācijas un tehniskās apkopes darbus
+* Prast organizēt un vadīt pasažieru pārvadājumus, izmantojot dzelzceļa elektriskā transporta tehniskos līdzekļus un aprīkojumu
+* Prast lietot dzelzceļa automātikas un elektriskā transporta iekārtu un sistēmu optimizācijas metodes un veikt optimizācijas aprēķinus
+* Prast atklāt dzelzceļa elektrosistēmu bojājumu cēloņus, prast tos novērst un noteikt sistēmu drošuma kritērijus pēc atteiču statistiskās apstrādes rezultātiem
+* Pārzināt un prast lietot Eiropas un Latvijas standartizācijas institūciju standartus un normatīvos aktus elektroietaišu ekspluatācijas un drošības tehnikas jomā
+* Pārzināt dzelzceļa tehniskās ekspluatācijas, vilcienu kustības un manevru darbu, un signalizācijas sistēmu noteikumu prasības un nodrošināt to izpildi
+* Pārzināt dzelzceļa transporta normatīvos dokumentus, it īpaši vilcienu kustības drošības nodrošināšanas jomā
+* Prast organizēt grupas darbu, strādāt grupā
+* Prast efektīvi plānot un vadīt projektus
+* Prast apkopot informāciju, izklāstīt un argumentēt to, patstāvīgi pieņemt lēmumus
+* Prast lietot lietišķās datorprogrammas un sagatavot lietišķos profesionālos dokumentus
+* Izprast zinātnes sasniegumus un pētniecības rezultātus, prast tos lietot
+* Prast piemērot darba aizsardzības, ugunsdrošības un vides aizsardzības noteikumus
+* Izprast ISO, Eiropas Savienības un citu valstu standartus dzelzceļa transporta jomā
+* Pārzināt tehniskās dokumentācijas, materiālu, izstrādājumu un pakalpojumu pamatprasības
+* Pārzināt ekoloģijas un apkārtējās vides aizsardzības pamatprasības
+* Veikt zinātnisko un pētniecisko darbu
+* Pārvaldīt valsts valodu
+* Pārvaldīt divas svešvalodas saziņas līmenī
+* Prast piemērot standartus, pārzināt un lietot nozares terminoloģiju valsts valodā un divās svešvalodās

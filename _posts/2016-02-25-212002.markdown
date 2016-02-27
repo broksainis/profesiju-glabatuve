@@ -1,0 +1,88 @@
+---
+layout: post
+    
+title: statistikas matemātiķis
+
+    
+tags: piektais_profesionālās_kvalifikācijas_līmenis
+    
+categories: piektais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 212002
+
+### Grupa
+piektais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* statistikas matemātiķis izstrādā zinātniski pamatotu datu vākšanas metodiku; apkopo savāktos datus, analizē tos un skaidro pētījumu un eksperimentu skaitliskos rezultātus; veic zinātniskās pētniecības darbus; izstrādā matemātiskos modeļus; attīsta matemātikas un statistikas teoriju, koncepcijas, pētniecības metodes un lieto tās praksē; sniedz konsultācijas par statistikas metožu lietošanu dažādās zinātņu jomās, tai skaitā: dabaszinātņu, sociālo zinātņu, inženierzinātņu, medicīnas un farmācijas, humanitāro, izglītības zinātņu un pedagoģijas un citās darbības jomās. 
+* Statistikas matemātiķis var strādāt starptautiskajās, valsts, pašvaldību, nevalstiskajās institūcijās un citos uzņēmumos (turpmāk – uzņēmums), kas nodarbojas ar statistisko datu vākšanu un tās plānošanu, savākto datu apstrādi, analīzi un iegūto rezultātu interpretāciju. 
+
+### Kompetences
+
+* Spēja kvalitatīvi pildīt darba uzdevumus, ievērojot normatīvo aktu prasības
+* Spēja izprast uzņēmuma struktūru un darbību, orientēties galvenajos statistikas modeļos un metodēs, kuras tiek pielietotas uzņēmumā
+* Spēja iegūt, pārbaudīt, izvērtēt darba uzdevumu izpildei nepieciešamo informāciju un datus, zinātniski pamatoti plānot statistiskos eksperimentus
+* Spēja analizēt un novērtēt ekonomisko vidi un komercdarbības vidi ar matemātiskās statistikas metodēm, kā arī veidot zinātniski pamatotas prognozes par to attīstības tendencēm pasaulē, Latvijā un tās reģionos
+* Spēja analizēt un prognozēt finanšu tirgus tendences, veikt vērtspapīru portfeļu analīzi
+* Spēja novērtēt dažādu stohastisku procesu varbūtisko scenāriju, savstarpējo ietekmi, korelāciju un atkarību
+* Spēja apkopot datus, izmantojot informācijas tehnoloģijas darbības plānošanai, kontrolei un koriģēšanai
+* Spēja veikt pētījumus ar zinātnisku vērtību matemātiskās statistikas nozarē un prezentēt iegūtos rezultātus
+* Spēja veikt analīzi, izmantojot daudzdimensiju analīzes metodes
+* Spēja plānot, organizēt izlases veida apsekojumus un analizēt to rezultātus
+* Spēja veikt laikrindu modelēšanas un prognozēšanas metodoloģijas izstrādes, pielietošanas un pilnveidošanas darbus
+* Spēja veikt datu apstrādi, izmantojot specializētas matemātikas un statistikas datorprogrammu paketes
+* Spēja patstāvīgi uzturēt un papildināt uzņēmuma datubāzes, kas satur vispārīgu statistikas informāciju
+* Spēja sadarboties, piedāvāt un izstrādāt esošajām statistikas metodēm modifikācijas un pilnveidojumus
+* Spēja sazināties ar klientiem mutvārdos, lietišķajā sarakstē, elektroniski, pa telefonu, ievērojot profesionālās un vispārējās ētikas pamatprincipus
+* Spēja iegūtos statistikas rezultātus saprotami izskaidrot, uzskatāmi attēlot, padarot tos saprotamus un pieejamus personām, kuras vērsušās pēc konsultācijas
+* Spēja pilnvērtīgi izmantot lietojumprogrammas, tehniku un elektroniskos sakaru līdzekļus kvalitatīvai un patstāvīgai profesionālai darbībai
+* Spēja izstrādāt un attīstīt zinātniski jaunas metodes vai to lietojumu matemātiskajā statistikā praktiskiem mērķiem
+* Spēja plānot un organizēt savu darbu un darba vietu, strādājot patstāvīgi un komandā, lai precīzi un radoši pildītu darba uzdevumus
+* Spēja izstrādāt, vadīt un īstenot projektus, kas saistīti ar matemātiskās statistikas nozari
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+*  Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+* Spēja ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Spēja ievērot darba tiesisko attiecību normas
+
+### Prasmes 
+* Pārzināt un ievērot Latvijas Republikas normatīvos aktus statistikas, fizisko personu datu aizsardzības un komercdarbības jomā
+* Izprast uzņēmuma struktūru un darbību, orientēties galvenajos statistikas modeļos un metodēs, kas tiek pielietotas uzņēmumā
+* Formulēt matemātiski statistikas problēmas un uzdevuma nostādni
+* Izstrādāt matemātiskos un statistikas modeļus uzņēmuma vajadzībām
+* Iegūt kvalitatīvus statistikas datus no dažādiem informācijas avotiem
+* Strādāt ar dažādiem informācijas izklāsta veidiem (mājaslapām internetā, izdrukām, prezentācijām, bukletiem, gadagrāmatām u.c.)
+* Izstrādāt anketas vai cita veida aptaujas līdzekļus, ar kuru palīdzību var iegūt informāciju
+* Plānot un veikt izlases apsekojumus
+* Veikt datu apstrādi, izmantojot specializētas matemātikas un statistikas datorprogrammu paketes
+* Veikt analīzi, izmantojot daudzdimensiju analīzes metodes
+* Analizēt un prognozēt Latvijas un starptautisko finanšu tirgu tendences, veikt vērtspapīru portfeļu analīzi
+* Sastādīt un analizēt ielaides-izlaides tabulas
+* Sastādīt un analizēt maksājumu bilanci
+* Interpretēt statistikas rezultātus saprotami un attēlot uzskatāmi
+* Izmantot secinājumu veidošanas loģiskās metodes
+* Veikt zinātnisko un pētniecisko darbu un konsultēt pētījumu rezultātu ieviešanu praksē
+* Sagatavot prezentācijas un uzstāties ar ziņojumiem par profesionāliem jautājumiem konferencēs, semināros, sanāksmēs
+* Pārzināt lietišķo dokumentu noformēšanu
+* Pārvaldīt valsts valodu
+* Pārvaldīt vismaz divas svešvalodas saziņas līmenī
+* Lietot profesionālo terminoloģiju valsts valodā un vismaz divās svešvalodās
+* Lietot un apstrādāt datubāzes, kas satur statistikas informāciju
+* Lietot modernās informācijas iegūšanas, apstrādes un sistematizēšanas tehnoloģijas
+* Apgūt jaunākās informācijas tehnoloģijas un pielietot tās praksē
+* Ievērot informācijas aizsardzību un konfidencialitāti
+* Izstrādāt, vadīt un īstenot projektus, kas saistīti ar matemātiskās statistikas nozari
+* Ievērot darba tiesisko attiecību normas
+* Ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Lietot datortehniku un biroja aprīkojumu
+* Ievērot biroja tehnikas lietošanas noteikumus
+* Plānot un organizēt savu darbu
+* Veikt darbu patstāvīgi un komandā
+* Izmantot saskarsmes prasmes
+* Patstāvīgi apgūt jaunas zināšanas, pilnveidojot savas profesionālās kompetences
+* Ievērot profesionālās un vispārējās ētikas pamatprincipus.
+* Saglabāt statistiķa profesionālo neitralitāti un objektivitāti, izskaidrojot statistisko datu nozīmi un rezultātus objektīvi, profesionāli un pārskatāmi, ievērojot zinātnisko neatkarību un vienlīdzīgi izturoties pret visiem lietotājiem

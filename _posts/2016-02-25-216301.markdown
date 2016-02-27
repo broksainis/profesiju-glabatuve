@@ -1,0 +1,82 @@
+---
+layout: post
+    
+title: izstrādājumu projektētājs
+
+    
+tags: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+categories: ceturtais_profesionālās_kvalifikācijas_līmenis
+    
+date: 2016-02-25
+    
+---
+# 216301
+
+### Grupa
+ceturtais profesionālās kvalifikācijas līmenis
+
+
+### Apraksts
+
+* izstrādājumu projektētājs ir speciālists, kurš apguvis izstrādājumu projektēšanas pamatprincipus, specializējoties vieglās rūpniecības vai kokapstrādes nozarē (apģērbs, mājas tekstils, koka un ādas izstrādājumi, mēbeles) (turpmāk – izstrādājums); pēc savām vai klienta idejām veido skices, modelē, izvēlas materiālus atbilstoši izstrādājuma pielietojumam; aprēķina materiālu un darba patēriņu; veic objektu mērīšanu; izstrādā konstruktīvos mezglus, materiālu un detaļu specifikācijas; izgatavo rasējumus; projektē tehnoloģiju; veic nepieciešamos aprēķinus; nosaka izstrādājuma kopējās izmaksas; grafiski sakopo informāciju; noformē vienreizējam pasūtījumam vai mazsēriju ražotnei nepieciešamo tehnisko dokumentāciju. 
+* Izstrādājumu projektētājs strādā projektēšanas vai ražošanas uzņēmumā par dizainera palīgu, izstrādājumu projektētāju; var pildīt meistara pienākumus vidējās profesionālās izglītības iestādēs vai strādā kā pašnodarbinātā persona vai individuālais komersants. 
+
+### Kompetences
+
+* Spēja veikt izpēti izstrādājuma ideju attīstīšanai, izvērtējot klienta vajadzības, analizējot tehnoloģiju, materiālu un modes tendenču aktualitātes
+* Spēja formulēt izstrādājuma koncepciju un plānot mākslinieciskās projektēšanas un konstruēšanas darbus
+* Spēja apzināt un analizēt tradicionālo un jauno materiālu piedāvājumu
+* Spēja novērtēt materiālu izvēli, to estētisko, ķīmisko, fizikālo, mehānisko īpašību atbilstību izstrādājuma idejai un lietojumam
+* Spēja vizualizēt savas vai klientu idejas, izmantojot tradicionālos paņēmienus un datortehnoloģijas
+* Spēja izvēlēties un saskaņot materiālus ar pasūtītāju un plānot ekonomisku materiāla patēriņu
+* Spēja izgatavot izstrādājumu tehniskos zīmējumus
+* Spēja izvēlēties un pielietot mērīšanas metodikas, instrumentus, veikt izstrādājuma vai tā atsevišķu mezglu mērīšanu, izgatavot tā rasējumus un to specifikācijas, veikt fotofiksācijas
+* Spēja pārzināt projektēšanas un izgatavošanas tehnoloģijas, to ierobežojumus un informēt pasūtītāju par tiem
+* Spēja izveidot konstrukcijas, izstrādāt konstruktīvos mezglus, dekoratīvās detaļas un sagatavot montāžai nepieciešamās norādes
+* Spēja izvēlēties savienojumu veidu un mezglu apstrādes tehnoloģijas, iekārtas un apstrādes režīmus
+* Spēja parādīt projektējamo izstrādājumu dažādās projektēšanas stadijās atbilstošās tehnoloģiskās vidēs
+* Spēja noteikt izstrādājuma tiešās un pilnās izmaksas
+* Spēja izgatavot izstrādājuma pirmo paraugu, maketu vai uzraudzīt tā izgatavošanu
+* Spēja novērtēt izstrādājuma pirmā parauga estētiskās, funkcionālās, ergonomiskās un tehnoloģiskās īpašības
+* Spēja sagatavot tehnoloģiskās dokumentācijas paketi izstrādājumu vienreizējam pasūtījumam vai mazsēriju ražotnei
+* Spēja veikt nepieciešamos labojumus izstrādājuma dokumentācijā, uzklausīt pasūtītāja vērtējumu un saskaņot tos ar pasūtītāju
+* Spēja pārzināt un ievērot vieglās rūpniecības vai kokapstrādes nozares darbību reglamentējošos normatīvos aktus
+* Spēja plānot darbu sadalījumu un kontrolēt secīgu darba paņēmienu un materiālu pielietojumu
+* Spēja noteikt pasūtījuma un pakalpojuma izmaksas
+* Spēja izveidot izstrādājuma marķējumu, montāžas aprakstus, izvēlēties atbilstošos kopšanas simbolus
+* Spēja nodrošināt izstrādājumu pasūtījumu izgatavošanas termiņu ievērošanu
+* Spēja ievērot darba aizsardzības, ugunsdrošības un vides aizsardzības normatīvo aktu prasības
+* Spēja ievērot darba tiesisko attiecību normas
+* Spēja paaugstināt savu kvalifikāciju
+* Spēja sazināties valsts valodā un vismaz divās svešvalodās.
+* Spēja uzņemties atbildību par savas profesionālās darbības rezultātiem
+
+### Prasmes 
+* Lietot tekstu, vektoru un rastru grafikas programmpaketes, elektroniskās tabulas, citas biroja programmas
+* Vizualizēt idejas skicēs, datorgrafikas vidē
+* Izstrādāt un lasīt rasējumus, veikt saskaņojumus ar pasūtītāju dažādās projektēšanas stadijās
+* Lietot progresīvas projektēšanas tehnoloģijas, izstrādāt jaunu izstrādājumu koncepcijas, veidot izstrādājumu eksperimentālus modeļus
+* Analizēt modes attīstības tendences
+* Ievērot kompozīcijas pamatprincipus projektējamo izstrādājumu vizuālās un estētiskās kvalitātes nodrošināšanā
+* Aprēķināt un izveidot/izstrādāt konstrukcijas skicēm
+* Pārzināt materiālu pieejamību un cenas, izveidot optimālu materiālu lietošanas plānu
+* Izvēlēties atbilstošus materiālus, saskaņot materiālu, palīgmateriālu un apdares materiālu estētiskās, fizikālās, ķīmiskās un mehāniskās īpašības
+* Sastādīt izstrādājumu tehnoloģisko dokumentāciju, kā arī noteikt tehnoloģiskos ierobežojumus
+* Izgatavot izstrādājumu pirmparaugus vai uzraudzīt to izgatavošanu, veikt nepieciešamos labojumus un precizējumus, saskaņojot tos ar pasūtītāju
+* Nodrošināt projektējamā izstrādājuma atbilstību dokumentācijai un ergonomikas prasībām
+* Aprēķināt materiāla un darba patēriņu, noteikt izstrādājuma kopējās izmaksas
+* Sagatavot un vadīt prezentācijas, izmantot progresīvas informācijas tehnoloģijas
+* Veikt darbu patstāvīgi vai grupā, plānot darbu sadalījumu, noteikt to prioritātes un termiņus
+* Kontrolēt darba kvalitāti visos izstrādājuma tapšanas posmos, veikt iezīmes un marķējumus
+* Novērtēt izstrādājumu kvalitāti un atbilstību valsts standartu, pasūtījumu un citām prasībām
+* Formulēt viedokli precīzi, prast to pamatot un risināt darba gaitā radušās konfliktsituācijas
+* Ievērot profesionālās ētikas pamatprincipus un saskarsmes kultūru
+* Pārzināt un ievērot vieglās rūpniecības vai kokapstrādes nozares darbību reglamentējošos normatīvos aktus
+* Ievērot darba aizsardzības, elektrodrošības, ugunsdrošības un higiēnas normatīvo aktu prasības
+* Ievērot ekoloģijas un vides aizsardzības normatīvo aktu prasības, veidot videi draudzīgus produktus un pakalpojumus
+* Pārvaldīt valsts valodu
+* Pārzināt divas svešvalodas vismaz saziņas līmenī
+* Pārzināt un lietot vieglās rūpniecības vai kokapstrādes nozares terminoloģiju valsts valodā un divās svešvalodās
+* Pastāvīgi pilnveidot profesionālās zināšanas
+* Ievērot darba tiesisko attiecību normas
