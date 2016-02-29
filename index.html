@@ -55,7 +55,7 @@ layout: default
         Visi<span class="my-badge"> {{site.categories | size}}</span>
       </a>
       {% for category in site.categories %}
-        <a href="javascript:;" class="categories-list-item" cate="{{ category | first }}">
+        <a href="javascript:;" class="categories-list-item" cate="/profesiju-glabatuve/{{ category | first }}">
           {{ category | first | replace: '_', ' '}} <span class="my-badge">{{ category | last | size | replace: '_', ' '}}</span>
         </a>
       {% endfor %}
